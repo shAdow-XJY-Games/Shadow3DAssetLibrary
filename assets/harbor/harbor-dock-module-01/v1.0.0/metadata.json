@@ -1,0 +1,42 @@
+{
+  "id": "harbor-dock-module-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "harbor",
+  "style": "soft-low-poly",
+  "title": "Two Meter Pier Tile",
+  "description": "Original exact 2m square pier module with ten deck planks, twin stringers, four timber pilings and matte collars. Top deck at 0.75m for snapping.",
+  "bounds": {
+    "x": 2.0,
+    "y": 2.0,
+    "z": 0.75,
+    "unit": "m"
+  },
+  "triangles": 816,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-dock-module-01/v1.0.0/model.glb",
+      "size": 60084,
+      "sha256": "405124a33aab044d596373198a76766a0acee752b3266d46dea748070fe4c14c"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-dock-module-01/v1.0.0/source.blend",
+      "size": 615244,
+      "sha256": "458b75ea9fad79fa144a62d6057deebd32f34a79d7da064d34497494db795350"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-dock-module-01/v1.0.0/generate.py",
+      "size": 7511,
+      "sha256": "69502b87d90f1421f9601a7bc342d32988b764499051d7161c60eca8e134bc8c"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-dock-module-01/v1.0.0/thumbnail.png",
+      "size": 407080,
+      "sha256": "ad6ed5c49e31d0e9b0e593c9a2e13fd24ffce5770952fd0681f0cf1cbc561557"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

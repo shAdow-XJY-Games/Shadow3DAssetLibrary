@@ -1,0 +1,42 @@
+{
+  "id": "camping-chair-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "camping",
+  "style": "soft-low-poly",
+  "title": "Pinefold Folding Chair",
+  "description": "Original folding camping chair with crossed side frames, pivot pins, sagging cloth seat, separate back canvas and armrests. Shared matte palette; no external textures.",
+  "bounds": {
+    "x": 0.658,
+    "y": 0.72992,
+    "z": 0.91452,
+    "unit": "m"
+  },
+  "triangles": 892,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/camping/camping-chair-01/v1.0.0/model.glb",
+      "size": 61064,
+      "sha256": "2361a905f5878623474897d0471df6fa1d25a2ef395fc3289d1d1fe0353e4a42"
+    },
+    "blend": {
+      "path": "assets/camping/camping-chair-01/v1.0.0/source.blend",
+      "size": 649752,
+      "sha256": "aa65e1c1fb250bf0cbd7bd83059102a260a32acd7082743a8180ae89f53986d0"
+    },
+    "generator": {
+      "path": "assets/camping/camping-chair-01/v1.0.0/generate.py",
+      "size": 8970,
+      "sha256": "bd095bceaef3ca5f01b81d2d293c2128ecfa7721afbd94f122e3b9bb3f6cfa7b"
+    },
+    "render": {
+      "path": "assets/camping/camping-chair-01/v1.0.0/thumbnail.png",
+      "size": 415947,
+      "sha256": "943fd337e4fd04530f782662486dfa6b30a7310b90b58eb55e03ea7a9072efe3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

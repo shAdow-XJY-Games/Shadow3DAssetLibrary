@@ -1,0 +1,42 @@
+{
+  "id": "camping-trail-marker-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "camping",
+  "style": "soft-low-poly",
+  "title": "Pinefold Trail Marker",
+  "description": "Original forked trail marker with two opposing arrow boards, visible pegs, triangular mountain pictogram and a ground sleeve. Shared matte palette; no external textures.",
+  "bounds": {
+    "x": 0.81927,
+    "y": 0.23041,
+    "z": 1.48239,
+    "unit": "m"
+  },
+  "triangles": 312,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/camping/camping-trail-marker-01/v1.0.0/model.glb",
+      "size": 23596,
+      "sha256": "33091539fd4c197889e5f1c33719c1f3366511677349dc98c5bdb60cc40bed9c"
+    },
+    "blend": {
+      "path": "assets/camping/camping-trail-marker-01/v1.0.0/source.blend",
+      "size": 541112,
+      "sha256": "0354db6d7b580a40b3bf4ca962a1645c34830a0f155ddff817eb777c9edd44fd"
+    },
+    "generator": {
+      "path": "assets/camping/camping-trail-marker-01/v1.0.0/generate.py",
+      "size": 8777,
+      "sha256": "7026c441bdc9bd35c4abe833c757abd37f3496a52259c3e3e782114408144dde"
+    },
+    "render": {
+      "path": "assets/camping/camping-trail-marker-01/v1.0.0/thumbnail.png",
+      "size": 364006,
+      "sha256": "81db741fb2441c0f8811660c360ff16442dba2ad14b4841302b96c862bf21c51"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

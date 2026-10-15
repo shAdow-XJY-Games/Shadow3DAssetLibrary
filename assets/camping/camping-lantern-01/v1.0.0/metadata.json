@@ -1,0 +1,42 @@
+{
+  "id": "camping-lantern-01",
+  "version": "1.0.0",
+  "category": "props",
+  "theme": "camping",
+  "style": "soft-low-poly",
+  "title": "Pinefold Carry Lantern",
+  "description": "Original squat portable camping lantern with protective cage, opaque warm chamber, cap vents, rotary knob and polygonal carry hoop. Shared matte palette; no external textures.",
+  "bounds": {
+    "x": 0.31,
+    "y": 0.3,
+    "z": 0.48185,
+    "unit": "m"
+  },
+  "triangles": 884,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/camping/camping-lantern-01/v1.0.0/model.glb",
+      "size": 59480,
+      "sha256": "2fb5fd1fa70f841fe6f4f032fd53d05f58a36dbf1085176e80a2d581d4480837"
+    },
+    "blend": {
+      "path": "assets/camping/camping-lantern-01/v1.0.0/source.blend",
+      "size": 660192,
+      "sha256": "830627c724dffbd25b7703026d7b9ef291341623a55fc01cb7430b634acd95ff"
+    },
+    "generator": {
+      "path": "assets/camping/camping-lantern-01/v1.0.0/generate.py",
+      "size": 8944,
+      "sha256": "095726aa0136d06d2d61822c897d7634351777897339a7dc19f0639ee543dac4"
+    },
+    "render": {
+      "path": "assets/camping/camping-lantern-01/v1.0.0/thumbnail.png",
+      "size": 376752,
+      "sha256": "c1e807269e7daf67d1914cf0bc5a1a44384cff575667f246e5d960b12501e090"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "assetKind": "prop"
+}

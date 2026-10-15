@@ -1,0 +1,42 @@
+{
+  "id": "camping-scene-01",
+  "version": "1.0.0",
+  "category": "scene",
+  "assetKind": "scene",
+  "theme": "camping",
+  "style": "soft-low-poly",
+  "title": "Pinefold Campsite Scene",
+  "description": "Original campsite composition of the Pinefold tent, chairs, lantern, backpack, canteen, picnic table, campfire and trail marker on a faceted island. Reuses original prop designs; decorative scene, not camping safety guidance.",
+  "bounds": {
+    "x": 9.0,
+    "y": 8.6,
+    "z": 1.735,
+    "unit": "m"
+  },
+  "triangles": 7124,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/camping/camping-scene-01/v1.0.0/model.glb",
+      "size": 485488,
+      "sha256": "f7d47dd792e5c3fa99d4d17d29aa463d06a9e441caeb4b3a1e842c4173dbdb5a"
+    },
+    "blend": {
+      "path": "assets/camping/camping-scene-01/v1.0.0/source.blend",
+      "size": 1791348,
+      "sha256": "37ed54e8d5d9750bcf7f0cc426957eccc33e82085584abfab58989cbab06abfb"
+    },
+    "generator": {
+      "path": "assets/camping/camping-scene-01/v1.0.0/generate.py",
+      "size": 43025,
+      "sha256": "ca74a22bdc50cc64f4e3b0785a26237c3006e462229b465e0f3029f331bd0e4f"
+    },
+    "render": {
+      "path": "assets/camping/camping-scene-01/v1.0.0/thumbnail.png",
+      "size": 377922,
+      "sha256": "5d421e5b4f8961b8ce9912a8450843e95002231d0ef6edd5bf901a4af167e275"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "harbor-sign-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "soft-low-poly",
+  "title": "Two Way Pier Sign",
+  "description": "Original freestanding timber wayfinding post with two opposite softened arrows and abstract tide-mark direction glyphs; no language-specific text.",
+  "bounds": {
+    "x": 0.95698,
+    "y": 0.42,
+    "z": 1.6775,
+    "unit": "m"
+  },
+  "triangles": 556,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-sign-01/v1.0.0/model.glb",
+      "size": 44828,
+      "sha256": "e26c0868e41bcd3ce909117a600aa61e28b8e2b1e379d8d43009487eabaaa1bd"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-sign-01/v1.0.0/source.blend",
+      "size": 560296,
+      "sha256": "185805c0ec3793e57745cb1903fcf7dad02c42ed8f840b54d0bf23f1c9247a11"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-sign-01/v1.0.0/generate.py",
+      "size": 7696,
+      "sha256": "2dcec219168dde0f48398e60b08466729995a8120d32336ff6cce7fad736d346"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-sign-01/v1.0.0/thumbnail.png",
+      "size": 370883,
+      "sha256": "e262ef735c2671a8635d75784df2c7259b67026a0e54187f6e51a188e5f6fec0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

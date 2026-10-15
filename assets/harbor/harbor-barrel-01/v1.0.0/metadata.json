@@ -1,0 +1,42 @@
+{
+  "id": "harbor-barrel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "soft-low-poly",
+  "title": "Bilgewood Storage Barrel",
+  "description": "Original twelve-stave bilged barrel with inset head, slim forged hoops, and cooper bung. Matte shared palette; no textures.",
+  "bounds": {
+    "x": 0.68736,
+    "y": 0.68736,
+    "z": 0.873,
+    "unit": "m"
+  },
+  "triangles": 1848,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-barrel-01/v1.0.0/model.glb",
+      "size": 122820,
+      "sha256": "9e5d23259567c36b6839e99b7fe1a107cf0d4952028fdc61206d7cd8028bedf5"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-barrel-01/v1.0.0/source.blend",
+      "size": 638572,
+      "sha256": "37223d45bc7c52c7d10dc78962e40a475086f362e016be4a2002a851314cc78d"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-barrel-01/v1.0.0/generate.py",
+      "size": 8582,
+      "sha256": "1fecc4d3c282e26d993b466763b841d2cb1fd2ce5ddf971e550740b4cf54ceb7"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-barrel-01/v1.0.0/thumbnail.png",
+      "size": 401101,
+      "sha256": "bec3737fe0f9d662ba30c71d7b8e8ad10534f4a7027d6f1123bb060bcdd91fe2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

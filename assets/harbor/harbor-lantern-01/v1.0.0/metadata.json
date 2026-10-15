@@ -1,0 +1,42 @@
+{
+  "id": "harbor-lantern-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "soft-low-poly",
+  "title": "Quayside Carry Lantern",
+  "description": "Original compact dock lantern with timber plinth, opaque warm diffuser, pitched cap and carry loop. Matte shared palette.",
+  "bounds": {
+    "x": 0.42426,
+    "y": 0.42426,
+    "z": 1.031,
+    "unit": "m"
+  },
+  "triangles": 584,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-lantern-01/v1.0.0/model.glb",
+      "size": 46904,
+      "sha256": "45a02e9af4f93a2ba92fd14e94ef5bc3f4a865c1210cfa33f109e2b7422ff4de"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-lantern-01/v1.0.0/source.blend",
+      "size": 577916,
+      "sha256": "a1218e35df97ad1304d5788e016c5dee3ceeef709e72c298c8528c060960af6c"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-lantern-01/v1.0.0/generate.py",
+      "size": 7489,
+      "sha256": "eb367d268f98f0b34a96767eb05fa31608de02e8787da1bb11b40c878fa7c6d1"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-lantern-01/v1.0.0/thumbnail.png",
+      "size": 374620,
+      "sha256": "5700b4529eb53e6278074c835d852f84ae0e6e752c2ad1dd6d223566217ec87a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

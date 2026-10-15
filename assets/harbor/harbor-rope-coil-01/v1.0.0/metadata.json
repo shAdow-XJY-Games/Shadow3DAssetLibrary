@@ -1,0 +1,42 @@
+{
+  "id": "harbor-rope-coil-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "soft-low-poly",
+  "title": "Coiled Mooring Line",
+  "description": "Original continuous three-turn mooring rope with real gaps, exposed tail, end faces and a loose matte keeper.",
+  "bounds": {
+    "x": 0.7752,
+    "y": 0.75947,
+    "z": 0.06338,
+    "unit": "m"
+  },
+  "triangles": 1684,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-rope-coil-01/v1.0.0/model.glb",
+      "size": 118436,
+      "sha256": "08f7af6b3a4708f1fd41f7b32422880bbf37244ae47d60e9a22fbc23b8361e1c"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-rope-coil-01/v1.0.0/source.blend",
+      "size": 559504,
+      "sha256": "671593523fbb7dd54310005a07e3d542d7ef429111fadcfe449bcd19f98297b2"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-rope-coil-01/v1.0.0/generate.py",
+      "size": 8219,
+      "sha256": "aacf18c704937d7dc775b51dd19a5f886a2f813e47677544e80a4fd36eaccf9b"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-rope-coil-01/v1.0.0/thumbnail.png",
+      "size": 354918,
+      "sha256": "36a16314aefd63f55b9d10f6c16f84da42681bff7b95ff8fe8050fa06aef711b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

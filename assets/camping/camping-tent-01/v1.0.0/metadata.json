@@ -1,0 +1,42 @@
+{
+  "id": "camping-tent-01",
+  "version": "1.0.0",
+  "category": "props",
+  "theme": "camping",
+  "style": "soft-low-poly",
+  "title": "Pinefold A-Frame Tent",
+  "description": "Original A-frame canvas tent with open folded flaps, genuine hollow interior, structural poles, guy ropes and ground pegs. Shared matte palette; no external textures.",
+  "bounds": {
+    "x": 3.0084,
+    "y": 2.85,
+    "z": 1.615,
+    "unit": "m"
+  },
+  "triangles": 616,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/camping/camping-tent-01/v1.0.0/model.glb",
+      "size": 42316,
+      "sha256": "95f84abeb8aac163147eac09947c7ec5b95e31c008647def010e05903295eee4"
+    },
+    "blend": {
+      "path": "assets/camping/camping-tent-01/v1.0.0/source.blend",
+      "size": 637948,
+      "sha256": "5e4e885cf90261dc868f39e1926b51ffd6820ca94ceb12458929b505588c7c75"
+    },
+    "generator": {
+      "path": "assets/camping/camping-tent-01/v1.0.0/generate.py",
+      "size": 9063,
+      "sha256": "9007da55af5329a80b8fbafe61bd9a51b75f286a06f9bdf93ac666ea2ac26dcc"
+    },
+    "render": {
+      "path": "assets/camping/camping-tent-01/v1.0.0/thumbnail.png",
+      "size": 399266,
+      "sha256": "7005ecdd66e23de0efca91ba61e31d2e3ff6fc163c168c61aa11e442789db79c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved",
+  "assetKind": "prop"
+}

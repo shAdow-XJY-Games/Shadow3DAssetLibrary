@@ -1,0 +1,42 @@
+{
+  "id": "camping-backpack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "camping",
+  "style": "soft-low-poly",
+  "title": "Pinefold Trail Pack",
+  "description": "Original tapered hiking backpack with rolltop, front pocket, paired buckles, side pouches, open shoulder loops and top carry handle. Shared matte palette; no external textures.",
+  "bounds": {
+    "x": 0.507,
+    "y": 0.45784,
+    "z": 0.694,
+    "unit": "m"
+  },
+  "triangles": 936,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/camping/camping-backpack-01/v1.0.0/model.glb",
+      "size": 71204,
+      "sha256": "4d72eb96a680ad832eff4cc7d2d6c3ae892fc14733c11303562c9c3196edc140"
+    },
+    "blend": {
+      "path": "assets/camping/camping-backpack-01/v1.0.0/source.blend",
+      "size": 669260,
+      "sha256": "72777a12abdb646bbf069832a61def68a690c9c2b53dcbd4fb88a59dc1864b32"
+    },
+    "generator": {
+      "path": "assets/camping/camping-backpack-01/v1.0.0/generate.py",
+      "size": 9484,
+      "sha256": "d71ef16447c9da2457d83c88aac7ef09ab68f10d9c071890137a25c46cff41c7"
+    },
+    "render": {
+      "path": "assets/camping/camping-backpack-01/v1.0.0/thumbnail.png",
+      "size": 388911,
+      "sha256": "e9c6b4e0ac7b14f4d2bb4fcbd7dc12d021a4276dd9b54fa8501e68eb7860b0ed"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

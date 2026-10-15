@@ -1,0 +1,42 @@
+{
+  "id": "camping-table-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "camping",
+  "style": "soft-low-poly",
+  "title": "Pinefold Picnic Table",
+  "description": "Original five-plank picnic table with two slatted benches, twin A-frame supports, cross beams and visible joinery pegs. Shared matte palette; no external textures.",
+  "bounds": {
+    "x": 1.82,
+    "y": 1.58,
+    "z": 0.77444,
+    "unit": "m"
+  },
+  "triangles": 904,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/camping/camping-table-01/v1.0.0/model.glb",
+      "size": 69956,
+      "sha256": "fd079692df4d487e45042741af039e4a9fd44909e84cc9048e20910fadd90fa9"
+    },
+    "blend": {
+      "path": "assets/camping/camping-table-01/v1.0.0/source.blend",
+      "size": 628324,
+      "sha256": "4d22a5642d3760231dfa87154fb1a66fccc5812a104fef7c052d35a94eb7ab81"
+    },
+    "generator": {
+      "path": "assets/camping/camping-table-01/v1.0.0/generate.py",
+      "size": 8713,
+      "sha256": "561748d3d3a639884f5af58064c5d84296122f287bb04bea26770c37f2f80b09"
+    },
+    "render": {
+      "path": "assets/camping/camping-table-01/v1.0.0/thumbnail.png",
+      "size": 400318,
+      "sha256": "735fd6c8556eb4833bd6400781f27a496ad965918ced6b089b6178530d0c4a11"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

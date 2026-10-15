@@ -1,0 +1,42 @@
+{
+  "id": "camping-fire-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "camping",
+  "style": "soft-low-poly",
+  "title": "Pinefold Campfire Ring",
+  "description": "Original low-poly campfire prop with eight irregular hearth rocks, crossed logs, visible cut ends and four curved polygonal flame shells. Flame geometry is decorative and has no heat or particle simulation. Shared matte palette; no external textures.",
+  "bounds": {
+    "x": 1.18199,
+    "y": 1.18199,
+    "z": 0.675,
+    "unit": "m"
+  },
+  "triangles": 692,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/camping/camping-fire-01/v1.0.0/model.glb",
+      "size": 52440,
+      "sha256": "8f4805f7560f6b4f7304bd7d3941431625b3f320f3ec872164a5b1ec685cc8f0"
+    },
+    "blend": {
+      "path": "assets/camping/camping-fire-01/v1.0.0/source.blend",
+      "size": 616888,
+      "sha256": "443286b5750f325882990fd68ebcc800c95a2999590c1f3813554c6fdb778cb9"
+    },
+    "generator": {
+      "path": "assets/camping/camping-fire-01/v1.0.0/generate.py",
+      "size": 9442,
+      "sha256": "e3c4b191d43c5330934e9d35dfe19e2515a936ebcb8ad69766aec5c18fe14e2c"
+    },
+    "render": {
+      "path": "assets/camping/camping-fire-01/v1.0.0/thumbnail.png",
+      "size": 378311,
+      "sha256": "a8b87dfb0768852eacd78f50d8fe29cf04ae5ae182450658e53907aefd540167"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

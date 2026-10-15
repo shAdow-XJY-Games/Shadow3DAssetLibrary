@@ -1,0 +1,42 @@
+{
+  "id": "harbor-crate-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "soft-low-poly",
+  "title": "Tideway Cargo Crate",
+  "description": "Original beveled plank cargo crate with a three-bar tide mark. Matte shared palette; no external textures.",
+  "bounds": {
+    "x": 1.006,
+    "y": 1.024,
+    "z": 0.9,
+    "unit": "m"
+  },
+  "triangles": 1540,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-crate-01/v1.0.0/model.glb",
+      "size": 119864,
+      "sha256": "2357603c38ace3bdc48472890f88dcaf4170cebcadbbe7b932d54b977ef87ce6"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-crate-01/v1.0.0/source.blend",
+      "size": 715016,
+      "sha256": "aa12dd62021813351e3cdbbdee21b4e503d8e15329bcc3ffeecd00c1a27b2e13"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-crate-01/v1.0.0/generate.py",
+      "size": 7374,
+      "sha256": "0a5ac10467f01ec354b060f9c162edaf5c9e96a9b6b8fe1d346392a0229a3fba"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-crate-01/v1.0.0/thumbnail.png",
+      "size": 427464,
+      "sha256": "3e29cca18e53ce0f32f5958bcf19624a22105ca31b9233b2c570a19b1ef2a854"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

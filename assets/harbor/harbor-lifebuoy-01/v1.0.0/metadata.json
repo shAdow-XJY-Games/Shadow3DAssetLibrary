@@ -1,0 +1,42 @@
+{
+  "id": "harbor-lifebuoy-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "soft-low-poly",
+  "title": "Tidewatch Rescue Ring",
+  "description": "Original open flotation ring with four muted coral wraps, perimeter rescue line and four attachment ties.",
+  "bounds": {
+    "x": 0.938,
+    "y": 0.16643,
+    "z": 0.938,
+    "unit": "m"
+  },
+  "triangles": 1344,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-lifebuoy-01/v1.0.0/model.glb",
+      "size": 66792,
+      "sha256": "ce291b53172c7d022529c3c79028b5f2d92478cb701299041df01c0f641dd741"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-lifebuoy-01/v1.0.0/source.blend",
+      "size": 562828,
+      "sha256": "5000af10347f0a0e507fa7c315d2354b3752e945facc266f5480a4b186b187d0"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-lifebuoy-01/v1.0.0/generate.py",
+      "size": 8675,
+      "sha256": "b3ebe02e9c13575a1852dd12579a3113a946d488caf6b9786e4c20b1c5a8f1a1"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-lifebuoy-01/v1.0.0/thumbnail.png",
+      "size": 389964,
+      "sha256": "0ee92e903c36e6ec980af6c63ca360abf0227b89124aa6670be24e06b81e5938"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

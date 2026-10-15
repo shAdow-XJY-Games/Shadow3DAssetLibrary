@@ -1,0 +1,42 @@
+{
+  "id": "harbor-cargo-sack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "soft-low-poly",
+  "title": "Gathered Dock Sack",
+  "description": "Original asymmetric canvas cargo sack with a flat base, gathered tied neck, cord tails and sewn tide-mark bars.",
+  "bounds": {
+    "x": 0.55,
+    "y": 0.41,
+    "z": 0.81178,
+    "unit": "m"
+  },
+  "triangles": 696,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-cargo-sack-01/v1.0.0/model.glb",
+      "size": 49652,
+      "sha256": "c93a3bb3df9b4c4ad81d9fcdc2d2b3423a1cde4aaeec5227fd0ad69964251804"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-cargo-sack-01/v1.0.0/source.blend",
+      "size": 550764,
+      "sha256": "85ff965d8840a59db4e5257d93335b6fb3e67da999dd2e66f2319f1fe68c77c3"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-cargo-sack-01/v1.0.0/generate.py",
+      "size": 8050,
+      "sha256": "43d0eaccb06e3b6c87a66a68b199cd65ca009fd84d5be84b350422c2e8294555"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-cargo-sack-01/v1.0.0/thumbnail.png",
+      "size": 373354,
+      "sha256": "dc28a595bbd57ab69373b910974f91b5a537a7d4f20c7467553d09c1561dc0aa"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

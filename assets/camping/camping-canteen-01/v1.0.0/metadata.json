@@ -1,0 +1,42 @@
+{
+  "id": "camping-canteen-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "camping",
+  "style": "soft-low-poly",
+  "title": "Pinefold Trail Canteen",
+  "description": "Original flattened canteen with screw cap, raised grip bars, wrap webbing and a separate polygonal carrying loop. Shared matte palette; no external textures.",
+  "bounds": {
+    "x": 0.36831,
+    "y": 0.154,
+    "z": 0.496,
+    "unit": "m"
+  },
+  "triangles": 920,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/camping/camping-canteen-01/v1.0.0/model.glb",
+      "size": 63028,
+      "sha256": "d69087fd9ed558fbc256198710d1770f723860e893f439e440015d102a5ca47b"
+    },
+    "blend": {
+      "path": "assets/camping/camping-canteen-01/v1.0.0/source.blend",
+      "size": 593196,
+      "sha256": "4276e3d459bc85cdf4d66401816d897cf640a3770c10d42181bf3c4d1a7ca112"
+    },
+    "generator": {
+      "path": "assets/camping/camping-canteen-01/v1.0.0/generate.py",
+      "size": 9213,
+      "sha256": "886e4d485e4ddae0cf581c4eea253bcb4621a07a18c353d3e665a2d76de65b6c"
+    },
+    "render": {
+      "path": "assets/camping/camping-canteen-01/v1.0.0/thumbnail.png",
+      "size": 363169,
+      "sha256": "7172972ba6754f4fdf529d1d88090ba5d6e34d3e35a409c9ceedb4c1c3d7a02e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
