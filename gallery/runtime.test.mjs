@@ -1,0 +1,41 @@
+// No browser or WebGL. Fixtures are created only in the OS temporary directory.
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFile,writeFile,mkdtemp} from 'node:fs/promises';
+import {tmpdir} from 'node:os';
+import {join} from 'node:path';
+import {createHash} from 'node:crypto';
+import {validateCatalog,fetchVerifiedGLB,SOURCE} from '../docs/core.mjs';
+const fixtureDirectory=await mkdtemp(join(tmpdir(),'shadow-gallery-fixtures-'));
+const hash='a'.repeat(64), source={...SOURCE,commit:'1'.repeat(40)};
+const file=ext=>({path:`assets/test-fixture/v1.0.0/model.${ext}`,size:10,sha256:hash});
+const fixture={schemaVersion:1,source,collection:{title:'LOCAL QA FIXTURE — NOT AN ASSET'},assets:[{id:'test-crate',title:'<img onerror=alert(1)> Test crate',version:'1.0.0',assetKind:'prop',category:'container',theme:'harbor',style:'soft',bounds:{x:1,y:2,z:3,unit:'m'},triangles:12,materials:1,status:'prototype',license:'All rights reserved',files:{glb:file('glb'),blend:file('blend'),generator:file('py'),render:file('png')}}]};
+const fixturePath=join(fixtureDirectory,'catalog-local-fixture.json');await writeFile(fixturePath,JSON.stringify(fixture));
+class Element{
+ constructor(tag='div'){this.tagName=tag;this.children=[];this.listeners={};this.value='';this.hidden=false;this.disabled=false;this.dataset={};this.attributes={};this._text='';}
+ set textContent(value){this._text=String(value);this.children=[];}get textContent(){return this._text+this.children.map(x=>x.textContent).join('');}
+ append(...children){this.children.push(...children);}replaceChildren(...children){this._text='';this.children=[...children];}
+ addEventListener(type,fn){(this.listeners[type]??=[]).push(fn);}dispatch(type,detail={}){const event={target:this,preventDefault(){},...detail};this['on'+type]?.(event);for(const fn of this.listeners[type]||[])fn(event);}
+ setAttribute(k,v){this.attributes[k]=v;}removeAttribute(k){delete this[k];delete this.attributes[k];}showModal(){this.open=true;}close(){this.open=false;this.dispatch('close');}
+}
+async function loadApp(payload,{fail=false}={}){
+ const elements=new Map();for(const id of ['query','repository','assetKind','category','theme','style','catalog','count','empty','error','detail','detail-title','detail-kind','detail-description','detail-status','specs','downloads','source-note','viewer','viewer-status','reset-view','preview','close','filters'])elements.set('#'+id,new Element());elements.set('#empty h3',new Element());elements.set('#empty p',new Element());elements.get('#empty').hidden=true;elements.get('#error').hidden=true;
+ const modes=['render','3d','reference'].map(mode=>{const b=new Element('button');b.dataset.mode=mode;return b;});
+ globalThis.document={querySelector:q=>q.startsWith('[data-mode=')?modes.find(b=>q.includes(b.dataset.mode)):elements.get(q),querySelectorAll:q=>q==='[data-mode]'?modes:[],createElement:tag=>new Element(tag)};
+ globalThis.Option=class extends Element{constructor(label,value){super('option');this.textContent=label;this.value=value;}};
+ globalThis.fetch=async url=>{assert.equal(url,'./catalog.json');return {ok:!fail,json:async()=>structuredClone(payload)};};
+ const original=await readFile(new URL('../docs/app.mjs',import.meta.url),'utf8');const code=original.replace("'./core.mjs'",JSON.stringify(new URL('../docs/core.mjs',import.meta.url).href));
+ const errors=[];const previous=console.error;console.error=e=>errors.push(e.message);try{await import('data:text/javascript;base64,'+Buffer.from(code+`\n// run ${Math.random()}`).toString('base64'));}finally{console.error=previous;}
+ return {get:q=>elements.get(q),modes,errors};
+}
+test('DOM empty catalog shows honest empty state without fabricated cards',async()=>{const ui=await loadApp({...fixture,source:{...SOURCE,commit:null},assets:[]});assert.equal(ui.get('#catalog').children.length,0);assert.equal(ui.get('#empty').hidden,false);assert.equal(ui.get('#count').textContent,'0 / 0 件已入库');assert.equal(ui.get('#error').hidden,true);});
+test('DOM catalog HTTP failure is visible and no cards are inserted',async()=>{const ui=await loadApp(fixture,{fail:true});assert.equal(ui.get('#error').hidden,false);assert.equal(ui.get('#count').textContent,'目录读取失败');assert.equal(ui.get('#catalog').children.length,0);});
+test('DOM real controls filter, reset, open and close a fixture detail safely',async()=>{const ui=await loadApp(JSON.parse(await readFile(fixturePath,'utf8')));assert.equal(ui.errors.length,0);assert.equal(ui.get('#catalog').children.length,1);ui.get('#query').value='missing';ui.get('#filters').dispatch('input');assert.equal(ui.get('#catalog').children.length,0);assert.equal(ui.get('#empty h3').textContent,'没有匹配的素材');ui.get('#query').value='';ui.get('#filters').dispatch('reset');await new Promise(r=>setTimeout(r,5));assert.equal(ui.get('#catalog').children.length,1);ui.get('#catalog').children[0].dispatch('click');assert.equal(ui.get('#detail').open,true);assert.equal(ui.get('#detail-title').textContent,fixture.assets[0].title);assert.equal(ui.get('#detail-title').children.length,0);assert.equal(ui.get('#downloads').children.length,3);assert.ok(ui.get('#downloads').children.every(a=>a.href.includes('/'+source.commit+'/assets/')));assert.equal(ui.modes[2].disabled,true);assert.equal(ui.get('#specs').children.length,10);ui.get('#close').dispatch('click');assert.equal(ui.get('#detail').open,false);assert.equal(ui.get('#reset-view').disabled,true);ui.get('#catalog').children[0].dispatch('click');assert.equal(ui.get('#detail').open,true);ui.get('#detail').close();});
+test('late preview errors cannot overwrite a newer dismissed view status',async()=>{const ui=await loadApp(fixture);ui.get('#catalog').children[0].dispatch('click');const oldError=ui.get('#preview').onerror;ui.get('#close').dispatch('click');ui.get('#viewer-status').textContent='newer status';oldError();assert.equal(ui.get('#viewer-status').textContent,'newer status');});
+test('invalid dimensions are caught before cards or details are built',async()=>{const bad=structuredClone(fixture);delete bad.assets[0].bounds;assert.throws(()=>validateCatalog(bad),/dimensions/);const ui=await loadApp(bad);assert.equal(ui.get('#catalog').children.length,0);assert.equal(ui.get('#error').hidden,false);});
+test('runtime rejects malformed geometry, metadata, role and byte budgets',()=>{for(const edit of [a=>a.triangles=0,a=>a.materials='one',a=>a.assetKind='unknown',a=>a.version='bad',a=>a.title='',a=>a.files.render.path='assets/image.exe',a=>a.files.glb.size=6000000,a=>a.files.extra=file('png')]){const bad=structuredClone(fixture);edit(bad.assets[0]);assert.throws(()=>validateCatalog(bad));}});
+const bytes=new Uint8Array([0x67,0x6c,0x54,0x46,1,2,3,4]);const meta={size:bytes.length,sha256:createHash('sha256').update(bytes).digest('hex')};const url='https://raw.githubusercontent.com/'+SOURCE.owner+'/'+SOURCE.repo+'/'+source.commit+'/assets/test/model.glb';
+test('verified GLB uses explicit CORS/no credentials and checks exact SHA-256',async()=>{let options;const result=await fetchVerifiedGLB(url,meta,{fetcher:async(u,o)=>{assert.equal(u,url);options=o;return new Response(bytes);}});assert.deepEqual(new Uint8Array(result),bytes);assert.equal(options.mode,'cors');assert.equal(options.credentials,'omit');assert.equal(options.redirect,'error');});
+test('GLB HTTP, CORS/network, size and hash failures reject before parsing',async()=>{for(const fetcher of [async()=>new Response('',{status:404}),async()=>{throw TypeError('Failed to fetch');},async()=>new Response(bytes,{headers:{'Content-Length':'999'}}),async()=>new Response(new Uint8Array(9)),async()=>new Response(new Uint8Array(3)),async()=>new Response(new Uint8Array(8))])await assert.rejects(()=>fetchVerifiedGLB(url,meta,{fetcher}));});
+test('GLB cancellation and unavailable crypto fail closed',async()=>{const controller=new AbortController();controller.abort();await assert.rejects(()=>fetchVerifiedGLB(url,meta,{signal:controller.signal,fetcher:async()=>new Response(bytes)}));await assert.rejects(()=>fetchVerifiedGLB(url,meta,{cryptoProvider:null,fetcher:async()=>new Response(bytes)}),/secure context/);});
+console.log('Local-only fixture directory:',fixtureDirectory);

@@ -5,6 +5,7 @@ Public frontend source lives only in `../docs/`. GitHub Pages should publish `ma
 Run from repository root with Node.js 22 or later:
 
     node gallery/test.mjs
+    node --test gallery/runtime.test.mjs
     node gallery/build.mjs --check
     BASE_REF=<trusted-base-commit> node gallery/build.mjs --check
 
@@ -17,3 +18,9 @@ Preview locally with `python -m http.server 8080 --directory docs`. Three.js 0.1
 Manual browser QA still required: desktop/mobile layout, filter/reset, repeated open/close and rapid mode changes, Escape dismissal, WebGL rendering/orbit/zoom/reset, actual immutable raw downloads, unavailable reference state, failed network state, keyboard focus. Node tests alone do not validate visual appearance or WebGL.
 
 All original project source, models and artwork: All rights reserved. Public visibility and download access are not an open-source or asset reuse license. Obtain separate permission before reuse.
+
+## Local-only runtime regression tests
+
+`gallery/runtime.test.mjs` uses a minimal DOM test double, not a browser. It creates a visibly labeled synthetic catalog only under the OS temporary directory, never in `docs/`, and mocks catalog HTTP. Coverage includes empty/error states, filters/reset, detail open/close, safe text rendering, immutable download URLs, missing references, stale image errors, metadata rejection, and GLB CORS request options/hash/size/cancellation failures. This does not prove browser rendering, live GitHub CORS response headers or actual WebGL behavior.
+
+The 3D viewer fetches GLB with `mode: cors`, no credentials and no redirects, a 30-second timeout, a metadata size bound, and an actual SHA-256 comparison before parsing. Switching views or closing cancels the pending fetch. Browser SHA-256 requires HTTPS or localhost. Thumbnail images and direct download links are pinned to commits but are not fetched and hash-verified by this runtime; metadata shows their expected hashes. No token, CORS proxy or authentication workaround is used.
