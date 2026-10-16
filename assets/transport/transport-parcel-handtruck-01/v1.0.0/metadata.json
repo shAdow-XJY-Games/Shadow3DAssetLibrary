@@ -1,0 +1,42 @@
+{
+  "id": "transport-parcel-handtruck-01",
+  "version": "1.0.0",
+  "category": "equipment",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "S01 Parcel Hand Truck",
+  "description": "Original compact parcel hand truck with continuous bent frame uprights, open support rails, forward-offset grip, a grounded metal toe plate and two flat-tread wheels. Painted frame and restrained metal/rubber materials. Independent editable static source and GLB components; no wheel rotation, steering, tilting, folding, load or physics simulation claim.",
+  "bounds": {
+    "x": 0.6159999966621399,
+    "y": 0.49000000953674316,
+    "z": 1.152500033378601,
+    "unit": "m"
+  },
+  "triangles": 744,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-parcel-handtruck-01/v1.0.0/model.glb",
+      "size": 51424,
+      "sha256": "91e20a72418e60a4ec619ee5f3f6695587da18010d7a75dc3956134238ad1bf3"
+    },
+    "blend": {
+      "path": "assets/transport/transport-parcel-handtruck-01/v1.0.0/source.blend",
+      "size": 752176,
+      "sha256": "97ed966a7eb122f307fde4bff18a7b1f8a59215d9398bce03445ff9f3ab73825"
+    },
+    "generator": {
+      "path": "assets/transport/transport-parcel-handtruck-01/v1.0.0/generate.py",
+      "size": 30773,
+      "sha256": "9e942a2897513097588cbcd9ee212be090741d7a4e107e1f8ac415bf6263fb5e"
+    },
+    "render": {
+      "path": "assets/transport/transport-parcel-handtruck-01/v1.0.0/thumbnail.png",
+      "size": 183761,
+      "sha256": "9224fa993468a721e0e03852bea8c90e94fe20ef8befbfecef1c807fa0cdb948"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

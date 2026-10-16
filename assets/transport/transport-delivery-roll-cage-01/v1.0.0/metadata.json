@@ -1,0 +1,42 @@
+{
+  "id": "transport-delivery-roll-cage-01",
+  "version": "1.0.0",
+  "category": "equipment",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "S01 Open-Front Delivery Roll Cage",
+  "description": "Original 0.75m-wide, 0.85m-deep, 1.55m-high open-front delivery roll cage with three sparse framed sides, a true cargo deck and four flat-tread wheel assemblies. Actual fork side-to-tire clearance is documented. No front door is modeled. Independent editable static source and GLB components; no wheel rotation, steering, tilting, folding, load or physics simulation claim.",
+  "bounds": {
+    "x": 0.75,
+    "y": 0.8500000238418579,
+    "z": 1.5499999523162842,
+    "unit": "m"
+  },
+  "triangles": 1844,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-delivery-roll-cage-01/v1.0.0/model.glb",
+      "size": 143320,
+      "sha256": "5e77ee52e434164ab9a57f68f9f431fdb9fc8a3a88584435e0aadd0863d57774"
+    },
+    "blend": {
+      "path": "assets/transport/transport-delivery-roll-cage-01/v1.0.0/source.blend",
+      "size": 913056,
+      "sha256": "d69538c634e5cfb9b5a02804d07c388cc7eea14bf8b9326bcd36c35ed0056749"
+    },
+    "generator": {
+      "path": "assets/transport/transport-delivery-roll-cage-01/v1.0.0/generate.py",
+      "size": 30365,
+      "sha256": "64cb6d1eae72378d0d5498f489f771dc1893fef222e063f87ba78e29102b31df"
+    },
+    "render": {
+      "path": "assets/transport/transport-delivery-roll-cage-01/v1.0.0/thumbnail.png",
+      "size": 213840,
+      "sha256": "1c0ef1fe92284a8247bcc67bdd7566a24399f0e05131b809d215fe24a2202899"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
