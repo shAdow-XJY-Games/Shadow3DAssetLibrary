@@ -234,9 +234,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "515f62f63b16a421bf8d6b92b3b5acf9d4cc8970"
+    },
+    "access-core": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "e179cdc82c1f57e36dc0a78704146783f711484d"
     }
   },
-  "assetCount": 196,
+  "assetCount": 198,
   "shards": [
     {
       "theme": "camping",
@@ -289,10 +294,10 @@
     },
     {
       "theme": "nature",
-      "count": 12,
-      "path": "metadata/ecf4d4a3ebe2f8f6de10bc023610d317cb66dd26b66e994c4620a48ea8926c27.json",
-      "size": 15941,
-      "sha256": "ecf4d4a3ebe2f8f6de10bc023610d317cb66dd26b66e994c4620a48ea8926c27"
+      "count": 13,
+      "path": "metadata/b619eebfb6fcb761e81aa1907319f1365c8e17afe19c505f34900dd71d79f86e.json",
+      "size": 17437,
+      "sha256": "b619eebfb6fcb761e81aa1907319f1365c8e17afe19c505f34900dd71d79f86e"
     },
     {
       "theme": "astronomy",
@@ -506,10 +511,10 @@
     },
     {
       "theme": "interior",
-      "count": 5,
-      "path": "metadata/12aa80135ea70a1829ae8560970033e3311feb02391112f148b29297734e736e.json",
-      "size": 7800,
-      "sha256": "12aa80135ea70a1829ae8560970033e3311feb02391112f148b29297734e736e"
+      "count": 6,
+      "path": "metadata/fddbd3c588993f46c518f118f19de9a2cce504138dcb649f47f34dee90f590c5.json",
+      "size": 9204,
+      "sha256": "fddbd3c588993f46c518f118f19de9a2cce504138dcb649f47f34dee90f590c5"
     }
   ]
 }
