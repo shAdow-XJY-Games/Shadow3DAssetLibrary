@@ -514,9 +514,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "e2a7cc05631ba3699d982cce4c9a65ee45448f20"
+    },
+    "pet-wash-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "c5d018b21afd2d4ae8a97d9cbf7c014c5f081f28"
     }
   },
-  "assetCount": 272,
+  "assetCount": 273,
   "shards": [
     {
       "theme": "camping",
@@ -853,6 +858,13 @@
       "path": "metadata/d63eaea67a20b10b7815fdf1173d5078e486445ac5c30f810636655af9de1de2.json",
       "size": 1778,
       "sha256": "d63eaea67a20b10b7815fdf1173d5078e486445ac5c30f810636655af9de1de2"
+    },
+    {
+      "theme": "petcare",
+      "count": 1,
+      "path": "metadata/8e88b66951f1dc78c8987109d754109ab29eace10b9d5f504bac96c823fb0159.json",
+      "size": 1869,
+      "sha256": "8e88b66951f1dc78c8987109d754109ab29eace10b9d5f504bac96c823fb0159"
     }
   ]
 }
