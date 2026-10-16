@@ -84,9 +84,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "7c6e4e7bd53de3546942617e9f10d5c70c8626f6"
+    },
+    "sports-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "077cf9ef9fce85916bf63d5a4c6cdc995be66c4f"
     }
   },
-  "assetCount": 121,
+  "assetCount": 124,
   "shards": [
     {
       "theme": "camping",
@@ -206,6 +211,13 @@
       "path": "metadata/4bfb5c27a95f2814ea0c6c175c074aae96abf3264a5fff186c7e8b01590b3154.json",
       "size": 4341,
       "sha256": "4bfb5c27a95f2814ea0c6c175c074aae96abf3264a5fff186c7e8b01590b3154"
+    },
+    {
+      "theme": "sports",
+      "count": 3,
+      "path": "metadata/b17ccd78dbfcd9eb9b5a03109d196d403d3a0255a2e433ffa98ac1c211e5e945.json",
+      "size": 3840,
+      "sha256": "b17ccd78dbfcd9eb9b5a03109d196d403d3a0255a2e433ffa98ac1c211e5e945"
     }
   ]
 }
