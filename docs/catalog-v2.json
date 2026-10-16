@@ -224,6 +224,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "e6f3f06efe8b2ab56253aa7b9e10c84507aaeac2"
+    },
+    "kitchen-sink-s01-v2": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "47c7a6b3195fa9f6f76fb0a9766d2d54346c9d03"
     }
   },
   "assetCount": 194,
@@ -252,9 +257,9 @@
     {
       "theme": "kitchen",
       "count": 16,
-      "path": "metadata/c11b4ddda05530775390f3344517ff0f0ad844396ca6d45366568648ed58093d.json",
-      "size": 18054,
-      "sha256": "c11b4ddda05530775390f3344517ff0f0ad844396ca6d45366568648ed58093d"
+      "path": "metadata/a0ffebac0069107af45b46844c69f14a33ff10571f4dbcd35cd873295ee36c98.json",
+      "size": 18650,
+      "sha256": "a0ffebac0069107af45b46844c69f14a33ff10571f4dbcd35cd873295ee36c98"
     },
     {
       "theme": "village",
