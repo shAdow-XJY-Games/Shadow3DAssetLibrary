@@ -1,0 +1,42 @@
+{
+  "id": "dining-open-window-wall-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "dining",
+  "style": "soft-low-poly",
+  "title": "Open Window Wall",
+  "description": "Original 1.4 m grid wall module with a genuine open rectangular window, maple surround and seafoam crossbars. Repeat along X at 1.4 m spacing. Wall height 2.4 m, trim faces -Y; the structural 0.9 by 0.95 m window is open and unglazed, with maple trim on both faces. Each module is complete; preserve exterior seams and do not weld or remove neighboring parts.",
+  "bounds": {
+    "x": 1.4,
+    "y": 0.22,
+    "z": 2.4,
+    "unit": "m"
+  },
+  "triangles": 472,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/dining/dining-open-window-wall-01/v1.0.0/model.glb",
+      "size": 38152,
+      "sha256": "408778b146eedce601b83c1b8797d45d2a9a49a9f5d2eab33fdd428191f273bf"
+    },
+    "blend": {
+      "path": "assets/dining/dining-open-window-wall-01/v1.0.0/source.blend",
+      "size": 558836,
+      "sha256": "d04190084ed9bff792b3f8e8c4d1e2009d27a2db902876f539ce62981a75244d"
+    },
+    "generator": {
+      "path": "assets/dining/dining-open-window-wall-01/v1.0.0/generate.py",
+      "size": 15377,
+      "sha256": "0f7e83a0dfbbbe14286e3849942c699bf02e7b9ce823d13bf48e311d8916cfc2"
+    },
+    "render": {
+      "path": "assets/dining/dining-open-window-wall-01/v1.0.0/thumbnail.png",
+      "size": 323812,
+      "sha256": "96670b2c5d7b1e75810a4d73b690d20d42558765cc9174d2c426b9b875d843a3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

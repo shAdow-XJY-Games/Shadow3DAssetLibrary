@@ -1,0 +1,42 @@
+{
+  "id": "dining-plank-floor-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "dining",
+  "style": "soft-low-poly",
+  "title": "Maple Floor Tile",
+  "description": "Original 1.4 m square dining floor module with six solid maple planks on a seafoam foundation and two lighter boards. Repeat at 1.4 m spacing along X and Y. Six planks run along Y with intentional 12 mm board seams and a narrow foundation border. Bottom-center origin; finished height 0.045 m. Each tile is complete and needs no shared-part deletion.",
+  "bounds": {
+    "x": 1.4,
+    "y": 1.4,
+    "z": 0.045,
+    "unit": "m"
+  },
+  "triangles": 308,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/dining/dining-plank-floor-01/v1.0.0/model.glb",
+      "size": 26424,
+      "sha256": "88f61692bbf97d5cdc215634e5cb2d0f6c33a164e64a88f1d97e2ce6d3fe4f25"
+    },
+    "blend": {
+      "path": "assets/dining/dining-plank-floor-01/v1.0.0/source.blend",
+      "size": 533912,
+      "sha256": "46c133dde3c67b5c4834e74790cb6fc4a21ac3f88196e389268813fd90e75d53"
+    },
+    "generator": {
+      "path": "assets/dining/dining-plank-floor-01/v1.0.0/generate.py",
+      "size": 14664,
+      "sha256": "eae4c421e30227cc4c6180c72e0ff31c5a6f93ceab9e72c4949bd1616beb4e1f"
+    },
+    "render": {
+      "path": "assets/dining/dining-plank-floor-01/v1.0.0/thumbnail.png",
+      "size": 299937,
+      "sha256": "a89dacfbea78ea2f1d99b523dbf9dcb7389166c1c08cacd3f801d7ecf3232997"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

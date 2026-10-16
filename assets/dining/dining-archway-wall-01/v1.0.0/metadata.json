@@ -1,0 +1,42 @@
+{
+  "id": "dining-archway-wall-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "dining",
+  "style": "soft-low-poly",
+  "title": "Maple Archway Wall",
+  "description": "Original 1.4 m grid architectural module with a real open arched doorway, maple reveal and seafoam threshold. Repeat wall instances along X at 1.4 m spacing, Z up. Maple trim faces -Y. Overall wall height is 2.4 m; structural opening width 0.9 m and crown 2.1 m; maple reveals leave 0.844 m clear width at the straight jambs. Each module is complete and needs no shared-part deletion.",
+  "bounds": {
+    "x": 1.4,
+    "y": 0.216,
+    "z": 2.4,
+    "unit": "m"
+  },
+  "triangles": 588,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/dining/dining-archway-wall-01/v1.0.0/model.glb",
+      "size": 43012,
+      "sha256": "ffbbafe060895a310ab16aa8a0dcc6c021776c34710ec0403d207ab086af2d64"
+    },
+    "blend": {
+      "path": "assets/dining/dining-archway-wall-01/v1.0.0/source.blend",
+      "size": 527496,
+      "sha256": "7854217535ecc7cca352b71f724cb9380944c517376d21c08a94eee751d8e4de"
+    },
+    "generator": {
+      "path": "assets/dining/dining-archway-wall-01/v1.0.0/generate.py",
+      "size": 15369,
+      "sha256": "5d06c76b7ea7bd1cd1b4a16e3d386f6f395e9f5000a392dbc733bec4ce1ded8a"
+    },
+    "render": {
+      "path": "assets/dining/dining-archway-wall-01/v1.0.0/thumbnail.png",
+      "size": 318644,
+      "sha256": "71c89bd50e644d1e93b905ccc52b0f5709f18c1c12d019460f43d8951700e9ce"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
