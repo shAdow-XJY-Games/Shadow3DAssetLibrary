@@ -249,9 +249,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "0d1a2cb647f6ff3551cf1b22d8324bc2e4697e2e"
+    },
+    "streets-wall": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "272e9c826c7dbc8e7d446c72ad27baa921842cff"
     }
   },
-  "assetCount": 200,
+  "assetCount": 203,
   "shards": [
     {
       "theme": "camping",
@@ -283,17 +288,17 @@
     },
     {
       "theme": "village",
-      "count": 32,
-      "path": "metadata/db5e3d81af40e828c7cace02c6b08179efccb48046d369a31cbda6255f5fc68a.json",
-      "size": 38188,
-      "sha256": "db5e3d81af40e828c7cace02c6b08179efccb48046d369a31cbda6255f5fc68a"
+      "count": 33,
+      "path": "metadata/bde6bad21adb44fccc11caebdf47c094a72a6099bfd91c7efc5b7f96a9335dea.json",
+      "size": 39699,
+      "sha256": "bde6bad21adb44fccc11caebdf47c094a72a6099bfd91c7efc5b7f96a9335dea"
     },
     {
       "theme": "transport",
-      "count": 10,
-      "path": "metadata/04949d233c92494bf972405f4c29794db96c4ac77576eecf19b566b4486abc05.json",
-      "size": 13068,
-      "sha256": "04949d233c92494bf972405f4c29794db96c4ac77576eecf19b566b4486abc05"
+      "count": 12,
+      "path": "metadata/4afcd650a833b39c1109865e6bc7a6b65033bbd116d92d6f2259e1a6663b4d4d.json",
+      "size": 15866,
+      "sha256": "4afcd650a833b39c1109865e6bc7a6b65033bbd116d92d6f2259e1a6663b4d4d"
     },
     {
       "theme": "entryway",
