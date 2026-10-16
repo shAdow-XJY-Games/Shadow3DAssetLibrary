@@ -1,0 +1,42 @@
+{
+  "id": "aviation-apron-tile-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "aviation",
+  "style": "soft-low-poly",
+  "title": "Two Meter Apron Tile",
+  "description": "Original apron pavement module on a 2 m grid, 1.988 m slab width retaining a 12 mm joint between complete neighbors, with separate raised edge stripe. Game visual layout rather than official airfield standards.",
+  "bounds": {
+    "x": 1.988,
+    "y": 1.988,
+    "z": 0.124,
+    "unit": "m"
+  },
+  "triangles": 88,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/aviation/aviation-apron-tile-01/v1.0.0/model.glb",
+      "size": 8424,
+      "sha256": "f5664f81808d10024b7a5135fa6eb06ecef813d1fe98b70822bd4c6fdbe92261"
+    },
+    "blend": {
+      "path": "assets/aviation/aviation-apron-tile-01/v1.0.0/source.blend",
+      "size": 478404,
+      "sha256": "ad4bb35f19ec407d67e16f21141b8e1eb2baee0a438731814c72b4db7bce3bbe"
+    },
+    "generator": {
+      "path": "assets/aviation/aviation-apron-tile-01/v1.0.0/generate.py",
+      "size": 26647,
+      "sha256": "782322b3f33525f6140b67d100774c3a85a2635974633481c47d75f7124a36cf"
+    },
+    "render": {
+      "path": "assets/aviation/aviation-apron-tile-01/v1.0.0/thumbnail.png",
+      "size": 287038,
+      "sha256": "26a8e52be86d54c4e7b0b3e14cd2e029b73f2f9036c35b0a58daf96fde9e0e9e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

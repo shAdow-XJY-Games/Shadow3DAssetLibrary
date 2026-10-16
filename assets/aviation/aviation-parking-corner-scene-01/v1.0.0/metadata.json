@@ -1,0 +1,42 @@
+{
+  "id": "aviation-parking-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "aviation",
+  "style": "soft-low-poly",
+  "title": "Small Aircraft Parking Corner",
+  "description": "Original small-aircraft display on four complete apron tiles. Three tires rest on real opposing slab faces, clear of stripes and module seams. Static editable game-art arrangement.",
+  "bounds": {
+    "x": 3.988,
+    "y": 3.988,
+    "z": 1.07,
+    "unit": "m"
+  },
+  "triangles": 1280,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/aviation/aviation-parking-corner-scene-01/v1.0.0/model.glb",
+      "size": 91192,
+      "sha256": "7f895f9b3eaa920c244d96abe6b51dfcded837bd7cb32d30f74f4f3dbb1d5f43"
+    },
+    "blend": {
+      "path": "assets/aviation/aviation-parking-corner-scene-01/v1.0.0/source.blend",
+      "size": 665320,
+      "sha256": "384117b2dc81c4f9679b2c0a3cfd05bff16b911b86a82e97870f888a5860463e"
+    },
+    "generator": {
+      "path": "assets/aviation/aviation-parking-corner-scene-01/v1.0.0/generate.py",
+      "size": 31398,
+      "sha256": "d15ccc7bf65d92e4e9868256cdd552dc87a646ed6a598e555992176e75277e1b"
+    },
+    "render": {
+      "path": "assets/aviation/aviation-parking-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 306747,
+      "sha256": "c6752bbc2e20d3ca9cddbc954b93028894e3f9952a568c07c644d50853de09fc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

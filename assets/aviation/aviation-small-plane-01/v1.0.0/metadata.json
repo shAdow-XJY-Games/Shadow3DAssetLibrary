@@ -1,0 +1,42 @@
+{
+  "id": "aviation-small-plane-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "aviation",
+  "style": "soft-low-poly",
+  "title": "Small Propeller Airplane",
+  "description": "Original low-poly parked airplane with editable tapered fuselage, main wing, tailplane, fin, canopy, propeller and three-point wheeled gear. Game visual dimensions only; no aerodynamic performance or engineering specifications.",
+  "bounds": {
+    "x": 2.5,
+    "y": 1.99,
+    "z": 0.95,
+    "unit": "m"
+  },
+  "triangles": 928,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/aviation/aviation-small-plane-01/v1.0.0/model.glb",
+      "size": 64472,
+      "sha256": "82da6d2540e622086783eef7f5a4cbdf888d343c35d507448f420381f57ddc0d"
+    },
+    "blend": {
+      "path": "assets/aviation/aviation-small-plane-01/v1.0.0/source.blend",
+      "size": 613576,
+      "sha256": "38324fde1bfda4aae0a8e0a4f0afb0709363915251916e55aa89b92566a53743"
+    },
+    "generator": {
+      "path": "assets/aviation/aviation-small-plane-01/v1.0.0/generate.py",
+      "size": 29208,
+      "sha256": "38782dedea080703b1f35d17bb213647c2a07326fc5af583bc06e0559466f5c2"
+    },
+    "render": {
+      "path": "assets/aviation/aviation-small-plane-01/v1.0.0/thumbnail.png",
+      "size": 299652,
+      "sha256": "49e58322e9903192410e350c99c7c96fc0dff65f0a92a278d24d002dc31d2ea5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
