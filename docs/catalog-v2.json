@@ -479,9 +479,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "c5cbcc552feaa6629711fa28299c58613bc9a3f5"
+    },
+    "hospitality-bed": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "894e5c75cae94513d08180aa328594c31b983bbd"
     }
   },
-  "assetCount": 263,
+  "assetCount": 264,
   "shards": [
     {
       "theme": "camping",
@@ -783,6 +788,13 @@
       "path": "metadata/7e758e3fc64be3fc8cff996e720acd21c35183e88737e8d16bc0ce1ae16fc91e.json",
       "size": 3281,
       "sha256": "7e758e3fc64be3fc8cff996e720acd21c35183e88737e8d16bc0ce1ae16fc91e"
+    },
+    {
+      "theme": "hospitality",
+      "count": 1,
+      "path": "metadata/45f583a43bf4d177a549806ef98f879b2206bc9ff90ffd5e88725e8cf044355d.json",
+      "size": 1691,
+      "sha256": "45f583a43bf4d177a549806ef98f879b2206bc9ff90ffd5e88725e8cf044355d"
     }
   ]
 }
