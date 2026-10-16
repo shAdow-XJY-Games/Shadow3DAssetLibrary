@@ -94,9 +94,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "da98017cc28db6c78f26b071017ab4e075be42b2"
+    },
+    "aviation-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "b7dfbbbdffe4a53d02d441347b0b838fae1f3438"
     }
   },
-  "assetCount": 127,
+  "assetCount": 130,
   "shards": [
     {
       "theme": "camping",
@@ -230,6 +235,13 @@
       "path": "metadata/5aa05d952c64ec51d420e21178404d2f06f407ae6cb207a8128b0d6551ed6c2a.json",
       "size": 3969,
       "sha256": "5aa05d952c64ec51d420e21178404d2f06f407ae6cb207a8128b0d6551ed6c2a"
+    },
+    {
+      "theme": "aviation",
+      "count": 3,
+      "path": "metadata/c4d17dbd14909be25bd3e1b5d6ff4f76b9b06d5d1c798368ebfa89934d861c49.json",
+      "size": 3809,
+      "sha256": "c4d17dbd14909be25bd3e1b5d6ff4f76b9b06d5d1c798368ebfa89934d861c49"
     }
   ]
 }
