@@ -1,0 +1,42 @@
+{
+  "id": "retail-stackable-produce-crate-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "warm-handcrafted-retail",
+  "title": "Ventilated Stackable Produce Crate",
+  "description": "Original single-specification .46 by .28 by .22 m open produce crate with a continuous closed shell, real ventilation holes, 110 by 43 mm end grip apertures, four outer corner landing pads and four lower inward locator tongues. Muted reusable-container material. Actual same-ID two-instance stacking and upright placement on the unchanged parcel handtruck are checked at documented poses. No load rating, dynamic transport, carrying stability, nesting or material-strength certification.",
+  "bounds": {
+    "x": 0.46000000834465027,
+    "y": 0.2800000011920929,
+    "z": 0.2199999988079071,
+    "unit": "m"
+  },
+  "triangles": 758,
+  "materials": 1,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-stackable-produce-crate-01/v1.0.0/model.glb",
+      "size": 27140,
+      "sha256": "4a658aa164de5993ac38a46f3d4bf8f4f506f33c072b459904c572bfb7b3bf43"
+    },
+    "blend": {
+      "path": "assets/retail/retail-stackable-produce-crate-01/v1.0.0/source.blend",
+      "size": 549176,
+      "sha256": "64db1554b26ef4ee78e51046d3629064a4bf95a319226a4a7fb29aa2fbdfdbd2"
+    },
+    "generator": {
+      "path": "assets/retail/retail-stackable-produce-crate-01/v1.0.0/generate.py",
+      "size": 32493,
+      "sha256": "948043e43d96a8579d7baa3e2cde48cc18f7aab9e888e96bd4b1b5aaf39b725d"
+    },
+    "render": {
+      "path": "assets/retail/retail-stackable-produce-crate-01/v1.0.0/thumbnail.png",
+      "size": 219596,
+      "sha256": "349d8673b082a1055bd1583f23b813a7d55ae628a8b519ac16b2352c5e0681da"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

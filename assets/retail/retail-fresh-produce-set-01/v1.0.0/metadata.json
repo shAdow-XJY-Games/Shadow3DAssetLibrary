@@ -1,0 +1,42 @@
+{
+  "id": "retail-fresh-produce-set-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "warm-handcrafted-retail",
+  "title": "Harvested Pear Carrot and Cabbage Set",
+  "description": "Original editable harvested-food kit containing a shouldered pear with a thin stem, one complete tapered carrot with three folded leaves, and a rounded cabbage with three thick overlapping outer leaves. Each food uses a distinct continuous volume and named closed components, rather than recoloured sphere variants. Muted whole-food colours, no labels or external textures. Three foods count as one set ID. Static display placement only; no food preparation, growth, deformation or physical simulation.",
+  "bounds": {
+    "x": 0.6684331595897675,
+    "y": 0.4006665498018265,
+    "z": 0.21572528779506683,
+    "unit": "m"
+  },
+  "triangles": 1492,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-fresh-produce-set-01/v1.0.0/model.glb",
+      "size": 91948,
+      "sha256": "be6cc5f519fff43c2d39e3b6781a86ee1b9a6d12ea9100c02a5af1e563b4f9ce"
+    },
+    "blend": {
+      "path": "assets/retail/retail-fresh-produce-set-01/v1.0.0/source.blend",
+      "size": 988672,
+      "sha256": "ec3c5feb5f7a67ed54fabb36074b40fcd0b22abb6e80ea86f5575e07b5043850"
+    },
+    "generator": {
+      "path": "assets/retail/retail-fresh-produce-set-01/v1.0.0/generate.py",
+      "size": 35481,
+      "sha256": "ac262e701005a56f82305e8e4d9f34f64e6811e3ffdef269dd47a1214dba7578"
+    },
+    "render": {
+      "path": "assets/retail/retail-fresh-produce-set-01/v1.0.0/thumbnail.png",
+      "size": 179580,
+      "sha256": "954a7706bc12db386228a11d2caa9938072f99438cfed54f3e3cd69e18066287"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
