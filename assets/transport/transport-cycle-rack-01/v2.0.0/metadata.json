@@ -1,0 +1,42 @@
+{
+  "id": "transport-cycle-rack-01",
+  "version": "2.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "S01 Three Hoop Cycle Rack - Local Foot Repair",
+  "description": "Version 2 same-ID repair of the three-hoop cycle parking rack: six low local mounting feet replace the former full-width ballast rails that blocked the tested city bicycle tires and stand. Retains three continuous open hoops; occupied width approximately 1.35 m and nominal repeat pitch 1.8 m. Independent editable fixed mesh components. The tested bicycle remains supported by its own tires and deployed stand; this rack does not promise wheel clamping, leaning support, anti-theft performance, dynamic insertion or load certification.",
+  "bounds": {
+    "x": 1.350000023841858,
+    "y": 0.75,
+    "z": 0.772936224937439,
+    "unit": "m"
+  },
+  "triangles": 804,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-cycle-rack-01/v2.0.0/model.glb",
+      "size": 55876,
+      "sha256": "e2d34195213354b9e7256c61fb0514ddac51e4c4c9203a956a8615cd659c22ee"
+    },
+    "blend": {
+      "path": "assets/transport/transport-cycle-rack-01/v2.0.0/source.blend",
+      "size": 697236,
+      "sha256": "62de62eb6841bea90c7e9d2ce2b18765ab5f4c6fae70ebe7b6fba91f0f5e9feb"
+    },
+    "generator": {
+      "path": "assets/transport/transport-cycle-rack-01/v2.0.0/generate.py",
+      "size": 29666,
+      "sha256": "478858061e0e509e2e0b230d53af31b0254765040ea09c1bc849775a44d55e99"
+    },
+    "render": {
+      "path": "assets/transport/transport-cycle-rack-01/v2.0.0/thumbnail.png",
+      "size": 185861,
+      "sha256": "9d2426a933e31094a2e662331b3c664aa8cdf6e0778e31d7e9ea56dfd50d5abb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
