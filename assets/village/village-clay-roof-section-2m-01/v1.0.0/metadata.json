@@ -1,0 +1,42 @@
+{
+  "id": "village-clay-roof-section-2m-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Clay Roof Section \u2014 2m Repeat",
+  "description": "S03 modular clay gable-roof section with three restrained staggered courses per slope. Four-metre wall-centre span, two-metre Y repeat, explicit wall-cap mounting plane at local Z=0. Real opposite-face rafter/deck and ridge contacts with no forced interpenetration. Actual wall-cap and repeat-end contacts are recorded in local assembly evidence. Mounting origin is at wall-cap level; no terrain placement, structural load-capacity or runtime collision guarantee. Pending independent review.",
+  "bounds": {
+    "x": 4.6,
+    "y": 2.0,
+    "z": 1.86,
+    "unit": "m"
+  },
+  "triangles": 336,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-clay-roof-section-2m-01/v1.0.0/model.glb",
+      "size": 27472,
+      "sha256": "934bf03527e2b7da6fa453fc61e065b37fb815aa37894b8fce126dbeab07cb14"
+    },
+    "blend": {
+      "path": "assets/village/village-clay-roof-section-2m-01/v1.0.0/source.blend",
+      "size": 742204,
+      "sha256": "6a4d9e2a50bb7483189c66c6f7e5151c79c4a84298bec62002fa3b605e4d196e"
+    },
+    "generator": {
+      "path": "assets/village/village-clay-roof-section-2m-01/v1.0.0/generate.py",
+      "size": 41172,
+      "sha256": "57d3ecd72ceb1cc43b0b05be7ba9ecb9a678ca92a8ee280a2f8f0b9bc2375103"
+    },
+    "render": {
+      "path": "assets/village/village-clay-roof-section-2m-01/v1.0.0/thumbnail.png",
+      "size": 321189,
+      "sha256": "65499ca67a229dc5d82e6a77d390d0db82b52fcd5a033643f808b76f4b8f1e67"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
