@@ -89,9 +89,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "077cf9ef9fce85916bf63d5a4c6cdc995be66c4f"
+    },
+    "textile-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "da98017cc28db6c78f26b071017ab4e075be42b2"
     }
   },
-  "assetCount": 124,
+  "assetCount": 127,
   "shards": [
     {
       "theme": "camping",
@@ -218,6 +223,13 @@
       "path": "metadata/b17ccd78dbfcd9eb9b5a03109d196d403d3a0255a2e433ffa98ac1c211e5e945.json",
       "size": 3840,
       "sha256": "b17ccd78dbfcd9eb9b5a03109d196d403d3a0255a2e433ffa98ac1c211e5e945"
+    },
+    {
+      "theme": "textile",
+      "count": 3,
+      "path": "metadata/5aa05d952c64ec51d420e21178404d2f06f407ae6cb207a8128b0d6551ed6c2a.json",
+      "size": 3969,
+      "sha256": "5aa05d952c64ec51d420e21178404d2f06f407ae6cb207a8128b0d6551ed6c2a"
     }
   ]
 }
