@@ -539,9 +539,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "6eaddd547e41a2a0e410377814b3cee1d90701b3"
+    },
+    "music-football-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "37d94373bb0b5513f87be23b9cf10ef9e810920f"
     }
   },
-  "assetCount": 277,
+  "assetCount": 279,
   "shards": [
     {
       "theme": "camping",
@@ -622,10 +627,10 @@
     },
     {
       "theme": "music",
-      "count": 3,
-      "path": "metadata/d2bad3ec14cd1edb16e65386640ab822c2d0b7e62ace7df6626d0731aec6519b.json",
-      "size": 4146,
-      "sha256": "d2bad3ec14cd1edb16e65386640ab822c2d0b7e62ace7df6626d0731aec6519b"
+      "count": 4,
+      "path": "metadata/7f3dd91fd5649ac4d51cbf9b51712e6f5bbb6c92405f7a701249526b7b9bf815.json",
+      "size": 5743,
+      "sha256": "7f3dd91fd5649ac4d51cbf9b51712e6f5bbb6c92405f7a701249526b7b9bf815"
     },
     {
       "theme": "photography",
@@ -906,6 +911,13 @@
       "path": "metadata/a03adbbd2ee6a92c4ad3d08cda5f7085167e06b3c0e912ec1cbbd83cbd61be28.json",
       "size": 1742,
       "sha256": "a03adbbd2ee6a92c4ad3d08cda5f7085167e06b3c0e912ec1cbbd83cbd61be28"
+    },
+    {
+      "theme": "entertainment",
+      "count": 1,
+      "path": "metadata/2b5ad75c03f47d5d55f99e9228cff8e7a3ccb38ff487f9bace092063c5de3b88.json",
+      "size": 1866,
+      "sha256": "2b5ad75c03f47d5d55f99e9228cff8e7a3ccb38ff487f9bace092063c5de3b88"
     }
   ]
 }
