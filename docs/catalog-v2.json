@@ -244,9 +244,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "b215203c91bb3f4d5ad1f86a940245a26e67f296"
+    },
+    "river-tree": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "0d1a2cb647f6ff3551cf1b22d8324bc2e4697e2e"
     }
   },
-  "assetCount": 199,
+  "assetCount": 200,
   "shards": [
     {
       "theme": "camping",
@@ -299,10 +304,10 @@
     },
     {
       "theme": "nature",
-      "count": 13,
-      "path": "metadata/b619eebfb6fcb761e81aa1907319f1365c8e17afe19c505f34900dd71d79f86e.json",
-      "size": 17437,
-      "sha256": "b619eebfb6fcb761e81aa1907319f1365c8e17afe19c505f34900dd71d79f86e"
+      "count": 14,
+      "path": "metadata/94c9d511f878b1848c61f924c109e63229140624bc27cf7f6368398a9b04dc12.json",
+      "size": 18809,
+      "sha256": "94c9d511f878b1848c61f924c109e63229140624bc27cf7f6368398a9b04dc12"
     },
     {
       "theme": "astronomy",
