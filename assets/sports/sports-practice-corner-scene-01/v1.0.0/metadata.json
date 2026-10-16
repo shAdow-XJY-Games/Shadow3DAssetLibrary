@@ -1,0 +1,42 @@
+{
+  "id": "sports-practice-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "sports",
+  "style": "soft-low-poly",
+  "title": "Basketball Practice Corner",
+  "description": "Original small practice-court display with an open-rim basketball stand, two full fence modules and a raised semicircular floor marking. Layout and dimensions are game-art conventions, not formal competition standards.",
+  "bounds": {
+    "x": 4.8,
+    "y": 4.2,
+    "z": 2.762,
+    "unit": "m"
+  },
+  "triangles": 2520,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-practice-corner-scene-01/v1.0.0/model.glb",
+      "size": 179860,
+      "sha256": "4cf2c6040c7a7c390542c0155396135021b921a3b6ad7567f4c1056d2ff84005"
+    },
+    "blend": {
+      "path": "assets/sports/sports-practice-corner-scene-01/v1.0.0/source.blend",
+      "size": 778784,
+      "sha256": "780c75d0251851cb40b02126154f631c95425d27e7de662712edc125925b2a3f"
+    },
+    "generator": {
+      "path": "assets/sports/sports-practice-corner-scene-01/v1.0.0/generate.py",
+      "size": 27960,
+      "sha256": "31ff0b29b3c458fb63378bf080ae51caef83a48876ab5632ca6f27b36e3a1b71"
+    },
+    "render": {
+      "path": "assets/sports/sports-practice-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 331730,
+      "sha256": "3f39df9dfef66dba76e7ffb7ef75b55df95de9abb9f34dd7ee32db5c50c2b88b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

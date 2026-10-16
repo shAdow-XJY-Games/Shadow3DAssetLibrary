@@ -1,0 +1,42 @@
+{
+  "id": "sports-court-fence-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "sports",
+  "style": "soft-low-poly",
+  "title": "Two Meter Court Fence",
+  "description": "Original 2.0 m repeat-width court fence module with two grounded feet/posts, two cross rails and five upright bars. Repeat complete instances along X. Stylized game boundary, not a safety-rated barrier.",
+  "bounds": {
+    "x": 2.0,
+    "y": 0.38,
+    "z": 1.6,
+    "unit": "m"
+  },
+  "triangles": 484,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-court-fence-01/v1.0.0/model.glb",
+      "size": 39048,
+      "sha256": "0fe23208554f366fdfd73dc6be77fedc6d254609a102f44cbc729d7fa16cf5c9"
+    },
+    "blend": {
+      "path": "assets/sports/sports-court-fence-01/v1.0.0/source.blend",
+      "size": 559784,
+      "sha256": "eaa790c111d7d1ddbea27b11456e6fed5ea3e8294fe5bbf56bd9621eba9c2305"
+    },
+    "generator": {
+      "path": "assets/sports/sports-court-fence-01/v1.0.0/generate.py",
+      "size": 25586,
+      "sha256": "54b7af6e7e36a60cd5e9ce1d74e362794f0d023c4faab8c0f7811cb23047db39"
+    },
+    "render": {
+      "path": "assets/sports/sports-court-fence-01/v1.0.0/thumbnail.png",
+      "size": 308666,
+      "sha256": "6282fb767a09a1910a3b3e844189a033f98cd89932b8b62f7e1ff0701f1f4e3e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
