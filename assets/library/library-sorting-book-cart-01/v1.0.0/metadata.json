@@ -1,0 +1,42 @@
+{
+  "id": "library-sorting-book-cart-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "library",
+  "style": "S01-clean-geometric",
+  "title": "Inclined Shelf Book Sorting Cart",
+  "description": "Original static book sorting cart with two ten-degree backward-inclined shelves, continuous rear backstops, side stops and low front retaining lips. A rigid low chassis, four fixed flat-tread caster assemblies, four continuous uprights and two raised side handles form one functional service cart. Named editable components remain separate. Actual closed-book bottom and rear-face contacts are validated at selected poses; no wheel rotation, steering, load rating or dynamic insertion is promised.",
+  "bounds": {
+    "x": 0.7429999709129333,
+    "y": 0.46000000834465027,
+    "z": 0.9325000047683716,
+    "unit": "m"
+  },
+  "triangles": 1756,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/library/library-sorting-book-cart-01/v1.0.0/model.glb",
+      "size": 135944,
+      "sha256": "72ae1fb5554edba16e3bef85219a2bb62132d1c6edfdeb7bd3ea7a90c8467b74"
+    },
+    "blend": {
+      "path": "assets/library/library-sorting-book-cart-01/v1.0.0/source.blend",
+      "size": 901824,
+      "sha256": "5e36336e2c78dee96ac88d8084114ead40d7814ea640cbd7585f4d31752eb28c"
+    },
+    "generator": {
+      "path": "assets/library/library-sorting-book-cart-01/v1.0.0/generate.py",
+      "size": 32205,
+      "sha256": "f6f9aaf2fba2d7a711f591a258a0822cdf93bc73bf71a2a87ffc57bdb3f43d92"
+    },
+    "render": {
+      "path": "assets/library/library-sorting-book-cart-01/v1.0.0/thumbnail.png",
+      "size": 237112,
+      "sha256": "1f223080bb399be55dec6fa725a77109add6180ceda9811645e4c156124f37f7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

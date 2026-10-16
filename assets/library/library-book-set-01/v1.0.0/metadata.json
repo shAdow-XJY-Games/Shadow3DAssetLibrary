@@ -1,0 +1,42 @@
+{
+  "id": "library-book-set-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "library",
+  "style": "S01-clean-geometric",
+  "title": "Editable Closed Book Set",
+  "description": "Original three-book closed set, with 0.160 by 0.230 by 0.026 m pocket, 0.190 by 0.270 by 0.037 m reading and 0.220 by 0.300 by 0.045 m reference formats. Every book has a continuous front/back/spine wrap cover and an inset closed page block, with two separately editable named components sharing a bottom-centred origin. Plain low-saturation covers without titles or copied artwork. One kit ID, not three colour variants. Static closed display only, with no opening, page turning, readable text or physical simulation.",
+  "bounds": {
+    "x": 0.7099999785423279,
+    "y": 0.30000001192092896,
+    "z": 0.04500000178813934,
+    "unit": "m"
+  },
+  "triangles": 216,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/library/library-book-set-01/v1.0.0/model.glb",
+      "size": 18396,
+      "sha256": "8133d4ca541192a26ff4694e6aff67d7ea5aead963a693b88e3c398516181f6b"
+    },
+    "blend": {
+      "path": "assets/library/library-book-set-01/v1.0.0/source.blend",
+      "size": 769872,
+      "sha256": "8f9ec1ae1974fb3a092d3be7aa82eada629755fdd35864ba68cf50ea4c33a075"
+    },
+    "generator": {
+      "path": "assets/library/library-book-set-01/v1.0.0/generate.py",
+      "size": 31711,
+      "sha256": "7f66f836403900022e943ba52e6289dde2c4b4cfef126df7eb5b854cf56d7e56"
+    },
+    "render": {
+      "path": "assets/library/library-book-set-01/v1.0.0/thumbnail.png",
+      "size": 170171,
+      "sha256": "6b396f08a53353ee3966b7f70decafb319def9dcd310b4e97ed60b687a2059dc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
