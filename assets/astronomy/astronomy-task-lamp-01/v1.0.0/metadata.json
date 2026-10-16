@@ -1,0 +1,42 @@
+{
+  "id": "astronomy-task-lamp-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "astronomy",
+  "style": "S08-bright-instrumentation",
+  "title": "Down-Shaded Observation Task Lamp",
+  "description": "Original S08 static visual task lamp with a thick downward-open shade, deeply recessed ivory diffuser, fixed raised arm and stable low base. Separate named closed source and GLB components. Unlit visual fixture only, no electrical behavior, illumination performance or adjustable mechanism simulation.",
+  "bounds": {
+    "x": 0.3149999976158142,
+    "y": 0.23000000417232513,
+    "z": 0.7332431674003601,
+    "unit": "m"
+  },
+  "triangles": 268,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/astronomy/astronomy-task-lamp-01/v1.0.0/model.glb",
+      "size": 20736,
+      "sha256": "a324598b1226127a874b1cad4237a78426aa9613d89295acf8b9dfb4c0d074f0"
+    },
+    "blend": {
+      "path": "assets/astronomy/astronomy-task-lamp-01/v1.0.0/source.blend",
+      "size": 767096,
+      "sha256": "c82a7575df142caab8e264fe48301414fa0da57b5b42f4a261a1c1f0a38a4c1c"
+    },
+    "generator": {
+      "path": "assets/astronomy/astronomy-task-lamp-01/v1.0.0/generate.py",
+      "size": 30470,
+      "sha256": "643b839d7a4509f8429cfc984b89b6bf934a98146a839ef92113fe43725e5b6b"
+    },
+    "render": {
+      "path": "assets/astronomy/astronomy-task-lamp-01/v1.0.0/thumbnail.png",
+      "size": 170652,
+      "sha256": "5a025e453e64b4be97e97732350cae9bc6a71e179446901b5997ddfb95b0d227"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

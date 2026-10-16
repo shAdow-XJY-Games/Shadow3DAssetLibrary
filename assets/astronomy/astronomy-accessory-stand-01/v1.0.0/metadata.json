@@ -1,0 +1,42 @@
+{
+  "id": "astronomy-accessory-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "astronomy",
+  "style": "S08-bright-instrumentation",
+  "title": "Open-Fork Instrument Accessory Stand",
+  "description": "Original S08 static accessory support with a continuous open fork head, rearward slanted central support and linked low feet. Two long top bearing arms support the approved eyepiece case in the documented display placement. Independently editable source and GLB components; fixed geometry with no height adjustment, lifting or rated load claim.",
+  "bounds": {
+    "x": 0.46000000834465027,
+    "y": 0.41999998688697815,
+    "z": 0.7200000286102295,
+    "unit": "m"
+  },
+  "triangles": 204,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/astronomy/astronomy-accessory-stand-01/v1.0.0/model.glb",
+      "size": 18948,
+      "sha256": "a8c2ffee850b35d81041b13072a5ba05286abe605b2c919a1b5b10be6fc8c6a6"
+    },
+    "blend": {
+      "path": "assets/astronomy/astronomy-accessory-stand-01/v1.0.0/source.blend",
+      "size": 696260,
+      "sha256": "6fd7d5a0884d31230058e911c2bdfa41d8b5e14f376d4dc721db66a45fe98c01"
+    },
+    "generator": {
+      "path": "assets/astronomy/astronomy-accessory-stand-01/v1.0.0/generate.py",
+      "size": 30201,
+      "sha256": "b4955789136318f68d137136f71acdb8fd2e6c0127cf4f015b03c027ba7cd200"
+    },
+    "render": {
+      "path": "assets/astronomy/astronomy-accessory-stand-01/v1.0.0/thumbnail.png",
+      "size": 190312,
+      "sha256": "320e750c705c2ea55c0c0f80de67bdba4fcf1fb8694d0adb3770324267f6a4a6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
