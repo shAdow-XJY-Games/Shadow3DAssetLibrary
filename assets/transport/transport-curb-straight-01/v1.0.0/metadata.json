@@ -1,0 +1,42 @@
+{
+  "id": "transport-curb-straight-01",
+  "version": "1.0.0",
+  "category": "infrastructure",
+  "assetKind": "modular",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "S01 Straight Pavement and Curb",
+  "description": "Original two-metre repeat-pitch urban pavement with a continuous 0.15m-high street edge and restrained curb-band material. Closed static module, 1.2m deep, matching actual X-end profiles with the companion pavement module. Game visual geometry only; no accessibility, driving, load or engineering certification.",
+  "bounds": {
+    "x": 2.0,
+    "y": 1.2000000476837158,
+    "z": 0.15000000596046448,
+    "unit": "m"
+  },
+  "triangles": 44,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-curb-straight-01/v1.0.0/model.glb",
+      "size": 3624,
+      "sha256": "b5145f23dcc119ebbe9f2df40af3b4c0200e09e084d2ae114ea69d9d44678cc3"
+    },
+    "blend": {
+      "path": "assets/transport/transport-curb-straight-01/v1.0.0/source.blend",
+      "size": 623708,
+      "sha256": "71bcf2fe57f5160eeefad4fd4af814654b140313bb60f85005e788a61a194150"
+    },
+    "generator": {
+      "path": "assets/transport/transport-curb-straight-01/v1.0.0/generate.py",
+      "size": 29676,
+      "sha256": "9e688a80b4e000a0dec0607686ada6458df3c9f7fee517b07637d702cbb07cb3"
+    },
+    "render": {
+      "path": "assets/transport/transport-curb-straight-01/v1.0.0/thumbnail.png",
+      "size": 168666,
+      "sha256": "fe60e1e379c8595c9ba46f28b787b27c8d6102bd39a8807db31e6f6a2e34dd1f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

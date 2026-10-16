@@ -1,0 +1,42 @@
+{
+  "id": "transport-curb-ramp-01",
+  "version": "1.0.0",
+  "category": "infrastructure",
+  "assetKind": "modular",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "S01 Dropped Curb Transition",
+  "description": "Original two-metre repeat-pitch dropped curb with a 1.2m-wide central lowered entry, sloped wings and a remaining 15mm street-edge lip. Closed static module, 1.2m deep, matching actual X-end profiles with the companion pavement module. Game visual geometry only; no accessibility, driving, load or engineering certification.",
+  "bounds": {
+    "x": 2.0,
+    "y": 1.2000000476837158,
+    "z": 0.15000000596046448,
+    "unit": "m"
+  },
+  "triangles": 44,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-curb-ramp-01/v1.0.0/model.glb",
+      "size": 3960,
+      "sha256": "1dd8acdff39a997a4462b68dccbe2ee05f09863b5350f2e41b3403d4f7adfbfa"
+    },
+    "blend": {
+      "path": "assets/transport/transport-curb-ramp-01/v1.0.0/source.blend",
+      "size": 623708,
+      "sha256": "63ba2d1dcb07a707169c8ea6aa5a867de597b18da22a5474a5b85549f1991f2e"
+    },
+    "generator": {
+      "path": "assets/transport/transport-curb-ramp-01/v1.0.0/generate.py",
+      "size": 29684,
+      "sha256": "59b37608cea66b5332bfa75b227d44856bfacb72cebb768dd16cbd991cd127f4"
+    },
+    "render": {
+      "path": "assets/transport/transport-curb-ramp-01/v1.0.0/thumbnail.png",
+      "size": 169292,
+      "sha256": "a540f562424e8eb199f9946074126b455be7bbd86b12d048eb5c675f48e99db3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "village-solid-wall-2m-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Timber and Plaster Solid Wall, 2 m",
+  "description": "Independent S03 modular village wall: 2 m repeat, 2.6 m height, 0.22 m plaster core and two-sided timber details. Matching X-end plaster profiles with 2 mm top-rail installation seam. Central stud has a deliberate 10 mm face offset from the lower rail; short junction shadows are geometric rebates. Cottage v2 supplies the appearance reference, not a directly interchangeable building system. Static visual module; no structural, collision or navigation claims.",
+  "bounds": {
+    "x": 2.0,
+    "y": 0.28,
+    "z": 2.6,
+    "unit": "m"
+  },
+  "triangles": 48,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-solid-wall-2m-01/v1.0.0/model.glb",
+      "size": 5468,
+      "sha256": "522527e5b5da2635626fd4ccba42a1015b497866bb029a67ca5aa60d3befbc80"
+    },
+    "blend": {
+      "path": "assets/village/village-solid-wall-2m-01/v1.0.0/source.blend",
+      "size": 533084,
+      "sha256": "b26280db847abe1b2cd0efe0a6230573652bd15d5748cd77bca6d30df066abc6"
+    },
+    "generator": {
+      "path": "assets/village/village-solid-wall-2m-01/v1.0.0/generate.py",
+      "size": 32813,
+      "sha256": "b23a5e6e1ead26c5afe5d8c415b7f71d52a24df5b023c088c91e77eb0b744d1c"
+    },
+    "render": {
+      "path": "assets/village/village-solid-wall-2m-01/v1.0.0/thumbnail.png",
+      "size": 311390,
+      "sha256": "6936855befee239961489ed27ebcdecdb8835719407ec54aaa8375549b0a7678"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
