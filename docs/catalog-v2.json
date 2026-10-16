@@ -319,9 +319,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "09bf715a9817d4e3a027b9f71bcdf1fafee7f488"
+    },
+    "steps-flatbed-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "a13770bbb37c8b818623795dbbb2a562a3097a3c"
     }
   },
-  "assetCount": 218,
+  "assetCount": 220,
   "shards": [
     {
       "theme": "camping",
@@ -353,10 +358,10 @@
     },
     {
       "theme": "village",
-      "count": 41,
-      "path": "metadata/4a10fd03b96625f4d89e070105f0218074481b1e8bcaac5fd67b43be80627efe.json",
-      "size": 52036,
-      "sha256": "4a10fd03b96625f4d89e070105f0218074481b1e8bcaac5fd67b43be80627efe"
+      "count": 42,
+      "path": "metadata/3af2176b142274199a9428ce6dc4f7b106c6edc6208965b718f0f6ebeeb9b68a.json",
+      "size": 53413,
+      "sha256": "3af2176b142274199a9428ce6dc4f7b106c6edc6208965b718f0f6ebeeb9b68a"
     },
     {
       "theme": "transport",
@@ -430,10 +435,10 @@
     },
     {
       "theme": "railway",
-      "count": 5,
-      "path": "metadata/48ad67b031d1b49e30efb9fffd1dd77a7096eaceed09965d34cc7821d4039b51.json",
-      "size": 7377,
-      "sha256": "48ad67b031d1b49e30efb9fffd1dd77a7096eaceed09965d34cc7821d4039b51"
+      "count": 6,
+      "path": "metadata/6bbf13d6b248cfd705e7fd74455b43a8ed5a64619afab432d6198973a0798d7a.json",
+      "size": 9185,
+      "sha256": "6bbf13d6b248cfd705e7fd74455b43a8ed5a64619afab432d6198973a0798d7a"
     },
     {
       "theme": "renewable",
