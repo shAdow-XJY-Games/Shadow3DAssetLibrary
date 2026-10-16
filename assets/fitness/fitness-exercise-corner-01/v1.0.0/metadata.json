@@ -1,0 +1,42 @@
+{
+  "id": "fitness-exercise-corner-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "fitness",
+  "style": "soft-low-poly",
+  "title": "Small Exercise Equipment Corner",
+  "description": "Original fitness equipment corner on a 2.8x2.4m base, with two upper and one lower kettlebell on a real two-tier rack plus an exercise mat. All grips have geometric openings and weights have flat support bases. Static visual assets only, without exercise, mass or load-rating claims.",
+  "bounds": {
+    "x": 2.8,
+    "y": 2.4,
+    "z": 1.475,
+    "unit": "m"
+  },
+  "triangles": 1956,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-exercise-corner-01/v1.0.0/model.glb",
+      "size": 142672,
+      "sha256": "004768cc895751075872b5da913e19df16d7eac1cf95f810455b32594e92da8f"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-exercise-corner-01/v1.0.0/source.blend",
+      "size": 803164,
+      "sha256": "400c45e6419b8cdcc1cf6966ee6e35346eeb165f66aff6fcfe073a187879c339"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-exercise-corner-01/v1.0.0/generate.py",
+      "size": 29426,
+      "sha256": "faf375cbb683998c13a9987767978c33dedce443e0dc251fe4276ef4c0544be8"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-exercise-corner-01/v1.0.0/thumbnail.png",
+      "size": 308357,
+      "sha256": "6712f403949c27a3dd947ea3c1f2e87fbcdb214627ebe082326bc94a7319b913"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "fitness-kettlebell-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "soft-low-poly",
+  "title": "Open-Grip Low-Poly Kettlebell",
+  "description": "Original flat-bottom faceted kettlebell with a true elliptical handle opening, editable weight body and grip. Approximately 0.40m wide and 0.51m high. Static game visual without mass, exercise prescription or equipment-performance claims.",
+  "bounds": {
+    "x": 0.4,
+    "y": 0.4,
+    "z": 0.51,
+    "unit": "m"
+  },
+  "triangles": 476,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-kettlebell-01/v1.0.0/model.glb",
+      "size": 27028,
+      "sha256": "c5536a7146bfcffb2c2ad3d955f90c6f6ce202c39a89104f2e4787d34a94773f"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-kettlebell-01/v1.0.0/source.blend",
+      "size": 536716,
+      "sha256": "5eb4e13fcc0ff8d0c6d776479383a85053493499f51b50f9369658df5f93c32f"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-kettlebell-01/v1.0.0/generate.py",
+      "size": 28959,
+      "sha256": "21a4f133605bb93667aae2a18c824655bd952c7fcddeb8fb75dfb5a9690182b6"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-kettlebell-01/v1.0.0/thumbnail.png",
+      "size": 295343,
+      "sha256": "fada820d911143dd2df002f458d065b51c0d51e52bd62ae81f289d03d577f528"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

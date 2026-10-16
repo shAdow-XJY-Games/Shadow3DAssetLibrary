@@ -1,0 +1,42 @@
+{
+  "id": "fitness-equipment-rack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "fitness",
+  "style": "soft-low-poly",
+  "title": "Two-Tier Equipment Rack",
+  "description": "Original two-tier equipment display rack with four grounded feet and separate posts and shelves. Shelf width 1.20m and depth 0.46m; independent X repeat at 1.40m leaves a 0.20m shelf gap. Static visual module, without load rating or exercise-safety certification.",
+  "bounds": {
+    "x": 1.22,
+    "y": 0.52,
+    "z": 0.885,
+    "unit": "m"
+  },
+  "triangles": 440,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-equipment-rack-01/v1.0.0/model.glb",
+      "size": 35276,
+      "sha256": "1dd03ab2a601191c322b4fca024c37414b23735fd128e718f3e337575f4f10bb"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-equipment-rack-01/v1.0.0/source.blend",
+      "size": 622820,
+      "sha256": "571e1df3953b8b4afc253c5a8c3004994157315c01599fa53ebe430f71d248fb"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-equipment-rack-01/v1.0.0/generate.py",
+      "size": 29331,
+      "sha256": "30a2837d9a97ec321495deea5ba40994f40fa34b442327ae09b70b1338cb0cec"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-equipment-rack-01/v1.0.0/thumbnail.png",
+      "size": 326316,
+      "sha256": "9bd532b573add5cb082fa435dcbe620fc1bc81de0cdbc471becb4114f4d096be"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
