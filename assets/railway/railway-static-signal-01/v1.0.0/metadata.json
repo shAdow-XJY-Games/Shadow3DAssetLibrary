@@ -1,0 +1,42 @@
+{
+  "id": "railway-static-signal-01",
+  "version": "1.0.0",
+  "category": "railway-infrastructure",
+  "assetKind": "prop",
+  "theme": "railway",
+  "style": "S01-clean-geometric",
+  "title": "S01 Static Railway Service Signal",
+  "description": "Original static low-poly railway service signal visual with compact concrete plinth, fixed mast, two unlit recessed colored lens faces and open-front hoods. Height approximately 1.76 m. Editable fixed source and GLB components; lenses have no emissive output or animation. Intended as a game visual marker only: no operational signal aspects, regulatory compliance, real railway safety function, electrical system, or load specification. Actual ground root and clear placement outside existing sleeper and vehicle envelopes are checked from imported geometry.",
+  "bounds": {
+    "x": 0.3400000035762787,
+    "y": 0.3400000035762787,
+    "z": 1.7599999904632568,
+    "unit": "m"
+  },
+  "triangles": 484,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-static-signal-01/v1.0.0/model.glb",
+      "size": 40460,
+      "sha256": "2ffa3aaf80e34945ffd96bcb52e0fd074958cf5752582454dfeda06d670c2963"
+    },
+    "blend": {
+      "path": "assets/railway/railway-static-signal-01/v1.0.0/source.blend",
+      "size": 872048,
+      "sha256": "6093c0a608a09e33c42ca4b9913fa03b525f6f2818c2f70bcffa05d6b793247a"
+    },
+    "generator": {
+      "path": "assets/railway/railway-static-signal-01/v1.0.0/generate.py",
+      "size": 29644,
+      "sha256": "5d2e1644a9babd04c14dd504fe82168a4045f206147c96d05a6e9731f094f8eb"
+    },
+    "render": {
+      "path": "assets/railway/railway-static-signal-01/v1.0.0/thumbnail.png",
+      "size": 163226,
+      "sha256": "79497a70ad9bae1819d57161b631a1c5e24f4fbf3f6034d24d27c1c54489b068"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
