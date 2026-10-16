@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-front-loading-kiln-kit-01",
+  "version": "1.0.0",
+  "category": "equipment",
+  "assetKind": "modular",
+  "theme": "ceramics",
+  "style": "soft-low-poly",
+  "title": "Front-Loading Pottery Kiln Kit",
+  "description": "Original static front-loading pottery kiln kit with a genuine thick-walled chamber, insulated door with actual bored hinges, removable shelf and three posts. Twenty-two named mesh components and an editable vertical door pivot, default closed. Only closed and 100-degree outward open poses are tested; no continuous opening or thermal simulation. Original full-size legacy amphora loading and complete bottom support are checked in separate use evidence. Vessel and workbench excluded. See generate.py opening documentation for exact node, pose and chamber dimensions.",
+  "bounds": {
+    "x": 1.340000033378601,
+    "y": 1.145000010728836,
+    "z": 1.4199999570846558,
+    "unit": "m"
+  },
+  "triangles": 896,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/ceramics/ceramics-front-loading-kiln-kit-01/v1.0.0/model.glb",
+      "size": 70664,
+      "sha256": "8cd7f9e2338a948aa7b779b5009bc6ed2436eb7b9e57d971cf7f3ce835d47688"
+    },
+    "blend": {
+      "path": "assets/ceramics/ceramics-front-loading-kiln-kit-01/v1.0.0/source.blend",
+      "size": 873100,
+      "sha256": "6774c79d25d8406cdd26267afa7cd75f1fa469fa8ec18957b9a6c9e0466b1250"
+    },
+    "generator": {
+      "path": "assets/ceramics/ceramics-front-loading-kiln-kit-01/v1.0.0/generate.py",
+      "size": 39256,
+      "sha256": "08d649defc1136f26f7cfaf4edc01564221322fc6651980d2297d7c063b767d4"
+    },
+    "render": {
+      "path": "assets/ceramics/ceramics-front-loading-kiln-kit-01/v1.0.0/thumbnail.png",
+      "size": 227270,
+      "sha256": "ae6e3f237083bf4444e154770e79082766d49161e1036c7a2a10228309c9037e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
