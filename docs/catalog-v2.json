@@ -294,9 +294,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "fbe5bd704ab4d29821739e298685846eae74d302"
+    },
+    "stepthrough-scooter-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "ccc1381926ac8fba6947d997311754206cf3e856"
     }
   },
-  "assetCount": 213,
+  "assetCount": 214,
   "shards": [
     {
       "theme": "camping",
@@ -335,10 +340,10 @@
     },
     {
       "theme": "transport",
-      "count": 16,
-      "path": "metadata/95c3cb178c10d852ac38ac7d9fc6b636b78fd16239cdb364b5e4a1c8aa6f312d.json",
-      "size": 22450,
-      "sha256": "95c3cb178c10d852ac38ac7d9fc6b636b78fd16239cdb364b5e4a1c8aa6f312d"
+      "count": 17,
+      "path": "metadata/1619264b22bb3ec81cbb48f9ec36b284b8ea4dbf516eb4056167883375c0e448.json",
+      "size": 24247,
+      "sha256": "1619264b22bb3ec81cbb48f9ec36b284b8ea4dbf516eb4056167883375c0e448"
     },
     {
       "theme": "entryway",
