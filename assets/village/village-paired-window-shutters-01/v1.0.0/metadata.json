@@ -1,0 +1,42 @@
+{
+  "id": "village-paired-window-shutters-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Paired Timber Window Shutters",
+  "description": "S03 paired three-board shutters for the .98x1m clear window in village-window-wall-2m-01. Mount at the host local origin with unit scale. HingeMounts_Static stays fixed. LeftShutter_Runtime/RightShutter_Runtime use real pivots(-.51,-.21,1)/(+.51,-.21,1)m. Nineteen discrete paired and single-leaf poses to90degrees checked, with real polygon pin clearance and bearing support. No continuous motion or hardware simulation guarantee.",
+  "bounds": {
+    "x": 1.2,
+    "y": 0.105,
+    "z": 0.986,
+    "unit": "m"
+  },
+  "triangles": 1584,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-paired-window-shutters-01/v1.0.0/model.glb",
+      "size": 105756,
+      "sha256": "f2ea06caed184994c7422734a8f5fd60971c1a8152b28456e97cdb238421cf40"
+    },
+    "blend": {
+      "path": "assets/village/village-paired-window-shutters-01/v1.0.0/source.blend",
+      "size": 743884,
+      "sha256": "77c32b9ae483bb5147ab211d441fe468ab1bb9966c1f0adeef47d940a657ff0c"
+    },
+    "generator": {
+      "path": "assets/village/village-paired-window-shutters-01/v1.0.0/generate.py",
+      "size": 43447,
+      "sha256": "559248b523527276f901bf7eb67cf7baa9f6a045fcea842c7accf6d86be63c72"
+    },
+    "render": {
+      "path": "assets/village/village-paired-window-shutters-01/v1.0.0/thumbnail.png",
+      "size": 336555,
+      "sha256": "ca78ae01e14b6dae9b78bc91abb9b58044bbc315ccc68dccc8a6bc65720dc1bf"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
