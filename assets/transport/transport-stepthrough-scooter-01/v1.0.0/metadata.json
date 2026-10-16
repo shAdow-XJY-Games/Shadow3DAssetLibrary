@@ -1,0 +1,42 @@
+{
+  "id": "transport-stepthrough-scooter-01",
+  "version": "1.0.0",
+  "category": "vehicles",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "S01 Static Step-through Scooter",
+  "description": "Original static step-through small electric-scooter visual form with two small flat-tread tires, separate fixed hubs and axles, fork and rear supports, low open foot platform, tapered front leg shield, sloped seat support and broad rear shell, thin independent saddle, handlebars, mirrors and lamp housing. Actual tire-to-body meshes are checked for intersections and bidirectional containment at the fixed pose. Editable source and GLB components with baked transforms. Tires and deployed stand provide static presentation support. No wheel/steering animation, powered operation, battery, range, roadworthiness, riding or physics specification.",
+  "bounds": {
+    "x": 0.6700000166893005,
+    "y": 1.7011233568191528,
+    "z": 1.2225000858306885,
+    "unit": "m"
+  },
+  "triangles": 2296,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-stepthrough-scooter-01/v1.0.0/model.glb",
+      "size": 148808,
+      "sha256": "622d7807563daf964ad9fb81562fc0cb6eca2e6feaab8dcb48df5c51af84ea38"
+    },
+    "blend": {
+      "path": "assets/transport/transport-stepthrough-scooter-01/v1.0.0/source.blend",
+      "size": 953084,
+      "sha256": "337188cd753ab09ac308d35137170464c71005b454056ad973369150cc421a73"
+    },
+    "generator": {
+      "path": "assets/transport/transport-stepthrough-scooter-01/v1.0.0/generate.py",
+      "size": 34095,
+      "sha256": "5f5f713bf6514e04fe7f972f99fdbf0ac9536dbd794e46dad899ed9194f03654"
+    },
+    "render": {
+      "path": "assets/transport/transport-stepthrough-scooter-01/v1.0.0/thumbnail.png",
+      "size": 213351,
+      "sha256": "b33636a29957b1fc413ee5070c7443b31aabb1108117e13a1b4e370916457dea"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
