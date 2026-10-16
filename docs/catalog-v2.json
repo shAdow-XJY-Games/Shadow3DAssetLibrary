@@ -334,9 +334,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "dbcd132c727133fab667187bb467ff2aa9948e0f"
+    },
+    "fixed-turnout-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "4a6b639bf3356b7f3d5bdeb6629035237c8cc238"
     }
   },
-  "assetCount": 222,
+  "assetCount": 223,
   "shards": [
     {
       "theme": "camping",
@@ -445,10 +450,10 @@
     },
     {
       "theme": "railway",
-      "count": 7,
-      "path": "metadata/0e557072dd0c9ee84e58e7141e2a0cb078c095295c8f0b0fa8400d3b75e5ffef.json",
-      "size": 10854,
-      "sha256": "0e557072dd0c9ee84e58e7141e2a0cb078c095295c8f0b0fa8400d3b75e5ffef"
+      "count": 8,
+      "path": "metadata/38bcdb58e462cc0a8161cf26059495c206307c970f1601b7ea19fc5ac29a0b74.json",
+      "size": 12673,
+      "sha256": "38bcdb58e462cc0a8161cf26059495c206307c970f1601b7ea19fc5ac29a0b74"
     },
     {
       "theme": "renewable",
