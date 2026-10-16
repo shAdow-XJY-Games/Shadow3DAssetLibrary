@@ -1,0 +1,42 @@
+{
+  "id": "railway-curved-track-2m-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "railway",
+  "style": "S01-clean-geometric",
+  "title": "S01 Two-Metre Curved Railway Track",
+  "description": "Original fixed curved rail module with 2.0 m centerline arc length, 10.0 m game-visual design radius and 0.2 rad heading change; four radial timber sleepers support separate rail feet, inset webs and low-sheen running heads. Clear rail-head gauge 1.00 m, centers plus/minus .54 m and head top Z=.20 m match the existing straight track. Inlet center (0,-1), outlet (.19933422,.98669331), with true tangent stock end faces checked from actual triangles. Finite head-height probes and two unchanged straight modules establish static visual interfaces. Existing inspection trolley is shown only on the adjacent straight section; no curved-route passage, driving, loading or railway engineering/safety certification.",
+  "bounds": {
+    "x": 1.6554416418075562,
+    "y": 2.107087016105652,
+    "z": 0.20000000298023224,
+    "unit": "m"
+  },
+  "triangles": 1112,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-curved-track-2m-01/v1.0.0/model.glb",
+      "size": 62552,
+      "sha256": "f7bd4c30aa8ef86e1e6af82e11d22d5e8a4d89bd571d70e8d6b1fbffdc23dceb"
+    },
+    "blend": {
+      "path": "assets/railway/railway-curved-track-2m-01/v1.0.0/source.blend",
+      "size": 744444,
+      "sha256": "d162408e6a0bddaebdf8089dce0cb419252cb61c464e2d973c6cc029d2d9342e"
+    },
+    "generator": {
+      "path": "assets/railway/railway-curved-track-2m-01/v1.0.0/generate.py",
+      "size": 33695,
+      "sha256": "ec968aaf45554e8198d6f3ba9131747206ecb49c97b44bd30482fa11e2aa6655"
+    },
+    "render": {
+      "path": "assets/railway/railway-curved-track-2m-01/v1.0.0/thumbnail.png",
+      "size": 186877,
+      "sha256": "d0ba34a95d9aad75701d426d7cbe3b790cc06d744b368d969ffbbb1e4b715a5b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
