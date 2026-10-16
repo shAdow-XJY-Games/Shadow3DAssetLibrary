@@ -99,9 +99,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "b7dfbbbdffe4a53d02d441347b0b838fae1f3438"
+    },
+    "beekeeping-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "fc4d52fc284a056f86ca0151aaecc1355884a796"
     }
   },
-  "assetCount": 130,
+  "assetCount": 133,
   "shards": [
     {
       "theme": "camping",
@@ -242,6 +247,13 @@
       "path": "metadata/c4d17dbd14909be25bd3e1b5d6ff4f76b9b06d5d1c798368ebfa89934d861c49.json",
       "size": 3809,
       "sha256": "c4d17dbd14909be25bd3e1b5d6ff4f76b9b06d5d1c798368ebfa89934d861c49"
+    },
+    {
+      "theme": "beekeeping",
+      "count": 3,
+      "path": "metadata/f43883d0defbe0035f1fba34fd028f001db81bf39d937b1054a4bece9e16c32b.json",
+      "size": 3860,
+      "sha256": "f43883d0defbe0035f1fba34fd028f001db81bf39d937b1054a4bece9e16c32b"
     }
   ]
 }
