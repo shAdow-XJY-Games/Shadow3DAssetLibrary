@@ -1,0 +1,42 @@
+{
+  "id": "village-window-wall-2m-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Deep Window Wall, 2 m",
+  "description": "Independent S03 2 m wall with a true 0.98 by 1.00 m framed window opening; sill top at local Z=1.00 m, recessed reveal and projecting stone sill. Matching straight-wall end profile and 2 mm combined timber seam. No glass or shutter included. Warm timber and pale plaster follow the S03 family. Cottage v2 is an appearance reference, not an interchangeable source. Static visual architecture;",
+  "bounds": {
+    "x": 2.0,
+    "y": 0.4,
+    "z": 2.6,
+    "unit": "m"
+  },
+  "triangles": 108,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-window-wall-2m-01/v1.0.0/model.glb",
+      "size": 10164,
+      "sha256": "696d7748d1af4208a791bb254fb73cb1d1289ed493809675bba339619b6e0366"
+    },
+    "blend": {
+      "path": "assets/village/village-window-wall-2m-01/v1.0.0/source.blend",
+      "size": 606020,
+      "sha256": "38ee7a51fda28f5ab675a6fe56c0ab47aed6c5521a5846d500a88b0e6bfa0903"
+    },
+    "generator": {
+      "path": "assets/village/village-window-wall-2m-01/v1.0.0/generate.py",
+      "size": 33648,
+      "sha256": "87df92ee3cd918d630235d429e20748083be39ea86aab57523ac8baa43042a51"
+    },
+    "render": {
+      "path": "assets/village/village-window-wall-2m-01/v1.0.0/thumbnail.png",
+      "size": 319188,
+      "sha256": "3e59d0bbd8640cfbeeac47969aabfef8990f55dd2c10d7fca1be53819ee03586"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

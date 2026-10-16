@@ -1,0 +1,42 @@
+{
+  "id": "village-l-corner-wall-2m-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "L-Corner Timber Wall, 2 m Interfaces",
+  "description": "Independent S03 L-corner wall with a continuous L-shaped plaster body and one owned corner post. Actual outer bounds are 2.14 by 2.14 by 2.60 m; matching terminal planes are X=2 m and Y=2 m, measured from the ground-level corner grid origin. Straight wall companions mount at (3,0,0) and (0,3,0), with the latter rotated 90 degrees. No doubled corner columns or nonuniform scaling required. Warm timber and pale plaster follow the S03 family. Cottage v2 is an appearance reference, not an interchangeable source. Static visual architecture;",
+  "bounds": {
+    "x": 2.14,
+    "y": 2.14,
+    "z": 2.6,
+    "unit": "m"
+  },
+  "triangles": 96,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-l-corner-wall-2m-01/v1.0.0/model.glb",
+      "size": 8468,
+      "sha256": "cdab49d8aa40b82b85a7cc79fd6ea96f5b4322493e909f375277a9cc6d830c88"
+    },
+    "blend": {
+      "path": "assets/village/village-l-corner-wall-2m-01/v1.0.0/source.blend",
+      "size": 543604,
+      "sha256": "24da0151fab07b43030754c201accff3615cb0642324d2476ded91431c604ccc"
+    },
+    "generator": {
+      "path": "assets/village/village-l-corner-wall-2m-01/v1.0.0/generate.py",
+      "size": 33722,
+      "sha256": "b7e0e1b700791e7aaf8d71bf03b84e3dee747b82745e537f3a95bfe22dfdd91c"
+    },
+    "render": {
+      "path": "assets/village/village-l-corner-wall-2m-01/v1.0.0/thumbnail.png",
+      "size": 317912,
+      "sha256": "6b2b56b4a9205fc39305de9f975a58049972878768564abc7a3fd5b1f5a34070"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
