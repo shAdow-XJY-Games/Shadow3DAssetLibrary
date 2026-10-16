@@ -204,6 +204,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "966f2de8926053ebbe2641052479e781ca3e7044"
+    },
+    "village-cottage-h01-v2": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "4e5591c8651f74714f2975b2bfba0a34d63fe59f"
     }
   },
   "assetCount": 187,
@@ -239,9 +244,9 @@
     {
       "theme": "village",
       "count": 32,
-      "path": "metadata/40d87604ac7df2cc667fdda04883cfed4454c4e5f3d448dde0b17550834e3126.json",
-      "size": 37950,
-      "sha256": "40d87604ac7df2cc667fdda04883cfed4454c4e5f3d448dde0b17550834e3126"
+      "path": "metadata/db5e3d81af40e828c7cace02c6b08179efccb48046d369a31cbda6255f5fc68a.json",
+      "size": 38188,
+      "sha256": "db5e3d81af40e828c7cace02c6b08179efccb48046d369a31cbda6255f5fc68a"
     },
     {
       "theme": "transport",
