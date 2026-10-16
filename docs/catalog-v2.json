@@ -339,9 +339,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "4a6b639bf3356b7f3d5bdeb6629035237c8cc238"
+    },
+    "fitted-door-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "31ef016f190e30b87eb9d69cd715f512ff93eb7e"
     }
   },
-  "assetCount": 223,
+  "assetCount": 224,
   "shards": [
     {
       "theme": "camping",
@@ -373,10 +378,10 @@
     },
     {
       "theme": "village",
-      "count": 43,
-      "path": "metadata/e1d5cec72caa55a11796e7ed4bbf6f2c02b52591abb10e37af4bb87bc7f2b8ac.json",
-      "size": 54905,
-      "sha256": "e1d5cec72caa55a11796e7ed4bbf6f2c02b52591abb10e37af4bb87bc7f2b8ac"
+      "count": 44,
+      "path": "metadata/166440439f559dc0b0d1ec4517f12d214de19e4935c6d4bc70303e81df21f2aa.json",
+      "size": 56420,
+      "sha256": "166440439f559dc0b0d1ec4517f12d214de19e4935c6d4bc70303e81df21f2aa"
     },
     {
       "theme": "transport",
