@@ -1,0 +1,42 @@
+{
+  "id": "entryway-boot-tray-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entryway",
+  "style": "soft-low-poly",
+  "title": "Ribbed Boot Tray",
+  "description": "Original shallow seafoam boot tray with closed base and four joined raised sides, seven ivory drainage ribs and maple end grips. For entryways, utility rooms, gardening corners or prop storage.",
+  "bounds": {
+    "x": 0.735,
+    "y": 0.385,
+    "z": 0.1075,
+    "unit": "m"
+  },
+  "triangles": 616,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/entryway/entryway-boot-tray-01/v1.0.0/model.glb",
+      "size": 49792,
+      "sha256": "9b6dbdd4894fc52241ccd8efeb0c8765773bccbb4050fac3d1a5df8f9ba7d302"
+    },
+    "blend": {
+      "path": "assets/entryway/entryway-boot-tray-01/v1.0.0/source.blend",
+      "size": 579188,
+      "sha256": "3887a1be1e52710b60a238e0255311e3a60e4c130338ce9cde026575653ee08c"
+    },
+    "generator": {
+      "path": "assets/entryway/entryway-boot-tray-01/v1.0.0/generate.py",
+      "size": 22730,
+      "sha256": "60a9dc86830299058a8d2b213a8236c265bac95aace30b66cda280b3a78a2973"
+    },
+    "render": {
+      "path": "assets/entryway/entryway-boot-tray-01/v1.0.0/thumbnail.png",
+      "size": 296938,
+      "sha256": "e261252a815c12abb9fd45ffc809f2fb4c2cd61b40ff1dd5be970fe18c299dbb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

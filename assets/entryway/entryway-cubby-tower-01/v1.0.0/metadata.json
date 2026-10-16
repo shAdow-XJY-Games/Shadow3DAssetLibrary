@@ -1,0 +1,42 @@
+{
+  "id": "entryway-cubby-tower-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entryway",
+  "style": "soft-low-poly",
+  "title": "Three Bay Cubby Tower",
+  "description": "Original compact three-bay open storage tower with enclosed back and three ivory shelf surfaces on a maple plinth. For entryways, bedrooms, workshops and small retail displays.",
+  "bounds": {
+    "x": 0.52,
+    "y": 0.4,
+    "z": 1.26,
+    "unit": "m"
+  },
+  "triangles": 352,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/entryway/entryway-cubby-tower-01/v1.0.0/model.glb",
+      "size": 28852,
+      "sha256": "053be33517e071a720bd726b6253e51c1c9e474ced5a27ac7e97b5176dcdda0e"
+    },
+    "blend": {
+      "path": "assets/entryway/entryway-cubby-tower-01/v1.0.0/source.blend",
+      "size": 540380,
+      "sha256": "e072a9191bff1f5b779dea0032848e1d8c30bc67bcb97cd8e11abc512433e05f"
+    },
+    "generator": {
+      "path": "assets/entryway/entryway-cubby-tower-01/v1.0.0/generate.py",
+      "size": 22608,
+      "sha256": "90c87e0ee0bad8ad2c682df7e76c58dcca2cd7a39ef0f7ed89f2830dfd532d8e"
+    },
+    "render": {
+      "path": "assets/entryway/entryway-cubby-tower-01/v1.0.0/thumbnail.png",
+      "size": 316642,
+      "sha256": "0366e364d429355b7a0b75d607d80e77851fac9257611653e88002e4e9d4acb7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

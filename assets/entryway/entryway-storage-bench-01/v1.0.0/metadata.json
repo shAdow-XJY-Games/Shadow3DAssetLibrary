@@ -1,0 +1,42 @@
+{
+  "id": "entryway-storage-bench-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entryway",
+  "style": "soft-low-poly",
+  "title": "Maple Entry Bench",
+  "description": "Original open under-seat entry bench with three seat boards, two broad side supports, central cubby partition and ivory shoe shelf. For hallway, bedroom, studio or shop interiors.",
+  "bounds": {
+    "x": 1.2,
+    "y": 0.427,
+    "z": 0.465,
+    "unit": "m"
+  },
+  "triangles": 308,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/entryway/entryway-storage-bench-01/v1.0.0/model.glb",
+      "size": 26428,
+      "sha256": "aa003e878e12bdb503af276894e894550a90462df0971357b8ec35e6904c0345"
+    },
+    "blend": {
+      "path": "assets/entryway/entryway-storage-bench-01/v1.0.0/source.blend",
+      "size": 533912,
+      "sha256": "ed8fd88f1fc4f6cf19775dd84046458ef519fe0481bcdc274c211908e8efa9c0"
+    },
+    "generator": {
+      "path": "assets/entryway/entryway-storage-bench-01/v1.0.0/generate.py",
+      "size": 13631,
+      "sha256": "d333082ea10c1d93ede35fc4fa42eb3f5fba00c3828eb2115a0696d21b62d5ec"
+    },
+    "render": {
+      "path": "assets/entryway/entryway-storage-bench-01/v1.0.0/thumbnail.png",
+      "size": 309741,
+      "sha256": "970720aa526212c6dee3687b74ee8070d300f08bfbd44e7720be04fb15c6fde7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

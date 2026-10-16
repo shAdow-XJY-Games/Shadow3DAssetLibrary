@@ -1,0 +1,42 @@
+{
+  "id": "entryway-peg-rack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entryway",
+  "style": "soft-low-poly",
+  "title": "Freestanding Peg Rail",
+  "description": "Original freestanding hallway peg rack with two stable feet, twin uprights, ivory shoulder rail and five upward maple pegs. Usable as a coat rack, shop display or craft-room organizer.",
+  "bounds": {
+    "x": 1.08,
+    "y": 0.6,
+    "z": 1.69,
+    "unit": "m"
+  },
+  "triangles": 704,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/entryway/entryway-peg-rack-01/v1.0.0/model.glb",
+      "size": 56460,
+      "sha256": "0e885644631f5861c0b83b91f611932651f2776fcf443ab9424d510cb727cc96"
+    },
+    "blend": {
+      "path": "assets/entryway/entryway-peg-rack-01/v1.0.0/source.blend",
+      "size": 592124,
+      "sha256": "d489c8ab604f4fb1ff50646e742080899d7155437aed3c5483de10d1790a2c20"
+    },
+    "generator": {
+      "path": "assets/entryway/entryway-peg-rack-01/v1.0.0/generate.py",
+      "size": 17287,
+      "sha256": "99c044897acee938a136a7ad8301fb0c0039bea2a81eadea4f18e4200b07335a"
+    },
+    "render": {
+      "path": "assets/entryway/entryway-peg-rack-01/v1.0.0/thumbnail.png",
+      "size": 316650,
+      "sha256": "d580ee33ec24a277495e860b591a521f384b1d8be06c85e744fcf402e08dbfa8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

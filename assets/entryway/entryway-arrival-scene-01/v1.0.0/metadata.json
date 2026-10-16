@@ -1,0 +1,42 @@
+{
+  "id": "entryway-arrival-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "entryway",
+  "style": "soft-low-poly",
+  "title": "Quiet Arrival Corner",
+  "description": "Original composed entryway vignette on four 1.4 m floor tiles, featuring a storage bench, five-peg freestanding rack and three-bay cubby tower. A collision-separated layout for hallway, apartment or shop reference scenes. Furniture feet intentionally overlap finished floor by 8 mm for robust support.",
+  "bounds": {
+    "x": 2.8,
+    "y": 2.8,
+    "z": 1.727,
+    "unit": "m"
+  },
+  "triangles": 2596,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/entryway/entryway-arrival-scene-01/v1.0.0/model.glb",
+      "size": 199928,
+      "sha256": "ca6a7267fdb35d6ff8948c88f1fe91e20967bed23ccb6c7d994a35bed1ac83b8"
+    },
+    "blend": {
+      "path": "assets/entryway/entryway-arrival-scene-01/v1.0.0/source.blend",
+      "size": 870248,
+      "sha256": "0ec86629fea04273ca95ed4a9955746eaed8b65ea7b3d8481e769237aef66caf"
+    },
+    "generator": {
+      "path": "assets/entryway/entryway-arrival-scene-01/v1.0.0/generate.py",
+      "size": 25445,
+      "sha256": "f0162f1532504d4ee81224e1a6e919af68d1cbe2035aebc39ebcb54d4c42b161"
+    },
+    "render": {
+      "path": "assets/entryway/entryway-arrival-scene-01/v1.0.0/thumbnail.png",
+      "size": 354664,
+      "sha256": "eb03cfcebb6b5fa4293a65f4a2dec28266ba6217ce2979f9ca0d62426e3e766e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

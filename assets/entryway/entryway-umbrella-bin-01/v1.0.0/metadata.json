@@ -1,0 +1,42 @@
+{
+  "id": "entryway-umbrella-bin-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "entryway",
+  "style": "soft-low-poly",
+  "title": "Slatted Umbrella Bin",
+  "description": "Original open twelve-stave umbrella bin with a closed maple base, seafoam upper hoop and ivory lower hoop. Empty container for hallway, studio or shop use.",
+  "bounds": {
+    "x": 0.4,
+    "y": 0.4,
+    "z": 0.555,
+    "unit": "m"
+  },
+  "triangles": 1484,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/entryway/entryway-umbrella-bin-01/v1.0.0/model.glb",
+      "size": 93932,
+      "sha256": "a6ceff2e22d6dcb628e01e99196927b67e7d563802fedd6647d4cb15bfe23a74"
+    },
+    "blend": {
+      "path": "assets/entryway/entryway-umbrella-bin-01/v1.0.0/source.blend",
+      "size": 611644,
+      "sha256": "f84746db328c882d3aa1fd5c6016cdff8edb1bde987e15f256c770d0c84a8011"
+    },
+    "generator": {
+      "path": "assets/entryway/entryway-umbrella-bin-01/v1.0.0/generate.py",
+      "size": 22632,
+      "sha256": "b6d8af5651a0e47c95743064ea7ea0f6c2adcfb7dfb36886b02c0d1a09c72600"
+    },
+    "render": {
+      "path": "assets/entryway/entryway-umbrella-bin-01/v1.0.0/thumbnail.png",
+      "size": 334843,
+      "sha256": "8ddc6cdf831d4ccdef35d6ae5b89b5cfaf4a1e5fb5b1b5dd245f9c90a71d62aa"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
