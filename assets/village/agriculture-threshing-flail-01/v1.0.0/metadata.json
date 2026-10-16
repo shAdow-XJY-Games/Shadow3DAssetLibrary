@@ -1,0 +1,42 @@
+{
+  "id": "agriculture-threshing-flail-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Folded Agricultural Threshing Flail",
+  "description": "Original static agricultural threshing flail with long wooden handle, shorter thicker wooden beater, two fitted leather neck collars and one short leather connector. Five editable closed parts in a single folded resting pose. Actual joint anchors and wooden ground patches are checked, with lifted-tool and displaced-connector negatives. Reused intact grain sheaf and paving provide scale and preparation context only. No separated-grain result, crop-species, swing, impact, rope dynamics or operational safety claim.",
+  "bounds": {
+    "x": 0.14899999648332596,
+    "y": 1.449999988079071,
+    "z": 0.05999999865889549,
+    "unit": "m"
+  },
+  "triangles": 388,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/agriculture-threshing-flail-01/v1.0.0/model.glb",
+      "size": 21392,
+      "sha256": "3242f9c1cd7b72833e5978c9cc6505f88c91d6e78db3705a0f9d3268597eb6af"
+    },
+    "blend": {
+      "path": "assets/village/agriculture-threshing-flail-01/v1.0.0/source.blend",
+      "size": 630904,
+      "sha256": "5ad9438ce1294a3164ed310a8418c720b65b9067766bac6869fa3f1bc51b090d"
+    },
+    "generator": {
+      "path": "assets/village/agriculture-threshing-flail-01/v1.0.0/generate.py",
+      "size": 34323,
+      "sha256": "14cbec0012b699bfad98425a6df07137c6fb4e9f583842021b16734134582a1e"
+    },
+    "render": {
+      "path": "assets/village/agriculture-threshing-flail-01/v1.0.0/thumbnail.png",
+      "size": 172160,
+      "sha256": "b22ac170a745dc8339c8c4732ed7bd77f5fcb107eb6d1a88d00b799643b2899f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
