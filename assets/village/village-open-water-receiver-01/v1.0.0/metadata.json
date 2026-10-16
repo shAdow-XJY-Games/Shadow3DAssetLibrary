@@ -1,0 +1,42 @@
+{
+  "id": "village-open-water-receiver-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Open Spill-Channel Water Receiver",
+  "description": "Open D-shaped warm-grey earthenware receiver with a genuine high side overflow opening and a short outward U-section spill channel. Two closed editable source parts export as one static runtime mesh. See generate.py opening documentation for dimensions, the 2 mm downward spill-floor step and optional freestanding placement. No upstream gutter, liquid simulation or watertightness guarantee",
+  "bounds": {
+    "x": 0.86,
+    "y": 0.47,
+    "z": 0.8,
+    "unit": "m"
+  },
+  "triangles": 334,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-open-water-receiver-01/v1.0.0/model.glb",
+      "size": 20892,
+      "sha256": "bb3c28f3cb96866d66d9846dd738f38b4e16dcb3adef033008ac4164f16c1190"
+    },
+    "blend": {
+      "path": "assets/village/village-open-water-receiver-01/v1.0.0/source.blend",
+      "size": 536748,
+      "sha256": "73e0f2870c86fc676c3132278498b6b604ea5ac9fc6676436461ef7210cabe33"
+    },
+    "generator": {
+      "path": "assets/village/village-open-water-receiver-01/v1.0.0/generate.py",
+      "size": 43561,
+      "sha256": "db84af4c30db88e3b6beb3a6d2f164300eb20243d210ced6863cea5b5eaf8dc9"
+    },
+    "render": {
+      "path": "assets/village/village-open-water-receiver-01/v1.0.0/thumbnail.png",
+      "size": 308380,
+      "sha256": "65651d3fc93e51b2f23e80608092cf09fc042e5b9d9937b23a63079d22aaf43e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
