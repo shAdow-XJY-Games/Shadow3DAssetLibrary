@@ -1,0 +1,42 @@
+{
+  "id": "dining-lattice-divider-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "dining",
+  "style": "soft-low-poly",
+  "title": "Freestanding Lattice Divider",
+  "description": "Original freestanding modular dining divider with maple posts, seafoam slats, ivory crossrails and two wide stabilizing feet. Repeat freestanding units along X at 1.2 m spacing, or rotate about Z. Broad faces are +/-Y. Feet determine the pitch and meet at the module boundary; the upright frames intentionally retain an 8 cm gap. Each instance is complete with its own stabilizers; no shared-part deletion or mesh welding is needed.",
+  "bounds": {
+    "x": 1.2,
+    "y": 0.48,
+    "z": 1.54,
+    "unit": "m"
+  },
+  "triangles": 572,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/dining/dining-lattice-divider-01/v1.0.0/model.glb",
+      "size": 46440,
+      "sha256": "67c86e4a2f3204eb73ea6c578caa5d1328d8deb523702893682c424161956f5a"
+    },
+    "blend": {
+      "path": "assets/dining/dining-lattice-divider-01/v1.0.0/source.blend",
+      "size": 572720,
+      "sha256": "065d5636a5db6e304e80d0836d55c916081739f5c27d584fc44861eda08ea6ef"
+    },
+    "generator": {
+      "path": "assets/dining/dining-lattice-divider-01/v1.0.0/generate.py",
+      "size": 10100,
+      "sha256": "f848702e059014e561e6d393cca11691249f6f1715f6bdf8747d6f179f26353f"
+    },
+    "render": {
+      "path": "assets/dining/dining-lattice-divider-01/v1.0.0/thumbnail.png",
+      "size": 333608,
+      "sha256": "a9d4a1cf3a3d2bc87ea721fea6be5191f58a2cbbc7e206110aba966abbb39765"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

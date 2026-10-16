@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-slotted-spatula-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "soft-low-poly",
+  "title": "Hearth Slotted Turner",
+  "description": "Original seafoam slotted turner with four real open slots, ivory collar and maple grip.",
+  "bounds": {
+    "x": 0.1,
+    "y": 0.325,
+    "z": 0.032,
+    "unit": "m"
+  },
+  "triangles": 440,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-slotted-spatula-01/v1.0.0/model.glb",
+      "size": 36060,
+      "sha256": "eec12397725f3a4781a27d289e337ffa0e33145bd04b4643589219088cb17cd5"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-slotted-spatula-01/v1.0.0/source.blend",
+      "size": 553316,
+      "sha256": "8e6f4c30365ab544206655f9debdebd7220c644b51b196a2070b9542e647b06c"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-slotted-spatula-01/v1.0.0/generate.py",
+      "size": 9214,
+      "sha256": "a15128cadeeda36b0e8e2e18a1c98f757a49c2815103be599aecb84d05958be3"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-slotted-spatula-01/v1.0.0/thumbnail.png",
+      "size": 335208,
+      "sha256": "04f51a9e6eba865adabed4aceafca96c29dd1d1d2d5860664e1edd34c92667f5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

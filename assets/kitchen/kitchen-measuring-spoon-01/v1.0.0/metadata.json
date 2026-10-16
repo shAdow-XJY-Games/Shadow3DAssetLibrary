@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-measuring-spoon-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "soft-low-poly",
+  "title": "Bakers Measure",
+  "description": "Original deep seafoam measuring scoop with an ivory rolled lip and short maple handle.",
+  "bounds": {
+    "x": 0.1975,
+    "y": 0.082,
+    "z": 0.052,
+    "unit": "m"
+  },
+  "triangles": 872,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-measuring-spoon-01/v1.0.0/model.glb",
+      "size": 59548,
+      "sha256": "fb0ea94a00a31c1d5636fa251837ef2d0bf8a4e520a0df83739ede32e26fe355"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-measuring-spoon-01/v1.0.0/source.blend",
+      "size": 531664,
+      "sha256": "b20f99e10515703b2a3f47fac246e2b248c5aa855272c9f72af00bfca12c5f9b"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-measuring-spoon-01/v1.0.0/generate.py",
+      "size": 9050,
+      "sha256": "a8e74448eebd54760ea88fabf9c821b4df8c46d15bfb882f5c1be30154a86a61"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-measuring-spoon-01/v1.0.0/thumbnail.png",
+      "size": 345642,
+      "sha256": "c8654d79790fc38a28a6d9c671feaa3d7fff4842cbbf76d04c7d4f179f9ffca6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

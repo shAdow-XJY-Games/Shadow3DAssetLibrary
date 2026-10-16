@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-stockpot-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "soft-low-poly",
+  "title": "Hearth Enamel Stockpot",
+  "description": "Original open seafoam enamel stockpot with rolled ivory rim, visible inner basin and paired maple loop handles.",
+  "bounds": {
+    "x": 0.41353,
+    "y": 0.29,
+    "z": 0.168,
+    "unit": "m"
+  },
+  "triangles": 1140,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-stockpot-01/v1.0.0/model.glb",
+      "size": 58664,
+      "sha256": "6622ea0531c998ca96cd5a9678062916d4fda7b516d4b3d7c660105f0ce5c30f"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-stockpot-01/v1.0.0/source.blend",
+      "size": 544604,
+      "sha256": "249ee8f2d6a6d656641dc9ef827f3976cee997dc2fdbe3c548431545f0e2a140"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-stockpot-01/v1.0.0/generate.py",
+      "size": 9185,
+      "sha256": "957f1f23bd7e75c9e4cb20c5aeab09215d6a7b572b95dadfbec625d164a2c1c9"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-stockpot-01/v1.0.0/thumbnail.png",
+      "size": 357664,
+      "sha256": "98a8e9dea3a6557c303bc37101056c287dfd540d0627ac5829633bc48d83f42e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

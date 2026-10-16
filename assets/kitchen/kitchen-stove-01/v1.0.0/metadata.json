@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-stove-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "soft-low-poly",
+  "title": "Hearth Two Burner Stove",
+  "description": "Original compact ivory stove with seafoam side casing, two detailed burners, maple knobs and inset oven door.",
+  "bounds": {
+    "x": 0.63,
+    "y": 0.6215,
+    "z": 0.8475,
+    "unit": "m"
+  },
+  "triangles": 1404,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-stove-01/v1.0.0/model.glb",
+      "size": 92908,
+      "sha256": "126fae257245a0e508e93ee32627f093cbc143cbeadca5f5a474b363e7b48c8b"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-stove-01/v1.0.0/source.blend",
+      "size": 638680,
+      "sha256": "d5ab3c9a3e9c4b5200a7f9858a5a15bb6ecd738fb285e4b8c9eab87b7165c14e"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-stove-01/v1.0.0/generate.py",
+      "size": 9859,
+      "sha256": "2567f46556bcfbc2bd67371acb0583d1f6137d76e4b8fd5ec4690df55f2de49c"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-stove-01/v1.0.0/thumbnail.png",
+      "size": 396668,
+      "sha256": "aac98b04ca4b9fa1537f4302bb926e6949848255b9d6c49f43612fc15df249ca"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

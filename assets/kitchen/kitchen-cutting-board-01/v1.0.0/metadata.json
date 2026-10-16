@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-cutting-board-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "soft-low-poly",
+  "title": "Maple Prep Board",
+  "description": "Original rounded maple chopping board with contrasting inset grain strips and a hanging-hole handle.",
+  "bounds": {
+    "x": 0.28,
+    "y": 0.484,
+    "z": 0.0368,
+    "unit": "m"
+  },
+  "triangles": 648,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-cutting-board-01/v1.0.0/model.glb",
+      "size": 49996,
+      "sha256": "17a2e32132fcdfb1ab56f3cf57be6fd5f594fea0cc970307427377d2f53bd85d"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-cutting-board-01/v1.0.0/source.blend",
+      "size": 545108,
+      "sha256": "569332361f5360d84e324d569aebcf70bbeffa7cf1e8634b281e0d5f8bdd7a1e"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-cutting-board-01/v1.0.0/generate.py",
+      "size": 9304,
+      "sha256": "9bc16d2e4572190f20ad304a9998cbc31e1f8a5577e3de3d52d2226d474df402"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-cutting-board-01/v1.0.0/thumbnail.png",
+      "size": 342128,
+      "sha256": "4a46d8fe259a8fe9bfeab3d3a8cb58c3e955de626d361ec24677124a0ddb9a99"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

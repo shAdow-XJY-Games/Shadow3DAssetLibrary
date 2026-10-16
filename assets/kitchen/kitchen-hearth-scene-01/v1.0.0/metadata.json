@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-hearth-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "kitchen",
+  "style": "soft-low-poly",
+  "title": "The Little Hearth Kitchen",
+  "description": "Original compact kitchen vignette with a two-burner stove, working-height sink cabinet, maple prep station and six separately editable cookware props.",
+  "bounds": {
+    "x": 2.40677,
+    "y": 1.05,
+    "z": 1.13774,
+    "unit": "m"
+  },
+  "triangles": 8024,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-hearth-scene-01/v1.0.0/model.glb",
+      "size": 529344,
+      "sha256": "43cdbdb10bde461071b9eea439e7aa0a7dce94110da1bd52586c37bec6defffc"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-hearth-scene-01/v1.0.0/source.blend",
+      "size": 1176436,
+      "sha256": "7e547340b2cca6f81554af7472870cbb46770be3f155f543f2e8d14dbc50bb81"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-hearth-scene-01/v1.0.0/generate.py",
+      "size": 15475,
+      "sha256": "4ffd393191f24dc26d41d579e9b8a177c77ec97ea5eb85b4db61cbc8faf29ed0"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-hearth-scene-01/v1.0.0/thumbnail.png",
+      "size": 335121,
+      "sha256": "9f12fa0ad41aa40b4e0de46d23bb6b57bcd74ca472547325b96eb8d6dbb21375"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

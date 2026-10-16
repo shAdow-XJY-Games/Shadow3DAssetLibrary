@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-mug-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "soft-low-poly",
+  "title": "Morning Tea Mug",
+  "description": "Original ivory ceramic mug with a seafoam foot, curved maple-color loop and a genuinely hollow interior.",
+  "bounds": {
+    "x": 0.13459,
+    "y": 0.092,
+    "z": 0.104,
+    "unit": "m"
+  },
+  "triangles": 916,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-mug-01/v1.0.0/model.glb",
+      "size": 40784,
+      "sha256": "688bd42250f0434acef8801df1280caca75ab93c75e0c426ecaec31b3307fca8"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-mug-01/v1.0.0/source.blend",
+      "size": 531716,
+      "sha256": "9d802999ef4ba10b0319ce5027749641273ea0ef17a781da48124c0d8cc08dce"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-mug-01/v1.0.0/generate.py",
+      "size": 9205,
+      "sha256": "f8f5bda63bcc4c9c4da68203ac2fb1909339c1a69ec15ca4513b50669047e8d5"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-mug-01/v1.0.0/thumbnail.png",
+      "size": 383392,
+      "sha256": "90cef3309c731c5cea9c99c1814c3cf3527a2fec526ed695463b646c7c7eb0ce"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

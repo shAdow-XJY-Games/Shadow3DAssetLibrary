@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-frying-pan-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "soft-low-poly",
+  "title": "Sunday Skillet",
+  "description": "Original shallow seafoam skillet with ivory rim, dark cooking surface and broad wooden grip.",
+  "bounds": {
+    "x": 0.525,
+    "y": 0.31,
+    "z": 0.063,
+    "unit": "m"
+  },
+  "triangles": 980,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-frying-pan-01/v1.0.0/model.glb",
+      "size": 65308,
+      "sha256": "c5593bf5c2da84e5e0cf26d6efca8e5282b4e66e7ba676a794c1db38cad64857"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-frying-pan-01/v1.0.0/source.blend",
+      "size": 540340,
+      "sha256": "c5a81d0f755cf906423c59ce317d063b78fd39779962846a2902656ebdb9d98f"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-frying-pan-01/v1.0.0/generate.py",
+      "size": 9196,
+      "sha256": "1d23cc7a3d22e7523862e1039a6e2e5d207350c49f2794d60db579192f41590a"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-frying-pan-01/v1.0.0/thumbnail.png",
+      "size": 336646,
+      "sha256": "cf11d45f13dca1ee057ee0879c86fe7073cc13c60f3cc5ba871dfa95422c1e76"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

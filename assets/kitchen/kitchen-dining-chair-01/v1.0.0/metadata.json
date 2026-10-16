@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-dining-chair-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "soft-low-poly",
+  "title": "Hearth Dining Chair",
+  "description": "Original maple and seafoam dining chair with three ivory back slats, four legs and real supporting stretchers.",
+  "bounds": {
+    "x": 0.43,
+    "y": 0.43,
+    "z": 0.945,
+    "unit": "m"
+  },
+  "triangles": 616,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-dining-chair-01/v1.0.0/model.glb",
+      "size": 48068,
+      "sha256": "67af024ee19d127071489c40e3ffc184dab118e7e375b7c0c6280413440fa2f8"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-dining-chair-01/v1.0.0/source.blend",
+      "size": 579188,
+      "sha256": "508d0e5ff4766824f40ba46268924b80489d5fe6f97a1c4a9c20a970bdfab138"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-dining-chair-01/v1.0.0/generate.py",
+      "size": 9452,
+      "sha256": "46ce76c27065aca5e6faf75371063ac23da9fcaa8baa6146674ae6091c1f47ec"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-dining-chair-01/v1.0.0/thumbnail.png",
+      "size": 318251,
+      "sha256": "b718772ce8f931689a00db8c81821ed66243d87fd560477c4432ab7b0433d3b3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

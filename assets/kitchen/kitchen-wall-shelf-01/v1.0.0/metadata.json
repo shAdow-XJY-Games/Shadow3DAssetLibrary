@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-wall-shelf-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "soft-low-poly",
+  "title": "Pantry Wall Shelf",
+  "description": "Original maple wall shelf with two triangular seafoam support cheeks and three ivory utility hooks.",
+  "bounds": {
+    "x": 0.8,
+    "y": 0.27772,
+    "z": 0.215,
+    "unit": "m"
+  },
+  "triangles": 288,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-wall-shelf-01/v1.0.0/model.glb",
+      "size": 22844,
+      "sha256": "28d44a56f40e36144e3ef5237dcc619d14f2f212b2e370cf8da418eaef0e6422"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-wall-shelf-01/v1.0.0/source.blend",
+      "size": 525456,
+      "sha256": "9b827c805aaa8debd5faf7e08c3ce0f32b01e9efd8e507b99e8065da9ad192c3"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-wall-shelf-01/v1.0.0/generate.py",
+      "size": 9349,
+      "sha256": "6af34826f736a9d468223610f7d854a45f92d53045020f966c012776651a552d"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-wall-shelf-01/v1.0.0/thumbnail.png",
+      "size": 289139,
+      "sha256": "29daec9c73e4e941701734adffcaad6dd303ec534d6530901f21cebb4b646231"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-step-stool-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "soft-low-poly",
+  "title": "Little Pantry Stool",
+  "description": "Original compact maple step stool with a seafoam lower step, ivory rails and four splayed supports.",
+  "bounds": {
+    "x": 0.36,
+    "y": 0.41,
+    "z": 0.3375,
+    "unit": "m"
+  },
+  "triangles": 528,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-step-stool-01/v1.0.0/model.glb",
+      "size": 43120,
+      "sha256": "74279fc3151f468eee0ce6d6c779d913d09cc3b55763efbd6d16d14d2e4e48d2"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-step-stool-01/v1.0.0/source.blend",
+      "size": 566252,
+      "sha256": "096b2ee95fd1cd9e488449ead82ae8817293966c559f1155e811262d1d661fb6"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-step-stool-01/v1.0.0/generate.py",
+      "size": 9329,
+      "sha256": "05db4ec5401d421d51927e97e9c04c1d46a11899b172803a05fdf4c7d3fb915f"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-step-stool-01/v1.0.0/thumbnail.png",
+      "size": 408500,
+      "sha256": "66ffbeea3169f49fcbda17e4a26bce2dddd572e9a8893e954ac0a55dce0c69e1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

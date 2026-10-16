@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-sink-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "soft-low-poly",
+  "title": "Washday Sink Cabinet",
+  "description": "Original seafoam sink cabinet with inset ivory basin, bent mixer faucet and warm wooden door details.",
+  "bounds": {
+    "x": 0.7,
+    "y": 0.584,
+    "z": 1.07774,
+    "unit": "m"
+  },
+  "triangles": 1316,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-sink-cabinet-01/v1.0.0/model.glb",
+      "size": 96304,
+      "sha256": "5ea95628db8b03458860ed293e14dda5a7e15ca20d1fd3bbd8ab428807e5e86f"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-sink-cabinet-01/v1.0.0/source.blend",
+      "size": 666184,
+      "sha256": "ccd465b1de56d9629be4ca6cd078f4eb397c9df1341080ca878aa4885d9dacc2"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-sink-cabinet-01/v1.0.0/generate.py",
+      "size": 10183,
+      "sha256": "73ed024c358d0f937576f7e58a343c9bedc9df1c1d296e3a8c55443e68fbc846"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-sink-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 322210,
+      "sha256": "8a14bd8c1b2a53abc2658cb1b97d929a926aef0e024aa874148e708f716fea39"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

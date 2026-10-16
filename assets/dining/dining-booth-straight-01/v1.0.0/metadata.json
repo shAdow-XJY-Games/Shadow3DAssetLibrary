@@ -1,0 +1,42 @@
+{
+  "id": "dining-booth-straight-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "dining",
+  "style": "soft-low-poly",
+  "title": "Maple Booth Module",
+  "description": "Original modular seafoam dining booth with a solid maple plinth, attached backrest and ivory trim. Repeat at 1.2 m X spacing, front -Y and backrest +Y; self-contained instances need no shared-part removal, with intentional beveled seams.",
+  "bounds": {
+    "x": 1.2,
+    "y": 0.615,
+    "z": 1.125,
+    "unit": "m"
+  },
+  "triangles": 264,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/dining/dining-booth-straight-01/v1.0.0/model.glb",
+      "size": 21756,
+      "sha256": "3de42d195eba2f64e9e29a939dcc787d60e36fe605e329e3e5ef671bbba3b389"
+    },
+    "blend": {
+      "path": "assets/dining/dining-booth-straight-01/v1.0.0/source.blend",
+      "size": 527444,
+      "sha256": "670d82409b16d6a8c02cbd148cb21e395f897dba3b4d035e78ce6aa5f1468548"
+    },
+    "generator": {
+      "path": "assets/dining/dining-booth-straight-01/v1.0.0/generate.py",
+      "size": 9738,
+      "sha256": "1424a7d05de721433c134d1780ec8d4e9fe1c67e968d088c0f4939721c64c600"
+    },
+    "render": {
+      "path": "assets/dining/dining-booth-straight-01/v1.0.0/thumbnail.png",
+      "size": 332639,
+      "sha256": "03a62b791a0fc487dd73520a4d2cbdc72f4ea9bc06195617c8de70c87685baa3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

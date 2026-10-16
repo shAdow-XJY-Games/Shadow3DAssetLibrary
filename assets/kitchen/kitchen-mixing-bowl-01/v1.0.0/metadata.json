@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-mixing-bowl-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "soft-low-poly",
+  "title": "Maple Mixing Bowl",
+  "description": "Original thick-walled wooden mixing bowl with a cream rim and seafoam foot ring.",
+  "bounds": {
+    "x": 0.256,
+    "y": 0.256,
+    "z": 0.119,
+    "unit": "m"
+  },
+  "triangles": 1272,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-mixing-bowl-01/v1.0.0/model.glb",
+      "size": 61744,
+      "sha256": "db498a0f437cf7f54ca504cdb589208a6d10fea47d61be211b4d74b7c661ab66"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-mixing-bowl-01/v1.0.0/source.blend",
+      "size": 544092,
+      "sha256": "6e5663c6b2b9b050df438195b814be76d2c6cdf60f714b09f937967a78377fea"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-mixing-bowl-01/v1.0.0/generate.py",
+      "size": 9066,
+      "sha256": "9a8f880bb32a28e2b2bdeab7306f663cd38bd449dda2ad8abe305d371df9a26b"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-mixing-bowl-01/v1.0.0/thumbnail.png",
+      "size": 382492,
+      "sha256": "2252625e96ff5cc1554a7b9a6bc3b5ad62a95a6e67a0722419bf38cfb0bdfdb9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

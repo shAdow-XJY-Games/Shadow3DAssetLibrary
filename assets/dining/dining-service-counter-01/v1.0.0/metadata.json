@@ -1,0 +1,42 @@
+{
+  "id": "dining-service-counter-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "dining",
+  "style": "soft-low-poly",
+  "title": "Open Service Counter",
+  "description": "Original multiuse dining service counter with two open shelves, solid side supports and a broad maple top. Repeat along X at 1.34 m spacing. Open shelves face -Y; rear panel is +Y. Top widths align; the 1.30 m base leaves a 4 cm seam and the 1.28 m side-panel envelope leaves a 6 cm seam. Each instance is complete; no shared-part deletion or mesh welding is needed.",
+  "bounds": {
+    "x": 1.34,
+    "y": 0.54,
+    "z": 0.985,
+    "unit": "m"
+  },
+  "triangles": 308,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/dining/dining-service-counter-01/v1.0.0/model.glb",
+      "size": 25756,
+      "sha256": "e1351b492c8fc1ceb0a6fd1509161acd0caec27211f3c626e5b7e919d1f8bcab"
+    },
+    "blend": {
+      "path": "assets/dining/dining-service-counter-01/v1.0.0/source.blend",
+      "size": 533912,
+      "sha256": "d223eda6f565029e606584435ad253f2b607d808c1eb6d53045ae28d8ea81376"
+    },
+    "generator": {
+      "path": "assets/dining/dining-service-counter-01/v1.0.0/generate.py",
+      "size": 9935,
+      "sha256": "c8b32d0f843a7ea660533d96110ea36eacd136077c1184c14ae9a45d3acb0d3b"
+    },
+    "render": {
+      "path": "assets/dining/dining-service-counter-01/v1.0.0/thumbnail.png",
+      "size": 333416,
+      "sha256": "85d5aa759a685ebba9a874840070edc5c70e15adc1f1da2c11909645feed7f6d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

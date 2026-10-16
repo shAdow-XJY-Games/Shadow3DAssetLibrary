@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-mortar-pestle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "soft-low-poly",
+  "title": "Herb Mortar and Pestle",
+  "description": "Original ivory mortar with a deep open bowl, seafoam pedestal and a separate tapered maple pestle resting alongside.",
+  "bounds": {
+    "x": 0.325,
+    "y": 0.154,
+    "z": 0.098,
+    "unit": "m"
+  },
+  "triangles": 1044,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-mortar-pestle-01/v1.0.0/model.glb",
+      "size": 46152,
+      "sha256": "6089853242375c04e9fa009e6c2754541b7dce982bb36ab3686052e658f52cc4"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-mortar-pestle-01/v1.0.0/source.blend",
+      "size": 535884,
+      "sha256": "ef867d21700f4d070767a75a3f67845ff99fad8b4618106c204448193d47b24e"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-mortar-pestle-01/v1.0.0/generate.py",
+      "size": 9223,
+      "sha256": "ee8fe88aff89b858b5c729256be5c11ea71129be45a4f88bf234994fd6a09b6c"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-mortar-pestle-01/v1.0.0/thumbnail.png",
+      "size": 347490,
+      "sha256": "8d872f241a3f9a6a5930481059861a5ba292bf737b93353a1d2e55565977c417"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

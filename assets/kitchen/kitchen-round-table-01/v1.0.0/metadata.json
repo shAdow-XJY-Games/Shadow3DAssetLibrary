@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-round-table-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "soft-low-poly",
+  "title": "Gathering Round Table",
+  "description": "Original compact round maple table with a seafoam cross-frame, four stout legs and ivory leveling feet.",
+  "bounds": {
+    "x": 0.92,
+    "y": 0.92,
+    "z": 0.79,
+    "unit": "m"
+  },
+  "triangles": 820,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-round-table-01/v1.0.0/model.glb",
+      "size": 55096,
+      "sha256": "1b66395c42d5171879db135bff10898fce86ba14fede9a826b1f1fe12eb68fb7"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-round-table-01/v1.0.0/source.blend",
+      "size": 570004,
+      "sha256": "a71b0719a303c97b83bfc26b0cc9d5a0d116473fca36786d03dd138d261bbb90"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-round-table-01/v1.0.0/generate.py",
+      "size": 9330,
+      "sha256": "3abc3cd7fa516f9161abea93b2df95a40b4bc53feabe0e10d9d8d80ff991a3ba"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-round-table-01/v1.0.0/thumbnail.png",
+      "size": 311820,
+      "sha256": "8b6c74e8621255d950167b21cc7f059d8d9073d8bd41055755cb137385d2c3b2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

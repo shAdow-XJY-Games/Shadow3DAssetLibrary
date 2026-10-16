@@ -1,0 +1,42 @@
+{
+  "id": "dining-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "dining",
+  "style": "soft-low-poly",
+  "title": "Quiet Corner Dining Set",
+  "description": "Original modular dining vignette with booth, round table, chair, freestanding lattice divider, service counter and a ceramic mug. Self-contained procedural source.",
+  "bounds": {
+    "x": 3.5,
+    "y": 2.4,
+    "z": 1.6,
+    "unit": "m"
+  },
+  "triangles": 3540,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/dining/dining-corner-scene-01/v1.0.0/model.glb",
+      "size": 240892,
+      "sha256": "08334c2073926d804fc996cc7fe0d4dffbd38e2070f2ffbbf506233b1798e63e"
+    },
+    "blend": {
+      "path": "assets/dining/dining-corner-scene-01/v1.0.0/source.blend",
+      "size": 878272,
+      "sha256": "513039f7ee32b68ad7dc79838e5f41c858798596d5c768bbdd48a893cba97d9d"
+    },
+    "generator": {
+      "path": "assets/dining/dining-corner-scene-01/v1.0.0/generate.py",
+      "size": 15999,
+      "sha256": "9a168a434f9e712563584a1e8d8d413e051cd4c1844682c0e6d5dcc37970009f"
+    },
+    "render": {
+      "path": "assets/dining/dining-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 347951,
+      "sha256": "1855c9b77e62072da9a2f750f1e2246696519527f394ab7a318d522a4181c8a0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

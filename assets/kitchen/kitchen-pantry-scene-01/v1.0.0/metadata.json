@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-pantry-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "kitchen",
+  "style": "soft-low-poly",
+  "title": "Pantry Prep Corner",
+  "description": "Original pantry worktable vignette with mixing bowl, herb mortar, chopping board, cup, measure and a low maple step stool. Fully self-contained generation script.",
+  "bounds": {
+    "x": 1.35,
+    "y": 1.2,
+    "z": 0.992,
+    "unit": "m"
+  },
+  "triangles": 5632,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-pantry-scene-01/v1.0.0/model.glb",
+      "size": 353900,
+      "sha256": "fc381767fd87d24a2d0352c53197723011167783e4b9d35b06aa3cb5dd960e97"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-pantry-scene-01/v1.0.0/source.blend",
+      "size": 863280,
+      "sha256": "230e680a5335fa9c3041abf72f349290f6cf971fb87c40c8069d4abddf72e9ac"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-pantry-scene-01/v1.0.0/generate.py",
+      "size": 16912,
+      "sha256": "2484f9042e90e252aa18dc07a1bfb6c040e136e3782436f29a8f6bd7e67f517c"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-pantry-scene-01/v1.0.0/thumbnail.png",
+      "size": 351355,
+      "sha256": "50cee7a7b1f65266b06c0ff76eec35439b3b4dcd1e72cfe5da91098aefa91b31"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
