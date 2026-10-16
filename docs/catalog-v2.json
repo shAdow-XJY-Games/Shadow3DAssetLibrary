@@ -254,9 +254,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "272e9c826c7dbc8e7d446c72ad27baa921842cff"
+    },
+    "doorway-wall-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "d6ba495c279672ee21cc2b6263f1183e62c4299b"
     }
   },
-  "assetCount": 203,
+  "assetCount": 204,
   "shards": [
     {
       "theme": "camping",
@@ -288,10 +293,10 @@
     },
     {
       "theme": "village",
-      "count": 33,
-      "path": "metadata/bde6bad21adb44fccc11caebdf47c094a72a6099bfd91c7efc5b7f96a9335dea.json",
-      "size": 39699,
-      "sha256": "bde6bad21adb44fccc11caebdf47c094a72a6099bfd91c7efc5b7f96a9335dea"
+      "count": 34,
+      "path": "metadata/9d20d6cc81650e5956e35f179a9296d6878153152281ca94fedd00468af077ea.json",
+      "size": 41221,
+      "sha256": "9d20d6cc81650e5956e35f179a9296d6878153152281ca94fedd00468af077ea"
     },
     {
       "theme": "transport",
