@@ -1,0 +1,42 @@
+{
+  "id": "sports-outdoor-table-tennis-table-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Outdoor Table Tennis Table",
+  "description": "Original fixed outdoor table-tennis asset with two complete planar playing halves, a small center joint, actual painted face partitions, four foot pads and legs, perimeter and transverse frames, two-ended knee braces, and a continuous closed net mesh with 36 true openings attached to two real post/arm mounts. Playing surface dimensions 2.74 x 1.525 metres, height .76m, are proportion references only. Editable assembled static geometry; no folding, ball physics, bounce, weather/load rating, competition or safety certification. Reused paving display is only a measured installation example, not a regulation activity area.",
+  "bounds": {
+    "x": 2.740000009536743,
+    "y": 1.809999942779541,
+    "z": 0.9150000214576721,
+    "unit": "m"
+  },
+  "triangles": 2168,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-outdoor-table-tennis-table-01/v1.0.0/model.glb",
+      "size": 133540,
+      "sha256": "672c9e235b9179aece9f8a9f8966c95c2e13bf6ae3f40ee95c6d5df9f5d2ff7c"
+    },
+    "blend": {
+      "path": "assets/sports/sports-outdoor-table-tennis-table-01/v1.0.0/source.blend",
+      "size": 938012,
+      "sha256": "d9c76a5788184d1dc0c8dd68e0f5898d6845dad257b23151b01f941eafa7edc5"
+    },
+    "generator": {
+      "path": "assets/sports/sports-outdoor-table-tennis-table-01/v1.0.0/generate.py",
+      "size": 36994,
+      "sha256": "bb6fff7339bd37039b95f841ec87b1ded0ae728ec26c088d085c49ddb90dc567"
+    },
+    "render": {
+      "path": "assets/sports/sports-outdoor-table-tennis-table-01/v1.0.0/thumbnail.png",
+      "size": 183634,
+      "sha256": "32c1f34b0292e7a895271c5d26319bc7e0ca2907578c87a33d1a51935ece18fc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "office-floorstanding-copier-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "office",
+  "style": "S01-clean-geometric",
+  "title": "Floor-Standing Document Copier",
+  "description": "Original generic floor-standing copier with four bearing feet, a real open output recess and supported collection tray, separate scanner cover and feeder silhouette, two fixed cassette fronts with modeled blind grip recesses, and a tilted opaque control screen. Twenty editable closed parts in one static closed-service pose. Self-contained QA checks an external A4 rectangular fixture on the actual tray, an overwide fixture and a disconnected-tray negative. Old organizing table and storage cabinet are adjacent context only. No printing, scanning, paper-feed, electrical-safety or continuous mechanism simulation.",
+  "bounds": {
+    "x": 0.6200000047683716,
+    "y": 0.6978568434715271,
+    "z": 0.949999988079071,
+    "unit": "m"
+  },
+  "triangles": 848,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/office/office-floorstanding-copier-01/v1.0.0/model.glb",
+      "size": 74168,
+      "sha256": "e9004c944a703afba469c7b14b0e654ad78235d74f5df2180abd86bc96f283a7"
+    },
+    "blend": {
+      "path": "assets/office/office-floorstanding-copier-01/v1.0.0/source.blend",
+      "size": 792348,
+      "sha256": "5e858fdfbbb8c2a65b60014d2b6492e84d31887e14654c929728991dae1e815a"
+    },
+    "generator": {
+      "path": "assets/office/office-floorstanding-copier-01/v1.0.0/generate.py",
+      "size": 37423,
+      "sha256": "66c0e6f454905cc606db3bba3b081a164c7bd463ef074a07476b0b3ecc9f0db0"
+    },
+    "render": {
+      "path": "assets/office/office-floorstanding-copier-01/v1.0.0/thumbnail.png",
+      "size": 225014,
+      "sha256": "8e8c351056a0ee311da5170e1085c258054e41d418f6d13b1243add28a10d8a2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
