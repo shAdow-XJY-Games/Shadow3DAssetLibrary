@@ -1,0 +1,42 @@
+{
+  "id": "kitchen-sink-cabinet-01",
+  "version": "2.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "kitchen",
+  "style": "S01-clean-geometric",
+  "title": "S01 Single Basin Cabinet",
+  "description": "Version 2 of the original sink-cabinet function, now in the S01 freestanding furniture family. Nominal width changes from0.70m to0.60m; nominal counter depth0.60m and height0.90m. Thick real basin cavity, downward spout outlet recess, simple control lever and recessed drain cap. Independent left door node with finite tested poses; no water flow, pipe or continuous mechanical simulation. Individual complete top, not a seamless fitted-kitchen module. This is a version upgrade, not a new unique asset type. Independent editable hinge node and the finite tested poses recorded in door_motion; no animation, continuous-motion, load or physics claim.",
+  "bounds": {
+    "x": 0.6000000238418579,
+    "y": 0.6525000035762787,
+    "z": 1.0850000381469727,
+    "unit": "m"
+  },
+  "triangles": 992,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/kitchen/kitchen-sink-cabinet-01/v2.0.0/model.glb",
+      "size": 78808,
+      "sha256": "e570fd8aed22a93d40becb46db68ac3f0e05dd995b3633d31722189bbb167bf1"
+    },
+    "blend": {
+      "path": "assets/kitchen/kitchen-sink-cabinet-01/v2.0.0/source.blend",
+      "size": 881396,
+      "sha256": "0caec1caf623cf1669f60ea552d5922d56541ebcf962a9605f9130f5d2cd42a9"
+    },
+    "generator": {
+      "path": "assets/kitchen/kitchen-sink-cabinet-01/v2.0.0/generate.py",
+      "size": 35929,
+      "sha256": "86108eb6c42a8a14d840ad7017a8910daf17097ff45fe7272d168abf62d2d8e7"
+    },
+    "render": {
+      "path": "assets/kitchen/kitchen-sink-cabinet-01/v2.0.0/thumbnail.png",
+      "size": 206831,
+      "sha256": "4afac5195f34fb668aebc204493f9fa41c7c2610d4d684f3433d38711fcad8ea"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
