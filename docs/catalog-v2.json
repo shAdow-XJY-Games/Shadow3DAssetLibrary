@@ -519,9 +519,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "c5d018b21afd2d4ae8a97d9cbf7c014c5f081f28"
+    },
+    "warehouse-rack-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "e4d03e539e73402b62c85fd38bb1a4ec3c9a4f94"
     }
   },
-  "assetCount": 273,
+  "assetCount": 274,
   "shards": [
     {
       "theme": "camping",
@@ -777,10 +782,10 @@
     },
     {
       "theme": "logistics",
-      "count": 3,
-      "path": "metadata/80cd6928e04e0cc749f1193319987aa998769f3798ad6910a666dbcb0164f0d7.json",
-      "size": 3824,
-      "sha256": "80cd6928e04e0cc749f1193319987aa998769f3798ad6910a666dbcb0164f0d7"
+      "count": 4,
+      "path": "metadata/371827b845698ef1ed7b85f8753f87b7eaa1e16d0253de64f34b052b8b516eaa.json",
+      "size": 5443,
+      "sha256": "371827b845698ef1ed7b85f8753f87b7eaa1e16d0253de64f34b052b8b516eaa"
     },
     {
       "theme": "winter",
