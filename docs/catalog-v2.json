@@ -344,9 +344,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "31ef016f190e30b87eb9d69cd715f512ff93eb7e"
+    },
+    "paired-shutters-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "312856837a7ae08f9e121e45c41a4defb9075e00"
     }
   },
-  "assetCount": 224,
+  "assetCount": 225,
   "shards": [
     {
       "theme": "camping",
@@ -378,10 +383,10 @@
     },
     {
       "theme": "village",
-      "count": 44,
-      "path": "metadata/166440439f559dc0b0d1ec4517f12d214de19e4935c6d4bc70303e81df21f2aa.json",
-      "size": 56420,
-      "sha256": "166440439f559dc0b0d1ec4517f12d214de19e4935c6d4bc70303e81df21f2aa"
+      "count": 45,
+      "path": "metadata/9859b92fda53272577e107c715620c9bd292e446806f99674843f87f4c1e5d19.json",
+      "size": 57963,
+      "sha256": "9859b92fda53272577e107c715620c9bd292e446806f99674843f87f4c1e5d19"
     },
     {
       "theme": "transport",
