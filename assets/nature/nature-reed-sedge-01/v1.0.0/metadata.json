@@ -1,0 +1,42 @@
+{
+  "id": "nature-reed-sedge-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "hard-edge-faceted-nature",
+  "title": "Wetland Grass Clump",
+  "description": "S02 hard-edge faceted wetland grass clump: seven gradually tapered curved thick leaf blades, two unequal tan seed stems, and a low irregular grounded root-soil collar. Simplified wet-edge vegetation with coherent olive leaf values, not a botanical specimen. Metre scale, no wind rig.",
+  "bounds": {
+    "x": 1.16078,
+    "y": 1.0548,
+    "z": 1.14,
+    "unit": "m"
+  },
+  "triangles": 486,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-reed-sedge-01/v1.0.0/model.glb",
+      "size": 35680,
+      "sha256": "e491048482af1abacc8d0e9d773840f3139863d2a17e8dece5cd1aea4b3ef9ae"
+    },
+    "blend": {
+      "path": "assets/nature/nature-reed-sedge-01/v1.0.0/source.blend",
+      "size": 728580,
+      "sha256": "58f080dec15aff4581e9191f7aa28716992f1b0e0f49674860c7b9b6364c498f"
+    },
+    "generator": {
+      "path": "assets/nature/nature-reed-sedge-01/v1.0.0/generate.py",
+      "size": 36744,
+      "sha256": "01b3d205762e7f152738321b24932c666271afe5ba55dcb610f2de9a07268910"
+    },
+    "render": {
+      "path": "assets/nature/nature-reed-sedge-01/v1.0.0/thumbnail.png",
+      "size": 303934,
+      "sha256": "3cd2545a10f6f1e07877579144ac23a196016c637093dafe299c811cf95511cd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

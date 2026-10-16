@@ -1,0 +1,42 @@
+{
+  "id": "interior-wall-cupboard-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "S01 Wall Cupboard",
+  "description": "Original shallow 0.6m wide,0.32m deep,0.7m high wall cupboard with a true storage cavity, internal shelf and two rear mounting cleats. Same-family painted casework and small dark handle. Concept lower edge1.45m above the floor with a0.9m countertop proxy is a game-visual layout convention, not an installation specification. Editable fixed cupboard components; no door-motion or load-rating claim. Rear cleat faces define the wall mounting interface; local lower edge is a placement datum, not floor support. Hidden-front cavity image is a diagnostic only.",
+  "bounds": {
+    "x": 0.6000000238418579,
+    "y": 0.40199999511241913,
+    "z": 0.6950000822544098,
+    "unit": "m"
+  },
+  "triangles": 776,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-wall-cupboard-01/v1.0.0/model.glb",
+      "size": 62232,
+      "sha256": "7ff7392fa3e7f570e454168dbf8834be550b1aa8a1e03bf1207dcb6c23d5eb1f"
+    },
+    "blend": {
+      "path": "assets/interior/interior-wall-cupboard-01/v1.0.0/source.blend",
+      "size": 717028,
+      "sha256": "031916f01a5c83c5a4049beece6d65940c5e690235422eae331cc0197a786ba3"
+    },
+    "generator": {
+      "path": "assets/interior/interior-wall-cupboard-01/v1.0.0/generate.py",
+      "size": 33003,
+      "sha256": "97129542c8329afe4a742fc39ba083c0e7515e8b458ce26a4a160e6b6fe60d9a"
+    },
+    "render": {
+      "path": "assets/interior/interior-wall-cupboard-01/v1.0.0/thumbnail.png",
+      "size": 197985,
+      "sha256": "a1c09b832f2c6261efc84f9ef39f0552ab8d24bcb1f57b1e74b70f38592de4fb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
