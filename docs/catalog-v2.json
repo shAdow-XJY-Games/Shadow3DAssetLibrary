@@ -524,9 +524,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "e4d03e539e73402b62c85fd38bb1a4ec3c9a4f94"
+    },
+    "cafe-espresso-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "eabbea86f4039715c77eb21383fbf838a95de2a4"
     }
   },
-  "assetCount": 274,
+  "assetCount": 275,
   "shards": [
     {
       "theme": "camping",
@@ -870,6 +875,13 @@
       "path": "metadata/8e88b66951f1dc78c8987109d754109ab29eace10b9d5f504bac96c823fb0159.json",
       "size": 1869,
       "sha256": "8e88b66951f1dc78c8987109d754109ab29eace10b9d5f504bac96c823fb0159"
+    },
+    {
+      "theme": "cafe",
+      "count": 1,
+      "path": "metadata/ab73842bab91292eec8c8f3a11b8a7a37cdeb69c022b933a655f93bed2f507aa.json",
+      "size": 1869,
+      "sha256": "ab73842bab91292eec8c8f3a11b8a7a37cdeb69c022b933a655f93bed2f507aa"
     }
   ]
 }
