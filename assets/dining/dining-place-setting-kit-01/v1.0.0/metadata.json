@@ -1,0 +1,42 @@
+{
+  "id": "dining-place-setting-kit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "dining",
+  "style": "S01-clean-geometric",
+  "title": "Simple Four-Piece Place Setting",
+  "description": "Original four-piece static place-setting family: a shallow rimmed ceramic plate, four-tine fork, blunt shouldered table knife and shallow eating spoon. Four independently selectable closed mesh nodes with local bottom-center origins and unit scale. Two fixed arrangements on existing table and service counter are checked against actual support faces, utensil and mug geometry, with an over-edge negative test. Existing furniture and mugs are separate reused assets. No stacking, mechanism, washing or food-safety claim.",
+  "bounds": {
+    "x": 0.42899999022483826,
+    "y": 0.25999999046325684,
+    "z": 0.024000000208616257,
+    "unit": "m"
+  },
+  "triangles": 1288,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/dining/dining-place-setting-kit-01/v1.0.0/model.glb",
+      "size": 65280,
+      "sha256": "1ebc674aacb7e68b40e1a5a0e951583d701a4af1aadf0be69f6cd6053bd80e0e"
+    },
+    "blend": {
+      "path": "assets/dining/dining-place-setting-kit-01/v1.0.0/source.blend",
+      "size": 654116,
+      "sha256": "0ef7d3735e84b156706812d5972c95675a273b59314edf819932ff25df67024d"
+    },
+    "generator": {
+      "path": "assets/dining/dining-place-setting-kit-01/v1.0.0/generate.py",
+      "size": 34675,
+      "sha256": "c4e69f7bc31d72e7aea140afc46557156baa580b6307a8ee183d1bf84ad12029"
+    },
+    "render": {
+      "path": "assets/dining/dining-place-setting-kit-01/v1.0.0/thumbnail.png",
+      "size": 173321,
+      "sha256": "7bc436d5a7e7021cd17d8a77d20ca86c56880b6ed19e6005fceee9c6316cfeee"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
