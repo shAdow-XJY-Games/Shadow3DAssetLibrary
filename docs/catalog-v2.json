@@ -484,9 +484,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "894e5c75cae94513d08180aa328594c31b983bbd"
+    },
+    "laundry-washer-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "bab88da42f06a9f3dd16110ce4cd5182e5f5aa24"
     }
   },
-  "assetCount": 264,
+  "assetCount": 265,
   "shards": [
     {
       "theme": "camping",
@@ -665,10 +670,10 @@
     },
     {
       "theme": "laundry",
-      "count": 3,
-      "path": "metadata/42789fc6973c61546e5a9fb6c3ab3e1b6fb3d5864244bc1f37c1f120dd0ebeda.json",
-      "size": 3935,
-      "sha256": "42789fc6973c61546e5a9fb6c3ab3e1b6fb3d5864244bc1f37c1f120dd0ebeda"
+      "count": 4,
+      "path": "metadata/24a705cca3191ba1e6e1480d78a09c621c99b2d5e0a7545ceadf9db9e5efa5c3.json",
+      "size": 5787,
+      "sha256": "24a705cca3191ba1e6e1480d78a09c621c99b2d5e0a7545ceadf9db9e5efa5c3"
     },
     {
       "theme": "painting",
