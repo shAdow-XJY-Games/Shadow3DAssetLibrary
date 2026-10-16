@@ -504,9 +504,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "c6525dba8abf49c41dc6dad11c01d9921680e341"
+    },
+    "florist-vise-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "0eeb425477196495e991532a4ecc5704dd4d2c49"
     }
   },
-  "assetCount": 268,
+  "assetCount": 270,
   "shards": [
     {
       "theme": "camping",
@@ -822,6 +827,20 @@
       "path": "metadata/87948fd9ec3126280c079c3d0a5de3a540c31c576b77e795a2b51b5c9c83bf72.json",
       "size": 1626,
       "sha256": "87948fd9ec3126280c079c3d0a5de3a540c31c576b77e795a2b51b5c9c83bf72"
+    },
+    {
+      "theme": "florist",
+      "count": 1,
+      "path": "metadata/63d73ed17cf4c65281106655efa9477d948030ae43237e3dd94a5f0c913c9a53.json",
+      "size": 1747,
+      "sha256": "63d73ed17cf4c65281106655efa9477d948030ae43237e3dd94a5f0c913c9a53"
+    },
+    {
+      "theme": "industrial",
+      "count": 1,
+      "path": "metadata/47b7500eb4a710581b7004309af9e416246b98950ce616c6f6be9fc020b26022.json",
+      "size": 1759,
+      "sha256": "47b7500eb4a710581b7004309af9e416246b98950ce616c6f6be9fc020b26022"
     }
   ]
 }
