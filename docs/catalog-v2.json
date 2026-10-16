@@ -424,9 +424,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "aaa99b78d36157c5de2ad906df916ec6de1b399c"
+    },
+    "harvest-basket": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "6b37ed01e9dc110d5d24dfac0a4c1cb1a1f3ddb8"
     }
   },
-  "assetCount": 245,
+  "assetCount": 246,
   "shards": [
     {
       "theme": "camping",
@@ -458,10 +463,10 @@
     },
     {
       "theme": "village",
-      "count": 54,
-      "path": "metadata/ba62e744cfb8d8508737505a714e514869e6d20770937ed597fe8ec7ba00854a.json",
-      "size": 71801,
-      "sha256": "ba62e744cfb8d8508737505a714e514869e6d20770937ed597fe8ec7ba00854a"
+      "count": 55,
+      "path": "metadata/58839fec03490f1b8dcb5e0c583c7be73f035bd7ff4b9b684776c74e8f3d8784.json",
+      "size": 73341,
+      "sha256": "58839fec03490f1b8dcb5e0c583c7be73f035bd7ff4b9b684776c74e8f3d8784"
     },
     {
       "theme": "transport",
