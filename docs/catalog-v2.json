@@ -189,9 +189,19 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "4a50da07c8f63221d22484a8c897ed38ef849886"
+    },
+    "nature-hero-h02": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "372d971b37574a4b597fe34229a6c36d356f388f"
+    },
+    "interior-hero-h03": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "c375d53f1897cfadac409ce51f5680347f626468"
     }
   },
-  "assetCount": 184,
+  "assetCount": 186,
   "shards": [
     {
       "theme": "camping",
@@ -244,10 +254,10 @@
     },
     {
       "theme": "nature",
-      "count": 6,
-      "path": "metadata/2a917ba969d44425f31ad18900a85f9f40839dedad15f31df7e3e47d3d2fd664.json",
-      "size": 7747,
-      "sha256": "2a917ba969d44425f31ad18900a85f9f40839dedad15f31df7e3e47d3d2fd664"
+      "count": 7,
+      "path": "metadata/7247b7fa8639d74e3b9ae5ebcf7e9af881b2bfa419a3b0f77a8f2834b31c7985.json",
+      "size": 9209,
+      "sha256": "7247b7fa8639d74e3b9ae5ebcf7e9af881b2bfa419a3b0f77a8f2834b31c7985"
     },
     {
       "theme": "astronomy",
@@ -458,6 +468,13 @@
       "path": "metadata/58b08e0d2e762befda7cbacb056e1fed83dfae06dcd24f47a31cddd465679d08.json",
       "size": 3661,
       "sha256": "58b08e0d2e762befda7cbacb056e1fed83dfae06dcd24f47a31cddd465679d08"
+    },
+    {
+      "theme": "interior",
+      "count": 1,
+      "path": "metadata/761aabd10868f47988a30513c6f2f94cb38135ca17ddea1c6eb9522aa2ab9503.json",
+      "size": 1572,
+      "sha256": "761aabd10868f47988a30513c6f2f94cb38135ca17ddea1c6eb9522aa2ab9503"
     }
   ]
 }
