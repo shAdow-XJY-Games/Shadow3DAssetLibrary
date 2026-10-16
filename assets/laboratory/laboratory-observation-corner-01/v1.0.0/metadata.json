@@ -1,0 +1,42 @@
+{
+  "id": "laboratory-observation-corner-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "laboratory",
+  "style": "soft-low-poly",
+  "title": "Observation Laboratory Corner",
+  "description": "Original observation corner on a 2.8x2.2m base, with an editable microscope and three open sample vials on a four-leg table. Real shell openings, clearance bores and support contacts. Static game visual, with no scientific, diagnostic or laboratory safety claims.",
+  "bounds": {
+    "x": 2.8,
+    "y": 2.2,
+    "z": 1.646,
+    "unit": "m"
+  },
+  "triangles": 1560,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/laboratory/laboratory-observation-corner-01/v1.0.0/model.glb",
+      "size": 108156,
+      "sha256": "4f31ad919af60d50125ec24fc63589027e4f09ed810554a6122516d24944831b"
+    },
+    "blend": {
+      "path": "assets/laboratory/laboratory-observation-corner-01/v1.0.0/source.blend",
+      "size": 1012244,
+      "sha256": "aea8f202a0b5a07c5d02e581ee54f49a7b126ffec5a0189a752655dca0cd6434"
+    },
+    "generator": {
+      "path": "assets/laboratory/laboratory-observation-corner-01/v1.0.0/generate.py",
+      "size": 30380,
+      "sha256": "3d176c70973441be384ed3c4a9c42cba92ea425c4e3db7a97f6e0957e3e12d29"
+    },
+    "render": {
+      "path": "assets/laboratory/laboratory-observation-corner-01/v1.0.0/thumbnail.png",
+      "size": 312097,
+      "sha256": "715dcbfbec67aba685dbf8c4355b23e6c2388aaee28951a66310babae0a3e655"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

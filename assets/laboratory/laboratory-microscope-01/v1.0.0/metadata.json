@@ -1,0 +1,42 @@
+{
+  "id": "laboratory-microscope-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "laboratory",
+  "style": "soft-low-poly",
+  "title": "Low-Poly Observation Microscope",
+  "description": "Original editable visual microscope, 0.55x0.38m base and approximately 0.71m tall. Separate eyepiece, barrel, objective, focus dials and specimen stage. Static game prop only; no optical magnification, medical diagnosis or instrument-performance claims.",
+  "bounds": {
+    "x": 0.555,
+    "y": 0.38,
+    "z": 0.706,
+    "unit": "m"
+  },
+  "triangles": 528,
+  "materials": 7,
+  "files": {
+    "glb": {
+      "path": "assets/laboratory/laboratory-microscope-01/v1.0.0/model.glb",
+      "size": 41216,
+      "sha256": "1a8244993548680427c67418fd7ea8cc4ca7876226924bff0f7812df4464db44"
+    },
+    "blend": {
+      "path": "assets/laboratory/laboratory-microscope-01/v1.0.0/source.blend",
+      "size": 820908,
+      "sha256": "4e3a075396b8ffa7e9683bf1e633459eaf2dfa08706a458b00264cbd61f3ea01"
+    },
+    "generator": {
+      "path": "assets/laboratory/laboratory-microscope-01/v1.0.0/generate.py",
+      "size": 29850,
+      "sha256": "212dfa03070273f1a93f804ca449f5c327a9021bb4cd1ce03c406b25be9ebdd5"
+    },
+    "render": {
+      "path": "assets/laboratory/laboratory-microscope-01/v1.0.0/thumbnail.png",
+      "size": 307890,
+      "sha256": "737d6c29c7dbf73608df17c5ea9b14b607ebcd2909a131197e5db4ce4cd86599"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "laboratory-sample-rack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "laboratory",
+  "style": "soft-low-poly",
+  "title": "Open Sample Vial Rack",
+  "description": "Original 0.70x0.28m rack with three true open thick-shell sample vials. Each vial rests on the base and passes through a larger bored rail opening. Independent X repeats at 0.80m leave 0.10m base gap. Static visual module, no contents or laboratory safety certification.",
+  "bounds": {
+    "x": 0.7,
+    "y": 0.28,
+    "z": 0.36,
+    "unit": "m"
+  },
+  "triangles": 768,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/laboratory/laboratory-sample-rack-01/v1.0.0/model.glb",
+      "size": 48120,
+      "sha256": "82b6897a12e2bb82349e92598d57fd6c2ae9571ef4a52d39a5e70b496cac5ec4"
+    },
+    "blend": {
+      "path": "assets/laboratory/laboratory-sample-rack-01/v1.0.0/source.blend",
+      "size": 617996,
+      "sha256": "e5b0fbf433b2681f30411ed2ab1cb8bc5753954ada374b55365d6ca05cc58edc"
+    },
+    "generator": {
+      "path": "assets/laboratory/laboratory-sample-rack-01/v1.0.0/generate.py",
+      "size": 29858,
+      "sha256": "8d86d6d9a584ac6827171d01f67307c561bc7026dc07a8d2680cf3069d08daf5"
+    },
+    "render": {
+      "path": "assets/laboratory/laboratory-sample-rack-01/v1.0.0/thumbnail.png",
+      "size": 312937,
+      "sha256": "262981602e10a3665f55683d9bfacdd3d39819d0ae1872ae79d0cac4c88e0b0d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
