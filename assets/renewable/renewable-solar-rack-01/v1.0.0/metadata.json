@@ -1,0 +1,42 @@
+{
+  "id": "renewable-solar-rack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "renewable",
+  "style": "soft-low-poly",
+  "title": "Tilted Solar Panel Rack",
+  "description": "Original low-poly solar panel rack visual module, 1.8 m panel width, 25 degree tilt and four separately grounded feet. Eight closed blue cells, frame, posts and feet remain editable in the source. Suggested row spacing at least 2 m along X; no engineering, power or solar exposure performance is implied.",
+  "bounds": {
+    "x": 1.8,
+    "y": 1.02061,
+    "z": 1.11362,
+    "unit": "m"
+  },
+  "triangles": 748,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/renewable/renewable-solar-rack-01/v1.0.0/model.glb",
+      "size": 59808,
+      "sha256": "211df5269c2813984e2eaa17ed7c9607145d66dc01810efb84c739d56edc11a0"
+    },
+    "blend": {
+      "path": "assets/renewable/renewable-solar-rack-01/v1.0.0/source.blend",
+      "size": 668096,
+      "sha256": "cc4b77e4985f23ad0345873c3193e59e692c603a28f65963f00f2bbf8541804c"
+    },
+    "generator": {
+      "path": "assets/renewable/renewable-solar-rack-01/v1.0.0/generate.py",
+      "size": 28421,
+      "sha256": "0885d7d0607c7f76230d6aa5aa69dc1eecfe013f4694a7328ab419f46eda6b09"
+    },
+    "render": {
+      "path": "assets/renewable/renewable-solar-rack-01/v1.0.0/thumbnail.png",
+      "size": 320739,
+      "sha256": "349dafd2e9aa373c58bf14434507ceca75884c5e946738d8b237a057b6c3f020"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

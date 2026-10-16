@@ -1,0 +1,42 @@
+{
+  "id": "renewable-small-turbine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "renewable",
+  "style": "soft-low-poly",
+  "title": "Small Stylized Wind Turbine",
+  "description": "Original low-poly small wind turbine visual asset, approximately 3.87 m tall. Rotor_Runtime is a separate mesh node with local pivot at Blender (0,-0.37,2.92)m and rotation axis +Y (glTF pivot (0,2.92,0.37)m, axis -Z); Stator_Runtime stays fixed. Editable source includes named rotor parts and a pivot marker. No animation, power simulation, or engineering design is provided.",
+  "bounds": {
+    "x": 1.67045,
+    "y": 0.755,
+    "z": 3.87,
+    "unit": "m"
+  },
+  "triangles": 256,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/renewable/renewable-small-turbine-01/v1.0.0/model.glb",
+      "size": 21340,
+      "sha256": "405bf4b9797d14546a925ca69c1c16b02d063410df62b97d3be4f03d30885818"
+    },
+    "blend": {
+      "path": "assets/renewable/renewable-small-turbine-01/v1.0.0/source.blend",
+      "size": 653160,
+      "sha256": "3b586c00987d94ae9b72557f5d7f6dab6e233896de1f40f58fe4933502f32ff1"
+    },
+    "generator": {
+      "path": "assets/renewable/renewable-small-turbine-01/v1.0.0/generate.py",
+      "size": 31794,
+      "sha256": "129df3b9b52af0a125aa4c6197c3541ccbc27fa44c1c83c7c0a05e30bc0d6414"
+    },
+    "render": {
+      "path": "assets/renewable/renewable-small-turbine-01/v1.0.0/thumbnail.png",
+      "size": 291866,
+      "sha256": "300bd4b2880f957e19fcfc014e61c17c67773e139292b47efa9ed163d70a9192"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
