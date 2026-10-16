@@ -494,9 +494,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "cb151c4ce73b2c570aff1df7376ac57f767023db"
+    },
+    "salon-chair-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "36c8c29e7188d343aac3dafb6f2b1625db22064c"
     }
   },
-  "assetCount": 266,
+  "assetCount": 267,
   "shards": [
     {
       "theme": "camping",
@@ -805,6 +810,13 @@
       "path": "metadata/45f583a43bf4d177a549806ef98f879b2206bc9ff90ffd5e88725e8cf044355d.json",
       "size": 1691,
       "sha256": "45f583a43bf4d177a549806ef98f879b2206bc9ff90ffd5e88725e8cf044355d"
+    },
+    {
+      "theme": "salon",
+      "count": 1,
+      "path": "metadata/87948fd9ec3126280c079c3d0a5de3a540c31c576b77e795a2b51b5c9c83bf72.json",
+      "size": 1626,
+      "sha256": "87948fd9ec3126280c079c3d0a5de3a540c31c576b77e795a2b51b5c9c83bf72"
     }
   ]
 }
