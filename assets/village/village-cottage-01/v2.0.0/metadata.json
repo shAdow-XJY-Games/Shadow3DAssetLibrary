@@ -1,0 +1,42 @@
+{
+  "id": "village-cottage-01",
+  "version": "2.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Handcrafted Porch Cottage",
+  "description": "S03 handcrafted porch cottage with masonry base, timber bearing structure, plaster walls, recessed door and glazing, staggered thick clay roof tiles and ridge caps. Dimensions and porch/opening interfaces differ from village-cottage-01; not a drop-in replacement. Static architectural asset with fixed door and glazing; independently reviewed under art-v2. No operable-door or enterable-interior functionality is included.",
+  "bounds": {
+    "x": 4.75,
+    "y": 5.32,
+    "z": 4.6,
+    "unit": "m"
+  },
+  "triangles": 3638,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-cottage-01/v2.0.0/model.glb",
+      "size": 280820,
+      "sha256": "929f7cced377754545c16ea98ec233132261f4b8898208d5e7d30a941c99a06a"
+    },
+    "blend": {
+      "path": "assets/village/village-cottage-01/v2.0.0/source.blend",
+      "size": 1454536,
+      "sha256": "be7ced9aa5492777780a2960c3efeaa28d51d2542943a952ba5e11729a827418"
+    },
+    "generator": {
+      "path": "assets/village/village-cottage-01/v2.0.0/generate.py",
+      "size": 41110,
+      "sha256": "3b42af253524a79d67967520dfebf07dac188490e5f5e057e3a1b13615517f78"
+    },
+    "render": {
+      "path": "assets/village/village-cottage-01/v2.0.0/thumbnail.png",
+      "size": 354677,
+      "sha256": "ea851c3bf24e038a31b557fd3128b2b323afabdc36585e9ab19b5b8711d4cf12"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
