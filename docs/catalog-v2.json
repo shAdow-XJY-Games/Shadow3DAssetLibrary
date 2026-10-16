@@ -199,9 +199,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "c375d53f1897cfadac409ce51f5680347f626468"
+    },
+    "workshop-hero-h04": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "966f2de8926053ebbe2641052479e781ca3e7044"
     }
   },
-  "assetCount": 186,
+  "assetCount": 187,
   "shards": [
     {
       "theme": "camping",
@@ -240,10 +245,10 @@
     },
     {
       "theme": "transport",
-      "count": 9,
-      "path": "metadata/0fb5626e5040bede1d3530e54b1ef1ec66692a270f4f474e58df9bac51a97e88.json",
-      "size": 11567,
-      "sha256": "0fb5626e5040bede1d3530e54b1ef1ec66692a270f4f474e58df9bac51a97e88"
+      "count": 10,
+      "path": "metadata/04949d233c92494bf972405f4c29794db96c4ac77576eecf19b566b4486abc05.json",
+      "size": 13068,
+      "sha256": "04949d233c92494bf972405f4c29794db96c4ac77576eecf19b566b4486abc05"
     },
     {
       "theme": "entryway",
