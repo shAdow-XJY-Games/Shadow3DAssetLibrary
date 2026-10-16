@@ -1,0 +1,42 @@
+{
+  "id": "nature-umbrella-broadleaf-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "hard-edge-faceted-nature",
+  "title": "Directional Umbrella Broadleaf Tree",
+  "description": "Hard-edge faceted broadleaf tree (style plan S02) with intentionally directional, asymmetric umbrella crown; three unequal main branches taper into a connected canopy. Solid untextured materials use coherent upper, side and underside value groups. Runtime visual tree, no wind rig; repeated concept instances are not additional tree variants. Pending independent technical and art review.",
+  "bounds": {
+    "x": 4.56127,
+    "y": 2.47571,
+    "z": 5.00756,
+    "unit": "m"
+  },
+  "triangles": 546,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-umbrella-broadleaf-01/v1.0.0/model.glb",
+      "size": 44960,
+      "sha256": "b4a4da1937b6de09803959eb60a3a177ec9ed7075ef96feec153c4fd3560f55c"
+    },
+    "blend": {
+      "path": "assets/nature/nature-umbrella-broadleaf-01/v1.0.0/source.blend",
+      "size": 715484,
+      "sha256": "6f0d4489a7f43b9faee30346a3d14a359a952a1c5cbbd92792b757be325dc33f"
+    },
+    "generator": {
+      "path": "assets/nature/nature-umbrella-broadleaf-01/v1.0.0/generate.py",
+      "size": 35512,
+      "sha256": "b10e443b4f2b3287526f4e5f1d9d419c75305ea83843272b471589429c02f0e4"
+    },
+    "render": {
+      "path": "assets/nature/nature-umbrella-broadleaf-01/v1.0.0/thumbnail.png",
+      "size": 314593,
+      "sha256": "198db5150e010c62939d1baece7b0427bcda3f935b0d0c723a90da53ffe04528"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
