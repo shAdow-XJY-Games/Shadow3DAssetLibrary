@@ -369,6 +369,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "015b20a2c2a371d90107b87b5e2622e3d405aca1"
+    },
+    "bakery-croissant-v2": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "d450fc4758e1c806ef49c8b9f2a90d2d56f6fdc8"
     }
   },
   "assetCount": 229,
@@ -593,9 +598,9 @@
     {
       "theme": "bakery",
       "count": 4,
-      "path": "metadata/5136eb06b9a9959285532b71b287fcec1901878e88c6417074f3d5d3343b79a6.json",
-      "size": 5047,
-      "sha256": "5136eb06b9a9959285532b71b287fcec1901878e88c6417074f3d5d3343b79a6"
+      "path": "metadata/1d5a6814a81f46a83a2870da2b00dae6da7f19e5619c213a1d5f7ac4ad7a7cc0.json",
+      "size": 5484,
+      "sha256": "1d5a6814a81f46a83a2870da2b00dae6da7f19e5619c213a1d5f7ac4ad7a7cc0"
     },
     {
       "theme": "arcade",
