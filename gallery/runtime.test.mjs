@@ -5,6 +5,7 @@ import {readFile,writeFile,mkdtemp} from 'node:fs/promises';
 import {tmpdir} from 'node:os';
 import {join} from 'node:path';
 import {createHash} from 'node:crypto';
+import {splitCatalog} from './shard-catalog.mjs';
 import {validateCatalog,fetchVerifiedGLB,SOURCE} from '../docs/core.mjs';
 const fixtureDirectory=await mkdtemp(join(tmpdir(),'shadow-gallery-fixtures-'));
 const hash='a'.repeat(64), source={...SOURCE,commit:'1'.repeat(40)};
@@ -18,13 +19,13 @@ class Element{
  addEventListener(type,fn){(this.listeners[type]??=[]).push(fn);}dispatch(type,detail={}){const event={target:this,preventDefault(){},...detail};this['on'+type]?.(event);for(const fn of this.listeners[type]||[])fn(event);}
  setAttribute(k,v){this.attributes[k]=v;}removeAttribute(k){delete this[k];delete this.attributes[k];}showModal(){this.open=true;}close(){this.open=false;this.dispatch('close');}
 }
-async function loadApp(payload,{fail=false}={}){
+async function loadApp(payload,{fail=false,shards=null,failShard=false,indexStatus=null,indexNetworkError=false}={}){
  const elements=new Map();for(const id of ['query','repository','assetKind','category','theme','style','catalog','count','empty','error','detail','detail-title','detail-kind','detail-description','detail-status','specs','downloads','source-note','viewer','viewer-status','reset-view','preview','close','filters'])elements.set('#'+id,new Element());elements.set('#empty h3',new Element());elements.set('#empty p',new Element());elements.get('#empty').hidden=true;elements.get('#error').hidden=true;
  const modes=['render','3d','reference'].map(mode=>{const b=new Element('button');b.dataset.mode=mode;return b;});
  globalThis.document={querySelector:q=>q.startsWith('[data-mode=')?modes.find(b=>q.includes(b.dataset.mode)):elements.get(q),querySelectorAll:q=>q==='[data-mode]'?modes:[],createElement:tag=>new Element(tag)};
  globalThis.Option=class extends Element{constructor(label,value){super('option');this.textContent=label;this.value=value;}};
- globalThis.fetch=async url=>{assert.equal(url,'./catalog.json');return {ok:!fail,json:async()=>structuredClone(payload)};};
- const original=await readFile(new URL('../docs/app.mjs',import.meta.url),'utf8');const code=original.replace("'./core.mjs'",JSON.stringify(new URL('../docs/core.mjs',import.meta.url).href));
+ globalThis.fetch=async url=>{if(url==='./catalog-v2.json'){if(indexNetworkError)throw Error('network failure');if(indexStatus)return new Response('',{status:indexStatus});if(payload.schemaVersion===1)return new Response('',{status:404});return new Response(JSON.stringify(payload),{status:fail?503:200});}if(url!=='./catalog.json'){assert.ok(shards?.has(url.slice(2)));return new Response(shards.get(url.slice(2)),{status:failShard?503:200});}return new Response(JSON.stringify(payload),{status:fail?503:200});};
+ const original=await readFile(new URL('../docs/app.mjs',import.meta.url),'utf8');const code=original.replace("'./core.mjs'",JSON.stringify(new URL('../docs/core.mjs',import.meta.url).href)).replace("'./core-catalog-v2.mjs'",JSON.stringify(new URL('../docs/core-catalog-v2.mjs',import.meta.url).href));
  const errors=[];const previous=console.error;console.error=e=>errors.push(e.message);try{await import('data:text/javascript;base64,'+Buffer.from(code+`\n// run ${Math.random()}`).toString('base64'));}finally{console.error=previous;}
  return {get:q=>elements.get(q),modes,errors};
 }
@@ -39,3 +40,8 @@ test('verified GLB uses explicit CORS/no credentials and checks exact SHA-256',a
 test('GLB HTTP, CORS/network, size and hash failures reject before parsing',async()=>{for(const fetcher of [async()=>new Response('',{status:404}),async()=>{throw TypeError('Failed to fetch');},async()=>new Response(bytes,{headers:{'Content-Length':'999'}}),async()=>new Response(new Uint8Array(9)),async()=>new Response(new Uint8Array(3)),async()=>new Response(new Uint8Array(8))])await assert.rejects(()=>fetchVerifiedGLB(url,meta,{fetcher}));});
 test('GLB cancellation and unavailable crypto fail closed',async()=>{const controller=new AbortController();controller.abort();await assert.rejects(()=>fetchVerifiedGLB(url,meta,{signal:controller.signal,fetcher:async()=>new Response(bytes)}));await assert.rejects(()=>fetchVerifiedGLB(url,meta,{cryptoProvider:null,fetcher:async()=>new Response(bytes)}),/secure context/);});
 console.log('Local-only fixture directory:',fixtureDirectory);
+
+test('DOM v2 waits for verified whole catalog and preserves filters and pinned details',async()=>{const converted=splitCatalog(fixture);const ui=await loadApp(converted.index,{shards:converted.files});assert.equal(ui.get('#count').textContent,'1 / 1 件已入库');assert.equal(ui.get('#catalog').children.length,1);ui.get('#catalog').children[0].dispatch('click');assert.ok(ui.get('#downloads').children.every(a=>a.href.includes('/'+source.commit+'/assets/')));ui.get('#query').value='missing';ui.get('#filters').dispatch('input');assert.equal(ui.get('#catalog').children.length,0);});
+test('DOM failed v2 shard shows error without partial cards or false global count',async()=>{const converted=splitCatalog(fixture);const ui=await loadApp(converted.index,{shards:converted.files,failShard:true});assert.equal(ui.get('#count').textContent,'目录读取失败');assert.equal(ui.get('#catalog').children.length,0);assert.equal(ui.get('#error').hidden,false);});
+
+test('DOM v2 index HTTP and network failures never silently fall back to v1',async()=>{for(const options of [{indexStatus:503},{indexStatus:403},{indexNetworkError:true}]){const ui=await loadApp(fixture,options);assert.equal(ui.get('#error').hidden,false);assert.equal(ui.get('#catalog').children.length,0);}});
