@@ -1,0 +1,42 @@
+{
+  "id": "village-entry-canopy-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Single-Slope Timber Entrance Canopy",
+  "description": "S03 four-post single-slope entrance canopy, mounted on the common .30m landing/apron top plane. Cut post heads and two sloping rails support the roof with six broad staggered clay groups. Covers the landing-to-door approach while remaining separate from the main eave. See generate.py opening documentation for exact host locations and installation axes. Visual geometry only; no load, accessibility or navigation certification.",
+  "bounds": {
+    "x": 1.92,
+    "y": 2.3,
+    "z": 2.56161,
+    "unit": "m"
+  },
+  "triangles": 156,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-entry-canopy-01/v1.0.0/model.glb",
+      "size": 10520,
+      "sha256": "04079b5709c12e19bfe41e21dc3865e7ba706355906408161c2594fbc82c66af"
+    },
+    "blend": {
+      "path": "assets/village/village-entry-canopy-01/v1.0.0/source.blend",
+      "size": 621684,
+      "sha256": "97a16fcd0f678c5d04045e449e501643f9c5f084aef10f23b1a32c514414ed60"
+    },
+    "generator": {
+      "path": "assets/village/village-entry-canopy-01/v1.0.0/generate.py",
+      "size": 41741,
+      "sha256": "3f41bc91ac94f1d2e3582f28a5ba2b273d3ee4f0aa76d37190bfb047db8d4d66"
+    },
+    "render": {
+      "path": "assets/village/village-entry-canopy-01/v1.0.0/thumbnail.png",
+      "size": 326920,
+      "sha256": "ce9109aefb5552ae58f3deb0f5db2b8c234027c99ea7299fbe1aead90490a348"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
