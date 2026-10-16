@@ -1,0 +1,42 @@
+{
+  "id": "navigation-planning-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "navigation",
+  "style": "soft-low-poly",
+  "title": "Route Planning Corner",
+  "description": "Original static fictional route-planning display combining sloped map stand and compass on a presentation pad. Editable source components; no navigation or magnetic simulation.",
+  "bounds": {
+    "x": 2.8,
+    "y": 2.4,
+    "z": 1.012,
+    "unit": "m"
+  },
+  "triangles": 1572,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/navigation/navigation-planning-corner-scene-01/v1.0.0/model.glb",
+      "size": 108296,
+      "sha256": "8beeb06533a60f537f7b58d2e9444c7ccf2809b573c5f7b3dbdd34cd5e976a15"
+    },
+    "blend": {
+      "path": "assets/navigation/navigation-planning-corner-scene-01/v1.0.0/source.blend",
+      "size": 724488,
+      "sha256": "4e411a977fb64cc4d7e56092b994f694163e0c5c08219784c8d5dce9f4bbfdc9"
+    },
+    "generator": {
+      "path": "assets/navigation/navigation-planning-corner-scene-01/v1.0.0/generate.py",
+      "size": 28168,
+      "sha256": "5c27de92e7ec2aedb1c98d88f9fe16a5d345e5d35157005240709820ed1c7a23"
+    },
+    "render": {
+      "path": "assets/navigation/navigation-planning-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 307026,
+      "sha256": "43bc235fc244cf9a5bd95e25140273f12895a72dc4d73ac777976d47d4d4476c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

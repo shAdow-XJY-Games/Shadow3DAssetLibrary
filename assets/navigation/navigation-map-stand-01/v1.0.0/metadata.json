@@ -1,0 +1,42 @@
+{
+  "id": "navigation-map-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "navigation",
+  "style": "soft-low-poly",
+  "title": "Sloped Map Planning Stand",
+  "description": "Original four-foot sloped planning table with closed thick fictional map, two raised islands and two editable map pins. Fictional geography, no location data or real route guidance.",
+  "bounds": {
+    "x": 1.2,
+    "y": 0.8,
+    "z": 0.9,
+    "unit": "m"
+  },
+  "triangles": 420,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/navigation/navigation-map-stand-01/v1.0.0/model.glb",
+      "size": 32408,
+      "sha256": "8a7e4f89e2c472e39e448182804188899976cb394d989597bc351a2865b1e49d"
+    },
+    "blend": {
+      "path": "assets/navigation/navigation-map-stand-01/v1.0.0/source.blend",
+      "size": 595780,
+      "sha256": "f0b0d86a8e0a1e75ff7c63dfce2452e70d3d4f753debf7348560bfcf937fb94a"
+    },
+    "generator": {
+      "path": "assets/navigation/navigation-map-stand-01/v1.0.0/generate.py",
+      "size": 26552,
+      "sha256": "bdc1f7ddb015d07771cb697d9ea9a5eca5a93928a2cf80ddc3dcd8453c41ff43"
+    },
+    "render": {
+      "path": "assets/navigation/navigation-map-stand-01/v1.0.0/thumbnail.png",
+      "size": 320639,
+      "sha256": "e095bacb2cd069b0a7168e0b4d9b8a1a090d12bded49b4ef995b6d0867dc85f7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

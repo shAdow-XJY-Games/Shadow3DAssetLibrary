@@ -1,0 +1,42 @@
+{
+  "id": "navigation-compass-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "navigation",
+  "style": "soft-low-poly",
+  "title": "Static Compass Prop",
+  "description": "Original low-poly compass with separate case, rim, dial markers, two-colored needle halves and center pivot. Game visual only; no magnetic simulation or navigation accuracy claim.",
+  "bounds": {
+    "x": 0.5,
+    "y": 0.5,
+    "z": 0.075,
+    "unit": "m"
+  },
+  "triangles": 1108,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/navigation/navigation-compass-01/v1.0.0/model.glb",
+      "size": 77200,
+      "sha256": "9ef636c1223cc433bd62d9cbc07831a566daec29a39149744b1272958b7a88a4"
+    },
+    "blend": {
+      "path": "assets/navigation/navigation-compass-01/v1.0.0/source.blend",
+      "size": 657212,
+      "sha256": "070608e8183d09b2249fc51ae6d4600f97256d82cb694d963364050c47a8f3c5"
+    },
+    "generator": {
+      "path": "assets/navigation/navigation-compass-01/v1.0.0/generate.py",
+      "size": 26074,
+      "sha256": "392142b047800bd260e96762e3df55051f5118941a4294b626b69a246608d3b1"
+    },
+    "render": {
+      "path": "assets/navigation/navigation-compass-01/v1.0.0/thumbnail.png",
+      "size": 299229,
+      "sha256": "ae717bbb2c19f8d3a43749fa895a0d425d2abf9dcdc788757324cbfe9e9db3cb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
