@@ -1,0 +1,42 @@
+{
+  "id": "hospitality-single-bed-kit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "hospitality",
+  "style": "S01-clean-geometric",
+  "title": "Quiet-Room Single Bed Kit",
+  "description": "Original static single-bed functional kit with four legs, framed rails, five real mattress cross supports, headboard, one 1 by 2 metre mattress, pillow and closed softly folded cover. Seventeen named editable mesh parts; one family asset. Actual support patches and flat bedding contacts are checked with displaced and lifted negative fixtures. Fixed cloth geometry only, without fabric, occupant, load or mechanism simulation. Existing cabinet and unlit lamp are separately reused in the documented room display.",
+  "bounds": {
+    "x": 1.1050000190734863,
+    "y": 2.1299999952316284,
+    "z": 0.9600000381469727,
+    "unit": "m"
+  },
+  "triangles": 848,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/hospitality/hospitality-single-bed-kit-01/v1.0.0/model.glb",
+      "size": 63676,
+      "sha256": "92449f9c6a4a6ad938c992466f6f3f77f2ec353581c7aea9b5a4542fd2e2ce85"
+    },
+    "blend": {
+      "path": "assets/hospitality/hospitality-single-bed-kit-01/v1.0.0/source.blend",
+      "size": 777160,
+      "sha256": "79e8b951270702a076aff854fa8ada0edf3b438d3b865dd593924afa731fe7b1"
+    },
+    "generator": {
+      "path": "assets/hospitality/hospitality-single-bed-kit-01/v1.0.0/generate.py",
+      "size": 37888,
+      "sha256": "c1d0f23129219bcd2189f459b58bc93c35bae0a6ce663022766d841a0ab13f20"
+    },
+    "render": {
+      "path": "assets/hospitality/hospitality-single-bed-kit-01/v1.0.0/thumbnail.png",
+      "size": 214952,
+      "sha256": "1dd2d0d106bccb2bb52c71e36eb575c53f88648e92bd68332eeddc9e402e199d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
