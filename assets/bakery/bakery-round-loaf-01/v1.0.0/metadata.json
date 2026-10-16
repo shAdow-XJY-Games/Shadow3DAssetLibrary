@@ -1,0 +1,42 @@
+{
+  "id": "bakery-round-loaf-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "bakery",
+  "style": "warm-handcrafted-bakery",
+  "title": "Scored Round Bakery Loaf",
+  "description": "Original static low-poly round bread loaf with a continuous plump dome, flat resting underside and two separate diagonal shallow score openings. Warm baked crust and restrained lighter score interiors use solid materials without textures. Uniform top surface distribution avoids a polar fan pinch. Editable source and closed static GLB food mesh; no cooking or food performance simulation.",
+  "bounds": {
+    "x": 0.28600001335144043,
+    "y": 0.28600001335144043,
+    "z": 0.17000000178813934,
+    "unit": "m"
+  },
+  "triangles": 1902,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-round-loaf-01/v1.0.0/model.glb",
+      "size": 102056,
+      "sha256": "b63054b441161c7728b6113691020815b25f8cdfe07fd86b29c72d7f43427df3"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-round-loaf-01/v1.0.0/source.blend",
+      "size": 666036,
+      "sha256": "7d64a80ac84844869ee7dd0ebfb61ffab6cf94d0ad0863fdd5ad54fac40c0c22"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-round-loaf-01/v1.0.0/generate.py",
+      "size": 30189,
+      "sha256": "4a2830ce7ef52614317e116177227b86e0f5de76a6b349ed3161770d057b2bbc"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-round-loaf-01/v1.0.0/thumbnail.png",
+      "size": 198168,
+      "sha256": "de8d9315cdabacb7b44265b7c3901fd62ef55c6c389178652e37c1f23721cff0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
