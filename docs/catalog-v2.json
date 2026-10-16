@@ -329,9 +329,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "c40e589e95206138a68f5f7d6af3d88182877884"
+    },
+    "entry-canopy-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "dbcd132c727133fab667187bb467ff2aa9948e0f"
     }
   },
-  "assetCount": 221,
+  "assetCount": 222,
   "shards": [
     {
       "theme": "camping",
@@ -363,10 +368,10 @@
     },
     {
       "theme": "village",
-      "count": 42,
-      "path": "metadata/3af2176b142274199a9428ce6dc4f7b106c6edc6208965b718f0f6ebeeb9b68a.json",
-      "size": 53413,
-      "sha256": "3af2176b142274199a9428ce6dc4f7b106c6edc6208965b718f0f6ebeeb9b68a"
+      "count": 43,
+      "path": "metadata/e1d5cec72caa55a11796e7ed4bbf6f2c02b52591abb10e37af4bb87bc7f2b8ac.json",
+      "size": 54905,
+      "sha256": "e1d5cec72caa55a11796e7ed4bbf6f2c02b52591abb10e37af4bb87bc7f2b8ac"
     },
     {
       "theme": "transport",
