@@ -349,9 +349,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "312856837a7ae08f9e121e45c41a4defb9075e00"
+    },
+    "curved-track-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "990e562cc5a7c35375680418dd974e7a795752a6"
     }
   },
-  "assetCount": 225,
+  "assetCount": 226,
   "shards": [
     {
       "theme": "camping",
@@ -460,10 +465,10 @@
     },
     {
       "theme": "railway",
-      "count": 8,
-      "path": "metadata/38bcdb58e462cc0a8161cf26059495c206307c970f1601b7ea19fc5ac29a0b74.json",
-      "size": 12673,
-      "sha256": "38bcdb58e462cc0a8161cf26059495c206307c970f1601b7ea19fc5ac29a0b74"
+      "count": 9,
+      "path": "metadata/bd30624e90f8eb648781c5b86619611cc9197916ac40e114e1ab803243dd0aeb.json",
+      "size": 14491,
+      "sha256": "bd30624e90f8eb648781c5b86619611cc9197916ac40e114e1ab803243dd0aeb"
     },
     {
       "theme": "renewable",
