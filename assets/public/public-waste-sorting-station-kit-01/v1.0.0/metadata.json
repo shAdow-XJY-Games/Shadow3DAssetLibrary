@@ -1,0 +1,42 @@
+{
+  "id": "public-waste-sorting-station-kit-01",
+  "version": "1.0.0",
+  "category": "equipment",
+  "assetKind": "modular",
+  "theme": "public-service",
+  "style": "S01-clean-geometric",
+  "title": "Editable Three-Stream Collection Station",
+  "description": "Original S01 static collection station with one continuous three-aperture deck, open-front support frame, three independently selectable genuine hollow liners and distinct original category symbols. Finite forward removal positions and a manually removed/set-down example are checked with an unchanged legacy parcel and separately reused paving. One kit. No waste-rule, dynamic removal, capacity or public-facility certification. See generate.py opening documentation for exact named-node coordinates and installation.",
+  "bounds": {
+    "x": 1.3200000524520874,
+    "y": 0.5799999833106995,
+    "z": 0.9799999594688416,
+    "unit": "m"
+  },
+  "triangles": 832,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-waste-sorting-station-kit-01/v1.0.0/model.glb",
+      "size": 62360,
+      "sha256": "e97d315b3c8fc0dcb8dace1d4f8331040e64c2b6ce80273d9915636dbbf379bb"
+    },
+    "blend": {
+      "path": "assets/public/public-waste-sorting-station-kit-01/v1.0.0/source.blend",
+      "size": 848644,
+      "sha256": "d489ee6698a357ac54692ccc1d5151fbee2b9bd9554e48d56cbc0e71ec04b07b"
+    },
+    "generator": {
+      "path": "assets/public/public-waste-sorting-station-kit-01/v1.0.0/generate.py",
+      "size": 34761,
+      "sha256": "160478f28ae70731b2e006a00b006b5e0ef2b71375d1cf7418a0e15a374ad67c"
+    },
+    "render": {
+      "path": "assets/public/public-waste-sorting-station-kit-01/v1.0.0/thumbnail.png",
+      "size": 241850,
+      "sha256": "ee24a32b612bf25bdce7e3a0ffea79a595bc670c30bd086ebee305acfb6d7021"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

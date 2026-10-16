@@ -1,0 +1,42 @@
+{
+  "id": "public-litter-picker-01",
+  "version": "1.0.0",
+  "category": "equipment",
+  "assetKind": "prop",
+  "theme": "public-service",
+  "style": "S01-clean-geometric",
+  "title": "Static Long-Shaft Litter Picker",
+  "description": "Original S01 static long-shaft litter picker with a true open handgrip, short trigger cue, shaft, fixed curved opposing jaws and flat gripping pads. Nine independently editable named mesh components. Actual contact with one unchanged legacy parcel and a lateral-offset collision negative are checked. No trigger linkage, jaw animation, holding-force, dynamic pickup or arbitrary-object grasp claim. See generate.py opening documentation for flat display orientation and fixed pad coordinates.",
+  "bounds": {
+    "x": 0.164000004529953,
+    "y": 0.9149999916553497,
+    "z": 0.03999999910593033,
+    "unit": "m"
+  },
+  "triangles": 256,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-litter-picker-01/v1.0.0/model.glb",
+      "size": 23552,
+      "sha256": "160f300159a1e1e30c13b15ad16a83dbff97fe4afc0bbce1687c6832742a4e7e"
+    },
+    "blend": {
+      "path": "assets/public/public-litter-picker-01/v1.0.0/source.blend",
+      "size": 715852,
+      "sha256": "3b4cc91cbbc4415f32bda66fb264b929b1212a12cc2e5b31c5b4fe0055189d24"
+    },
+    "generator": {
+      "path": "assets/public/public-litter-picker-01/v1.0.0/generate.py",
+      "size": 32739,
+      "sha256": "df0a4c8e288b8a6dc96c6ea35997a44e013274fa3d26de353de2f61e3e45d542"
+    },
+    "render": {
+      "path": "assets/public/public-litter-picker-01/v1.0.0/thumbnail.png",
+      "size": 161938,
+      "sha256": "265e15f839ebf40fb39c68deeed9d4ec3ff875d580eb038755087a796e2bd583"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
