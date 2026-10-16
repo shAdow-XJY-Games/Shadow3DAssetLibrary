@@ -124,9 +124,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "b7120d2603cf859c304d122026351aaea12c2552"
+    },
+    "laundry-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "02b8fc45977260b097dadc8f69773acbbc03da77"
     }
   },
-  "assetCount": 145,
+  "assetCount": 148,
   "shards": [
     {
       "theme": "camping",
@@ -302,6 +307,13 @@
       "path": "metadata/7907aa31536e9c70e4b6b49a248b4b7c0c255ec881a89b38ada305b93fb8adfe.json",
       "size": 3754,
       "sha256": "7907aa31536e9c70e4b6b49a248b4b7c0c255ec881a89b38ada305b93fb8adfe"
+    },
+    {
+      "theme": "laundry",
+      "count": 3,
+      "path": "metadata/42789fc6973c61546e5a9fb6c3ab3e1b6fb3d5864244bc1f37c1f120dd0ebeda.json",
+      "size": 3935,
+      "sha256": "42789fc6973c61546e5a9fb6c3ab3e1b6fb3d5864244bc1f37c1f120dd0ebeda"
     }
   ]
 }
