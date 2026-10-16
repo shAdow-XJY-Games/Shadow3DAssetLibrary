@@ -1,0 +1,42 @@
+{
+  "id": "village-stone-foundation-2m-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Stone Foundation \u2014 2m Tile",
+  "description": "S03 modular stone foundation tile with a shallow inset lower course. Two-metre X/Y repeat and 0.30m flat full top for separately assembled wall modules. Real flat lower ground surface and positive opposite-face upper-course contacts. Visual game module, not a load-capacity or terrain-conformance guarantee. Pending independent review.",
+  "bounds": {
+    "x": 2.0,
+    "y": 2.0,
+    "z": 0.3,
+    "unit": "m"
+  },
+  "triangles": 36,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-stone-foundation-2m-01/v1.0.0/model.glb",
+      "size": 4604,
+      "sha256": "7cfd81a16b3c282dae548246fcd60951e80320eec8e60f424e6b40731176612d"
+    },
+    "blend": {
+      "path": "assets/village/village-stone-foundation-2m-01/v1.0.0/source.blend",
+      "size": 527764,
+      "sha256": "34038e9329967da69afccb65a054be39eaddedfcfbdfe995f1cee3e694c2c239"
+    },
+    "generator": {
+      "path": "assets/village/village-stone-foundation-2m-01/v1.0.0/generate.py",
+      "size": 38569,
+      "sha256": "6d6532f2c5ba07ab14daa405f30fcec197a997e687deb906447b825a6b73b90e"
+    },
+    "render": {
+      "path": "assets/village/village-stone-foundation-2m-01/v1.0.0/thumbnail.png",
+      "size": 292273,
+      "sha256": "8da9c287e11b80c6d4d5fb5efaec074b5c775550372b655204be265d68602673"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "village-gable-end-4m-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Gable End \u2014 4m Span",
+  "description": "S03 modular gable end with wall-cap base and a quarter-metre terminal clay roof strip meeting the repeating roof at local Y=0. Four-metre wall-centre span, quarter-metre outward terminal strip, explicit wall-cap mounting plane at local Z=0. Real opposite-face rafter/deck and ridge contacts with no forced interpenetration. Actual end-wall cap and repeating-roof mating evidence is retained for this visual module. No structural load-capacity or runtime collision guarantee. Pending independent review.",
+  "bounds": {
+    "x": 4.6,
+    "y": 0.38,
+    "z": 1.86,
+    "unit": "m"
+  },
+  "triangles": 164,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-gable-end-4m-01/v1.0.0/model.glb",
+      "size": 16384,
+      "sha256": "5bdd5884ba485fe72bc96af5757940fd16eaaf6aa75291549bf06c98efe29cb6"
+    },
+    "blend": {
+      "path": "assets/village/village-gable-end-4m-01/v1.0.0/source.blend",
+      "size": 719632,
+      "sha256": "caf44f2e9240b02daa979e097a2b2a6f0d4e14bdd3f667c1ac7891662cecb815"
+    },
+    "generator": {
+      "path": "assets/village/village-gable-end-4m-01/v1.0.0/generate.py",
+      "size": 41478,
+      "sha256": "ff4bfccef1d9e4eca13a18e2f921331a084303348b6a7ad18d39ee1682791de2"
+    },
+    "render": {
+      "path": "assets/village/village-gable-end-4m-01/v1.0.0/thumbnail.png",
+      "size": 310353,
+      "sha256": "570c809475f9dceead4aeafb53fce9918a842180c031af6adbba94cfc97bf8a8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
