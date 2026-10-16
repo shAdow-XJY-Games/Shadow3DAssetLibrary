@@ -444,9 +444,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "4649b2d892940a853afaf82da2ebc0320297a2cb"
+    },
+    "postal-scale": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "a99b27ad8986bbbfc7d18692bc98f6f86372a2f7"
     }
   },
-  "assetCount": 251,
+  "assetCount": 252,
   "shards": [
     {
       "theme": "camping",
@@ -548,10 +553,10 @@
     },
     {
       "theme": "postal",
-      "count": 3,
-      "path": "metadata/be4cc7a92bf0c3a21ff6631166b76edabf9b04d777db820f8c69ddacb6b5bc54.json",
-      "size": 3882,
-      "sha256": "be4cc7a92bf0c3a21ff6631166b76edabf9b04d777db820f8c69ddacb6b5bc54"
+      "count": 4,
+      "path": "metadata/30a973c0f30b4d162486ef184fd21b02a3486ad802982dfb24f0e3130ce16b6d.json",
+      "size": 5608,
+      "sha256": "30a973c0f30b4d162486ef184fd21b02a3486ad802982dfb24f0e3130ce16b6d"
     },
     {
       "theme": "railway",
