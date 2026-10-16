@@ -1,0 +1,42 @@
+{
+  "id": "transport-cargo-trike-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "soft-low-poly",
+  "title": "Three Wheel Cargo Trike",
+  "description": "Original static cargo tricycle with single front and paired rear wheels, separate tires, hubs, axles, forks, chassis, saddle, steering controls and open cargo box. Wheel axles follow source X; vehicle faces -Y. Editable parts; no animation or physics.",
+  "bounds": {
+    "x": 1.233,
+    "y": 2.13,
+    "z": 1.15629,
+    "unit": "m"
+  },
+  "triangles": 1544,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-cargo-trike-01/v1.0.0/model.glb",
+      "size": 104524,
+      "sha256": "74cdc2f8025ad1ae9c74a46e1ab060a7606456e39c02e64a2c9d006a02b6ca3f"
+    },
+    "blend": {
+      "path": "assets/transport/transport-cargo-trike-01/v1.0.0/source.blend",
+      "size": 678140,
+      "sha256": "be4c5bca508905e9dcba6611d412645b29f645bf6d85e6724799711c169c0f2f"
+    },
+    "generator": {
+      "path": "assets/transport/transport-cargo-trike-01/v1.0.0/generate.py",
+      "size": 26132,
+      "sha256": "4af69a6ccaf40550f75aeabcfd81cf0bb9a211c482b87d63bfb68fdf462359c3"
+    },
+    "render": {
+      "path": "assets/transport/transport-cargo-trike-01/v1.0.0/thumbnail.png",
+      "size": 327919,
+      "sha256": "8c27abee02b104ca68cb1eed0ea0cb04654a02676167645b27035335f48f59b6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

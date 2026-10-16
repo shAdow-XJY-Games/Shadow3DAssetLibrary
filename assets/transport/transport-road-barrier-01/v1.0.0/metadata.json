@@ -1,0 +1,42 @@
+{
+  "id": "transport-road-barrier-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "soft-low-poly",
+  "title": "Soft Corner Road Barrier",
+  "description": "Original freestanding road barricade with two wide stabilizing feet, braced uprights and a double-sided ochre board carrying cream diagonal markings. A stylized game prop.",
+  "bounds": {
+    "x": 1.22,
+    "y": 0.55,
+    "z": 0.92,
+    "unit": "m"
+  },
+  "triangles": 336,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-road-barrier-01/v1.0.0/model.glb",
+      "size": 28136,
+      "sha256": "009cbf0af4397f0c315a315650e3402d3e1e9230528cb0acddc6990bbf37425a"
+    },
+    "blend": {
+      "path": "assets/transport/transport-road-barrier-01/v1.0.0/source.blend",
+      "size": 556604,
+      "sha256": "4821806474ad0c12896993879e87e5002414508fdf914cf7d915a281aa989926"
+    },
+    "generator": {
+      "path": "assets/transport/transport-road-barrier-01/v1.0.0/generate.py",
+      "size": 23658,
+      "sha256": "4abced9f57488ff4e638f20381bc240342dc29fd20955c9f50f6c77fd7fb05a5"
+    },
+    "render": {
+      "path": "assets/transport/transport-road-barrier-01/v1.0.0/thumbnail.png",
+      "size": 322131,
+      "sha256": "bc79f4f3c6ba1acced22e7a0e404908252bf8f09a40dab4bd913b7534fcb5c13"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

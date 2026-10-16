@@ -1,0 +1,42 @@
+{
+  "id": "transport-parking-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "transport",
+  "style": "soft-low-poly",
+  "title": "Cycle Parking Corner",
+  "description": "Original street-corner composition with two complete three-hoop cycle racks, one double-sided road barrier, a warm paving slab and a closed L-shaped curb. Empty parking display on a 4.2 by 3.0 m footprint.",
+  "bounds": {
+    "x": 4.2,
+    "y": 3.0,
+    "z": 1.032,
+    "unit": "m"
+  },
+  "triangles": 1896,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-parking-corner-scene-01/v1.0.0/model.glb",
+      "size": 140404,
+      "sha256": "dcd535b81923b768817835b8964c07570ef5a10b4843658ad4db4bf1e389de06"
+    },
+    "blend": {
+      "path": "assets/transport/transport-parking-corner-scene-01/v1.0.0/source.blend",
+      "size": 724668,
+      "sha256": "223bd14d2f80429bf0f6fa68808c1e7a17c2650052936bc16ebfb8c091669148"
+    },
+    "generator": {
+      "path": "assets/transport/transport-parking-corner-scene-01/v1.0.0/generate.py",
+      "size": 25583,
+      "sha256": "ccffde47ac6b4e956366745321f484bdcc1636ece880c8222099648370d83023"
+    },
+    "render": {
+      "path": "assets/transport/transport-parking-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 317953,
+      "sha256": "d9026eeb3de9e82d2d7e3a21b7c53a8077a6256a181fe451a558c71e7ffbc133"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "transport-launch-ramp-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "transport",
+  "style": "soft-low-poly",
+  "title": "Short Launch Ramp",
+  "description": "Original 1.6 m repeat-width launch ramp with solid inclined deck, two side guides and six raised grip strips. Length 2.4 m; low/high deck edges 0.12/0.72 m. Repeat complete modules along X.",
+  "bounds": {
+    "x": 1.6,
+    "y": 2.4,
+    "z": 0.81,
+    "unit": "m"
+  },
+  "triangles": 108,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-launch-ramp-01/v1.0.0/model.glb",
+      "size": 8456,
+      "sha256": "75bed75f42c73dd4595fc1be9e4b766354cb22f6a5d87410e4f5a6813bba97d5"
+    },
+    "blend": {
+      "path": "assets/transport/transport-launch-ramp-01/v1.0.0/source.blend",
+      "size": 532376,
+      "sha256": "bf465103b29cc67400d814069fac291ffeb0f08a004a8c49f1fa1917e2e2f864"
+    },
+    "generator": {
+      "path": "assets/transport/transport-launch-ramp-01/v1.0.0/generate.py",
+      "size": 23950,
+      "sha256": "b0f901cb691b3c775fa1ed256aa2359b9ef2115d91d5a1e46df9e3ea314a057f"
+    },
+    "render": {
+      "path": "assets/transport/transport-launch-ramp-01/v1.0.0/thumbnail.png",
+      "size": 310738,
+      "sha256": "47e49b329fe80e4609b9d8e6d30eaaeb4990dacf75123778d253e1e043bdb683"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

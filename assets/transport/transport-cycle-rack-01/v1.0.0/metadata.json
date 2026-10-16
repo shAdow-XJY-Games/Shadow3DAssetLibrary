@@ -1,0 +1,42 @@
+{
+  "id": "transport-cycle-rack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "transport",
+  "style": "soft-low-poly",
+  "title": "Triple Loop Cycle Rack",
+  "description": "Original 1.8 m repeat-pitch bicycle parking module with three seafoam hoops, cream ballast rails and ochre mounting collars. Repeat complete instances along X; origin bottom center, source Z up. No shared-part deletion is needed.",
+  "bounds": {
+    "x": 1.8,
+    "y": 0.74,
+    "z": 0.77767,
+    "unit": "m"
+  },
+  "triangles": 724,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-cycle-rack-01/v1.0.0/model.glb",
+      "size": 55040,
+      "sha256": "d34fd8fc462fbaad681ee8b78a1ba906d02e71e26803dd1eaabf697d424c04c1"
+    },
+    "blend": {
+      "path": "assets/transport/transport-cycle-rack-01/v1.0.0/source.blend",
+      "size": 566180,
+      "sha256": "a67b9d59f7c0407c1653601423e6286dc9a63636fb0eff71ad673620215901ee"
+    },
+    "generator": {
+      "path": "assets/transport/transport-cycle-rack-01/v1.0.0/generate.py",
+      "size": 23536,
+      "sha256": "618ee7d55f7e6aca387ca55a48001d2571c0b5f7c49c5fa66a3f1c133bcedfd5"
+    },
+    "render": {
+      "path": "assets/transport/transport-cycle-rack-01/v1.0.0/thumbnail.png",
+      "size": 307992,
+      "sha256": "b81d6c19541a69a62531158018f57035daa1f55ccf47708234b157e3473aa4e2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

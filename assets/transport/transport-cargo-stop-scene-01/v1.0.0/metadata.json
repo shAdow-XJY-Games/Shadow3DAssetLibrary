@@ -1,0 +1,42 @@
+{
+  "id": "transport-cargo-stop-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "transport",
+  "style": "soft-low-poly",
+  "title": "Cargo Trike Loading Stop",
+  "description": "Original loading-stop composition containing one three-wheel cargo trike, two whole short platform modules and a 4.0 by 3.8 m paved pad. Separate components remain editable; no animation or physics.",
+  "bounds": {
+    "x": 4.0,
+    "y": 3.8,
+    "z": 1.26829,
+    "unit": "m"
+  },
+  "triangles": 1940,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-cargo-stop-scene-01/v1.0.0/model.glb",
+      "size": 134488,
+      "sha256": "ed8f2378ea1baad55158596f57bb40a871177fa8015b8652f75c08b4726d35f1"
+    },
+    "blend": {
+      "path": "assets/transport/transport-cargo-stop-scene-01/v1.0.0/source.blend",
+      "size": 736352,
+      "sha256": "3ff272b5e436aca1ecd2952bdbac3626816af76c81ab2a377a2c80fd6cdbbe00"
+    },
+    "generator": {
+      "path": "assets/transport/transport-cargo-stop-scene-01/v1.0.0/generate.py",
+      "size": 27942,
+      "sha256": "c0a4e22d462823e67210adfbce05c0ace69da53c82585c5354eb3c41166d8ab9"
+    },
+    "render": {
+      "path": "assets/transport/transport-cargo-stop-scene-01/v1.0.0/thumbnail.png",
+      "size": 325238,
+      "sha256": "2ce4d1c5cb189eece56d4e2b29f14e9292d61e82e64148b561d9711941732601"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

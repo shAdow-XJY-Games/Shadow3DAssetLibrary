@@ -1,0 +1,42 @@
+{
+  "id": "transport-boat-launch-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "transport",
+  "style": "soft-low-poly",
+  "title": "Work Skiff Launch Point",
+  "description": "Original shoreline launch display with a work skiff, modular ramp, shore bank and an independent opaque water-surface node. Hull bottom sits 0.12 m below water surface; boat is displayed afloat, not physically simulated or ground-supported. The static water cavity is bound to the current boat placement; change BOAT_POSITION and regenerate the water mesh before repositioning the boat.",
+  "bounds": {
+    "x": 5.0,
+    "y": 6.3,
+    "z": 0.835,
+    "unit": "m"
+  },
+  "triangles": 516,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-boat-launch-scene-01/v1.0.0/model.glb",
+      "size": 41376,
+      "sha256": "f6c36a615010dde6fa3f01d7b6a72ec9691f5f3785ac6a794dc6f9a2e09dad97"
+    },
+    "blend": {
+      "path": "assets/transport/transport-boat-launch-scene-01/v1.0.0/source.blend",
+      "size": 606804,
+      "sha256": "060cd23c16406edf2284a03046523f41e9e3b843a9499fb6bc1c03eec056721d"
+    },
+    "generator": {
+      "path": "assets/transport/transport-boat-launch-scene-01/v1.0.0/generate.py",
+      "size": 29695,
+      "sha256": "d304acdd96f3ca802b3373f49e155f962eb03b92dcec416b2e3f1b51a476c180"
+    },
+    "render": {
+      "path": "assets/transport/transport-boat-launch-scene-01/v1.0.0/thumbnail.png",
+      "size": 313553,
+      "sha256": "504b9c899abf21cb79dc703a32afa781ab0a11cd620138e9e018c17fa86d2d8b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

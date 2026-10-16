@@ -1,0 +1,42 @@
+{
+  "id": "transport-short-platform-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "transport",
+  "style": "soft-low-poly",
+  "title": "Short Loading Platform",
+  "description": "Original 1.4 m repeat-pitch loading platform with two grounded foundations, cream deck and raised rear safety curb. Repeat full modules along source X.",
+  "bounds": {
+    "x": 1.4,
+    "y": 1.2,
+    "z": 0.51,
+    "unit": "m"
+  },
+  "triangles": 176,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-short-platform-01/v1.0.0/model.glb",
+      "size": 15956,
+      "sha256": "e65944b861a9921d15a08d4dd62c4ff534aacf0c948ae774a081412755d9e85b"
+    },
+    "blend": {
+      "path": "assets/transport/transport-short-platform-01/v1.0.0/source.blend",
+      "size": 514508,
+      "sha256": "72896dc2b0b336313c12d816bd9426cde385f9dbeeab0b0f92320dfd1589927c"
+    },
+    "generator": {
+      "path": "assets/transport/transport-short-platform-01/v1.0.0/generate.py",
+      "size": 24318,
+      "sha256": "c4af9a0c1e0b267d70394f135fe75dfb598c81153c53f220d22b55898b4a21b3"
+    },
+    "render": {
+      "path": "assets/transport/transport-short-platform-01/v1.0.0/thumbnail.png",
+      "size": 311745,
+      "sha256": "f7acac5930d1440ce35f4a7f89335bb49ece5575a13b52f3f3eceaa753d491eb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

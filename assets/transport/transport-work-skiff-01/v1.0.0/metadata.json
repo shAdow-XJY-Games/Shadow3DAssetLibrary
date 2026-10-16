@@ -1,0 +1,42 @@
+{
+  "id": "transport-work-skiff-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "soft-low-poly",
+  "title": "Flat Bottom Work Skiff",
+  "description": "Original open flat-bottom work skiff with a closed thick hull, continuous separate gunwale, two seat boards and a resting two-part paddle. Editable source components. Design display waterline is 0.12 m above hull bottom, not a hydrostatic simulation.",
+  "bounds": {
+    "x": 1.30198,
+    "y": 2.6,
+    "z": 0.55,
+    "unit": "m"
+  },
+  "triangles": 324,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-work-skiff-01/v1.0.0/model.glb",
+      "size": 25616,
+      "sha256": "1f9bec88598a6f0de4d7acbf2187f0967b664d7ae7928ca12d76d97940c2162c"
+    },
+    "blend": {
+      "path": "assets/transport/transport-work-skiff-01/v1.0.0/source.blend",
+      "size": 527756,
+      "sha256": "2257584e53e45eb6e189c339ac3353c1a673d166e9f2cf120fd81c861b6be9a6"
+    },
+    "generator": {
+      "path": "assets/transport/transport-work-skiff-01/v1.0.0/generate.py",
+      "size": 25053,
+      "sha256": "952eff952f066ab43ce2bfa4124b76d91ab334a0e02f1c75ad6c7ea29c0a8465"
+    },
+    "render": {
+      "path": "assets/transport/transport-work-skiff-01/v1.0.0/thumbnail.png",
+      "size": 298295,
+      "sha256": "6ead943db5cc4d53196fb3f10d2ed4f49f51ce3d3de37dd7bab3a6fa172e6bb9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
