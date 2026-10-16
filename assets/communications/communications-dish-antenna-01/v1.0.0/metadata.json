@@ -1,0 +1,42 @@
+{
+  "id": "communications-dish-antenna-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "communications",
+  "style": "soft-low-poly",
+  "title": "Thick-Shell Dish Antenna",
+  "description": "Original fixed dish antenna module with a truly concave 30mm axial-thickness closed reflector shell and central hub aperture. Separate mast, base, hub, feed arm and feed. Dish X width 1.10m; independent layout spacing 1.30m leaves a 0.20m X gap. Static game asset with no RF, signal, tracking or engineering-performance claim.",
+  "bounds": {
+    "x": 1.1,
+    "y": 0.86769,
+    "z": 1.68311,
+    "unit": "m"
+  },
+  "triangles": 620,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/communications/communications-dish-antenna-01/v1.0.0/model.glb",
+      "size": 47176,
+      "sha256": "8ee522ee30f87e34f16e642461e0e864ccf7ee0c52ac5b959677435d08b31e89"
+    },
+    "blend": {
+      "path": "assets/communications/communications-dish-antenna-01/v1.0.0/source.blend",
+      "size": 654968,
+      "sha256": "7669f44959135d16c0be3be42a8f87ec2b840f04698e71d98d9f3ba2fa45b73f"
+    },
+    "generator": {
+      "path": "assets/communications/communications-dish-antenna-01/v1.0.0/generate.py",
+      "size": 30421,
+      "sha256": "b9bded2ff37f3acf956bec51853a3b7c264f671b8e26405a63339721930fac7e"
+    },
+    "render": {
+      "path": "assets/communications/communications-dish-antenna-01/v1.0.0/thumbnail.png",
+      "size": 297715,
+      "sha256": "de07088d9fda012618aadfaad7b4bd1155678e0c6d3ec5b9ceeb74d8b9d19ea7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

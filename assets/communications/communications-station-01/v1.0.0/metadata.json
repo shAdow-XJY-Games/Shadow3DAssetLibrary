@@ -1,0 +1,42 @@
+{
+  "id": "communications-station-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "communications",
+  "style": "soft-low-poly",
+  "title": "Small Communications Station",
+  "description": "Original small communications station on a 3.4x2.6m base. A thick concave reflector stands beside a cabinet supporting a portable radio. Independent editable components, no cables or live electronics included. No RF, power, tracking, engineering certification or physical performance simulation.",
+  "bounds": {
+    "x": 3.4,
+    "y": 2.6,
+    "z": 1.77311,
+    "unit": "m"
+  },
+  "triangles": 1580,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/communications/communications-station-01/v1.0.0/model.glb",
+      "size": 122152,
+      "sha256": "45e730c51e16c537e000b52545a6d3de78b0430d3d9c8abe40d7d2923f7abf26"
+    },
+    "blend": {
+      "path": "assets/communications/communications-station-01/v1.0.0/source.blend",
+      "size": 1028568,
+      "sha256": "7f6f090dbf1fc85369493d3356d384478e753dc36ec32645160d9c44d4d0ed39"
+    },
+    "generator": {
+      "path": "assets/communications/communications-station-01/v1.0.0/generate.py",
+      "size": 30731,
+      "sha256": "a6be892b4d066cb84f122ec094c63beceddc1e08656e4fa82c3301ee06365971"
+    },
+    "render": {
+      "path": "assets/communications/communications-station-01/v1.0.0/thumbnail.png",
+      "size": 304883,
+      "sha256": "e763fbc2ec87d2b5c018cce21c6d393446e8f55f3be2d4954f4b0d2be46f0ec2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
