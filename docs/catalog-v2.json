@@ -299,9 +299,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "ccc1381926ac8fba6947d997311754206cf3e856"
+    },
+    "railway-platform-buffer-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "953b6616ae4aa809c0804c2ed74afea3fab19580"
     }
   },
-  "assetCount": 214,
+  "assetCount": 216,
   "shards": [
     {
       "theme": "camping",
@@ -410,10 +415,10 @@
     },
     {
       "theme": "railway",
-      "count": 3,
-      "path": "metadata/e1a9e6e428b8a1b0c5e4381d4dd807683ad704886c1ca187f7a216bb467bccf8.json",
-      "size": 4074,
-      "sha256": "e1a9e6e428b8a1b0c5e4381d4dd807683ad704886c1ca187f7a216bb467bccf8"
+      "count": 5,
+      "path": "metadata/48ad67b031d1b49e30efb9fffd1dd77a7096eaceed09965d34cc7821d4039b51.json",
+      "size": 7377,
+      "sha256": "48ad67b031d1b49e30efb9fffd1dd77a7096eaceed09965d34cc7821d4039b51"
     },
     {
       "theme": "renewable",
