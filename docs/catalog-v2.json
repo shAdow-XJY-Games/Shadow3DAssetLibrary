@@ -139,9 +139,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "e1a7337c024b4de3e257c5cac2fec13be386d2fa"
+    },
+    "carpentry-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "d8d87d93a7a24f54cbfe52e5904bf03b652309c3"
     }
   },
-  "assetCount": 154,
+  "assetCount": 157,
   "shards": [
     {
       "theme": "camping",
@@ -338,6 +343,13 @@
       "path": "metadata/cc6cec075cd3d1ac22fa52c4378d97017da634132147bb6059c8425055e56752.json",
       "size": 3831,
       "sha256": "cc6cec075cd3d1ac22fa52c4378d97017da634132147bb6059c8425055e56752"
+    },
+    {
+      "theme": "carpentry",
+      "count": 3,
+      "path": "metadata/c1aa14bdc8340830a6065506c369bc2453bed8cf13754bb2cf140cf2a0f2970e.json",
+      "size": 3950,
+      "sha256": "c1aa14bdc8340830a6065506c369bc2453bed8cf13754bb2cf140cf2a0f2970e"
     }
   ]
 }
