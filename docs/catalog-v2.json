@@ -509,9 +509,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "0eeb425477196495e991532a4ecc5704dd4d2c49"
+    },
+    "sports-office-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "e2a7cc05631ba3699d982cce4c9a65ee45448f20"
     }
   },
-  "assetCount": 270,
+  "assetCount": 272,
   "shards": [
     {
       "theme": "camping",
@@ -634,10 +639,10 @@
     },
     {
       "theme": "sports",
-      "count": 3,
-      "path": "metadata/b17ccd78dbfcd9eb9b5a03109d196d403d3a0255a2e433ffa98ac1c211e5e945.json",
-      "size": 3840,
-      "sha256": "b17ccd78dbfcd9eb9b5a03109d196d403d3a0255a2e433ffa98ac1c211e5e945"
+      "count": 4,
+      "path": "metadata/6f8ad48cd288c22e9c72b6397026551cb4a706b0ebf4803dd52db7fea5787175.json",
+      "size": 5613,
+      "sha256": "6f8ad48cd288c22e9c72b6397026551cb4a706b0ebf4803dd52db7fea5787175"
     },
     {
       "theme": "textile",
@@ -841,6 +846,13 @@
       "path": "metadata/47b7500eb4a710581b7004309af9e416246b98950ce616c6f6be9fc020b26022.json",
       "size": 1759,
       "sha256": "47b7500eb4a710581b7004309af9e416246b98950ce616c6f6be9fc020b26022"
+    },
+    {
+      "theme": "office",
+      "count": 1,
+      "path": "metadata/d63eaea67a20b10b7815fdf1173d5078e486445ac5c30f810636655af9de1de2.json",
+      "size": 1778,
+      "sha256": "d63eaea67a20b10b7815fdf1173d5078e486445ac5c30f810636655af9de1de2"
     }
   ]
 }
