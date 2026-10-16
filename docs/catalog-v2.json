@@ -364,9 +364,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "07ea75975e90372fce48e9bc52b16822e8267c0b"
+    },
+    "round-loaf-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "015b20a2c2a371d90107b87b5e2622e3d405aca1"
     }
   },
-  "assetCount": 228,
+  "assetCount": 229,
   "shards": [
     {
       "theme": "camping",
@@ -587,10 +592,10 @@
     },
     {
       "theme": "bakery",
-      "count": 3,
-      "path": "metadata/d93d9b7dba641de31a300ec23d7d7ff7a4acc537396e2eedb633381ba06a979d.json",
-      "size": 3593,
-      "sha256": "d93d9b7dba641de31a300ec23d7d7ff7a4acc537396e2eedb633381ba06a979d"
+      "count": 4,
+      "path": "metadata/5136eb06b9a9959285532b71b287fcec1901878e88c6417074f3d5d3343b79a6.json",
+      "size": 5047,
+      "sha256": "5136eb06b9a9959285532b71b287fcec1901878e88c6417074f3d5d3343b79a6"
     },
     {
       "theme": "arcade",
