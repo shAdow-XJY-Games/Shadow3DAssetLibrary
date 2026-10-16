@@ -499,9 +499,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "36c8c29e7188d343aac3dafb6f2b1625db22064c"
+    },
+    "agriculture-flail-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "c6525dba8abf49c41dc6dad11c01d9921680e341"
     }
   },
-  "assetCount": 267,
+  "assetCount": 268,
   "shards": [
     {
       "theme": "camping",
@@ -533,10 +538,10 @@
     },
     {
       "theme": "village",
-      "count": 56,
-      "path": "metadata/dafeaccfbc63346fca03801d139d40c2d8ea8187a525653e10bae5a6d55cc629.json",
-      "size": 74808,
-      "sha256": "dafeaccfbc63346fca03801d139d40c2d8ea8187a525653e10bae5a6d55cc629"
+      "count": 57,
+      "path": "metadata/9bf9fa5eb2bbe0ddabf076e841a00bc6540b458a95d0cb4e946bedee1f5e456c.json",
+      "size": 76460,
+      "sha256": "9bf9fa5eb2bbe0ddabf076e841a00bc6540b458a95d0cb4e946bedee1f5e456c"
     },
     {
       "theme": "transport",
