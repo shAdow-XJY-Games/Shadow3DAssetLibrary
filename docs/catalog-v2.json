@@ -179,9 +179,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "1a527d701ae5c97abb94770b007a88cd161b5a88"
+    },
+    "logistics-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "3ea24e7ce43c400d32fa389952f5442ceaffbb06"
     }
   },
-  "assetCount": 178,
+  "assetCount": 181,
   "shards": [
     {
       "theme": "camping",
@@ -434,6 +439,13 @@
       "path": "metadata/9ebdbd868a01125aad0e89cf88effa2de9913882a66b85cd9d2f74ac854868b3.json",
       "size": 3939,
       "sha256": "9ebdbd868a01125aad0e89cf88effa2de9913882a66b85cd9d2f74ac854868b3"
+    },
+    {
+      "theme": "logistics",
+      "count": 3,
+      "path": "metadata/80cd6928e04e0cc749f1193319987aa998769f3798ad6910a666dbcb0164f0d7.json",
+      "size": 3824,
+      "sha256": "80cd6928e04e0cc749f1193319987aa998769f3798ad6910a666dbcb0164f0d7"
     }
   ]
 }
