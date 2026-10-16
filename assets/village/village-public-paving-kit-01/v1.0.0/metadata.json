@@ -1,0 +1,42 @@
+{
+  "id": "village-public-paving-kit-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Village Public Paving Kit",
+  "description": "S03 public paving family with two selectable unit-scale nodes: Paving_Core_2x2 (2 x 2 m) and Paving_Entry_0p5x2 (0.5 x 2 m). Each has a local bottom-centre origin; default separated translations are a selection layout, not one installed tile. See the opening documentation in generate.py for dimensions, node selection and the validated installation table. Real shallow stone-joint relief and a soil-road-profile entrance. One kit, without navigation, accessibility or engineering guarantees.",
+  "bounds": {
+    "x": 3.0,
+    "y": 2.0,
+    "z": 0.06,
+    "unit": "m"
+  },
+  "triangles": 560,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-public-paving-kit-01/v1.0.0/model.glb",
+      "size": 28120,
+      "sha256": "8271958389d3a5446f1ff6b3cbf120dc3aa6afc9ca6749e0dd326fa3bce3c9d2"
+    },
+    "blend": {
+      "path": "assets/village/village-public-paving-kit-01/v1.0.0/source.blend",
+      "size": 647756,
+      "sha256": "ea9f1ed244f6b69e12654fababf10ac7385db5485385636c34bec1d0367d2c21"
+    },
+    "generator": {
+      "path": "assets/village/village-public-paving-kit-01/v1.0.0/generate.py",
+      "size": 47443,
+      "sha256": "a4cc981a3e383b8958da893f4ce6e2283ca6c270b15baedc8e6e6e30039a7820"
+    },
+    "render": {
+      "path": "assets/village/village-public-paving-kit-01/v1.0.0/thumbnail.png",
+      "size": 292846,
+      "sha256": "5765218800e22cdc98dc3ca6e886603a4265c37e6917546a5352b90e76687087"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
