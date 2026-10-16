@@ -1,0 +1,42 @@
+{
+  "id": "village-framed-floor-kit-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Timber Floor Kit \u2014 Five Fitting Profiles",
+  "description": "One S03 timber floor family supplied as five separately named mesh nodes with bottom-centre origins: Centre 2x2m, End 2x1.858m, Edge .858x2m, EdgeEnd .858x1.858m, and DoorEdge .858x2m with a 20mm threshold recess. Select a node and replace its display translation with its installation position; the spaced 4.5m display layout is not one floor tile. Finished panel height .08m matches the .38m doorway threshold when mounted on .30m stone foundations. True cut board widths retain the board pitch; variants are not five new asset types. See generate.py opening documentation for complete node selection, dimensions, coordinate conventions and unit-scale 4x8m shell coverage. Visual geometry only, no collision, accessibility or load guarantee.",
+  "bounds": {
+    "x": 4.5,
+    "y": 4.5,
+    "z": 0.08,
+    "unit": "m"
+  },
+  "triangles": 524,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-framed-floor-kit-01/v1.0.0/model.glb",
+      "size": 32568,
+      "sha256": "bdf853d053b2696318f832180d7001190045d69ea5a8d11e41e7b76213db8008"
+    },
+    "blend": {
+      "path": "assets/village/village-framed-floor-kit-01/v1.0.0/source.blend",
+      "size": 723204,
+      "sha256": "9117133f3cbaaac34c292aec00cc8bdcb43ca3d457cdcddd5bd93ad389ecfcf0"
+    },
+    "generator": {
+      "path": "assets/village/village-framed-floor-kit-01/v1.0.0/generate.py",
+      "size": 48399,
+      "sha256": "f29de88580f4622805d7759c09eab9bf17b30b00d6b6a467c0ae61e7977aa49c"
+    },
+    "render": {
+      "path": "assets/village/village-framed-floor-kit-01/v1.0.0/thumbnail.png",
+      "size": 309886,
+      "sha256": "2cfe15f291c8b60ac35fc80603101892dc8d597e797520d99878d7f587626cb2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
