@@ -114,9 +114,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "7a127674633f09f92c0d4c94d89c3112fb694320"
+    },
+    "carnival-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "1b3a895b2993d0f67516dab841337fe82f0b77e2"
     }
   },
-  "assetCount": 139,
+  "assetCount": 142,
   "shards": [
     {
       "theme": "camping",
@@ -278,6 +283,13 @@
       "path": "metadata/324cb0a017c2ae64d30ac965eedbdb0de1803b170d258f150c4ec64ff2b03167.json",
       "size": 4117,
       "sha256": "324cb0a017c2ae64d30ac965eedbdb0de1803b170d258f150c4ec64ff2b03167"
+    },
+    {
+      "theme": "carnival",
+      "count": 3,
+      "path": "metadata/548cb124fc66caaaa20792f88b0e02b0005f5d0f3fe662755db92a640d8d85ab.json",
+      "size": 3919,
+      "sha256": "548cb124fc66caaaa20792f88b0e02b0005f5d0f3fe662755db92a640d8d85ab"
     }
   ]
 }
