@@ -454,9 +454,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "9820bb726f6eb90a76893367f2c5006311736844"
+    },
+    "bus-waiting-pair": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "9ee0504e04b9d4ea4c95c011e22bf32f9717cf03"
     }
   },
-  "assetCount": 254,
+  "assetCount": 256,
   "shards": [
     {
       "theme": "camping",
@@ -495,10 +500,10 @@
     },
     {
       "theme": "transport",
-      "count": 19,
-      "path": "metadata/c382500bca53aa33309782260b0c689e88a9cf7ab97cf2094c17e2b6a69b95ed.json",
-      "size": 27562,
-      "sha256": "c382500bca53aa33309782260b0c689e88a9cf7ab97cf2094c17e2b6a69b95ed"
+      "count": 21,
+      "path": "metadata/ce0f07abcbc8213be02d3e527a7a90fcf25bc4ac524b8b6b9af4b71fc508a8f2.json",
+      "size": 30782,
+      "sha256": "ce0f07abcbc8213be02d3e527a7a90fcf25bc4ac524b8b6b9af4b71fc508a8f2"
     },
     {
       "theme": "entryway",
