@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "owner": "shAdow-XJY-Games",
+    "repo": "Shadow3DAssetLibrary",
+    "commit": "7f2b4370dc1b200e1a63e2a74c58684a43e7a216"
+  },
+  "collection": {
+    "title": "原创素材工坊",
+    "description": "持续扩展的多主题、多类型原创 3D 素材库"
+  },
+  "sources": {
+    "expanded-collection": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "a4f9ab53d3bb40010aa60c4f77669622055ec724"
+    },
+    "dining-architecture": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "c4b39f3dbba04f299cf5da284a81253ed33a19b6"
+    },
+    "village-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "160d3c11a135e5cd534594721d5e7d8af24d7e0e"
+    },
+    "transport-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "cf2ba6d65d800436d1a5cf490d86e8f8ef51aa1e"
+    },
+    "entryway-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "92ec9200b79a70e625a8ae1de4080fd3d93e2a6c"
+    },
+    "nature-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "39a821d83f2b87653bac52025a9b667ca23e1b22"
+    },
+    "astronomy-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "b6c4a0d3b7fa63a93f16573c8a6471287d6bda1b"
+    },
+    "ceramics-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "4d04d16367f9df3e95e2e085a921067f4f878fd3"
+    },
+    "museum-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "833ea894b9252a5b78011442512c938a13ff3c4b"
+    },
+    "music-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "424c3abe1ba56dfe5c050b125b95829e30df19d6"
+    },
+    "photography-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "2af200e405325fc66e13ca7c753e52bec8af33f8"
+    },
+    "playground-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "59f81f00441d76912108ea16a15e4171d523ab21"
+    },
+    "postal-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "714544aaa44e3c1376a0f59fbcff4dcf079ebfd5"
+    },
+    "railway-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "4c2723e3529363f4e6e4f0f94c9034f188a45071"
+    }
+  },
+  "assetCount": 118,
+  "shards": [
+    {
+      "theme": "camping",
+      "count": 9,
+      "path": "metadata/1bbb26573e7143e012cebcdc68c36ede9bf91a68ea97e489fc94aa2cd31895cd.json",
+      "size": 10399,
+      "sha256": "1bbb26573e7143e012cebcdc68c36ede9bf91a68ea97e489fc94aa2cd31895cd"
+    },
+    {
+      "theme": "harbor",
+      "count": 9,
+      "path": "metadata/7efbf86533f0a4e46a2298857276c318f1804f3c6c8a19288cfaa867474b575d.json",
+      "size": 9766,
+      "sha256": "7efbf86533f0a4e46a2298857276c318f1804f3c6c8a19288cfaa867474b575d"
+    },
+    {
+      "theme": "dining",
+      "count": 7,
+      "path": "metadata/33e40f222ed8ce7860c87faf02af26034af806a4b938718af469875fd48bedf2.json",
+      "size": 9498,
+      "sha256": "33e40f222ed8ce7860c87faf02af26034af806a4b938718af469875fd48bedf2"
+    },
+    {
+      "theme": "kitchen",
+      "count": 16,
+      "path": "metadata/c11b4ddda05530775390f3344517ff0f0ad844396ca6d45366568648ed58093d.json",
+      "size": 18054,
+      "sha256": "c11b4ddda05530775390f3344517ff0f0ad844396ca6d45366568648ed58093d"
+    },
+    {
+      "theme": "village",
+      "count": 32,
+      "path": "metadata/40d87604ac7df2cc667fdda04883cfed4454c4e5f3d448dde0b17550834e3126.json",
+      "size": 37950,
+      "sha256": "40d87604ac7df2cc667fdda04883cfed4454c4e5f3d448dde0b17550834e3126"
+    },
+    {
+      "theme": "transport",
+      "count": 9,
+      "path": "metadata/0fb5626e5040bede1d3530e54b1ef1ec66692a270f4f474e58df9bac51a97e88.json",
+      "size": 11567,
+      "sha256": "0fb5626e5040bede1d3530e54b1ef1ec66692a270f4f474e58df9bac51a97e88"
+    },
+    {
+      "theme": "entryway",
+      "count": 6,
+      "path": "metadata/24020f1fb2242bcdc1cef52aa4126a8ce3529272a0ddb442123f80d455a416b9.json",
+      "size": 7401,
+      "sha256": "24020f1fb2242bcdc1cef52aa4126a8ce3529272a0ddb442123f80d455a416b9"
+    },
+    {
+      "theme": "nature",
+      "count": 6,
+      "path": "metadata/2a917ba969d44425f31ad18900a85f9f40839dedad15f31df7e3e47d3d2fd664.json",
+      "size": 7747,
+      "sha256": "2a917ba969d44425f31ad18900a85f9f40839dedad15f31df7e3e47d3d2fd664"
+    },
+    {
+      "theme": "astronomy",
+      "count": 3,
+      "path": "metadata/51d22e12122ed389dfa9a242f8cf5f29db967de5536e346c2c93650a239a9442.json",
+      "size": 4009,
+      "sha256": "51d22e12122ed389dfa9a242f8cf5f29db967de5536e346c2c93650a239a9442"
+    },
+    {
+      "theme": "ceramics",
+      "count": 3,
+      "path": "metadata/a2443b354fbb6377becf458f6576a2db5edba02b0604e0ec47e983ff57248082.json",
+      "size": 3669,
+      "sha256": "a2443b354fbb6377becf458f6576a2db5edba02b0604e0ec47e983ff57248082"
+    },
+    {
+      "theme": "museum",
+      "count": 3,
+      "path": "metadata/c3b622e14ee4e4b7b29fc6c7b635de42fe5562df8b18a0938f8474ad4c5feeb6.json",
+      "size": 3999,
+      "sha256": "c3b622e14ee4e4b7b29fc6c7b635de42fe5562df8b18a0938f8474ad4c5feeb6"
+    },
+    {
+      "theme": "music",
+      "count": 3,
+      "path": "metadata/d2bad3ec14cd1edb16e65386640ab822c2d0b7e62ace7df6626d0731aec6519b.json",
+      "size": 4146,
+      "sha256": "d2bad3ec14cd1edb16e65386640ab822c2d0b7e62ace7df6626d0731aec6519b"
+    },
+    {
+      "theme": "photography",
+      "count": 3,
+      "path": "metadata/eb46adee1c024ac1edb11743511a1ed78df178e7616f554518b63c47635bf6b8.json",
+      "size": 3808,
+      "sha256": "eb46adee1c024ac1edb11743511a1ed78df178e7616f554518b63c47635bf6b8"
+    },
+    {
+      "theme": "playground",
+      "count": 3,
+      "path": "metadata/bd8742fba109c6639367d049276723ffa29984b08dffa418828207d97de8f769.json",
+      "size": 4372,
+      "sha256": "bd8742fba109c6639367d049276723ffa29984b08dffa418828207d97de8f769"
+    },
+    {
+      "theme": "postal",
+      "count": 3,
+      "path": "metadata/be4cc7a92bf0c3a21ff6631166b76edabf9b04d777db820f8c69ddacb6b5bc54.json",
+      "size": 3882,
+      "sha256": "be4cc7a92bf0c3a21ff6631166b76edabf9b04d777db820f8c69ddacb6b5bc54"
+    },
+    {
+      "theme": "railway",
+      "count": 3,
+      "path": "metadata/e1a9e6e428b8a1b0c5e4381d4dd807683ad704886c1ca187f7a216bb467bccf8.json",
+      "size": 4074,
+      "sha256": "e1a9e6e428b8a1b0c5e4381d4dd807683ad704886c1ca187f7a216bb467bccf8"
+    }
+  ]
+}
