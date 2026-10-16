@@ -1,0 +1,42 @@
+{
+  "id": "tailoring-lockstitch-workstation-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "tailoring",
+  "style": "warm-handcrafted-tailoring",
+  "title": "Static Lockstitch Sewing Workstation",
+  "description": "Original static low-poly sewing workstation: 1.00 by 0.56 m dedicated tabletop at 0.79 m, with an actual bed aperture, recessed machine bed and continuous C-shaped casing with open sewing throat. Handwheel and axle, needle bar, smaller needle, visible presser foot and plate, plain spool and fixed foot treadle are distinct editable parts. An unchanged existing dining chair is separately tested at a documented seated display pose. No needle, pedal, motor or cloth simulation, sewing capability, load rating or ergonomic certification.",
+  "bounds": {
+    "x": 1.0,
+    "y": 0.5600000023841858,
+    "z": 1.190500020980835,
+    "unit": "m"
+  },
+  "triangles": 1192,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/tailoring/tailoring-lockstitch-workstation-01/v1.0.0/model.glb",
+      "size": 93296,
+      "sha256": "d9f7d4a3fe4a5d5e10451dad7c55ae8d6414661d0a7afb85115f99e006675c08"
+    },
+    "blend": {
+      "path": "assets/tailoring/tailoring-lockstitch-workstation-01/v1.0.0/source.blend",
+      "size": 962100,
+      "sha256": "44f03d297c55e92c3e15933ad5b02800cd37c8e665690d4f52d2a9bc2cdfaee2"
+    },
+    "generator": {
+      "path": "assets/tailoring/tailoring-lockstitch-workstation-01/v1.0.0/generate.py",
+      "size": 33313,
+      "sha256": "34acb7921db24625f4e6fb7cf5dc0d72156a0d3378a00d1c62b2cb4d2a32f3cb"
+    },
+    "render": {
+      "path": "assets/tailoring/tailoring-lockstitch-workstation-01/v1.0.0/thumbnail.png",
+      "size": 213085,
+      "sha256": "3b5195c3ad07f42d53f28a8ca0c26db3e9cbbedb306f892d3dd39aedb49d120c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
