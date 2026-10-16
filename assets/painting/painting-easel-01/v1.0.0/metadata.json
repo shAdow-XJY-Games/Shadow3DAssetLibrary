@@ -1,0 +1,42 @@
+{
+  "id": "painting-easel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "painting",
+  "style": "soft-low-poly",
+  "title": "Three Leg Painting Easel",
+  "description": "Original three-leg easel with separate front/rear supports, upper hinge, crossbar, ledge and blank thick canvas. Closed ground contact faces and real joined support paths. Static game module, no mechanical adjustment simulation.",
+  "bounds": {
+    "x": 0.82,
+    "y": 0.71,
+    "z": 1.45,
+    "unit": "m"
+  },
+  "triangles": 212,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/painting/painting-easel-01/v1.0.0/model.glb",
+      "size": 18924,
+      "sha256": "552355c961234a0a0d71f9450f294fb80c739f05a296fa5790ece341f336794f"
+    },
+    "blend": {
+      "path": "assets/painting/painting-easel-01/v1.0.0/source.blend",
+      "size": 529088,
+      "sha256": "c40c5fd8041973b3f1f355ae491bd2683b171c8b7f5f037cde6b56a92639ed9b"
+    },
+    "generator": {
+      "path": "assets/painting/painting-easel-01/v1.0.0/generate.py",
+      "size": 26323,
+      "sha256": "415805a1331e1a508a982f16baf756a3f343050ba465aa230a5e0e83096871c6"
+    },
+    "render": {
+      "path": "assets/painting/painting-easel-01/v1.0.0/thumbnail.png",
+      "size": 303675,
+      "sha256": "8975551ebf769a1a01a570aefc362e6618dc16584bcadd1b21ca6edc9269bba6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

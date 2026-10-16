@@ -1,0 +1,42 @@
+{
+  "id": "painting-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "painting",
+  "style": "soft-low-poly",
+  "title": "Painting Display Corner",
+  "description": "Original static art equipment composition with a three-leg easel and a thumbhole palette arranged on a display pad; all support connections checked from actual geometry.",
+  "bounds": {
+    "x": 2.4,
+    "y": 2.4,
+    "z": 1.562,
+    "unit": "m"
+  },
+  "triangles": 784,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/painting/painting-corner-scene-01/v1.0.0/model.glb",
+      "size": 54440,
+      "sha256": "f2628f545b0d1353d3a22e7910a5c73a0ab2d73c9c190cb369474d6f12e4afb0"
+    },
+    "blend": {
+      "path": "assets/painting/painting-corner-scene-01/v1.0.0/source.blend",
+      "size": 621316,
+      "sha256": "7586cb4ca082a03b469192cc8d57680b8bcaecbc5e39c885b6c00942f5d75cb1"
+    },
+    "generator": {
+      "path": "assets/painting/painting-corner-scene-01/v1.0.0/generate.py",
+      "size": 27506,
+      "sha256": "73f72484eb59707029ec80890c13400ae8a1eb725304946e9d8355712ec84fe6"
+    },
+    "render": {
+      "path": "assets/painting/painting-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 309769,
+      "sha256": "a819415f94f35887bef13e0dc47e188eab356ffb85f206fd466cf79dcccdadd7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "painting-palette-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "painting",
+  "style": "soft-low-poly",
+  "title": "Open Thumbhole Paint Palette",
+  "description": "Original closed thick elliptical palette with a genuine off-center thumb opening and four independent raised paint dabs. Static visual art prop, editable source components.",
+  "bounds": {
+    "x": 0.56,
+    "y": 0.38,
+    "z": 0.041,
+    "unit": "m"
+  },
+  "triangles": 528,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/painting/painting-palette-01/v1.0.0/model.glb",
+      "size": 26544,
+      "sha256": "1d733ad3454f05e64b895314bb2d60518beb67b47437c7da4c91c130ea7337ab"
+    },
+    "blend": {
+      "path": "assets/painting/painting-palette-01/v1.0.0/source.blend",
+      "size": 574396,
+      "sha256": "f104508ea12e7696d9b6e0f16b42c06e97759c28227d24b8afc2ab6f837a42ef"
+    },
+    "generator": {
+      "path": "assets/painting/painting-palette-01/v1.0.0/generate.py",
+      "size": 25839,
+      "sha256": "ccf60b0a2cd4717ad29bdf42e8c0695d9089e4917a3c4f4e88e15f8ad8e1387e"
+    },
+    "render": {
+      "path": "assets/painting/painting-palette-01/v1.0.0/thumbnail.png",
+      "size": 286737,
+      "sha256": "430539dc3120cb1075a317081fa6534bc6fad18eb65944f5f941a2e65878b895"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
