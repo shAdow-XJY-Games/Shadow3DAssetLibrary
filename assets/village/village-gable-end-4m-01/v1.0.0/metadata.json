@@ -6,7 +6,7 @@
   "theme": "village",
   "style": "warm-handcrafted-village",
   "title": "Gable End \u2014 4m Span",
-  "description": "S03 modular gable end with wall-cap base and a quarter-metre terminal clay roof strip meeting the repeating roof at local Y=0. Four-metre wall-centre span, quarter-metre outward terminal strip, explicit wall-cap mounting plane at local Z=0. Real opposite-face rafter/deck and ridge contacts with no forced interpenetration. Actual end-wall cap and repeating-roof mating evidence is retained for this visual module. No structural load-capacity or runtime collision guarantee. Pending independent review.",
+  "description": "S03 modular gable end with wall-cap base and a quarter-metre terminal clay roof strip meeting the repeating roof at local Y=0. Four-metre wall-centre span, quarter-metre outward terminal strip, explicit wall-cap mounting plane at local Z=0. Real opposite-face rafter/deck and ridge contacts with no forced interpenetration. Actual end-wall cap and repeating-roof mating evidence is retained for this visual module. No structural load-capacity or runtime collision guarantee.",
   "bounds": {
     "x": 4.6,
     "y": 0.38,

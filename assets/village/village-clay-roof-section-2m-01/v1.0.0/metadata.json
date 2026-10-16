@@ -6,7 +6,7 @@
   "theme": "village",
   "style": "warm-handcrafted-village",
   "title": "Clay Roof Section \u2014 2m Repeat",
-  "description": "S03 modular clay gable-roof section with three restrained staggered courses per slope. Four-metre wall-centre span, two-metre Y repeat, explicit wall-cap mounting plane at local Z=0. Real opposite-face rafter/deck and ridge contacts with no forced interpenetration. Actual wall-cap and repeat-end contacts are recorded in local assembly evidence. Mounting origin is at wall-cap level; no terrain placement, structural load-capacity or runtime collision guarantee. Pending independent review.",
+  "description": "S03 modular clay gable-roof section with three restrained staggered courses per slope. Four-metre wall-centre span, two-metre Y repeat, explicit wall-cap mounting plane at local Z=0. Real opposite-face rafter/deck and ridge contacts with no forced interpenetration. Actual wall-cap and repeat-end contacts are recorded in local assembly evidence. Mounting origin is at wall-cap level; no terrain placement, structural load-capacity or runtime collision guarantee.",
   "bounds": {
     "x": 4.6,
     "y": 2.0,
