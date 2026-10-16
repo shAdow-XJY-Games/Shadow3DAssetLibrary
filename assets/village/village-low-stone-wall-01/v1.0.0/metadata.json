@@ -1,0 +1,42 @@
+{
+  "id": "village-low-stone-wall-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Low Masonry Wall Module",
+  "description": "Original 2.04 meter wide low stone wall module with four lower ashlar blocks, three staggered upper blocks, continuous footing and fitted coping.",
+  "bounds": {
+    "x": 2.04,
+    "y": 0.42,
+    "z": 1.135,
+    "unit": "m"
+  },
+  "triangles": 396,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-low-stone-wall-01/v1.0.0/model.glb",
+      "size": 32196,
+      "sha256": "3cc4495f2c90c9227ba108dfa034b63170af05f384cc1e4ee655f1772548ce67"
+    },
+    "blend": {
+      "path": "assets/village/village-low-stone-wall-01/v1.0.0/source.blend",
+      "size": 570016,
+      "sha256": "e7763b8aa63c70ae4e5e7e774443ef99fb7df2ad546e15c5b59d36e4741a6aa2"
+    },
+    "generator": {
+      "path": "assets/village/village-low-stone-wall-01/v1.0.0/generate.py",
+      "size": 27131,
+      "sha256": "ccdacd98b1509ee31aab3fbe2fbd8cc6a0f3cfb5e75ce7ec7d93693b52b2776b"
+    },
+    "render": {
+      "path": "assets/village/village-low-stone-wall-01/v1.0.0/thumbnail.png",
+      "size": 298660,
+      "sha256": "f7b826d80bf9791d2ed0b602ec89cf2b1056e6e3e00c02c9fe538faec52fc05e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "village-tool-rack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Workshop Tool Rack",
+  "description": "Original freestanding timber tool rack with iron pins, hammer, wooden mallet and chisel. Each handle and tool head has modeled structural support.",
+  "bounds": {
+    "x": 1.46,
+    "y": 0.54,
+    "z": 1.64,
+    "unit": "m"
+  },
+  "triangles": 612,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-tool-rack-01/v1.0.0/model.glb",
+      "size": 46872,
+      "sha256": "b55e19ce29df551d4318d39f5da1ca80401a77031b0c6a1843f3bd700a5eba93"
+    },
+    "blend": {
+      "path": "assets/village/village-tool-rack-01/v1.0.0/source.blend",
+      "size": 699432,
+      "sha256": "ca8286c09293eff6b7051abd8d081debc4948c8b2065ef0dde1bedba8b6ba462"
+    },
+    "generator": {
+      "path": "assets/village/village-tool-rack-01/v1.0.0/generate.py",
+      "size": 22020,
+      "sha256": "d56b94c021d6cea4d40bd2f04c2c23203a22ab9e9e8e6129380de495eab50393"
+    },
+    "render": {
+      "path": "assets/village/village-tool-rack-01/v1.0.0/thumbnail.png",
+      "size": 325850,
+      "sha256": "f984832a01429264bae9ab8cf589b202e941732d135ac74e43ed3e5d24170281"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

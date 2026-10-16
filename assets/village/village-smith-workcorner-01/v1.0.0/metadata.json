@@ -1,0 +1,42 @@
+{
+  "id": "village-smith-workcorner-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Smith Work Corner",
+  "description": "Original compact village workshop scene featuring an anvil on timber stump, three-tool hanging rack and a low trestle carrying metal stock on stone paving.",
+  "bounds": {
+    "x": 3.3,
+    "y": 2.4,
+    "z": 1.81,
+    "unit": "m"
+  },
+  "triangles": 1520,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-smith-workcorner-01/v1.0.0/model.glb",
+      "size": 109168,
+      "sha256": "d25a994a50515dca188b158a8481f345c75d90959990317baa57b2d1e5e42e05"
+    },
+    "blend": {
+      "path": "assets/village/village-smith-workcorner-01/v1.0.0/source.blend",
+      "size": 855872,
+      "sha256": "abab7e7ea461604f36f99ac1f14d62a216107f7a5977a996a546a2f082ade691"
+    },
+    "generator": {
+      "path": "assets/village/village-smith-workcorner-01/v1.0.0/generate.py",
+      "size": 23868,
+      "sha256": "d2abbae7e4e22370787f01201c71cb9ae5f6b8cb2ad8669eddd30801c70ed7f8"
+    },
+    "render": {
+      "path": "assets/village/village-smith-workcorner-01/v1.0.0/thumbnail.png",
+      "size": 316879,
+      "sha256": "aade3c7b701ca22c68a625e455f87b56f4f1674db23959a8c103548f78c995f4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

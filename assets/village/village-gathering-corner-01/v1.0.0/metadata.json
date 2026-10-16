@@ -1,0 +1,42 @@
+{
+  "id": "village-gathering-corner-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Gathering Corner",
+  "description": "Original compact village meeting scene with a picnic table, public noticeboard and rounded grass base. Separate editable source parts and a single self-contained export.",
+  "bounds": {
+    "x": 4.6,
+    "y": 3.5,
+    "z": 2.042,
+    "unit": "m"
+  },
+  "triangles": 1492,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-gathering-corner-01/v1.0.0/model.glb",
+      "size": 117308,
+      "sha256": "fcd47ef49bdd323a20268d6f66b15b828f96db753359a342225f58eddd1611cd"
+    },
+    "blend": {
+      "path": "assets/village/village-gathering-corner-01/v1.0.0/source.blend",
+      "size": 782564,
+      "sha256": "e8d28098f8965e542b56df7446c93f1953e67792146ea17ce333d06628ab1ad1"
+    },
+    "generator": {
+      "path": "assets/village/village-gathering-corner-01/v1.0.0/generate.py",
+      "size": 17101,
+      "sha256": "12d09ef6cd4b06b050c2bc2e12c6a6f5a271f2096e164e5f8da4284885040b74"
+    },
+    "render": {
+      "path": "assets/village/village-gathering-corner-01/v1.0.0/thumbnail.png",
+      "size": 326641,
+      "sha256": "b4110497518f3796345aefbdbfaa8115be489e9a9444a11029e06e0c1d96fce4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

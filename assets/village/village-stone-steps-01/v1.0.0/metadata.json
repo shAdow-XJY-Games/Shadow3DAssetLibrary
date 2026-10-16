@@ -1,0 +1,42 @@
+{
+  "id": "village-stone-steps-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Four-Step Stone Module",
+  "description": "Original four-tier stone stair module ascending along positive Y, with slightly inset successive tiers and a 0.69 meter top tread. Each tier is modeled and structurally supported.",
+  "bounds": {
+    "x": 1.6,
+    "y": 1.6,
+    "z": 0.69,
+    "unit": "m"
+  },
+  "triangles": 176,
+  "materials": 1,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-stone-steps-01/v1.0.0/model.glb",
+      "size": 14576,
+      "sha256": "148e5ae245efb5c6fadf3ba835277c830622a86c93b5421e4f30b13e078ebaa9"
+    },
+    "blend": {
+      "path": "assets/village/village-stone-steps-01/v1.0.0/source.blend",
+      "size": 491340,
+      "sha256": "81d2bfe4ad4f8649de340750cb1cbe6a19bd29790a6d373d1ac9d40b071e4a7e"
+    },
+    "generator": {
+      "path": "assets/village/village-stone-steps-01/v1.0.0/generate.py",
+      "size": 27029,
+      "sha256": "6444e112d59f3f7b6b81407dd2612200835a60e88b259399027f20c9eb0960fc"
+    },
+    "render": {
+      "path": "assets/village/village-stone-steps-01/v1.0.0/thumbnail.png",
+      "size": 306904,
+      "sha256": "7082aed543f91b7e0c02505e2fcdbaaec478af81f575a4cc7b52cb10226517a5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "village-hand-pump-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Hand Water Pump",
+  "description": "Original cast-metal manual village water pump with modeled lever, axle, wooden grip and downturned spout. Static unrigged prop.",
+  "bounds": {
+    "x": 0.816,
+    "y": 0.53,
+    "z": 1.565,
+    "unit": "m"
+  },
+  "triangles": 492,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-hand-pump-01/v1.0.0/model.glb",
+      "size": 32168,
+      "sha256": "3b8e6796bc229f54bd764b4cd2268664763cf7ee88c0d2ce88a47891438867e7"
+    },
+    "blend": {
+      "path": "assets/village/village-hand-pump-01/v1.0.0/source.blend",
+      "size": 623824,
+      "sha256": "1ce734d92825b9a8fe617124e023b42c5b34bc9733959bf30896dc534a92b027"
+    },
+    "generator": {
+      "path": "assets/village/village-hand-pump-01/v1.0.0/generate.py",
+      "size": 18415,
+      "sha256": "be28e376b8f66d47b8eaba4c90608217761126ceb3196a822476853f65a4d405"
+    },
+    "render": {
+      "path": "assets/village/village-hand-pump-01/v1.0.0/thumbnail.png",
+      "size": 290965,
+      "sha256": "ee92eaacd49b74c40acc9e17192053dac37f4921b203a7a589505038c36ad281"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

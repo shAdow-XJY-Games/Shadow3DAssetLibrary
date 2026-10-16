@@ -1,0 +1,42 @@
+{
+  "id": "village-direction-sign-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Direction Sign",
+  "description": "Original triple-arrow timber wayfinding post with three blank boards and visible iron fixings. Meter-scale static village prop.",
+  "bounds": {
+    "x": 1.24,
+    "y": 0.281,
+    "z": 2.02,
+    "unit": "m"
+  },
+  "triangles": 220,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-direction-sign-01/v1.0.0/model.glb",
+      "size": 18972,
+      "sha256": "4224979b6523ae04de28445025cca6c3cc00fcc3f555685692e12f4adb732618"
+    },
+    "blend": {
+      "path": "assets/village/village-direction-sign-01/v1.0.0/source.blend",
+      "size": 649764,
+      "sha256": "0b71669748863a9b8a02ceba23eee239acd9e8521775f98f03e0aa6f0b261951"
+    },
+    "generator": {
+      "path": "assets/village/village-direction-sign-01/v1.0.0/generate.py",
+      "size": 17867,
+      "sha256": "25c24b5554de36ac3ecd72f5cda3d96bf2edc45513c3d80583398e39c4954b7b"
+    },
+    "render": {
+      "path": "assets/village/village-direction-sign-01/v1.0.0/thumbnail.png",
+      "size": 302551,
+      "sha256": "81d929f54308f38294d7d3013cc43433fc748d9ad21b7789b60ac7bd9f7c9c7d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

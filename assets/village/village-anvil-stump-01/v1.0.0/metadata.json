@@ -1,0 +1,42 @@
+{
+  "id": "village-anvil-stump-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Anvil on Stump",
+  "description": "Original village smith anvil with tapered horn, heel, modeled waist and foot mounted on a grounded timber stump with two iron bindings. Static unrigged prop.",
+  "bounds": {
+    "x": 1.16,
+    "y": 0.60835,
+    "z": 0.905,
+    "unit": "m"
+  },
+  "triangles": 600,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-anvil-stump-01/v1.0.0/model.glb",
+      "size": 41776,
+      "sha256": "d4721bf2ca8a84a65347497cccdeb15d6ef29f481a9cd0f06228959c684cf59e"
+    },
+    "blend": {
+      "path": "assets/village/village-anvil-stump-01/v1.0.0/source.blend",
+      "size": 622968,
+      "sha256": "24353fd36f3be77e16babf1368846dbb433d26b757f6b7f5af580d7f5729986e"
+    },
+    "generator": {
+      "path": "assets/village/village-anvil-stump-01/v1.0.0/generate.py",
+      "size": 22139,
+      "sha256": "f87e748c3cfc4264f227d972af2d023b5baf6e6a5fced2779cab0887b98c3c74"
+    },
+    "render": {
+      "path": "assets/village/village-anvil-stump-01/v1.0.0/thumbnail.png",
+      "size": 309502,
+      "sha256": "f8fc48c6feb876ae86fdadaf1f28c0cec8f9a38643dc877a2bb5e611739c286f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

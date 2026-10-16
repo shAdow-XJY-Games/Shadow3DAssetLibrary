@@ -1,0 +1,42 @@
+{
+  "id": "village-seedling-tray-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Seedling Tray",
+  "description": "Original small wooden seed tray containing six modeled seedlings, soil, inset end boards and a solid bottom. Each leaf connects to a stem and soil-supported root.",
+  "bounds": {
+    "x": 0.66,
+    "y": 0.46,
+    "z": 0.225,
+    "unit": "m"
+  },
+  "triangles": 1440,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-seedling-tray-01/v1.0.0/model.glb",
+      "size": 135324,
+      "sha256": "52657255c61c2f396952cc09a712a38ff8332fa4b144ef31aa40c30e18b4434b"
+    },
+    "blend": {
+      "path": "assets/village/village-seedling-tray-01/v1.0.0/source.blend",
+      "size": 852460,
+      "sha256": "4b20f12c34b0f5ecfacb3f055cf9f97905e2bf825bce8a3840e445bc574d29d1"
+    },
+    "generator": {
+      "path": "assets/village/village-seedling-tray-01/v1.0.0/generate.py",
+      "size": 27475,
+      "sha256": "185506314fd4dcdb53ff5e249a07fde305c622c14015e008f43759398481b90e"
+    },
+    "render": {
+      "path": "assets/village/village-seedling-tray-01/v1.0.0/thumbnail.png",
+      "size": 314614,
+      "sha256": "72244f5ee52de8e9d88784c12a4fab35e0c5b08bab3c114f5d2238a7a8c26fd9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

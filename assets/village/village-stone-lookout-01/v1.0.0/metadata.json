@@ -1,0 +1,42 @@
+{
+  "id": "village-stone-lookout-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Raised Stone Lookout",
+  "description": "Original raised village stoop demonstration combining four stone steps, an independently supported landing and a low masonry parapet on a meadow base. Separate blocks intentionally retain small installation seams.",
+  "bounds": {
+    "x": 3.2,
+    "y": 3.6,
+    "z": 1.305,
+    "unit": "m"
+  },
+  "triangles": 660,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-stone-lookout-01/v1.0.0/model.glb",
+      "size": 53108,
+      "sha256": "168038cac046458c448fe7553d05ed17145d3e64880e2d1b8ee05163172c2ed6"
+    },
+    "blend": {
+      "path": "assets/village/village-stone-lookout-01/v1.0.0/source.blend",
+      "size": 655160,
+      "sha256": "9a37ad106e5749106ad99ad7665e0c022bcd5cc26fec20a8f3513decd25cbc57"
+    },
+    "generator": {
+      "path": "assets/village/village-stone-lookout-01/v1.0.0/generate.py",
+      "size": 28033,
+      "sha256": "430421740c56f9bbd46adaee49204568de13195605bd7c9567f158bd043489ab"
+    },
+    "render": {
+      "path": "assets/village/village-stone-lookout-01/v1.0.0/thumbnail.png",
+      "size": 311917,
+      "sha256": "5f84503e9bdc2212efdffcb9040583c020a5f7e3377e63c21d8dcaf4d8250ba9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

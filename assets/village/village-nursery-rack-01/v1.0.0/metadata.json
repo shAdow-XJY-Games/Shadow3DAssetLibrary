@@ -1,0 +1,42 @@
+{
+  "id": "village-nursery-rack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Two-Tier Nursery Rack",
+  "description": "Original freestanding two-tier timber nursery rack with four grounded legs, two plant shelves and an inset back rail. Sized to support the matching seedling trays.",
+  "bounds": {
+    "x": 0.9,
+    "y": 0.64,
+    "z": 1.115,
+    "unit": "m"
+  },
+  "triangles": 308,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-nursery-rack-01/v1.0.0/model.glb",
+      "size": 26432,
+      "sha256": "93b29367c75e3a6d7bf983acb7f8e04b9b7104e0ba0df67deb52a124219f4c3d"
+    },
+    "blend": {
+      "path": "assets/village/village-nursery-rack-01/v1.0.0/source.blend",
+      "size": 603416,
+      "sha256": "07ff889d5a75fd33b7a67fc51cf8376d969edf0607100aa0184bbce599cafe26"
+    },
+    "generator": {
+      "path": "assets/village/village-nursery-rack-01/v1.0.0/generate.py",
+      "size": 27077,
+      "sha256": "e2ce6726a54ec55a39b2e7c134d594350c532d492f6c7c71b2d233685bfedd9f"
+    },
+    "render": {
+      "path": "assets/village/village-nursery-rack-01/v1.0.0/thumbnail.png",
+      "size": 341367,
+      "sha256": "0882bde6e2a76df9a38b6ff82eae3cfb7a2b24349be3b917e54734040c9a7e21"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

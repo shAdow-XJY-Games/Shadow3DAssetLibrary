@@ -1,0 +1,42 @@
+{
+  "id": "village-water-point-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Village Water Point",
+  "description": "Original public water-point scene combining a hand pump, triple-arrow wayfinding post and recessed stone drain with iron grate on a cobbled plinth.",
+  "bounds": {
+    "x": 3.5,
+    "y": 2.6,
+    "z": 2.21,
+    "unit": "m"
+  },
+  "triangles": 1196,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-water-point-01/v1.0.0/model.glb",
+      "size": 86568,
+      "sha256": "e6ec1fbde3ec9b5f5990fb44d5254623628df0943264521d5f0f2f0b01b63f03"
+    },
+    "blend": {
+      "path": "assets/village/village-water-point-01/v1.0.0/source.blend",
+      "size": 879268,
+      "sha256": "623684e200b18cfebceff779ce4718495a61544f762ca42f4f5ba6f2b8803ad9"
+    },
+    "generator": {
+      "path": "assets/village/village-water-point-01/v1.0.0/generate.py",
+      "size": 20343,
+      "sha256": "f44894294e6fb9cf75a25f4c7dbf8fa4d818ae7f8073c56b5aaa51b6d0f65f4d"
+    },
+    "render": {
+      "path": "assets/village/village-water-point-01/v1.0.0/thumbnail.png",
+      "size": 313085,
+      "sha256": "2a57374d2d1077d68ad32cd7f2d08f8a9a6e02f07be4d71ef3767b79cce1675b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
