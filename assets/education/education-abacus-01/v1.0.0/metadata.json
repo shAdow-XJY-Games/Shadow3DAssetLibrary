@@ -1,0 +1,42 @@
+{
+  "id": "education-abacus-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "soft-low-poly",
+  "title": "Rod-and-Bead Teaching Abacus",
+  "description": "Original 0.72m-wide teaching abacus with five rods and twenty-five individually editable ring beads. 18mm nominal bead bores surround 14mm shafts with real clearance. Coaxial shaft-slider constraints, physical frame end stops and ordered-neighbour limits are geometrically validated. Editable static visual; no runtime slider controller or physical simulation is included.",
+  "bounds": {
+    "x": 0.72,
+    "y": 0.26,
+    "z": 0.66,
+    "unit": "m"
+  },
+  "triangles": 3996,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-abacus-01/v1.0.0/model.glb",
+      "size": 247976,
+      "sha256": "e0b4c098daec09c7e7391a0a5de832597fb3e1c05be92877d76b6cf236f9235d"
+    },
+    "blend": {
+      "path": "assets/education/education-abacus-01/v1.0.0/source.blend",
+      "size": 1004664,
+      "sha256": "333737c16840d7a77faaaeacca059885f5bb79599ecfa432751ff0480f324e3c"
+    },
+    "generator": {
+      "path": "assets/education/education-abacus-01/v1.0.0/generate.py",
+      "size": 33026,
+      "sha256": "4ba0d314fa79315ea9b7d95b1d1702c8c1e6ea17e464d168857122922326936a"
+    },
+    "render": {
+      "path": "assets/education/education-abacus-01/v1.0.0/thumbnail.png",
+      "size": 344703,
+      "sha256": "6e5bf5c61c5594ae92ff9cfd41301c08ca099c2f065026c4df286bd9fe0a644f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "education-blackboard-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "education",
+  "style": "soft-low-poly",
+  "title": "Two-Foot Blackboard Module",
+  "description": "Original two-foot blackboard with separate writing slab, wooden-style border, posts, chalk tray and chalk. Actual overall width 1.47m, X repeat 1.60m leaves 0.13m between frames. Static teaching visual without text content or learning-outcome claims.",
+  "bounds": {
+    "x": 1.47,
+    "y": 0.625,
+    "z": 1.615,
+    "unit": "m"
+  },
+  "triangles": 476,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-blackboard-01/v1.0.0/model.glb",
+      "size": 40456,
+      "sha256": "a5c31849dbe6f9669064c7f540ea1150fcd55868523828633e3146f81a223d1a"
+    },
+    "blend": {
+      "path": "assets/education/education-blackboard-01/v1.0.0/source.blend",
+      "size": 721616,
+      "sha256": "0811647cd54b2c572752869f445d99decc98b49509fbb971b75cae8e98022275"
+    },
+    "generator": {
+      "path": "assets/education/education-blackboard-01/v1.0.0/generate.py",
+      "size": 29127,
+      "sha256": "fc15755f26672bc471606a2601355105fc2fa3de54548909471c6db4e709cd02"
+    },
+    "render": {
+      "path": "assets/education/education-blackboard-01/v1.0.0/thumbnail.png",
+      "size": 326302,
+      "sha256": "7cf316114262721b2c567e72dca728c283c657dc6ef9aadf35f7810f1afa656b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

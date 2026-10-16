@@ -1,0 +1,42 @@
+{
+  "id": "education-learning-corner-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "education",
+  "style": "soft-low-poly",
+  "title": "Abacus Learning Corner",
+  "description": "Original teaching corner on a 3.0x2.8m base with a two-foot blackboard, chalk tray and a five-rod abacus resting on a small desk. Abacus beads have 18mm nominal bores around 14mm shafts with verified real clearance and explicit coaxial/axial-stop constraints. Static visual scene without runtime slider controller, physics simulation, characters or learning-outcome claims.",
+  "bounds": {
+    "x": 3.0,
+    "y": 2.8,
+    "z": 1.705,
+    "unit": "m"
+  },
+  "triangles": 4736,
+  "materials": 7,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-learning-corner-01/v1.0.0/model.glb",
+      "size": 305324,
+      "sha256": "c85bf7fce246ceeb7f9e5d1c1160fadcd8ada497906481aec8df798ff88cc84f"
+    },
+    "blend": {
+      "path": "assets/education/education-learning-corner-01/v1.0.0/source.blend",
+      "size": 1206948,
+      "sha256": "fd14b2ddcb458d9c808949d7eed07cd359483889c179634c4bd3d3026eab3eae"
+    },
+    "generator": {
+      "path": "assets/education/education-learning-corner-01/v1.0.0/generate.py",
+      "size": 33729,
+      "sha256": "c2e04d3eb0ad60dbff55066650448378da4ee79946c7684db3eda9ab7e4949bc"
+    },
+    "render": {
+      "path": "assets/education/education-learning-corner-01/v1.0.0/thumbnail.png",
+      "size": 323361,
+      "sha256": "82ad0b8361790673a9a4c109cc1eef935250e52a72af7bdb7809f0ab1521db5c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
