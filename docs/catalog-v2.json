@@ -314,6 +314,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "1ec5795b2f7e94c939fc483d9e003f97da900d7b"
+    },
+    "verified-description-maintenance": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "09bf715a9817d4e3a027b9f71bcdf1fafee7f488"
     }
   },
   "assetCount": 218,
@@ -349,9 +354,9 @@
     {
       "theme": "village",
       "count": 41,
-      "path": "metadata/e7a070ae4250ac7cf33ea8792cbb5a8171eacc0dba325ea7926a4c592a06a7f8.json",
-      "size": 52095,
-      "sha256": "e7a070ae4250ac7cf33ea8792cbb5a8171eacc0dba325ea7926a4c592a06a7f8"
+      "path": "metadata/4a10fd03b96625f4d89e070105f0218074481b1e8bcaac5fd67b43be80627efe.json",
+      "size": 52036,
+      "sha256": "4a10fd03b96625f4d89e070105f0218074481b1e8bcaac5fd67b43be80627efe"
     },
     {
       "theme": "transport",
@@ -370,9 +375,9 @@
     {
       "theme": "nature",
       "count": 14,
-      "path": "metadata/94c9d511f878b1848c61f924c109e63229140624bc27cf7f6368398a9b04dc12.json",
-      "size": 18809,
-      "sha256": "94c9d511f878b1848c61f924c109e63229140624bc27cf7f6368398a9b04dc12"
+      "path": "metadata/d5cb76a0b33e95e04d8de3f7dd295a80f419beffee385a6f59b8e788c83bc164.json",
+      "size": 18780,
+      "sha256": "d5cb76a0b33e95e04d8de3f7dd295a80f419beffee385a6f59b8e788c83bc164"
     },
     {
       "theme": "astronomy",
