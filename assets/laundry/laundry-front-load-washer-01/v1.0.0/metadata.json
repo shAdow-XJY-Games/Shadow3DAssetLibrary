@@ -1,0 +1,42 @@
+{
+  "id": "laundry-front-load-washer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "laundry",
+  "style": "S01-clean-geometric",
+  "title": "Static Front-Loading Washing Appliance",
+  "description": "Original static front-loading washing appliance with a continuous closed housing, real circular opening, thick inner drum cup and blind rear bottom, three fixed drum lifters, four grounded feet, independent control and detergent faces, and an editable seven-part door on a named vertical hinge pivot. Thick annular door surrounds an opaque recessed dark inspection disc. Actual imported GLB verifies closed 0 and open -100 degree poses, positive-area bored hinge seating, pin clearance, a wrong-placement collision negative and nine rays reaching the real rear bottom. No continuous door sweep, washing, drum rotation, detergent drawer travel, optical transparency, textile loading, plumbing, electrical, load or safety certification.",
+  "bounds": {
+    "x": 0.656000018119812,
+    "y": 0.75450000166893,
+    "z": 0.8799999952316284,
+    "unit": "m"
+  },
+  "triangles": 1960,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/laundry/laundry-front-load-washer-01/v1.0.0/model.glb",
+      "size": 124632,
+      "sha256": "985aad7bc3fdead29e9e5eeb06c48f04588230c86a704af040766a82edf5d4e8"
+    },
+    "blend": {
+      "path": "assets/laundry/laundry-front-load-washer-01/v1.0.0/source.blend",
+      "size": 923020,
+      "sha256": "d1d7ed5f6a0d4cdd21aa744dda8bda609e9f7b2a1c5d59d0e2430fd7ac599603"
+    },
+    "generator": {
+      "path": "assets/laundry/laundry-front-load-washer-01/v1.0.0/generate.py",
+      "size": 44541,
+      "sha256": "546a9a71c272fb408eb2400f0186d45169d0e9692dbd51d70c98c1f136d1140a"
+    },
+    "render": {
+      "path": "assets/laundry/laundry-front-load-washer-01/v1.0.0/thumbnail.png",
+      "size": 225489,
+      "sha256": "140c1a2dc58d305ab0bf81387b9d0debc6740b79900556fb002e7cb8529a4288"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
