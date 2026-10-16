@@ -1,0 +1,42 @@
+{
+  "id": "playground-seesaw-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "playground",
+  "style": "soft-low-poly",
+  "title": "Soft Low-poly Seesaw",
+  "description": "Original game-visual seesaw with a 2.6 m beam, two seats and grips. Beam_Runtime is separate from Base_Runtime, with pivot Blender (0,0,0.64)m / glTF (0,0.64,0)m and axis Blender +Y / glTF -Z. Intended visual angle range is -15 to +15 degrees; seven discrete poses are checked. Source has separately editable pieces and SeesawPivot_Edit marker. No animation clip, physics or playground engineering specification is included.",
+  "bounds": {
+    "x": 2.6,
+    "y": 0.68,
+    "z": 1.155,
+    "unit": "m"
+  },
+  "triangles": 476,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/playground/playground-seesaw-01/v1.0.0/model.glb",
+      "size": 37680,
+      "sha256": "e1a9b8b492cf15b049945fd7b7af58918e41d03983ab4036388e41bd218df827"
+    },
+    "blend": {
+      "path": "assets/playground/playground-seesaw-01/v1.0.0/source.blend",
+      "size": 778436,
+      "sha256": "805e61f7ec69962abf73cf3286d9d4efabc809de5a0e6a31936b4508cce76967"
+    },
+    "generator": {
+      "path": "assets/playground/playground-seesaw-01/v1.0.0/generate.py",
+      "size": 33472,
+      "sha256": "eabe513225cc5f75c68de832c6ebf4168efc2ccb9d1f6a24ada55b2b55e4d304"
+    },
+    "render": {
+      "path": "assets/playground/playground-seesaw-01/v1.0.0/thumbnail.png",
+      "size": 294303,
+      "sha256": "5248581d6c3e506fe8bebf3e8ef94e3d2ac3554ff181d370566ad9a92cfda4b0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

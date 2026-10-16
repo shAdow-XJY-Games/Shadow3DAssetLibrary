@@ -1,0 +1,42 @@
+{
+  "id": "playground-play-corner-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "playground",
+  "style": "soft-low-poly",
+  "title": "Pastel Playground Corner",
+  "description": "Original game-visual playground corner on a 6x4.6 m base, combining a pivoted seesaw and continuous curved slide. Beam_Runtime is independent with Blender pivot (-1.4,-0.4,0.73)m / glTF (-1.4,0.73,0.4)m and axis Blender +Y / glTF -Z; Base_Runtime contains fixed pieces. Seven discrete seesaw poses in -15 to +15 degrees are checked. No physics, animation clip, engineering or facility safety certification is included.",
+  "bounds": {
+    "x": 6.0,
+    "y": 4.6,
+    "z": 1.86,
+    "unit": "m"
+  },
+  "triangles": 1556,
+  "materials": 7,
+  "files": {
+    "glb": {
+      "path": "assets/playground/playground-play-corner-01/v1.0.0/model.glb",
+      "size": 119416,
+      "sha256": "46f043b2db54e9c4bd2067be852799009f0f377ea232c530d8790934d0134851"
+    },
+    "blend": {
+      "path": "assets/playground/playground-play-corner-01/v1.0.0/source.blend",
+      "size": 978384,
+      "sha256": "d53c923b9c8d798438a0b8fa2a7cf67de67c3f2f7a27b370a7f180634bfde90d"
+    },
+    "generator": {
+      "path": "assets/playground/playground-play-corner-01/v1.0.0/generate.py",
+      "size": 34177,
+      "sha256": "1a7e47461c73ef62ac952ad284bddac393cf9ba41ea08b62982e05588caf5dbd"
+    },
+    "render": {
+      "path": "assets/playground/playground-play-corner-01/v1.0.0/thumbnail.png",
+      "size": 319135,
+      "sha256": "181c9280804eb482d76ca305dd25dcbf09341c2ebc1aca87cd58797764af599e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

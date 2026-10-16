@@ -1,0 +1,42 @@
+{
+  "id": "playground-small-slide-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "playground",
+  "style": "soft-low-poly",
+  "title": "Curved Low-poly Slide",
+  "description": "Original game-visual small slide. Entry platform is 1.35 m high; the continuous closed faceted chute descends along +Y with matching inset curved rims. Four platform feet, ladder feet and toe support are separately editable. Ladder rungs attach to both rails. Intended as a visual module, not a safety-rated physical facility or engineering design.",
+  "bounds": {
+    "x": 0.8,
+    "y": 3.28,
+    "z": 1.77,
+    "unit": "m"
+  },
+  "triangles": 1036,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/playground/playground-small-slide-01/v1.0.0/model.glb",
+      "size": 79720,
+      "sha256": "716d1250641d42874e5baee5d6e0cfddfa9ddb77aff3e4a790d79d7a626c1e3d"
+    },
+    "blend": {
+      "path": "assets/playground/playground-small-slide-01/v1.0.0/source.blend",
+      "size": 751620,
+      "sha256": "710190250649a5cd6783e09b713c3e31db6e5f166be2898a3aa920b0290e7e20"
+    },
+    "generator": {
+      "path": "assets/playground/playground-small-slide-01/v1.0.0/generate.py",
+      "size": 30452,
+      "sha256": "8f7439aca1e88169881a2f91677e84f32d47ee7cbd8b6a2481b8d4ed26d0e1ca"
+    },
+    "render": {
+      "path": "assets/playground/playground-small-slide-01/v1.0.0/thumbnail.png",
+      "size": 314556,
+      "sha256": "e8e60e6501985b51179ae5374a3c1b32b0ced6b2a5147a1866b81d98fe00432e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
