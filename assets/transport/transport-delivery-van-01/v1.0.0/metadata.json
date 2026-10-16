@@ -1,0 +1,42 @@
+{
+  "id": "transport-delivery-van-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "S01 Small Delivery Van",
+  "description": "Original stylized small delivery vehicle with sloped cab, inset glazing, cargo cavity, real wheel arches and flat tire contact patches. Separate rear hinge node and source components; finite door poses verified. No driving, steering or continuous physics simulation. Independent editable hinge node and the finite tested poses recorded in door_motion; no animation, continuous-motion, load or physics claim.",
+  "bounds": {
+    "x": 1.7850000858306885,
+    "y": 3.4649999141693115,
+    "z": 1.7999999523162842,
+    "unit": "m"
+  },
+  "triangles": 3528,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-delivery-van-01/v1.0.0/model.glb",
+      "size": 261352,
+      "sha256": "5447f9de8f3fe0ae3abe05d05becde2a55eb3418ca6e5f3472a205c0b182342f"
+    },
+    "blend": {
+      "path": "assets/transport/transport-delivery-van-01/v1.0.0/source.blend",
+      "size": 1267168,
+      "sha256": "f35c073546e26f3689720e9c4ae853461ecd100493c3b13491e746fff422e395"
+    },
+    "generator": {
+      "path": "assets/transport/transport-delivery-van-01/v1.0.0/generate.py",
+      "size": 36703,
+      "sha256": "c28ac70c286e1b9a4b22103d09327d36fe439639f6559f0ee1187b37bbd2d5fa"
+    },
+    "render": {
+      "path": "assets/transport/transport-delivery-van-01/v1.0.0/thumbnail.png",
+      "size": 224185,
+      "sha256": "ae16d0d7b0a6b7d7f16ac3fc515d249eb525c385eb8c08fa3a362c874d5a22ab"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
