@@ -1,0 +1,42 @@
+{
+  "id": "village-fitted-door-leaf-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Fitted Timber Door Leaf",
+  "description": "S03 five-board fitted door for the .98x2.05m clear doorway in village-doorway-wall-2m-01. Mount at the host local origin with unit scale. HingeMounts_Static stays fixed; DoorLeaf_Runtime has the real hinge pivot(-.51,-.20,.08)m and editable local Z rotation. Seven discrete poses from0 to-90degrees in15degree steps checked; real polygon pin clearance and bearing support. No continuous motion, hardware simulation or accessibility guarantee.",
+  "bounds": {
+    "x": 1.083,
+    "y": 0.1305,
+    "z": 2.036,
+    "unit": "m"
+  },
+  "triangles": 880,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-fitted-door-leaf-01/v1.0.0/model.glb",
+      "size": 62116,
+      "sha256": "ea6a710cd879c526a61b4b6529752a13afed32d88184a809698e9dac1fdeead2"
+    },
+    "blend": {
+      "path": "assets/village/village-fitted-door-leaf-01/v1.0.0/source.blend",
+      "size": 631388,
+      "sha256": "1ecb3130fb5da582aee29c3ef9eee82dc16eb8c0703e7183232b32f0b97d563a"
+    },
+    "generator": {
+      "path": "assets/village/village-fitted-door-leaf-01/v1.0.0/generate.py",
+      "size": 42722,
+      "sha256": "7ed81c07815264029a2e8f117f8d2d96b77a78693d7c67cbf2c4da6631c1f9cb"
+    },
+    "render": {
+      "path": "assets/village/village-fitted-door-leaf-01/v1.0.0/thumbnail.png",
+      "size": 310525,
+      "sha256": "69d606cf815f367cbb7ab8f36baeee0f0832b1a36593b8b69f93fdcea9de1561"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
