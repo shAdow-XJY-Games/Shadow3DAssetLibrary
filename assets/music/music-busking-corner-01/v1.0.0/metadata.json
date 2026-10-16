@@ -1,0 +1,42 @@
+{
+  "id": "music-busking-corner-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "music",
+  "style": "soft-low-poly",
+  "title": "Small Busking Stage Corner",
+  "description": "Original small performance-corner visual scene on a 4.5x3m base. Two 2m-repeat stage modules support a guitar with stand, a speaker and a microphone stand. Deck top is Z=0.46m, with a 10mm module seam. Source objects remain separately editable. No sound, electrical connection, performance animation, structural rating or event-safety certification is included.",
+  "bounds": {
+    "x": 4.5,
+    "y": 3.0,
+    "z": 1.73,
+    "unit": "m"
+  },
+  "triangles": 3080,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-busking-corner-01/v1.0.0/model.glb",
+      "size": 223732,
+      "sha256": "e0ffbed3c70feb55a40ad9fdf495a7c7af228b01a56b76d6b816724cb66dde66"
+    },
+    "blend": {
+      "path": "assets/music/music-busking-corner-01/v1.0.0/source.blend",
+      "size": 1244792,
+      "sha256": "f8685bea6008f9aca8f7e252ab39679761d371e4703d4969b0a8765264f8b23b"
+    },
+    "generator": {
+      "path": "assets/music/music-busking-corner-01/v1.0.0/generate.py",
+      "size": 32053,
+      "sha256": "f4461990b1cabd650bf924f0407ba63acd32547317edb7873a907b1e30f6d635"
+    },
+    "render": {
+      "path": "assets/music/music-busking-corner-01/v1.0.0/thumbnail.png",
+      "size": 308506,
+      "sha256": "3bde4bde00b7e63bc4b734a4d6534e6579d8d98b1e749288e71da1bf88e6f163"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

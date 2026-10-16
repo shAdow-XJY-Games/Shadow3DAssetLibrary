@@ -1,0 +1,42 @@
+{
+  "id": "music-stage-platform-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "music",
+  "style": "soft-low-poly",
+  "title": "Modular Low Stage Platform",
+  "description": "Original low stage module with four editable deck boards and separate steel-style legs, rails and feet. Nominal X repeat is 2m; actual deck width is 1.99m, leaving a 10mm seam between repeated modules. Depth is 1m and top height 0.37m. Visual asset only, no structural load or event-safety rating is implied.",
+  "bounds": {
+    "x": 1.99,
+    "y": 1.0,
+    "z": 0.37,
+    "unit": "m"
+  },
+  "triangles": 704,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-stage-platform-01/v1.0.0/model.glb",
+      "size": 55520,
+      "sha256": "56a9ea6981bd68b05f281b58fbd28b3f363d483a714604f74f403d95bf948a93"
+    },
+    "blend": {
+      "path": "assets/music/music-stage-platform-01/v1.0.0/source.blend",
+      "size": 615292,
+      "sha256": "7520d4f22d23b1d6b58a62e1ff4bd20d89ac14db91f6a168c37cf1b978ee28b4"
+    },
+    "generator": {
+      "path": "assets/music/music-stage-platform-01/v1.0.0/generate.py",
+      "size": 31318,
+      "sha256": "c7eb0ae88cfa1e1cadd7a2699cec52113df7e51c7f27ce7d1e555ebffe615a3d"
+    },
+    "render": {
+      "path": "assets/music/music-stage-platform-01/v1.0.0/thumbnail.png",
+      "size": 297061,
+      "sha256": "08449d04f778ed90eca381834e230821a717f051f644af4df736fddd86ae892e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

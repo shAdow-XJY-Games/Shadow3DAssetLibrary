@@ -1,0 +1,42 @@
+{
+  "id": "music-acoustic-guitar-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "soft-low-poly",
+  "title": "Acoustic Guitar and Stand",
+  "description": "Original low-poly acoustic guitar display on a grounded stand. Hand-shaped waisted body has a real closed soundhole recess; six geometric strings join the bridge and nut. Neck, fingerboard, five frets, headstock and six tuning pegs remain separately editable. Approximately 1.22m overall height including the stand. Visual game asset only, not a functioning instrument simulation.",
+  "bounds": {
+    "x": 0.44,
+    "y": 0.4,
+    "z": 1.22,
+    "unit": "m"
+  },
+  "triangles": 1152,
+  "materials": 7,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-acoustic-guitar-01/v1.0.0/model.glb",
+      "size": 80376,
+      "sha256": "e63dc55816dcec5af89b22de448604036e0b6c0a0c0aa6ee5583ea5b54fc39d1"
+    },
+    "blend": {
+      "path": "assets/music/music-acoustic-guitar-01/v1.0.0/source.blend",
+      "size": 916516,
+      "sha256": "f461145c823bcb0150cb0a39d81c4b3e32970e1641e78aea932f8399dae88c00"
+    },
+    "generator": {
+      "path": "assets/music/music-acoustic-guitar-01/v1.0.0/generate.py",
+      "size": 31355,
+      "sha256": "c02f61e75ab26bdbbfef0779fa9ed40ca84fd8e615eb26d040c5343cfa063aee"
+    },
+    "render": {
+      "path": "assets/music/music-acoustic-guitar-01/v1.0.0/thumbnail.png",
+      "size": 294500,
+      "sha256": "54f42d734b6d58d8ad7c6a0602b1b5421c3ac980ae5273ad6930fff3af61eaa6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
