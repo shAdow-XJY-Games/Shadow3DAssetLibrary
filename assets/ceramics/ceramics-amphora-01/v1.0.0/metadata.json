@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-amphora-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "ceramics",
+  "style": "soft-low-poly",
+  "title": "Open Neck Ceramic Amphora",
+  "description": "Original tall low-poly ceramic amphora with an open mouth, continuous thick closed shell, inner floor and two editable shoulder loop handles.",
+  "bounds": {
+    "x": 0.74395,
+    "y": 0.52,
+    "z": 0.73,
+    "unit": "m"
+  },
+  "triangles": 1108,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/ceramics/ceramics-amphora-01/v1.0.0/model.glb",
+      "size": 58456,
+      "sha256": "1e0a0c1857ff9e62baf3035a961beb89f237bbd6f114abf97bb18db601a1edf1"
+    },
+    "blend": {
+      "path": "assets/ceramics/ceramics-amphora-01/v1.0.0/source.blend",
+      "size": 515916,
+      "sha256": "020900c4512e5f38bca494fadc8d58a12a285e8f80cd28b42428c456ea8b0514"
+    },
+    "generator": {
+      "path": "assets/ceramics/ceramics-amphora-01/v1.0.0/generate.py",
+      "size": 26087,
+      "sha256": "1904f2beddc3f26be158ee723cc6db6ef0b79d6f4e12eb3df459d658ff7bd77f"
+    },
+    "render": {
+      "path": "assets/ceramics/ceramics-amphora-01/v1.0.0/thumbnail.png",
+      "size": 303654,
+      "sha256": "195230c36eccfee9ffae60e8c1b4f7d38d277b0b4fb5bc88e50a446a20d4edf0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

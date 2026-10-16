@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-turntable-bench-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "ceramics",
+  "style": "soft-low-poly",
+  "title": "Pottery Turntable Workbench",
+  "description": "Original pottery workbench module with four grounded legs, lower shelf, separate axle and flat turntable plate. Editable game visual asset without mechanical simulation.",
+  "bounds": {
+    "x": 0.95,
+    "y": 0.75,
+    "z": 0.78,
+    "unit": "m"
+  },
+  "triangles": 448,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/ceramics/ceramics-turntable-bench-01/v1.0.0/model.glb",
+      "size": 33396,
+      "sha256": "536634058cdeb00e1a6f8b8d17b348e28786d3528c0a89e42a9d96a281857f47"
+    },
+    "blend": {
+      "path": "assets/ceramics/ceramics-turntable-bench-01/v1.0.0/source.blend",
+      "size": 541444,
+      "sha256": "30df3233d3f957bf6c42f9e2d0cd3ed56dc98f06b794d844fc82d798486c711f"
+    },
+    "generator": {
+      "path": "assets/ceramics/ceramics-turntable-bench-01/v1.0.0/generate.py",
+      "size": 25737,
+      "sha256": "123375e3584fa49868ecb317da608e68880e8cd19d8c00e5fe5f3f3a53d1c2e0"
+    },
+    "render": {
+      "path": "assets/ceramics/ceramics-turntable-bench-01/v1.0.0/thumbnail.png",
+      "size": 332736,
+      "sha256": "9b424987c8892354d3b9712ee7a96b461bfb759702ec06bcad292165aacbf7b5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

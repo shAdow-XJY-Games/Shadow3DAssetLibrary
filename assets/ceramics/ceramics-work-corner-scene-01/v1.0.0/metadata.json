@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-work-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "ceramics",
+  "style": "soft-low-poly",
+  "title": "Pottery Work Corner",
+  "description": "Original pottery corner with a thick-shell amphora seated on a workbench turntable and another on the floor. Three real opposed surface anchors validate the vessel on the plate.",
+  "bounds": {
+    "x": 2.8,
+    "y": 2.3,
+    "z": 1.622,
+    "unit": "m"
+  },
+  "triangles": 2708,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/ceramics/ceramics-work-corner-scene-01/v1.0.0/model.glb",
+      "size": 183180,
+      "sha256": "c74cd09902749686a063fabfb54d45a4ebde6c3023d050b9f1a0e2c0e5a4ef4e"
+    },
+    "blend": {
+      "path": "assets/ceramics/ceramics-work-corner-scene-01/v1.0.0/source.blend",
+      "size": 648808,
+      "sha256": "dedc9bcec80a70a54b1c35b6df520caea9db22d06f918902816afc5d683c8742"
+    },
+    "generator": {
+      "path": "assets/ceramics/ceramics-work-corner-scene-01/v1.0.0/generate.py",
+      "size": 28736,
+      "sha256": "3ff4feb4db3fc56bba0522d48633d4eea428e63f547af4408fdc642fc4e5de25"
+    },
+    "render": {
+      "path": "assets/ceramics/ceramics-work-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 313812,
+      "sha256": "806eec720ce3108bf447a70bd8a32b31c29d7e2323106bea7beef1762ab0c200"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
