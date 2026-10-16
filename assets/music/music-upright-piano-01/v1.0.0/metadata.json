@@ -1,0 +1,42 @@
+{
+  "id": "music-upright-piano-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Community Upright Piano",
+  "description": "Original upright piano with supported tall case, fixed open keyboard cover, 52 notched white keys and 36 raised black keys in the complete A0-C8 sequence, and three connected static pedals. One instrument with 110 editable closed meshes. Self-contained checks validate every keybed contact, key clearance, displaced-key collision negative and rear-foot case connection. Existing floor and adjacent chair are separate reused context. Static visual asset only; no sound, key action, pedal mechanism, ergonomic or load certification.",
+  "bounds": {
+    "x": 1.5299999713897705,
+    "y": 0.6650000214576721,
+    "z": 1.2100000381469727,
+    "unit": "m"
+  },
+  "triangles": 3752,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-upright-piano-01/v1.0.0/model.glb",
+      "size": 304300,
+      "sha256": "89a450d9974a6a78a7993b3496d290e0363d015588a0da959b7cc076376394a6"
+    },
+    "blend": {
+      "path": "assets/music/music-upright-piano-01/v1.0.0/source.blend",
+      "size": 1377816,
+      "sha256": "57bc959780540437346eca3fb50c633c443e8d7319265e9ab0f1eba884c061f0"
+    },
+    "generator": {
+      "path": "assets/music/music-upright-piano-01/v1.0.0/generate.py",
+      "size": 39819,
+      "sha256": "527340651dca427266de22b2127a24e62a80f9dfe2f37169343ee1850d49f837"
+    },
+    "render": {
+      "path": "assets/music/music-upright-piano-01/v1.0.0/thumbnail.png",
+      "size": 265287,
+      "sha256": "285fa7e894af968f95aac6feed196543b0857805eca17b066643ac864a2650ef"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
