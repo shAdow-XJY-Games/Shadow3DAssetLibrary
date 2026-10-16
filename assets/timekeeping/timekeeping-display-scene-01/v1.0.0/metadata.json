@@ -1,0 +1,42 @@
+{
+  "id": "timekeeping-display-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "timekeeping",
+  "style": "soft-low-poly",
+  "title": "Timekeeping Display Corner",
+  "description": "Original display combining an open-frame pendulum clock and a sundial pedestal with independently editable parts. Static visual scene without functional timekeeping or latitude accuracy claims.",
+  "bounds": {
+    "x": 3.0,
+    "y": 2.0,
+    "z": 0.962,
+    "unit": "m"
+  },
+  "triangles": 2172,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/timekeeping/timekeeping-display-scene-01/v1.0.0/model.glb",
+      "size": 152572,
+      "sha256": "72b21a176b46c38ac7dac13b804a3e01b9967cca3e4863f5c35a0af0292e2391"
+    },
+    "blend": {
+      "path": "assets/timekeeping/timekeeping-display-scene-01/v1.0.0/source.blend",
+      "size": 758768,
+      "sha256": "f0abba568133d824a2f8f7125f0e30a6fe0cc0fa7b6a76adaf80b8e6753475f0"
+    },
+    "generator": {
+      "path": "assets/timekeeping/timekeeping-display-scene-01/v1.0.0/generate.py",
+      "size": 28610,
+      "sha256": "3dca7d99ee5d013f1c6bd8592d9fba55d54fad8ce3bcba45e1a29e157c8017d3"
+    },
+    "render": {
+      "path": "assets/timekeeping/timekeeping-display-scene-01/v1.0.0/thumbnail.png",
+      "size": 301714,
+      "sha256": "a6a5fcfb1f28e86957c02ca27f1ca6ace6d537b69a6a5cb376362db7a4c16932"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

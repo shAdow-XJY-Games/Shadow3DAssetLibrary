@@ -1,0 +1,42 @@
+{
+  "id": "timekeeping-pendulum-clock-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "timekeeping",
+  "style": "soft-low-poly",
+  "title": "Open Frame Pendulum Table Clock",
+  "description": "Original open-frame table clock with recessed dial, twelve markers, separate spindle/hands and a visible pendulum rod/bob. Editable source parts; static game-art time display without timing mechanism.",
+  "bounds": {
+    "x": 0.62,
+    "y": 0.35,
+    "z": 0.815,
+    "unit": "m"
+  },
+  "triangles": 1424,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/timekeeping/timekeeping-pendulum-clock-01/v1.0.0/model.glb",
+      "size": 99964,
+      "sha256": "dd7c9dabdf4ca386de463be5d6fd1e3a56ccadcae241ae2c8e095f60a0db1259"
+    },
+    "blend": {
+      "path": "assets/timekeeping/timekeeping-pendulum-clock-01/v1.0.0/source.blend",
+      "size": 657104,
+      "sha256": "b5025cf9068bd7d529d0e2346572ba812e37c5c0f7ca02b63b2fe5a7340b9643"
+    },
+    "generator": {
+      "path": "assets/timekeeping/timekeeping-pendulum-clock-01/v1.0.0/generate.py",
+      "size": 26932,
+      "sha256": "ba36426d2c7ef0b0f2ca3a376d45333cbb1653694dcfa7565885e8df9c0f2136"
+    },
+    "render": {
+      "path": "assets/timekeeping/timekeeping-pendulum-clock-01/v1.0.0/thumbnail.png",
+      "size": 326787,
+      "sha256": "51879b4a3d94ce65b609ed76fe86f0d8c957eeac7237c265dbe5ec23a1c9f161"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

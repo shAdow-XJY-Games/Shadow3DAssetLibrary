@@ -1,0 +1,42 @@
+{
+  "id": "timekeeping-sundial-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "timekeeping",
+  "style": "soft-low-poly",
+  "title": "Garden Sundial Pedestal",
+  "description": "Original sundial pedestal with separate disk, raised stylized marks and a real triangular solid gnomon. Visual game conventions, not calibrated for time or geographic latitude.",
+  "bounds": {
+    "x": 0.68,
+    "y": 0.68,
+    "z": 0.85,
+    "unit": "m"
+  },
+  "triangles": 704,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/timekeeping/timekeeping-sundial-01/v1.0.0/model.glb",
+      "size": 52432,
+      "sha256": "890940e993d4f350985310933df14d7ed6cfec8a48ddb05f77ecc9e58fa294d1"
+    },
+    "blend": {
+      "path": "assets/timekeeping/timekeeping-sundial-01/v1.0.0/source.blend",
+      "size": 583832,
+      "sha256": "b7e29a776875051bb3ea1ff93553e61b203d9a6b89165e7102045f4d1c4ef507"
+    },
+    "generator": {
+      "path": "assets/timekeeping/timekeeping-sundial-01/v1.0.0/generate.py",
+      "size": 26034,
+      "sha256": "ca39603870e17692a369ceab23dfd5a970f81e855a973f66ddf5123df9585bd6"
+    },
+    "render": {
+      "path": "assets/timekeeping/timekeeping-sundial-01/v1.0.0/thumbnail.png",
+      "size": 318972,
+      "sha256": "0c8e7e0d5449b1fbcdb881cd11c9341c526f0b527c6b1ec4fdc739e893d06cd7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
