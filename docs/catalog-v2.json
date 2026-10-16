@@ -534,9 +534,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "c986d002cf36278e9dbb38ab631f8fdb144c67bb"
+    },
+    "public-drinking-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "6eaddd547e41a2a0e410377814b3cee1d90701b3"
     }
   },
-  "assetCount": 276,
+  "assetCount": 277,
   "shards": [
     {
       "theme": "camping",
@@ -894,6 +899,13 @@
       "path": "metadata/905b339aafe3d15760e86232f15bba47c0e6b803edfb18a5ca83c5d7016db1fb.json",
       "size": 1749,
       "sha256": "905b339aafe3d15760e86232f15bba47c0e6b803edfb18a5ca83c5d7016db1fb"
+    },
+    {
+      "theme": "public",
+      "count": 1,
+      "path": "metadata/a03adbbd2ee6a92c4ad3d08cda5f7085167e06b3c0e912ec1cbbd83cbd61be28.json",
+      "size": 1742,
+      "sha256": "a03adbbd2ee6a92c4ad3d08cda5f7085167e06b3c0e912ec1cbbd83cbd61be28"
     }
   ]
 }
