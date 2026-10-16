@@ -1,0 +1,42 @@
+{
+  "id": "astronomy-stackable-case-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "astronomy",
+  "style": "soft-low-poly",
+  "title": "Stackable Observation Case",
+  "description": "Original observation equipment case module with side carry handle, latches and two top bearing rails aligned to four underside feet. Stack complete modules at 0.36 m vertical pitch; side handle stays clear.",
+  "bounds": {
+    "x": 0.64,
+    "y": 0.48157,
+    "z": 0.36,
+    "unit": "m"
+  },
+  "triangles": 500,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/astronomy/astronomy-stackable-case-01/v1.0.0/model.glb",
+      "size": 40396,
+      "sha256": "4d93656b1b54723688474152b3addd1fa1a00a3b09e58675a70deac0ec52d74f"
+    },
+    "blend": {
+      "path": "assets/astronomy/astronomy-stackable-case-01/v1.0.0/source.blend",
+      "size": 559708,
+      "sha256": "ceb760080819eeed04fe04a310e16fd7752e453e25d0d708680b77038e04d3a4"
+    },
+    "generator": {
+      "path": "assets/astronomy/astronomy-stackable-case-01/v1.0.0/generate.py",
+      "size": 25410,
+      "sha256": "79ef6291936890a263251dbd8c572fb65dafafe9cb5e440d24de1ed24da9f94c"
+    },
+    "render": {
+      "path": "assets/astronomy/astronomy-stackable-case-01/v1.0.0/thumbnail.png",
+      "size": 316937,
+      "sha256": "d95c146ebc5104d05d2415ae3269f79329b25b16586e3957bda4ffa20fca3b6d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

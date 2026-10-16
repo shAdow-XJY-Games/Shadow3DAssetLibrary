@@ -1,0 +1,42 @@
+{
+  "id": "astronomy-observing-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "astronomy",
+  "style": "soft-low-poly",
+  "title": "Telescope Observing Corner",
+  "description": "Original observing corner with a separately editable tripod telescope and two stacked equipment case modules. Upper case feet bear on lower top rails, validated by real opposing surface points. Visual game prop, no optics or physics simulation.",
+  "bounds": {
+    "x": 3.6,
+    "y": 2.8,
+    "z": 1.80386,
+    "unit": "m"
+  },
+  "triangles": 2216,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/astronomy/astronomy-observing-corner-scene-01/v1.0.0/model.glb",
+      "size": 152760,
+      "sha256": "300068614ff21e7285da786f047cf5ddc626147816969d0be38c3db3169afe65"
+    },
+    "blend": {
+      "path": "assets/astronomy/astronomy-observing-corner-scene-01/v1.0.0/source.blend",
+      "size": 776172,
+      "sha256": "e4eb1d3bdb5bb667a9a8f96c1aa8271a00657a6220d2ae7323163cc16c81acec"
+    },
+    "generator": {
+      "path": "assets/astronomy/astronomy-observing-corner-scene-01/v1.0.0/generate.py",
+      "size": 29092,
+      "sha256": "209cdcaf9af54011835dc21c9edd1d97ed26db3eee358a4b636cbbba5c1520ed"
+    },
+    "render": {
+      "path": "assets/astronomy/astronomy-observing-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 309585,
+      "sha256": "3105bccb555d899ae3afd867d55931d242443b97a05edb84d1a50bb0db4da953"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
