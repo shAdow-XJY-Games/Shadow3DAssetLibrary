@@ -1,0 +1,42 @@
+{
+  "id": "nature-stream-bank-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "nature",
+  "style": "soft-low-poly",
+  "title": "Soft Woodland Stream Bank Module",
+  "description": "Original rocky stream-bank module with a fixed 2 meter X repeat interval. Stream-facing edge is local Y=0 at Z=.06m; landward edge is Y=1.2m at Z=.55m. End profiles match exactly at X=-1 and +1; rocks stay clear of both interfaces.",
+  "bounds": {
+    "x": 2.0,
+    "y": 1.2,
+    "z": 0.73,
+    "unit": "m"
+  },
+  "triangles": 262,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-stream-bank-01/v1.0.0/model.glb",
+      "size": 28004,
+      "sha256": "e091b53a61af8c2c6f25cb447f94c31f77fcff1c2952d91c36e09bfd93452d2b"
+    },
+    "blend": {
+      "path": "assets/nature/nature-stream-bank-01/v1.0.0/source.blend",
+      "size": 548476,
+      "sha256": "b93a51d4fe7c899814e290e7d36c78535d3e14538a9d1c479f67709a459a33dc"
+    },
+    "generator": {
+      "path": "assets/nature/nature-stream-bank-01/v1.0.0/generate.py",
+      "size": 28583,
+      "sha256": "f09e50df4ff1694063e281f698decf601e41317075b9642b97a2739a2084031b"
+    },
+    "render": {
+      "path": "assets/nature/nature-stream-bank-01/v1.0.0/thumbnail.png",
+      "size": 295256,
+      "sha256": "e690b6f2dcae5630c5db0a905a96698b07e5990253dc81635ea706f79e5e3bf7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

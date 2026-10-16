@@ -1,0 +1,42 @@
+{
+  "id": "nature-shallow-stream-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "nature",
+  "style": "soft-low-poly",
+  "title": "Soft Woodland Shallow Stream",
+  "description": "Original shallow stream woodland scene using four matched rocky bank modules, three mushroom clusters and two conifer saplings. Runtime GLB keeps GroundAndNature and WaterSurface_Runtime as separate named meshes for independent material replacement. Bank modules repeat every 2 m along X; water top is Z=0.16 m with 0.07 m thickness.",
+  "bounds": {
+    "x": 4.04,
+    "y": 3.04,
+    "z": 1.76489,
+    "unit": "m"
+  },
+  "triangles": 2652,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-shallow-stream-01/v1.0.0/model.glb",
+      "size": 222628,
+      "sha256": "06c40215de1cbabaa3e3f2b551844244f496a032d4ae74a8c9cc0ef654afb911"
+    },
+    "blend": {
+      "path": "assets/nature/nature-shallow-stream-01/v1.0.0/source.blend",
+      "size": 1131840,
+      "sha256": "32ed856ba66268d7a0853aa0c1cde6c8940f6e9b5deb41126bb8a36e06d834bc"
+    },
+    "generator": {
+      "path": "assets/nature/nature-shallow-stream-01/v1.0.0/generate.py",
+      "size": 32980,
+      "sha256": "3ad149e5c5f3a64e183a7d3f359ebf9e6c6cc6261155e292cd34b533f2772600"
+    },
+    "render": {
+      "path": "assets/nature/nature-shallow-stream-01/v1.0.0/thumbnail.png",
+      "size": 318582,
+      "sha256": "c526f8fda8e943c01b1f9604b93fb8dc64dcad47722002d4d2922dffd65a6033"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

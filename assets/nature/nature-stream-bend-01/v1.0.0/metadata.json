@@ -1,0 +1,42 @@
+{
+  "id": "nature-stream-bend-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "nature",
+  "style": "soft-low-poly",
+  "title": "Rocky Stream Corner",
+  "description": "Original 90-degree shallow-stream corner. Centerline radius 2 m; pivot (-1.75,-1.75)m; centerline ports (0.25,-1.75)m and (-1.75,0.25)m, tangent axes Y and X. Bank cross-sections match the 2m-repeat straight bank with a +0.09m height offset for the integrated base. GroundAndNature and WaterSurface_Runtime are separate GLB nodes; water top Z=0.16m.",
+  "bounds": {
+    "x": 3.54,
+    "y": 3.54,
+    "z": 0.72,
+    "unit": "m"
+  },
+  "triangles": 720,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-stream-bend-01/v1.0.0/model.glb",
+      "size": 62080,
+      "sha256": "b112254a4606d98736f5938c38ee9af58796fdf30f1f62a48d149cf7c9b72830"
+    },
+    "blend": {
+      "path": "assets/nature/nature-stream-bend-01/v1.0.0/source.blend",
+      "size": 640004,
+      "sha256": "7c333f915ea7f5f741620c737ae09982b1c829e8bf4b66365a7618c5eb7dee08"
+    },
+    "generator": {
+      "path": "assets/nature/nature-stream-bend-01/v1.0.0/generate.py",
+      "size": 30509,
+      "sha256": "4873b8012657887d8c0e9cd077eebc929d8e6f212f231e85de4b44de84b64a42"
+    },
+    "render": {
+      "path": "assets/nature/nature-stream-bend-01/v1.0.0/thumbnail.png",
+      "size": 306352,
+      "sha256": "4d5b0ed9b6503f876b169d259301a64694fee11d79d89dea190a3bac70c429ad"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

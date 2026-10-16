@@ -1,0 +1,42 @@
+{
+  "id": "nature-fallen-log-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "soft-low-poly",
+  "title": "Faceted Fallen Log",
+  "description": "Original reusable fallen log with flat ground-support facet, two broken branches and solid cut-end materials. Length 2.6 m; local X follows the log axis.",
+  "bounds": {
+    "x": 2.6,
+    "y": 0.71247,
+    "z": 0.69516,
+    "unit": "m"
+  },
+  "triangles": 116,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-fallen-log-01/v1.0.0/model.glb",
+      "size": 8984,
+      "sha256": "7f10bbd304fe072b0d03f622738b87ddda05d004b6d077f003f1b889f0802bd9"
+    },
+    "blend": {
+      "path": "assets/nature/nature-fallen-log-01/v1.0.0/source.blend",
+      "size": 530400,
+      "sha256": "e74a1af7625d101de1c7479ea091ad6758d0961fb9b84db56dd086f8c55e66d9"
+    },
+    "generator": {
+      "path": "assets/nature/nature-fallen-log-01/v1.0.0/generate.py",
+      "size": 28523,
+      "sha256": "45f0ae555fbd3d24b190a3a605fa1ff17c71cb31a29b23fb6c065b2ada0125a6"
+    },
+    "render": {
+      "path": "assets/nature/nature-fallen-log-01/v1.0.0/thumbnail.png",
+      "size": 286145,
+      "sha256": "0f47067d28ea98f6ebe29132e3896f69733fe9679770a5979a07fa796a489ff0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

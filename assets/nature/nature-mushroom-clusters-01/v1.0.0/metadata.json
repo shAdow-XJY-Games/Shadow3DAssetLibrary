@@ -1,0 +1,42 @@
+{
+  "id": "nature-mushroom-clusters-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "soft-low-poly",
+  "title": "Soft Woodland Mushroom Clusters",
+  "description": "Original three clusters containing nine faceted mushrooms, with tapered grounded stems, warm caps and distinct cream undersides. Separate editable source parts; no external textures.",
+  "bounds": {
+    "x": 0.95205,
+    "y": 0.69263,
+    "z": 0.36875,
+    "unit": "m"
+  },
+  "triangles": 1260,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-mushroom-clusters-01/v1.0.0/model.glb",
+      "size": 92684,
+      "sha256": "c9abbdbf2f654ee0d7bf04ea8a84e210ff69f2a25602d62fb93a1ea19c808a43"
+    },
+    "blend": {
+      "path": "assets/nature/nature-mushroom-clusters-01/v1.0.0/source.blend",
+      "size": 646480,
+      "sha256": "4c1c0b70e42c7563721158b66d2f5a93083eb84246dc00540652bb14a5b72446"
+    },
+    "generator": {
+      "path": "assets/nature/nature-mushroom-clusters-01/v1.0.0/generate.py",
+      "size": 28475,
+      "sha256": "02318f8921e4e94036ede3b0346b135d999e131c90b55487d27f07b1c714865b"
+    },
+    "render": {
+      "path": "assets/nature/nature-mushroom-clusters-01/v1.0.0/thumbnail.png",
+      "size": 289946,
+      "sha256": "d9a44ccef941f3f796859c693cc90e5eb2724769b04c379e9574eac714728f1a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

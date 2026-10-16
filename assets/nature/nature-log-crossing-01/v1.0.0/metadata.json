@@ -1,0 +1,42 @@
+{
+  "id": "nature-log-crossing-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "nature",
+  "style": "soft-low-poly",
+  "title": "Fallen Log Stream Crossing",
+  "description": "Original natural fallen-log crossing over a 90-degree shallow stream, reusing the independent log and bank corner module. The trunk is supported by both banks. GroundAndNature and WaterSurface_Runtime are separate GLB nodes for independent water material replacement; water top Z=0.16m, centerline bend radius 2m.",
+  "bounds": {
+    "x": 3.54,
+    "y": 3.54,
+    "z": 1.17516,
+    "unit": "m"
+  },
+  "triangles": 836,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-log-crossing-01/v1.0.0/model.glb",
+      "size": 70788,
+      "sha256": "da4217491b0379c969ab67dae0c44d6e12887ddb073d0654cc299f9aef623bec"
+    },
+    "blend": {
+      "path": "assets/nature/nature-log-crossing-01/v1.0.0/source.blend",
+      "size": 751272,
+      "sha256": "47846c613c3f81e4fafca7d3dcd18cfe3fe09ae8a5d8f934439b504735e6c205"
+    },
+    "generator": {
+      "path": "assets/nature/nature-log-crossing-01/v1.0.0/generate.py",
+      "size": 32013,
+      "sha256": "7b19df37730a7a127a522d87813971c84718d5e8cc4b5151a0fcb19fa0f38aef"
+    },
+    "render": {
+      "path": "assets/nature/nature-log-crossing-01/v1.0.0/thumbnail.png",
+      "size": 312990,
+      "sha256": "d49491b796debf624e05517a61e43d43c33f56a91a3ffbf8f3433f793ad49282"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
