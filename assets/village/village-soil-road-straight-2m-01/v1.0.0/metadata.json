@@ -1,0 +1,42 @@
+{
+  "id": "village-soil-road-straight-2m-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Two-Metre Soil Road Straight",
+  "description": "S03 continuous closed soil-road module with restrained earth and grass-shoulder zones. Nominal 2 m square, centre top .06 m, shallow rut bottoms .052 m, shoulders .02 m; matching actual end profiles, tested 2 mm installation seams. Use at unit scale; select appropriate straight or T routing. Approach to the separate .15 m first stair retains about 90\u201398 mm rise, then .30 m landing and .38 m doorway threshold. No navigation, accessibility or structural certification.",
+  "bounds": {
+    "x": 2.0,
+    "y": 2.0,
+    "z": 0.06,
+    "unit": "m"
+  },
+  "triangles": 94,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-soil-road-straight-2m-01/v1.0.0/model.glb",
+      "size": 5964,
+      "sha256": "c68f5757b0ccd0f46ad282d89e3ede6c78fcdbd2f80d6d886182c7f5be4895da"
+    },
+    "blend": {
+      "path": "assets/village/village-soil-road-straight-2m-01/v1.0.0/source.blend",
+      "size": 567844,
+      "sha256": "eb6f08649c5e67f53d7a3e8a17d67b1c802013d76adc0c498c34d43b4a5e8588"
+    },
+    "generator": {
+      "path": "assets/village/village-soil-road-straight-2m-01/v1.0.0/generate.py",
+      "size": 41597,
+      "sha256": "523850f5f7b4f8213f46645e90227aa6349eccd23a2ded5526d58ffb3d68d52d"
+    },
+    "render": {
+      "path": "assets/village/village-soil-road-straight-2m-01/v1.0.0/thumbnail.png",
+      "size": 287325,
+      "sha256": "608e276da83312ebf1c45af391b8ada757ca5489e11d600fbbfc56043126d664"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
