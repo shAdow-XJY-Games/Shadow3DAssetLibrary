@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-sawhorse-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "carpentry",
+  "style": "soft-low-poly",
+  "title": "Splayed-Leg Sawhorse Module",
+  "description": "Original timber-style sawhorse with four splayed legs, separate grounded pads, top beam and two stretchers. Top is 1.20m long and 0.85m high; independent X repeat at 1.30m leaves a 0.10m beam gap. Visual support module without load or work-safety certification.",
+  "bounds": {
+    "x": 1.2,
+    "y": 0.78,
+    "z": 0.85,
+    "unit": "m"
+  },
+  "triangles": 484,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-sawhorse-01/v1.0.0/model.glb",
+      "size": 39792,
+      "sha256": "c94dd86a7917efae0356cbe206565a46cbc5e2c199161f11178db311a1d382e8"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-sawhorse-01/v1.0.0/source.blend",
+      "size": 629288,
+      "sha256": "fc0a76e4b2f0f8bbdcc5e9cf29ef9c42064410d0079b9a7737feefc2cf3d7efb"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-sawhorse-01/v1.0.0/generate.py",
+      "size": 29584,
+      "sha256": "8726f5cc8638db87eed8b78cde9f4a036b0d822937e7a93a0b4d9ded46242962"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-sawhorse-01/v1.0.0/thumbnail.png",
+      "size": 318457,
+      "sha256": "d5fbc64f845dff302cb480c8d823a415e38a00f0a903ce02345d65cbf6571ba2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

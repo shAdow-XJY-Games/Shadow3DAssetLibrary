@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-handsaw-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "soft-low-poly",
+  "title": "Toothed Handsaw Display",
+  "description": "Original handsaw resting on a 0.94x0.32m display foot. The closed blade has actual zigzag teeth, and the wooden-style handle has a true through-opening. Separate fasteners and editable parts. Static game visual only, no cutting interaction or tool-performance simulation.",
+  "bounds": {
+    "x": 0.94,
+    "y": 0.32,
+    "z": 0.0815,
+    "unit": "m"
+  },
+  "triangles": 392,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-handsaw-01/v1.0.0/model.glb",
+      "size": 27472,
+      "sha256": "a924a03c7a99e2f0593cc4a8750db9e57d32d404a65f4713685f2a74a66cf622"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-handsaw-01/v1.0.0/source.blend",
+      "size": 640968,
+      "sha256": "5a0583e3490664426c099c7884ff125b2733bdd69587b3cba2ed62e18402e254"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-handsaw-01/v1.0.0/generate.py",
+      "size": 29313,
+      "sha256": "ac83cef8992eb07acc0a24eb1f0473ffcb3137e3883230cac5f00d5fe1731e63"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-handsaw-01/v1.0.0/thumbnail.png",
+      "size": 284163,
+      "sha256": "9f7941ee6b2c9826e330140a9a3b1429bdb4752392672cc3796bc551b54db3d3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

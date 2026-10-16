@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-work-corner-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "carpentry",
+  "style": "soft-low-poly",
+  "title": "Small Carpentry Work Corner",
+  "description": "Original carpentry corner on a 3.0x2.5m base: two splayed-leg sawhorses support a work plank and a handsaw presentation. True saw teeth and handle aperture remain editable geometry. Static game scene, without cutting physics, load rating or safe-work certification.",
+  "bounds": {
+    "x": 3.0,
+    "y": 2.5,
+    "z": 1.0815,
+    "unit": "m"
+  },
+  "triangles": 1448,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-work-corner-01/v1.0.0/model.glb",
+      "size": 108456,
+      "sha256": "eaa2c1a5e452c7f50539db1b094b246c03abd8041a3812e9cbe9ff5dab6d7e9f"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-work-corner-01/v1.0.0/source.blend",
+      "size": 842536,
+      "sha256": "1aac2985a5707fd75dffa29157bdbd7f8537152a71365b0df39fdfa4948785ac"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-work-corner-01/v1.0.0/generate.py",
+      "size": 29698,
+      "sha256": "5fdb2d451dc535989e194c6607f55e1d245d765dddcc971861eab0260a889672"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-work-corner-01/v1.0.0/thumbnail.png",
+      "size": 312293,
+      "sha256": "01f7d1172ff45275942fd2d0aabcf6b5bb3fcf9758119b0ff3f1560e295c536c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
