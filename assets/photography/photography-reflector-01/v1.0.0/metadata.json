@@ -1,0 +1,42 @@
+{
+  "id": "photography-reflector-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "photography",
+  "style": "soft-low-poly",
+  "title": "Octagonal Reflector Module",
+  "description": "Original freestanding octagonal reflector with closed inset panel, open ring frame, rear bracket, mast and two grounded feet. Editable visual photography equipment.",
+  "bounds": {
+    "x": 0.94,
+    "y": 0.48,
+    "z": 1.69,
+    "unit": "m"
+  },
+  "triangles": 312,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-reflector-01/v1.0.0/model.glb",
+      "size": 24916,
+      "sha256": "002404bcead952cd8506565ae895a5a62ff0b7c26188850c28ec9e3a1a98b027"
+    },
+    "blend": {
+      "path": "assets/photography/photography-reflector-01/v1.0.0/source.blend",
+      "size": 532888,
+      "sha256": "29a92cb53ab4778521dbf752458566ce66f98cc2873c9b5b9e84d011b02c2c17"
+    },
+    "generator": {
+      "path": "assets/photography/photography-reflector-01/v1.0.0/generate.py",
+      "size": 26285,
+      "sha256": "85c56d36966ef9260d498273def0d46828be1a6ce22c2b98a4a438ca403c1384"
+    },
+    "render": {
+      "path": "assets/photography/photography-reflector-01/v1.0.0/thumbnail.png",
+      "size": 301514,
+      "sha256": "1ca9764b1ef8e4dfab817f29ef071dff1b74020ef222b4afc44b825ab5075053"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

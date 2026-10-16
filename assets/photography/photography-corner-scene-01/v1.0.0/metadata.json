@@ -1,0 +1,42 @@
+{
+  "id": "photography-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "photography",
+  "style": "soft-low-poly",
+  "title": "Outdoor Photography Corner",
+  "description": "Original game-art photography display with independently editable box camera and freestanding octagonal reflector, both visibly supported on a presentation pad. No optical simulation or engineering claims.",
+  "bounds": {
+    "x": 3.5,
+    "y": 2.8,
+    "z": 1.802,
+    "unit": "m"
+  },
+  "triangles": 1120,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-corner-scene-01/v1.0.0/model.glb",
+      "size": 77536,
+      "sha256": "c75fdd474440288c08b0fc546baf33d9ba43cedaddf98ca99dc4450f00477947"
+    },
+    "blend": {
+      "path": "assets/photography/photography-corner-scene-01/v1.0.0/source.blend",
+      "size": 652136,
+      "sha256": "930961540f70d8d5da823d3fde4183c02adda7f19b8c9ccd67420304d70268e3"
+    },
+    "generator": {
+      "path": "assets/photography/photography-corner-scene-01/v1.0.0/generate.py",
+      "size": 28231,
+      "sha256": "ec979719042309f3a523dc3b444298f750b41b656257e4c5ec18834ef68868c8"
+    },
+    "render": {
+      "path": "assets/photography/photography-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 308296,
+      "sha256": "ee3256b1fad51ad1061b2ee9fef0f6e6196f47023cda5addae4de14f47118ccc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

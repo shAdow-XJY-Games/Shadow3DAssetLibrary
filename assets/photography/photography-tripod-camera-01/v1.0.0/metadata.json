@@ -1,0 +1,42 @@
+{
+  "id": "photography-tripod-camera-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "photography",
+  "style": "soft-low-poly",
+  "title": "Tripod Box Camera",
+  "description": "Original low-poly box camera with editable body, lens barrel, inset lens disc, front ring, viewfinder, shutter and tripod. Game visual prop without imaging performance specifications.",
+  "bounds": {
+    "x": 0.93674,
+    "y": 0.83,
+    "z": 1.405,
+    "unit": "m"
+  },
+  "triangles": 764,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-tripod-camera-01/v1.0.0/model.glb",
+      "size": 52380,
+      "sha256": "4d0b998e1ee48da8acfb4a5971dcd7ff7585c6b9ec2e51543782ace02262bc90"
+    },
+    "blend": {
+      "path": "assets/photography/photography-tripod-camera-01/v1.0.0/source.blend",
+      "size": 601416,
+      "sha256": "459e96d6606ccc07225d83ffab418024e64a3a33c84f806fd824414adbdd28d0"
+    },
+    "generator": {
+      "path": "assets/photography/photography-tripod-camera-01/v1.0.0/generate.py",
+      "size": 25526,
+      "sha256": "3b8f90155d1800a4cb18af0c4c27740fc306c189c6524d45cbddb3d7d524cb8f"
+    },
+    "render": {
+      "path": "assets/photography/photography-tripod-camera-01/v1.0.0/thumbnail.png",
+      "size": 304610,
+      "sha256": "7d946935e6012567387ee2dfb8341e90853e78e420ed18c741469a8e9d86b665"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
