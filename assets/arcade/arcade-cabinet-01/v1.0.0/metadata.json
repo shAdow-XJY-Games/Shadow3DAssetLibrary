@@ -1,0 +1,42 @@
+{
+  "id": "arcade-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "arcade",
+  "style": "soft-low-poly",
+  "title": "Screen-Ready Arcade Cabinet",
+  "description": "Original sculpted upright arcade cabinet with separate controls and an exclusive Screen_Runtime GLB mesh and material for runtime content replacement. Base is 0.80m wide; independent X repeat at 1.0m leaves 0.20m spacing. Static visual module without game code or electrical functionality.",
+  "bounds": {
+    "x": 0.8,
+    "y": 0.79,
+    "z": 1.68,
+    "unit": "m"
+  },
+  "triangles": 716,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/arcade/arcade-cabinet-01/v1.0.0/model.glb",
+      "size": 58584,
+      "sha256": "220e8ef47e39cf83c962f1b4693b9639bebc0c9a5409e7512a20021f0661bf05"
+    },
+    "blend": {
+      "path": "assets/arcade/arcade-cabinet-01/v1.0.0/source.blend",
+      "size": 895044,
+      "sha256": "8de5ea43d5fbf4ef46bab8598b9c673c2ae82ca160be1a2817d8d5547de4c223"
+    },
+    "generator": {
+      "path": "assets/arcade/arcade-cabinet-01/v1.0.0/generate.py",
+      "size": 31618,
+      "sha256": "bcf7d27127fb522015fede30134580ab21f6ac1cbd20d3c9683edde41d704c10"
+    },
+    "render": {
+      "path": "assets/arcade/arcade-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 328969,
+      "sha256": "7d7062e74b58ec8e9b5ef625e448ad479906f445f6f61c0e290dc94cadea7b7c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

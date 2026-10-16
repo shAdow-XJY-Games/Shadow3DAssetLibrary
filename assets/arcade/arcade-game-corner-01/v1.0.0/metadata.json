@@ -1,0 +1,42 @@
+{
+  "id": "arcade-game-corner-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "arcade",
+  "style": "soft-low-poly",
+  "title": "Small Arcade Game Corner",
+  "description": "Original arcade corner on a 2.8x2.4m base with a sculpted cabinet, editable joystick and buttons, and player mat. Separate exclusive Screen_Runtime mesh and material permit runtime display replacement. Static visual scene, without game code or electrical functionality.",
+  "bounds": {
+    "x": 2.8,
+    "y": 2.4,
+    "z": 1.77,
+    "unit": "m"
+  },
+  "triangles": 804,
+  "materials": 9,
+  "files": {
+    "glb": {
+      "path": "assets/arcade/arcade-game-corner-01/v1.0.0/model.glb",
+      "size": 65760,
+      "sha256": "ca987c45cef999fd05afe25112f59cfe0819e3386db88f9df4527b7739850ead"
+    },
+    "blend": {
+      "path": "assets/arcade/arcade-game-corner-01/v1.0.0/source.blend",
+      "size": 954316,
+      "sha256": "b18851146a32e0fddf56fd43c705e02e54f54d649585e118817183b9ee636d72"
+    },
+    "generator": {
+      "path": "assets/arcade/arcade-game-corner-01/v1.0.0/generate.py",
+      "size": 31531,
+      "sha256": "7d0903973cabddcc9bf893b253f12d17dbc357835819c7314deb0753da96e627"
+    },
+    "render": {
+      "path": "assets/arcade/arcade-game-corner-01/v1.0.0/thumbnail.png",
+      "size": 312852,
+      "sha256": "f21360c6fde2bbcbf33326d5195a6a2e152717c747f3c8bf081c31b189f5ccf9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

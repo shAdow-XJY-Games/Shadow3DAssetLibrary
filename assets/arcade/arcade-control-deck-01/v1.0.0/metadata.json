@@ -1,0 +1,42 @@
+{
+  "id": "arcade-control-deck-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "arcade",
+  "style": "soft-low-poly",
+  "title": "Arcade Joystick Control Deck",
+  "description": "Original 0.60x0.32m control deck with an editable ball joystick and four independent buttons. Soft low-poly static visual prop; no electronics, game code or input simulation included.",
+  "bounds": {
+    "x": 0.6,
+    "y": 0.32,
+    "z": 0.256,
+    "unit": "m"
+  },
+  "triangles": 388,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/arcade/arcade-control-deck-01/v1.0.0/model.glb",
+      "size": 32236,
+      "sha256": "db1e72c0ed3bb0c02a3766be8c08edd7dedea96a5ffa45d2f6e1548ba15d5496"
+    },
+    "blend": {
+      "path": "assets/arcade/arcade-control-deck-01/v1.0.0/source.blend",
+      "size": 706436,
+      "sha256": "7fb15699f92877ba0b60fee49007f327c3a60c8e443d19c53803b1c2418b4a88"
+    },
+    "generator": {
+      "path": "assets/arcade/arcade-control-deck-01/v1.0.0/generate.py",
+      "size": 29269,
+      "sha256": "2d8e45aa2a5ee8dc574dbfb9786bcf439ccfab3f54b1f93f88f12a21ba3e175b"
+    },
+    "render": {
+      "path": "assets/arcade/arcade-control-deck-01/v1.0.0/thumbnail.png",
+      "size": 290128,
+      "sha256": "60360db6de31b55a455aaa3eaadbc8f5da095ff986b75812f4649c4e7e8d9d3f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
