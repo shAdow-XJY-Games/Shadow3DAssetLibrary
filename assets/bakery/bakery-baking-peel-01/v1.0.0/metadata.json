@@ -1,0 +1,42 @@
+{
+  "id": "bakery-baking-peel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "bakery",
+  "style": "warm-handcrafted-bakery",
+  "title": "Long Wooden Baking Peel",
+  "description": "Original static low-poly baking peel with a thin broad chamfered blade and long tapered eight-sided wooden handle. Two independently closed editable source components have a real embedded attachment. Intended static oven-hearth presentation is tested separately with the existing oven and round loaf; no dynamic insertion, heat, load or cooking simulation.",
+  "bounds": {
+    "x": 0.3199999928474426,
+    "y": 0.9199999868869781,
+    "z": 0.039000000804662704,
+    "unit": "m"
+  },
+  "triangles": 152,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-baking-peel-01/v1.0.0/model.glb",
+      "size": 10228,
+      "sha256": "df9417447a6dfe7108602de4d45ceebb32d6a6c9f24cccbe4fc9c07e1efb6be9"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-baking-peel-01/v1.0.0/source.blend",
+      "size": 607400,
+      "sha256": "355ae0caaf964f64edb0ef357e253430a81a099a9cbad516cf7bf9c30f71dad1"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-baking-peel-01/v1.0.0/generate.py",
+      "size": 29714,
+      "sha256": "4f3a06bf41a27eb9efd9c0c20cb8fc20b1ff19bfe9670e6ceea214d2282b1ffb"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-baking-peel-01/v1.0.0/thumbnail.png",
+      "size": 150569,
+      "sha256": "bbd811ab907f4cbe8ea1093a5b0a1af80be66a30c444682422e1279e367a38ae"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "bakery-cooling-rack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "bakery",
+  "style": "warm-handcrafted-bakery",
+  "title": "Open Three-Tier Bakery Cooling Rack",
+  "description": "Original static low-poly open wooden bakery rack with three slatted shelves, four uprights and rear diagonal bracing. The front remains open for visual food access. Closed editable components with genuine structural attachment paths; no load rating, food-safety certification or thermal simulation.",
+  "bounds": {
+    "x": 0.7900000214576721,
+    "y": 0.4399999976158142,
+    "z": 0.8999999761581421,
+    "unit": "m"
+  },
+  "triangles": 1408,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-cooling-rack-01/v1.0.0/model.glb",
+      "size": 123560,
+      "sha256": "11eec837e73ece36692fc8324246836d26f5ae6686d092ab1617440ee92fcf7a"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-cooling-rack-01/v1.0.0/source.blend",
+      "size": 802572,
+      "sha256": "d158bf3ed7c521239cce52385bfaa4c5aebbc96bd7859179e0989a3996e4c809"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-cooling-rack-01/v1.0.0/generate.py",
+      "size": 29869,
+      "sha256": "74f845a0910027b4a5b5a43ad7c6cd9bc8cfa92ffd8e4d2ac22e0443f152fa58"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-cooling-rack-01/v1.0.0/thumbnail.png",
+      "size": 270626,
+      "sha256": "7f240357b9105e16fdf3c150e7a9b73c292ab4dcabb3651c87f05479ec65dc77"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "bakery-baguette-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "bakery",
+  "style": "warm-handcrafted-bakery",
+  "title": "Long Scored Bakery Loaf",
+  "description": "Original static low-poly baguette with a continuous long plump loaf, tapered rounded ends, flat underside and four independent oblique shallow score openings. Warm crust and restrained lighter score interiors use solid materials. Editable closed food mesh; no cooking or food performance simulation.",
+  "bounds": {
+    "x": 0.550000011920929,
+    "y": 0.10999999940395355,
+    "z": 0.10000000149011612,
+    "unit": "m"
+  },
+  "triangles": 1270,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-baguette-01/v1.0.0/model.glb",
+      "size": 68128,
+      "sha256": "ae48a834b14f757855e594dcda1f57b47e98ae3169bc00d64456367acf69a7ae"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-baguette-01/v1.0.0/source.blend",
+      "size": 643108,
+      "sha256": "6cebbbae52a68daaccd39e06b9e8be8e79f0729547add9b331f1a9f14b94693d"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-baguette-01/v1.0.0/generate.py",
+      "size": 30150,
+      "sha256": "d72f58ef5cfa45de41d738b3d49dcbdb1f7c557aca7883252828b4c3beab6ebc"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-baguette-01/v1.0.0/thumbnail.png",
+      "size": 162100,
+      "sha256": "ae0bba35af2c1e2cddc5b5f204e02bdc019670b8307b78d1b28a0c386765d5ad"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
