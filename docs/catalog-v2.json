@@ -399,9 +399,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "235341edc9889d74600c21fbad2fec4eea06a662"
+    },
+    "observation-binoculars-pilot": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "91731b99eeee25cfac767e39bf3f3d27b353ef41"
     }
   },
-  "assetCount": 236,
+  "assetCount": 237,
   "shards": [
     {
       "theme": "camping",
@@ -461,10 +466,10 @@
     },
     {
       "theme": "astronomy",
-      "count": 3,
-      "path": "metadata/51d22e12122ed389dfa9a242f8cf5f29db967de5536e346c2c93650a239a9442.json",
-      "size": 4009,
-      "sha256": "51d22e12122ed389dfa9a242f8cf5f29db967de5536e346c2c93650a239a9442"
+      "count": 4,
+      "path": "metadata/140d8967a7de8e97254d281b63bda0130145612588117df3d5b4a70ed2923cfc.json",
+      "size": 5501,
+      "sha256": "140d8967a7de8e97254d281b63bda0130145612588117df3d5b4a70ed2923cfc"
     },
     {
       "theme": "ceramics",
