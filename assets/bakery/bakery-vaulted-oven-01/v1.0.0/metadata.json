@@ -1,0 +1,42 @@
+{
+  "id": "bakery-vaulted-oven-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "bakery",
+  "style": "soft-low-poly",
+  "title": "Open Vaulted Baking Oven",
+  "description": "Original thick arch-shell oven with genuinely open front chamber, closed rear wall, hearth and plinth. Static visual module; no thermal, fire or cooking simulation. Distinct from the closed two-burner stove.",
+  "bounds": {
+    "x": 0.98,
+    "y": 1.04,
+    "z": 0.834,
+    "unit": "m"
+  },
+  "triangles": 284,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-vaulted-oven-01/v1.0.0/model.glb",
+      "size": 20336,
+      "sha256": "ac749e67af71da8da58fa8b4138007520adf3577ac1921c02ee166fa226a25f5"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-vaulted-oven-01/v1.0.0/source.blend",
+      "size": 516824,
+      "sha256": "727fc021ddbb0bb576130c2c43a0e8f67805722e700be1174fd4623dba647e4d"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-vaulted-oven-01/v1.0.0/generate.py",
+      "size": 26284,
+      "sha256": "0d8d34466c8696e2a475f614b7829276dae841b1ec262550d874c26b5c14fd76"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-vaulted-oven-01/v1.0.0/thumbnail.png",
+      "size": 329807,
+      "sha256": "1f938bc79fd6c4ccd9729b48851603b5a63dd7b8d63da38a49921eceb598fc36"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

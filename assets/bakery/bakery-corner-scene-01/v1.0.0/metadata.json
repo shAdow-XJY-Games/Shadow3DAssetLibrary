@@ -1,0 +1,42 @@
+{
+  "id": "bakery-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "bakery",
+  "style": "soft-low-poly",
+  "title": "Bakery Display Corner",
+  "description": "Original soft low-poly baking display combining open vaulted oven and separately plated crescent pastry. Editable source components with actual structural connections.",
+  "bounds": {
+    "x": 2.8,
+    "y": 2.4,
+    "z": 0.946,
+    "unit": "m"
+  },
+  "triangles": 968,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-corner-scene-01/v1.0.0/model.glb",
+      "size": 65144,
+      "sha256": "0e1ad85bdbf4355054d3edf9eea1f39aa0e407da1c27ab94d825dc30bc54cec2"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-corner-scene-01/v1.0.0/source.blend",
+      "size": 577688,
+      "sha256": "466062cea9d29e6b2ba8262a5d360f5317ba059c5b4f9036bc1f0b67e76f2632"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-corner-scene-01/v1.0.0/generate.py",
+      "size": 27364,
+      "sha256": "cc1f8f2691ea59d6060aa6be9d4be21eb33ff5ec58479ee5244983a5f28f2829"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 305127,
+      "sha256": "38ba90728ac245a83f7ab2cf0fb3d7c42e0cd8953acee6d723e48294de511b6f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
