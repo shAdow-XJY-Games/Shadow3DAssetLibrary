@@ -1,0 +1,42 @@
+{
+  "id": "railway-flatbed-wagon-01",
+  "version": "1.0.0",
+  "category": "vehicles",
+  "assetKind": "prop",
+  "theme": "railway",
+  "style": "S01-clean-geometric",
+  "title": "S01 Open Railway Flatbed Wagon",
+  "description": "Original static low railway flatbed wagon with three broad longitudinal freight deck boards, visible supporting underframe, two fixed transverse axles, four independent tread and inner-flange groups, restrained low end rails and fixed coupling blocks. Same rail interface as the existing inspection trolley: tread centers X plus/minus .54 m, local flange bottom Z=0 and tread bottom Z=.04 m; place at Z=.16 m on the original rail head top Z=.20 m. Deck top then reaches .77 m. Actual fixed-pose support, platform side clearance and stopped buffer gap are checked from imported GLBs. Editable fixed source and GLB components only; no wheel animation, dynamic coupling, running, load or railway safety specification.",
+  "bounds": {
+    "x": 1.2319999933242798,
+    "y": 2.315000057220459,
+    "z": 0.7799999713897705,
+    "unit": "m"
+  },
+  "triangles": 1896,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-flatbed-wagon-01/v1.0.0/model.glb",
+      "size": 131960,
+      "sha256": "fa23e15717b20dee73c9807ebc4ba852b254571667243eb6c1fd42d270f015fa"
+    },
+    "blend": {
+      "path": "assets/railway/railway-flatbed-wagon-01/v1.0.0/source.blend",
+      "size": 974148,
+      "sha256": "fd101b85aa149183109e56d292a4441158dd1048e6002aeb374db3ec05e4c043"
+    },
+    "generator": {
+      "path": "assets/railway/railway-flatbed-wagon-01/v1.0.0/generate.py",
+      "size": 30336,
+      "sha256": "8a30f4074046014515a99b1766931918836c6e8124dd45e601cc04cef04bec27"
+    },
+    "render": {
+      "path": "assets/railway/railway-flatbed-wagon-01/v1.0.0/thumbnail.png",
+      "size": 192364,
+      "sha256": "bd7d24890c8bdde688a4a343c15f2f81bb8fa7de9d7aeca1d1c8a8fbd49ef2dd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

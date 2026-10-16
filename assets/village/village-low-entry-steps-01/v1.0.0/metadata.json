@@ -1,0 +1,42 @@
+{
+  "id": "village-low-entry-steps-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Low Two-Rise Stone Entrance Steps",
+  "description": "S03 continuous low stone stair: 1.20m wide, .60m deep, two .15m rises and .30m treads. Local +X rises toward a .30m landing, with a separate .08m doorway threshold rise unchanged. Actual closed profile, not a rescaled legacy stair. Visual interface only, no navigation, load or accessibility certification.",
+  "bounds": {
+    "x": 0.6,
+    "y": 1.2,
+    "z": 0.3,
+    "unit": "m"
+  },
+  "triangles": 20,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-low-entry-steps-01/v1.0.0/model.glb",
+      "size": 2864,
+      "sha256": "fad9f4b6662df4e29c0596dde11c36827dabba71ff43b9b4f2502299495583d2"
+    },
+    "blend": {
+      "path": "assets/village/village-low-entry-steps-01/v1.0.0/source.blend",
+      "size": 517324,
+      "sha256": "9c2b01a361e1670a44f1c73e09765dc9018e7c78cc08c5e74f630f9ab8d56f64"
+    },
+    "generator": {
+      "path": "assets/village/village-low-entry-steps-01/v1.0.0/generate.py",
+      "size": 39726,
+      "sha256": "7a27375b40a0215ffbb2d6e86e531e09b5c1788fd1df0ec4eedffb64f96784cf"
+    },
+    "render": {
+      "path": "assets/village/village-low-entry-steps-01/v1.0.0/thumbnail.png",
+      "size": 298532,
+      "sha256": "50ed57d916d5d8e3de3e431b17822d61bc17823face0349e679e582d4ecd7868"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
