@@ -169,9 +169,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "800450cf34fee5b054b9f5330728a471358db36a"
+    },
+    "firefighting-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "f34ed48e4054cc35d4779bd9145f31ead1353e43"
     }
   },
-  "assetCount": 172,
+  "assetCount": 175,
   "shards": [
     {
       "theme": "camping",
@@ -410,6 +415,13 @@
       "path": "metadata/719a7db8a59f07042aae9bf55940d413dbd0d7473fe489cf4eeebe9b351174a8.json",
       "size": 4176,
       "sha256": "719a7db8a59f07042aae9bf55940d413dbd0d7473fe489cf4eeebe9b351174a8"
+    },
+    {
+      "theme": "firefighting",
+      "count": 3,
+      "path": "metadata/6b8d3f8c0c40828eeff6508e210ec200a55e46706798db074f8180390340c20f.json",
+      "size": 3887,
+      "sha256": "6b8d3f8c0c40828eeff6508e210ec200a55e46706798db074f8180390340c20f"
     }
   ]
 }
