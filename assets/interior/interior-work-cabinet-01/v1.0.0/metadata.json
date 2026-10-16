@@ -1,0 +1,42 @@
+{
+  "id": "interior-work-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "S01 Kitchen Work Cabinet",
+  "description": "Original 1.2m working cabinet with continuous frame, recessed plinth, fixed shallow drawer cavity, inner shelf and independently editable left door. Furniture interface family: 0.6m base width,0.6m depth,0.9m top. Design-language comparison to prior sink cabinet, not a same-function replacement. Independent editable hinge node and the finite tested poses recorded in door_motion; no animation, continuous-motion, load or physics claim.",
+  "bounds": {
+    "x": 1.2000000476837158,
+    "y": 0.6525000035762787,
+    "z": 0.8999999761581421,
+    "unit": "m"
+  },
+  "triangles": 1344,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-work-cabinet-01/v1.0.0/model.glb",
+      "size": 108256,
+      "sha256": "e0beca539508fc872e2993fefb239ea8742689b88d9d07ce667a7e72aa21a877"
+    },
+    "blend": {
+      "path": "assets/interior/interior-work-cabinet-01/v1.0.0/source.blend",
+      "size": 839960,
+      "sha256": "3e432a6174b011fec17d25583b26677def49b1694749c22897563a1ff634c718"
+    },
+    "generator": {
+      "path": "assets/interior/interior-work-cabinet-01/v1.0.0/generate.py",
+      "size": 33201,
+      "sha256": "64a3d3be20d1a6f0858383a9f5043bb92523b1df6ee31b924259095f5556b133"
+    },
+    "render": {
+      "path": "assets/interior/interior-work-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 240134,
+      "sha256": "362fd55b4de88f2344059dca5161e07ef0c4a3edd5f5191ceacc86cfa5e2d433"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
