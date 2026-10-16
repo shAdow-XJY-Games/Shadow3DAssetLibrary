@@ -1,0 +1,42 @@
+{
+  "id": "nature-fractured-outcrop-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "hard-edge-faceted-nature",
+  "title": "Fractured Anchor Outcrop",
+  "description": "Hard-edge faceted natural outcrop (style plan S02), one leaning dominant fracture plane with two low grounded shoulders. Directional stone values follow broad surface orientation, without random per-triangle noise. Closed metre-scale visual environment anchor; collision proxy and LODs are not included.",
+  "bounds": {
+    "x": 2.48,
+    "y": 1.5,
+    "z": 1.5,
+    "unit": "m"
+  },
+  "triangles": 96,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-fractured-outcrop-01/v1.0.0/model.glb",
+      "size": 8364,
+      "sha256": "938fe5e809f32ea2c339cce0c8c8bacb27e4e588b6d7c927976ef421ef9c3721"
+    },
+    "blend": {
+      "path": "assets/nature/nature-fractured-outcrop-01/v1.0.0/source.blend",
+      "size": 591112,
+      "sha256": "4f67bec2d5d9cee3798506de59435ca435f578644b00632ff2d43c94156c8237"
+    },
+    "generator": {
+      "path": "assets/nature/nature-fractured-outcrop-01/v1.0.0/generate.py",
+      "size": 35813,
+      "sha256": "c45923c8bfc50821dea150b314e7e2a78ecb1e9c883c6fc29f57f2537c32f6d4"
+    },
+    "render": {
+      "path": "assets/nature/nature-fractured-outcrop-01/v1.0.0/thumbnail.png",
+      "size": 292202,
+      "sha256": "9bcf9f5b7a2372171df241b1905929900d861fd268077bc68a85c3302bc39259"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
