@@ -1,0 +1,42 @@
+{
+  "id": "nature-young-conifer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "hard-edge-faceted-nature",
+  "title": "Young Central-Leader Conifer",
+  "description": "Hard-edge faceted young conifer (style plan S02), a continuous tapered central leader with unequal branch whorls, compact overlapping short-edged canopy tiers with a re-centered middle crown and a slender apex. A simplified supporting environmental tree, not a high-detail hero asset. Cool evergreen values follow coherent surface orientation; low-contrast bark. Visual asset without wind rig.",
+  "bounds": {
+    "x": 1.67226,
+    "y": 1.44629,
+    "z": 3.81663,
+    "unit": "m"
+  },
+  "triangles": 638,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-young-conifer-01/v1.0.0/model.glb",
+      "size": 50384,
+      "sha256": "8bb2bbe6c336f29bafd0e384c610ec3b2a4ee3a4a7582cc74035091ad9f51f0e"
+    },
+    "blend": {
+      "path": "assets/nature/nature-young-conifer-01/v1.0.0/source.blend",
+      "size": 742672,
+      "sha256": "996e9632ba69164f907791307e4e78d2769b0b1d8d799f09ca4620b265e555f0"
+    },
+    "generator": {
+      "path": "assets/nature/nature-young-conifer-01/v1.0.0/generate.py",
+      "size": 37224,
+      "sha256": "7263e69728dcc431477cf5bf0dd6d944bf7f6a4ec648f145c83baa60970fe59a"
+    },
+    "render": {
+      "path": "assets/nature/nature-young-conifer-01/v1.0.0/thumbnail.png",
+      "size": 298500,
+      "sha256": "d645f3f8d4b520f25f3815042825e7041bda51f2d9ca294024207255b04cc26b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

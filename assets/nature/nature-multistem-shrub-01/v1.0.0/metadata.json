@@ -1,0 +1,42 @@
+{
+  "id": "nature-multistem-shrub-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "hard-edge-faceted-nature",
+  "title": "Multi-stem Understory Shrub",
+  "description": "Hard-edge faceted S02 understory shrub with three independently grounded low stems, a continuous asymmetric broad crown and shallow frontal notch. Limited olive values follow coherent face orientation. Simplified supporting vegetation, 1.218 m high; no leaf or wind rig.",
+  "bounds": {
+    "x": 1.7,
+    "y": 0.97,
+    "z": 1.21776,
+    "unit": "m"
+  },
+  "triangles": 296,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-multistem-shrub-01/v1.0.0/model.glb",
+      "size": 25068,
+      "sha256": "874db44df60188dfcb8af1167fa83e6390e970c2aab5f3e377616f4350fb544a"
+    },
+    "blend": {
+      "path": "assets/nature/nature-multistem-shrub-01/v1.0.0/source.blend",
+      "size": 697772,
+      "sha256": "ea8e99545dd3db912162322da8125f7bde6a376c15cef8b7f7a70ec197fb5028"
+    },
+    "generator": {
+      "path": "assets/nature/nature-multistem-shrub-01/v1.0.0/generate.py",
+      "size": 36463,
+      "sha256": "6aba3dfe632ca7b8ac5ca8b2e8943a5de910a7a8fe97da38d1b8d62cf2f7d7c2"
+    },
+    "render": {
+      "path": "assets/nature/nature-multistem-shrub-01/v1.0.0/thumbnail.png",
+      "size": 301112,
+      "sha256": "f31d483571853d7a217855544a636434a8c08c4d43d8c2335791d239ce9342a0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

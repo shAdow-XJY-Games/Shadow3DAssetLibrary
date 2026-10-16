@@ -1,0 +1,42 @@
+{
+  "id": "nature-companion-scree-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "hard-edge-faceted-nature",
+  "title": "Companion Scree Cluster",
+  "description": "Hard-edge faceted S02 low scree grouping with a broad fracture slab and two unequal angular chips, each independently grounded. Designed as 0.34 m high path-edge or outcrop-transition dressing; not a scaled copy of the main outcrop. Coherent stone top, side and underside values. No collision mesh or physics rig.",
+  "bounds": {
+    "x": 1.19,
+    "y": 0.93,
+    "z": 0.34,
+    "unit": "m"
+  },
+  "triangles": 52,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-companion-scree-01/v1.0.0/model.glb",
+      "size": 6324,
+      "sha256": "f895aa4e05950a884c9380cb7e2410c9064a06edbc9e76d2b8f134320534905f"
+    },
+    "blend": {
+      "path": "assets/nature/nature-companion-scree-01/v1.0.0/source.blend",
+      "size": 574324,
+      "sha256": "0617f7e2546b1e5d57d523fdd1d65793aecf2526709708cc8e92b76eec4ff647"
+    },
+    "generator": {
+      "path": "assets/nature/nature-companion-scree-01/v1.0.0/generate.py",
+      "size": 35433,
+      "sha256": "a2cf8f6c45a20d0cbe555a04f3093c6c5ccf7967ca5877906f8b44a237b6b12d"
+    },
+    "render": {
+      "path": "assets/nature/nature-companion-scree-01/v1.0.0/thumbnail.png",
+      "size": 277037,
+      "sha256": "0e773da1b44509a8c568e97c13d63852af853c37509f2fc9748740bd70c15cd9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
