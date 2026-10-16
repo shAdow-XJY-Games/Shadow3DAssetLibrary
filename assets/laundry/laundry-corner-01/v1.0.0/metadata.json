@@ -1,0 +1,42 @@
+{
+  "id": "laundry-corner-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "laundry",
+  "style": "soft-low-poly",
+  "title": "Small Laundry Corner",
+  "description": "Original laundry corner on a 3.6x2.8m base with clipped shirt and towel, a corrugated washboard and an open thick-shell wash basin. Source components are editable; basin has a sealed bottom and no liquid surface. Static game visuals without cloth/water simulation or load certification.",
+  "bounds": {
+    "x": 3.6,
+    "y": 2.8,
+    "z": 2.04,
+    "unit": "m"
+  },
+  "triangles": 1624,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/laundry/laundry-corner-01/v1.0.0/model.glb",
+      "size": 117760,
+      "sha256": "b242b2c0ccc2a5481105423a5535682d83d0ad4b3ba2be88fd7d5fbf6171f86c"
+    },
+    "blend": {
+      "path": "assets/laundry/laundry-corner-01/v1.0.0/source.blend",
+      "size": 941448,
+      "sha256": "e5a88044194921d7fe1da1089c588f82eb1e5b462aabdd0591d61e86ccb89585"
+    },
+    "generator": {
+      "path": "assets/laundry/laundry-corner-01/v1.0.0/generate.py",
+      "size": 31300,
+      "sha256": "7d77c5692abbedb462841733eb538695bbcfaf0ce11b59ff9ba76183a860dabd"
+    },
+    "render": {
+      "path": "assets/laundry/laundry-corner-01/v1.0.0/thumbnail.png",
+      "size": 308483,
+      "sha256": "f42b7135e9f5373b90b07d2b2b795c95ad9e2add976feca87420a2326ea6aa9e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "laundry-clothesline-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "laundry",
+  "style": "soft-low-poly",
+  "title": "Clipped Clothesline Module",
+  "description": "Original two-post clothesline with sagged thick rope, four clothespins, a shirt silhouette and towel, each a closed solid. Clothes connect through actual clips to the rope and posts. Foot width 2.44m; independent X layout repeat 2.60m leaves 0.16m foot gap. Static hanging-cloth display, no cloth physics or load rating.",
+  "bounds": {
+    "x": 2.44,
+    "y": 0.5,
+    "z": 1.95,
+    "unit": "m"
+  },
+  "triangles": 972,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/laundry/laundry-clothesline-01/v1.0.0/model.glb",
+      "size": 73720,
+      "sha256": "23e88eef730ac6f16482a6e8fa1c0835d25ec6baa34dd14fc128b9cc0a498b97"
+    },
+    "blend": {
+      "path": "assets/laundry/laundry-clothesline-01/v1.0.0/source.blend",
+      "size": 737352,
+      "sha256": "b5640e65133e12ce1d6bffc86a04a20022e0563e5bd2ab09a1bfa38046d4f585"
+    },
+    "generator": {
+      "path": "assets/laundry/laundry-clothesline-01/v1.0.0/generate.py",
+      "size": 30648,
+      "sha256": "74a8244b3b964babe4bfc7c9a9c39783566bf03e08a4b065bf4fa62215410299"
+    },
+    "render": {
+      "path": "assets/laundry/laundry-clothesline-01/v1.0.0/thumbnail.png",
+      "size": 294396,
+      "sha256": "7a023b0bf60de7fcb90b189667be78e9f5680ffcafcc0f92fafbbeee5739db6e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
