@@ -409,9 +409,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "64413f2f29d216a6ad1a85358a6f78716e7865d1"
+    },
+    "observing-awning-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "9a70e251d3509a662ac9d2a1585ffc7810c574b1"
     }
   },
-  "assetCount": 239,
+  "assetCount": 242,
   "shards": [
     {
       "theme": "camping",
@@ -443,10 +448,10 @@
     },
     {
       "theme": "village",
-      "count": 52,
-      "path": "metadata/16a88816eebde50735546fd97772e4cbe7c40c47ce7151d7553da5bd44c40a23.json",
-      "size": 68814,
-      "sha256": "16a88816eebde50735546fd97772e4cbe7c40c47ce7151d7553da5bd44c40a23"
+      "count": 53,
+      "path": "metadata/bb73c987396bdd76ccb14e3a977370792c63294c3048f451e6dd624424237720.json",
+      "size": 70328,
+      "sha256": "bb73c987396bdd76ccb14e3a977370792c63294c3048f451e6dd624424237720"
     },
     {
       "theme": "transport",
@@ -471,10 +476,10 @@
     },
     {
       "theme": "astronomy",
-      "count": 5,
-      "path": "metadata/e5cfe9c92a8bd08160c7836f283ab14f0a0572b8320be0d47708dd7388e88f68.json",
-      "size": 7079,
-      "sha256": "e5cfe9c92a8bd08160c7836f283ab14f0a0572b8320be0d47708dd7388e88f68"
+      "count": 7,
+      "path": "metadata/d5cd64a041426dfc74ecf1b5342c24f29cc9364000de1b582017f2c0d78a6fb0.json",
+      "size": 10091,
+      "sha256": "d5cd64a041426dfc74ecf1b5342c24f29cc9364000de1b582017f2c0d78a6fb0"
     },
     {
       "theme": "ceramics",
