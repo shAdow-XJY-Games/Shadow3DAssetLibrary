@@ -1,0 +1,42 @@
+{
+  "id": "winter-rest-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "winter",
+  "style": "soft-low-poly",
+  "title": "Snow Rest Corner",
+  "description": "Original winter display with a complete wooden sled and closed snowbank module on a snowy base. Editable component geometry, no dynamics or weather simulation.",
+  "bounds": {
+    "x": 3.2,
+    "y": 3.2,
+    "z": 0.562,
+    "unit": "m"
+  },
+  "triangles": 692,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/winter/winter-rest-corner-scene-01/v1.0.0/model.glb",
+      "size": 55328,
+      "sha256": "35a1e521cc7f392fb789d20258c707374379780c861397c3dbc687fa8e72dbda"
+    },
+    "blend": {
+      "path": "assets/winter/winter-rest-corner-scene-01/v1.0.0/source.blend",
+      "size": 635884,
+      "sha256": "737bce4c2afae998afcb4a9c0304ef6539f26525a3dad330fa3d3d6983d38beb"
+    },
+    "generator": {
+      "path": "assets/winter/winter-rest-corner-scene-01/v1.0.0/generate.py",
+      "size": 27218,
+      "sha256": "d8e4d91000053a99366f2f2b823e55876072f3df078a951b9da45e75ed2fe8e0"
+    },
+    "render": {
+      "path": "assets/winter/winter-rest-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 301597,
+      "sha256": "ed6d5e8b7f6ed5e17b75ae0d43e8559e9a2587759ff693ca14caf4403bdf43c6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

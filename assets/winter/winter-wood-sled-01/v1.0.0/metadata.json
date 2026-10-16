@@ -1,0 +1,42 @@
+{
+  "id": "winter-wood-sled-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "winter",
+  "style": "soft-low-poly",
+  "title": "Upturned Runner Wooden Sled",
+  "description": "Original low-poly wooden sled with two genuinely curved-up closed runners, four risers, two crossbars and five separated seat planks. Flat runner contact faces; static game visual with no dynamics or safety rating.",
+  "bounds": {
+    "x": 0.68,
+    "y": 1.52,
+    "z": 0.35,
+    "unit": "m"
+  },
+  "triangles": 540,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/winter/winter-wood-sled-01/v1.0.0/model.glb",
+      "size": 43188,
+      "sha256": "4d37d7a62b45cd8c18ff095cf0246af044374a9db46474cfbfd2c6c3f13a5258"
+    },
+    "blend": {
+      "path": "assets/winter/winter-wood-sled-01/v1.0.0/source.blend",
+      "size": 570360,
+      "sha256": "cdf907af355b191b5c953212c3e2438e69ddc0f7b1d83445967072d711b47ee5"
+    },
+    "generator": {
+      "path": "assets/winter/winter-wood-sled-01/v1.0.0/generate.py",
+      "size": 26069,
+      "sha256": "1eee4fd51430cae2a4279ae1e5cca6e4f16075a035fdde38d76f03c0b59b057d"
+    },
+    "render": {
+      "path": "assets/winter/winter-wood-sled-01/v1.0.0/thumbnail.png",
+      "size": 299264,
+      "sha256": "7bd06cf3bf5b329240df82776c2a6e3d675a62266197e51d0b9c0c2b07c6d80f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
