@@ -1,0 +1,42 @@
+{
+  "id": "transport-bus-stop-information-pole-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "Static Bus Stop Information Pole",
+  "description": "Original S01 bus-stop information pole with independent named static components, abstract bus glyph, route badges and two direction arrows. Actual flat-foot support and the original waiting-point use are checked. No real service timetable, operator branding, live display, ticketing or facility certification. See generate.py opening documentation for exact dimensions, named-node scope and installation example.",
+  "bounds": {
+    "x": 0.5400000214576721,
+    "y": 0.36000001430511475,
+    "z": 2.4600000381469727,
+    "unit": "m"
+  },
+  "triangles": 532,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-bus-stop-information-pole-01/v1.0.0/model.glb",
+      "size": 46088,
+      "sha256": "66b896eff10776a1a86865e8253da73f25a569e879cadd4c1480495eb7e54b46"
+    },
+    "blend": {
+      "path": "assets/transport/transport-bus-stop-information-pole-01/v1.0.0/source.blend",
+      "size": 815376,
+      "sha256": "c9c90aad769eb191e1f1853d0772f77d3822960f04132cd536e497d37d376d86"
+    },
+    "generator": {
+      "path": "assets/transport/transport-bus-stop-information-pole-01/v1.0.0/generate.py",
+      "size": 32703,
+      "sha256": "a5ef285508d0404ae3a491161d73da3bea01e0d65bd6366110fe31991017bf35"
+    },
+    "render": {
+      "path": "assets/transport/transport-bus-stop-information-pole-01/v1.0.0/thumbnail.png",
+      "size": 161785,
+      "sha256": "3533a56a03629dc994171131ffd83e23328e4794cb1bd86164ffc07aa3c3b836"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

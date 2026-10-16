@@ -1,0 +1,42 @@
+{
+  "id": "transport-passenger-waiting-shelter-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "Open-Front Passenger Waiting Shelter",
+  "description": "Original S01 two-rear-column passenger waiting shelter with opaque roof, visible diagonal braces, low back/right panels, open upper sight band and uninterrupted front entry. Actual foot support and original legacy-bench clearance are checked. Bench, curb, ramp and display plaza are excluded. No load, stability, accessibility, navigation or facility certification. See generate.py opening documentation for exact dimensions, named-node scope and installation example.",
+  "bounds": {
+    "x": 3.200000047683716,
+    "y": 1.600000023841858,
+    "z": 2.4099998474121094,
+    "unit": "m"
+  },
+  "triangles": 528,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-passenger-waiting-shelter-01/v1.0.0/model.glb",
+      "size": 47640,
+      "sha256": "d7a487678cb241ee6cb6427da3c0f15c4f729f5af2239970fe1f07dc8fb0f396"
+    },
+    "blend": {
+      "path": "assets/transport/transport-passenger-waiting-shelter-01/v1.0.0/source.blend",
+      "size": 742716,
+      "sha256": "de4dd2695ef8b07c8a5e2286779c463028fdbbbe7c197af2d39d1dd9667ef4a0"
+    },
+    "generator": {
+      "path": "assets/transport/transport-passenger-waiting-shelter-01/v1.0.0/generate.py",
+      "size": 32088,
+      "sha256": "53f2395300fce1e718678ca416c79fec8276e44428fb03b0c4fd10a1859d62f1"
+    },
+    "render": {
+      "path": "assets/transport/transport-passenger-waiting-shelter-01/v1.0.0/thumbnail.png",
+      "size": 201821,
+      "sha256": "4807c42a7de1d6b3cc5d39fdc2cbde95bcc6b01c8cd0621a19324a31fbb4efb9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
