@@ -1,0 +1,42 @@
+{
+  "id": "village-open-harvest-basket-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Open Coarse-Band Harvest Basket",
+  "description": "Open S03 coarse-band harvest basket with a continuous thick cavity, a real flat bottom and two open end handles. Three broad horizontal bands and six wide upright paths are modeled relief; two natural-fibre PBR values follow full bands. Three editable closed source parts export as one static runtime mesh. See generate.py opening documentation for dimensions, origin and verified optional placement. No carrying-load or woven-material simulation guarantee",
+  "bounds": {
+    "x": 0.64114,
+    "y": 0.46771,
+    "z": 0.447,
+    "unit": "m"
+  },
+  "triangles": 1932,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-open-harvest-basket-01/v1.0.0/model.glb",
+      "size": 144444,
+      "sha256": "39cecd688706b682d88d9746651806ca69417df1369aa271598ceb9fcc813eaf"
+    },
+    "blend": {
+      "path": "assets/village/village-open-harvest-basket-01/v1.0.0/source.blend",
+      "size": 626140,
+      "sha256": "2202a44284d78b85c2db587f69147fcbee0f93cf3447e346a0cac60fe8b9cae0"
+    },
+    "generator": {
+      "path": "assets/village/village-open-harvest-basket-01/v1.0.0/generate.py",
+      "size": 44162,
+      "sha256": "ca7e64f3541766ea18ff47f16090a433bfd6fac746ce8f207180d7d98b2f7d67"
+    },
+    "render": {
+      "path": "assets/village/village-open-harvest-basket-01/v1.0.0/thumbnail.png",
+      "size": 350176,
+      "sha256": "f476b060db7b9462129b929198cae13f114d62d44727fd9033c92b327d3322ed"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
