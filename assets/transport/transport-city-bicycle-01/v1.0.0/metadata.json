@@ -1,0 +1,42 @@
+{
+  "id": "transport-city-bicycle-01",
+  "version": "1.0.0",
+  "category": "vehicles",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "S01 City Bicycle",
+  "description": "Original static city bicycle with two open annular tires, restrained rims and spokes, diamond frame, twin fork and rear stays, saddle, handlebar, separate static chainring/sprocket/closed chain outline, pedals and a deployed ground stand. Current fixed tire/frame clearance is checked against real meshes. Independent editable static source and GLB components with baked static transforms. No wheel rotation, steering, drivetrain, chain-link or physics simulation. The tested centered placement in the legacy three-hoop rack is incompatible; no rack compatibility claim.",
+  "bounds": {
+    "x": 0.6000000238418579,
+    "y": 1.7799999713897705,
+    "z": 1.0819998979568481,
+    "unit": "m"
+  },
+  "triangles": 2404,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-city-bicycle-01/v1.0.0/model.glb",
+      "size": 154272,
+      "sha256": "e820e678f6647ccee59167bababb30f6196b532e4b1ea83833e2bb5c2fedc737"
+    },
+    "blend": {
+      "path": "assets/transport/transport-city-bicycle-01/v1.0.0/source.blend",
+      "size": 978044,
+      "sha256": "0958d8ad330f45d460e49d46ad6ee886d6948266f7d9c668072fc69c644b5ffd"
+    },
+    "generator": {
+      "path": "assets/transport/transport-city-bicycle-01/v1.0.0/generate.py",
+      "size": 33121,
+      "sha256": "ad13f9aac06f3d2d915c54ab1bf4ddb9fd0310d39eb22c695b93c7e46ac1706e"
+    },
+    "render": {
+      "path": "assets/transport/transport-city-bicycle-01/v1.0.0/thumbnail.png",
+      "size": 198430,
+      "sha256": "7fa71b2f25782e28e093a8a55073b07c7e2a06fa4525bf5a8b08ecd2efb11f18"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
