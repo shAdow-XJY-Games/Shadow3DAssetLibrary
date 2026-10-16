@@ -1,0 +1,42 @@
+{
+  "id": "interior-three-drawer-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "S01 Three Drawer Cabinet",
+  "description": "Original freestanding 0.6m wide, 0.6m deep, 0.9m high cabinet. Three separate closed-mesh tray cavities and front panels, resting on fixed interior bearing rails. Individual complete countertop with installation gaps, not a seamless fitted kitchen. Independent editable components in fixed static display pose; no drawer sliding, animation, load or physics claim. Front-hidden cavity diagnostic is not an opened mechanism pose.",
+  "bounds": {
+    "x": 0.6000000238418579,
+    "y": 0.6425000131130219,
+    "z": 0.8999999761581421,
+    "unit": "m"
+  },
+  "triangles": 1912,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-three-drawer-cabinet-01/v1.0.0/model.glb",
+      "size": 153852,
+      "sha256": "d80ba2ed48f5e0f8683157b56dcd1eccd3f778cdb199dc1b7c304f190b5574b6"
+    },
+    "blend": {
+      "path": "assets/interior/interior-three-drawer-cabinet-01/v1.0.0/source.blend",
+      "size": 915240,
+      "sha256": "e5ffb43dad6399f5450d0e72f20edb82aa85dc0ef2f4ca4277b2824fc7e4dcf6"
+    },
+    "generator": {
+      "path": "assets/interior/interior-three-drawer-cabinet-01/v1.0.0/generate.py",
+      "size": 33087,
+      "sha256": "af7a809df91d5d9dbd70bee8684fe70121c3916f744784e683b64af2de85a199"
+    },
+    "render": {
+      "path": "assets/interior/interior-three-drawer-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 205386,
+      "sha256": "b2ce83790866ccdee7e927102de077202baed15975688298aaa8442be4d2800c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

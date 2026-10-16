@@ -1,0 +1,42 @@
+{
+  "id": "interior-pantry-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "S01 Narrow Pantry Cabinet",
+  "description": "Original freestanding 0.6m wide,0.6m deep,1.8m tall pantry cabinet, open upper shelf bays and a lower enclosed compartment for kitchen pantry and dry-goods storage. Individual complete top; same-family furniture with installation gaps, not a seamless fitted kitchen. Independent left door node with finite tested poses; no animation or continuous-motion simulation. Independent editable hinge node and the finite tested poses recorded in door_motion; no animation, continuous-motion, load or physics claim.",
+  "bounds": {
+    "x": 0.6000000238418579,
+    "y": 0.6525000035762787,
+    "z": 1.7999999523162842,
+    "unit": "m"
+  },
+  "triangles": 860,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-pantry-cabinet-01/v1.0.0/model.glb",
+      "size": 66056,
+      "sha256": "ffc83b963c45d20e473baa7e65ef9053079fedc2db1fc05ce107455914b4cb04"
+    },
+    "blend": {
+      "path": "assets/interior/interior-pantry-cabinet-01/v1.0.0/source.blend",
+      "size": 767500,
+      "sha256": "13ddf6dd8e01112de0c1d4aefd9a9ddd692bd6f3bb1c84b92bbb7f2a3c917362"
+    },
+    "generator": {
+      "path": "assets/interior/interior-pantry-cabinet-01/v1.0.0/generate.py",
+      "size": 33527,
+      "sha256": "5ef6434fb3f2060318828038e743f8212a8f5fedc6b4b7486e65f1dd802c82c7"
+    },
+    "render": {
+      "path": "assets/interior/interior-pantry-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 203677,
+      "sha256": "e13f4bca74413756a84618d739a6ee242d309dadc5955ed676bf218f28e503fc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
