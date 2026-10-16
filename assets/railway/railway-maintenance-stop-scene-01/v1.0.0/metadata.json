@@ -1,0 +1,42 @@
+{
+  "id": "railway-maintenance-stop-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "railway",
+  "style": "soft-low-poly",
+  "title": "Rail Maintenance Stop",
+  "description": "Original static inspection stop with two complete 2 m rail modules and matching flanged-wheel trolley. Four tread bottom faces bear exactly on rail-head top faces, independently verified by surface points and opposite normals; no buried wheels. Game visual asset only.",
+  "bounds": {
+    "x": 2.8,
+    "y": 4.4,
+    "z": 1.507,
+    "unit": "m"
+  },
+  "triangles": 2280,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-maintenance-stop-scene-01/v1.0.0/model.glb",
+      "size": 158552,
+      "sha256": "02bbd4e7c5fb2b337c7362cd7db170a5d9dd3767d38ebbcbaf8bdcd50a4dbfc0"
+    },
+    "blend": {
+      "path": "assets/railway/railway-maintenance-stop-scene-01/v1.0.0/source.blend",
+      "size": 781228,
+      "sha256": "a578974c5e04ef8c177f807c32f67f20535e26e2f0bfb6c02d5737b2beeaae67"
+    },
+    "generator": {
+      "path": "assets/railway/railway-maintenance-stop-scene-01/v1.0.0/generate.py",
+      "size": 27839,
+      "sha256": "22c914ea6bc2a0d433ce7b3784e958990c71e6e14adc448cf59393f317274600"
+    },
+    "render": {
+      "path": "assets/railway/railway-maintenance-stop-scene-01/v1.0.0/thumbnail.png",
+      "size": 318670,
+      "sha256": "21c17e1fe3e018b9c7f66cac2d5884752b9a7c7c1db7f9ab8436a6c820b29733"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

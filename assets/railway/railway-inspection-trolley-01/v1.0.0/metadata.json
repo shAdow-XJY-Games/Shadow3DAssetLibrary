@@ -1,0 +1,42 @@
+{
+  "id": "railway-inspection-trolley-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "railway",
+  "style": "soft-low-poly",
+  "title": "Rail Inspection Trolley",
+  "description": "Original static four-wheel inspection trolley with editable treads, inner flanges, hubs, axles, hangers, deck, toolbox and push handle. Tread centers X=+/-0.54 m match 1.00 m clear rail gauge with 0.08 m rail heads; axles run X. Origin at flange bottom; tread bottom is 0.04 m above it. Visual game asset, not engineering or simulation.",
+  "bounds": {
+    "x": 1.232,
+    "y": 1.5,
+    "z": 1.235,
+    "unit": "m"
+  },
+  "triangles": 1356,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-inspection-trolley-01/v1.0.0/model.glb",
+      "size": 88520,
+      "sha256": "b66b09b58be2c015917316a2e373eee594d21741da87da16e31b19b185605db5"
+    },
+    "blend": {
+      "path": "assets/railway/railway-inspection-trolley-01/v1.0.0/source.blend",
+      "size": 645400,
+      "sha256": "395985d2499b0eefc5c65a54a067c3efc3cc94382b0e471e1f472d87afbbec06"
+    },
+    "generator": {
+      "path": "assets/railway/railway-inspection-trolley-01/v1.0.0/generate.py",
+      "size": 25419,
+      "sha256": "9c41a62b757dda0dc6c065d4be3eaf0384460248d4ec2252dd9d12dd50383b9c"
+    },
+    "render": {
+      "path": "assets/railway/railway-inspection-trolley-01/v1.0.0/thumbnail.png",
+      "size": 336121,
+      "sha256": "719b1348fdb020652aa46f9d1afdf27ee93c3aad3c89ceb618bbbaf5529f7db6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

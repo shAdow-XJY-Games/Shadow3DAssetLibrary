@@ -1,0 +1,42 @@
+{
+  "id": "railway-straight-track-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "railway",
+  "style": "soft-low-poly",
+  "title": "Two Meter Straight Track",
+  "description": "Original 2.0 m repeat-length straight track. Clear gauge between inner rail-head faces is 1.00 m; rail-head centers X=+/-0.54 m, head width 0.08 m and top Z=0.20 m. Four sleepers support separate rail feet, webs and heads. Complete instances repeat along Y.",
+  "bounds": {
+    "x": 1.5,
+    "y": 2.0,
+    "z": 0.2,
+    "unit": "m"
+  },
+  "triangles": 440,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-straight-track-01/v1.0.0/model.glb",
+      "size": 35160,
+      "sha256": "f9463ddbe022ab376ef039c62287deed61a9922056c3291437067d173a2a99f1"
+    },
+    "blend": {
+      "path": "assets/railway/railway-straight-track-01/v1.0.0/source.blend",
+      "size": 553316,
+      "sha256": "ad207550915f76c37bc6bb2270eb79ca0df6c5d6d5a922339974ae9d72ce879e"
+    },
+    "generator": {
+      "path": "assets/railway/railway-straight-track-01/v1.0.0/generate.py",
+      "size": 24652,
+      "sha256": "41ff3ffbccb4e7f56ec41a2f28935a50fc2cb042c55fb4d38ba43f6fae1d9327"
+    },
+    "render": {
+      "path": "assets/railway/railway-straight-track-01/v1.0.0/thumbnail.png",
+      "size": 306900,
+      "sha256": "ec2cdb28cb6e0fdb16b4cb911b87520a5fca628a6ee06f9b4c8f92df4f13b967"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
