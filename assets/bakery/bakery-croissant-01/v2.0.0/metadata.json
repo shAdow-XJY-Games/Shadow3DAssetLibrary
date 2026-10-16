@@ -1,0 +1,42 @@
+{
+  "id": "bakery-croissant-01",
+  "version": "2.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "bakery",
+  "style": "warm-handcrafted-bakery",
+  "title": "Warm Rolled Croissant",
+  "description": "Original static low-poly croissant with a continuous plump dough body, dominant central rolled sheet, progressively smaller side shoulders and long tapered crescent tips. Three closed upper dough layers genuinely attach to the body; the central narrowing sheet wraps down the inner arc and ends beneath the pastry. Separate serving plate. Same asset ID visual redesign v2, with changed proportions and presentation plate size; not a new unique type. Editable source and static GLB components; no cooking or dough simulation.",
+  "bounds": {
+    "x": 0.3199999928474426,
+    "y": 0.2499999925494194,
+    "z": 0.10347489267587662,
+    "unit": "m"
+  },
+  "triangles": 1912,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-croissant-01/v2.0.0/model.glb",
+      "size": 109532,
+      "sha256": "a431c7225f51a20dd494910c2c52b62c9e798362317cc7e4c6ae0d450dfeba43"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-croissant-01/v2.0.0/source.blend",
+      "size": 824032,
+      "sha256": "fe8ec56f209a80332e98d0c8616e4da647ca921e7372a09249914ecc84959feb"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-croissant-01/v2.0.0/generate.py",
+      "size": 31565,
+      "sha256": "4ded60222d9419d5a98dbe4737660643fb73b6b930750ac4dac810270aba5cbb"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-croissant-01/v2.0.0/thumbnail.png",
+      "size": 190564,
+      "sha256": "9a00e0826d6be66e05951069b58700e08b3f21d0f618565a0625dccc02051b19"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
