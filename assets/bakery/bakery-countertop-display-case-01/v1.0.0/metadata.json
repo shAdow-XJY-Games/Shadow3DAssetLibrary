@@ -1,0 +1,42 @@
+{
+  "id": "bakery-countertop-display-case-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "bakery",
+  "style": "warm-handcrafted-bakery",
+  "title": "Two-Tier Countertop Bakery Display Case",
+  "description": "Original static low-poly two-tier countertop bakery display enclosure. Warm frame and shelf nodes support individually closed thin front, side and top guards; the inclined customer-facing guard and open rear replenishment side are distinct. It reuses an existing worktable rather than duplicating a cabinet base. Real 4 mm protective panels use glTF transmission and IOR materials. Separate tray placements and unchanged food clearance are checked in fixed poses. Selected physical glass uses transmission 1, IOR 1.45 and roughness 0.035. CPU preview images retain visible sampling grain; real-time WebGL transparency and depth ordering remain unverified in the available environment. No moving door, food-safety, load, thermal or continuous tray-removal certification.",
+  "bounds": {
+    "x": 0.7200000286102295,
+    "y": 0.41999998688697815,
+    "z": 0.639887809753418,
+    "unit": "m"
+  },
+  "triangles": 684,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-countertop-display-case-01/v1.0.0/model.glb",
+      "size": 62188,
+      "sha256": "de32dc8c16d3ec00148363dbb70b29891947c90d341359caabe3d06bae05d2e0"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-countertop-display-case-01/v1.0.0/source.blend",
+      "size": 771840,
+      "sha256": "ab46f4214a654c950666b993d1f395268fd6267788bbf3224648bb734597b2c9"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-countertop-display-case-01/v1.0.0/generate.py",
+      "size": 32091,
+      "sha256": "66bdd244b9bfd76b95e3cec1269203a2c8bb855239e14cb7160b6e141437a2a9"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-countertop-display-case-01/v1.0.0/thumbnail.png",
+      "size": 330121,
+      "sha256": "0a3a15f4c2e54c78b54c78e2de0057233317af1d36ce6830515c8b47991c5db9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

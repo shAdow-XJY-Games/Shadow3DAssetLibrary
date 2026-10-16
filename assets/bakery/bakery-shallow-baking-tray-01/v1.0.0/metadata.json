@@ -1,0 +1,42 @@
+{
+  "id": "bakery-shallow-baking-tray-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "bakery",
+  "style": "warm-handcrafted-bakery",
+  "title": "Shared Shallow Baking Tray",
+  "description": "Original static low-poly formed-metal baking tray with one continuous closed shallow basin, 3 mm bottom and 2 mm rim. Overall 0.60 by 0.32 by 0.025 m; inner floor approximately 0.58 by 0.30 m with clipped corners. Actual frozen round loaf and baguette each fit in separate static placements; documented oven hearth and cooling-rack slat contact areas are independently checked. No food resizing, continuous oven insertion, thermal behavior, load rating or food-safety certification.",
+  "bounds": {
+    "x": 0.6000000238418579,
+    "y": 0.3199999928474426,
+    "z": 0.02500000037252903,
+    "unit": "m"
+  },
+  "triangles": 60,
+  "materials": 1,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-shallow-baking-tray-01/v1.0.0/model.glb",
+      "size": 3808,
+      "sha256": "0acc433d25fa436784b8a467cb780437a0ba80f9fb8925cb9e0916874ce8a5ec"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-shallow-baking-tray-01/v1.0.0/source.blend",
+      "size": 532484,
+      "sha256": "6be0c676f0c0988aeb0fe0e16cf7575d8bcd677beed5a1f9cc09a376847470e6"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-shallow-baking-tray-01/v1.0.0/generate.py",
+      "size": 30505,
+      "sha256": "74655f292e62ffa4962b48a4e37fa4105955ace0b13074dd11023bec32489afe"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-shallow-baking-tray-01/v1.0.0/thumbnail.png",
+      "size": 163780,
+      "sha256": "eb5015d2d992ee6f687ef48f6e019f6cb32b1e86b9f942bd89ff4df5df84d698"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
