@@ -1,0 +1,42 @@
+{
+  "id": "beekeeping-smoker-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "beekeeping",
+  "style": "soft-low-poly",
+  "title": "Open Nozzle Bee Smoker",
+  "description": "Original low-poly bee smoker with closed thick canister shell, open conical nozzle, separate air connector, bellows boards/core and carry loop. Static visual prop; no heat or smoke simulation.",
+  "bounds": {
+    "x": 0.24,
+    "y": 0.46029,
+    "z": 0.44,
+    "unit": "m"
+  },
+  "triangles": 952,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/beekeeping/beekeeping-smoker-01/v1.0.0/model.glb",
+      "size": 63856,
+      "sha256": "91fbffcf61ed80a3f5fbacb661c78e34f20678639c75eb2f6b4b1aa3b114b5c7"
+    },
+    "blend": {
+      "path": "assets/beekeeping/beekeeping-smoker-01/v1.0.0/source.blend",
+      "size": 553092,
+      "sha256": "6fe5959a600f6322774b8a33519a638a4f85dda6da8c3a0f40fe496727d2a10c"
+    },
+    "generator": {
+      "path": "assets/beekeeping/beekeeping-smoker-01/v1.0.0/generate.py",
+      "size": 26226,
+      "sha256": "4d23a002a8a2c230a8b3c1ed6203a03d59af0e48bb7502877a01b83ade8c0c32"
+    },
+    "render": {
+      "path": "assets/beekeeping/beekeeping-smoker-01/v1.0.0/thumbnail.png",
+      "size": 307459,
+      "sha256": "6a05aa9d49712db525adcf8720f3616bcdee66e29c440890e7a2337c6e57c7ee"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

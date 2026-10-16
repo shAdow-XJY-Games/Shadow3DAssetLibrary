@@ -1,0 +1,42 @@
+{
+  "id": "beekeeping-work-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "beekeeping",
+  "style": "soft-low-poly",
+  "title": "Honey Work Corner",
+  "description": "Original honey-processing display with open extractor and portable bee smoker. Keeps both machines editable in source and uses actual evaluated support and joint checks. No duplicate beehive or simulation claims.",
+  "bounds": {
+    "x": 2.8,
+    "y": 2.5,
+    "z": 1.262,
+    "unit": "m"
+  },
+  "triangles": 2172,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/beekeeping/beekeeping-work-corner-scene-01/v1.0.0/model.glb",
+      "size": 141044,
+      "sha256": "f1d835fcd6dbd68120de06b22bbe115e17eb3ae29845318b16cb5f322aec8a09"
+    },
+    "blend": {
+      "path": "assets/beekeeping/beekeeping-work-corner-scene-01/v1.0.0/source.blend",
+      "size": 684368,
+      "sha256": "20b1b7f11ae61343d280d93ce12fc9765a99673443ba28cf5f4d1ccc87b09476"
+    },
+    "generator": {
+      "path": "assets/beekeeping/beekeeping-work-corner-scene-01/v1.0.0/generate.py",
+      "size": 28934,
+      "sha256": "c1ccd11a15c11615d7e152aefa55ebc7390a350aabf4eeef67a77021514b9f3f"
+    },
+    "render": {
+      "path": "assets/beekeeping/beekeeping-work-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 303757,
+      "sha256": "90aa446bbe9cc04e45d09c5c05a34f894016290a0001b34e9bb80982244fcc58"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

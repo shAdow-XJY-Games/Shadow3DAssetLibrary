@@ -1,0 +1,42 @@
+{
+  "id": "beekeeping-honey-extractor-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "beekeeping",
+  "style": "soft-low-poly",
+  "title": "Open Drum Honey Extractor",
+  "description": "Original honey extractor module with thick open drum, three legs, separate shaft, interior basket rails, rim bridge, hand crank and open outlet. Editable source parts; static GLB without mechanical or fluid simulation.",
+  "bounds": {
+    "x": 0.66,
+    "y": 0.76,
+    "z": 1.15,
+    "unit": "m"
+  },
+  "triangles": 1176,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/beekeeping/beekeeping-honey-extractor-01/v1.0.0/model.glb",
+      "size": 76972,
+      "sha256": "f68a568ca9d6b99aff06e94aa4a5eb026e52ec72250c585426d9f799c537bee4"
+    },
+    "blend": {
+      "path": "assets/beekeeping/beekeeping-honey-extractor-01/v1.0.0/source.blend",
+      "size": 613444,
+      "sha256": "15255c338112f78d8268e3332da31bf280a3a6a2735bf6e5b8ec630b63ebd4eb"
+    },
+    "generator": {
+      "path": "assets/beekeeping/beekeeping-honey-extractor-01/v1.0.0/generate.py",
+      "size": 27058,
+      "sha256": "24cacf509dbcf2e2b2b819066b292252b2d0063b27b68772dd7d83378815daa1"
+    },
+    "render": {
+      "path": "assets/beekeeping/beekeeping-honey-extractor-01/v1.0.0/thumbnail.png",
+      "size": 303231,
+      "sha256": "92ff4796ed1328b1c602c17bbcb3d818df881af257aa31c14fdf39f7b11f208d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
