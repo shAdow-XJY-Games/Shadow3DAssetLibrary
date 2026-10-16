@@ -1,0 +1,42 @@
+{
+  "id": "village-market-stall-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Produce Stall",
+  "description": "Original open market stall with pitched striped timber canopy, front display counter and two divided produce trays. Walk-in access at rear.",
+  "bounds": {
+    "x": 2.12,
+    "y": 1.45464,
+    "z": 2.35,
+    "unit": "m"
+  },
+  "triangles": 2764,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-market-stall-01/v1.0.0/model.glb",
+      "size": 237424,
+      "sha256": "cc7c8f05aeafc36e1906a623c0c5d229b73bf6ceedf553f82cd191997ea881ed"
+    },
+    "blend": {
+      "path": "assets/village/village-market-stall-01/v1.0.0/source.blend",
+      "size": 926256,
+      "sha256": "f87dea3f179d08bdddf3a34a20fbda35763606cdefefc6a6b9a72b5e8b37742b"
+    },
+    "generator": {
+      "path": "assets/village/village-market-stall-01/v1.0.0/generate.py",
+      "size": 9061,
+      "sha256": "26d03969db8ab1ebcafff5ca016b61de796d547f134ede78340ec6e6055ad89c"
+    },
+    "render": {
+      "path": "assets/village/village-market-stall-01/v1.0.0/thumbnail.png",
+      "size": 422472,
+      "sha256": "16be0d9850c9d8f9dfe0ff5338b3bd09ecbe72746f6d632c0b6412f31fd36605"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

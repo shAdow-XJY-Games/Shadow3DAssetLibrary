@@ -1,0 +1,42 @@
+{
+  "id": "village-fence-gate-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Hinged Gate",
+  "description": "Original two-metre gateway with hinged timber gate, diagonal sag brace and visible iron latch. End posts at x=-1 and +1 metres match the field fence grid.",
+  "bounds": {
+    "x": 2.22,
+    "y": 0.285,
+    "z": 1.26,
+    "unit": "m"
+  },
+  "triangles": 908,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-fence-gate-01/v1.0.0/model.glb",
+      "size": 70756,
+      "sha256": "8c0750c49690025dc764ae7adcb9f3763e6868e05e409e2c16cffa443cfa9f4c"
+    },
+    "blend": {
+      "path": "assets/village/village-fence-gate-01/v1.0.0/source.blend",
+      "size": 623776,
+      "sha256": "2c7c8f755a31c1f490fef2847fe98ae27a5cb0484eff352568cf1f15b27c7541"
+    },
+    "generator": {
+      "path": "assets/village/village-fence-gate-01/v1.0.0/generate.py",
+      "size": 8786,
+      "sha256": "48c9389d00be066245ef0ade8ec80f99dfa333265126ef47bef5b95cd2bec70f"
+    },
+    "render": {
+      "path": "assets/village/village-fence-gate-01/v1.0.0/thumbnail.png",
+      "size": 400119,
+      "sha256": "51dd1516c638b0ec5b6c38e87f9ca5ab8b8cc87650a65448c041f0b7b2ac5e45"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

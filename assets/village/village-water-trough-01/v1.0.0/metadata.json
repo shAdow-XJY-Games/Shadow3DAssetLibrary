@@ -1,0 +1,42 @@
+{
+  "id": "village-water-trough-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Stone Water Trough",
+  "description": "Original open monolithic stone livestock trough with thick walls, recessed water and two low feet. Basin is one closed manifold wall-and-floor mesh.",
+  "bounds": {
+    "x": 1.6,
+    "y": 0.68,
+    "z": 0.58,
+    "unit": "m"
+  },
+  "triangles": 224,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-water-trough-01/v1.0.0/model.glb",
+      "size": 19800,
+      "sha256": "bf438f4364998e10c80c6ce265b9fde0c06a9693b98b38803757864ec04f299b"
+    },
+    "blend": {
+      "path": "assets/village/village-water-trough-01/v1.0.0/source.blend",
+      "size": 515272,
+      "sha256": "4ec56948a030d3921ff05716d709f47d4e8fdcd6d9d9e9a2db685212081def3a"
+    },
+    "generator": {
+      "path": "assets/village/village-water-trough-01/v1.0.0/generate.py",
+      "size": 15682,
+      "sha256": "1dc2169c71b9c0291f612f55839b29076ae306e5803086684c50d48a53f6c0c6"
+    },
+    "render": {
+      "path": "assets/village/village-water-trough-01/v1.0.0/thumbnail.png",
+      "size": 300609,
+      "sha256": "8b2dc142dd9b820acfb2d2673fd813f0ff85bc33461d165e44dfaf320514eb83"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

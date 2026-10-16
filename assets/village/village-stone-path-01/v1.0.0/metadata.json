@@ -1,0 +1,42 @@
+{
+  "id": "village-stone-path-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Stepping Path",
+  "description": "Original two-metre path module with irregular beveled paving stones and open grass gaps. Tile at 2 metre X intervals; ground-centre origin.",
+  "bounds": {
+    "x": 1.97455,
+    "y": 0.8652,
+    "z": 0.11,
+    "unit": "m"
+  },
+  "triangles": 680,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-stone-path-01/v1.0.0/model.glb",
+      "size": 52324,
+      "sha256": "72a8b99e9ff3d5dbae6a7a5bc13831b64c1bdbb6420519d48f024d433b1494da"
+    },
+    "blend": {
+      "path": "assets/village/village-stone-path-01/v1.0.0/source.blend",
+      "size": 541788,
+      "sha256": "c0ef2f425d0d91165a9cfb8f53c82788defa75364d17c479473f2b852a96678b"
+    },
+    "generator": {
+      "path": "assets/village/village-stone-path-01/v1.0.0/generate.py",
+      "size": 8527,
+      "sha256": "bd0f5ea74e99a675c01541dc7fabeeae541a12fd095e0f073ea2ab57935cf3f8"
+    },
+    "render": {
+      "path": "assets/village/village-stone-path-01/v1.0.0/thumbnail.png",
+      "size": 354693,
+      "sha256": "714222e39d192cf7140a147be1a3af626b5949db036abeb8dfcb7ea89a679b2b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

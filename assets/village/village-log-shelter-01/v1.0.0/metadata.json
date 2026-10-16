@@ -1,0 +1,42 @@
+{
+  "id": "village-log-shelter-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Firewood Shelter",
+  "description": "Original open-front firewood shelter with sloped weather roof, supporting frame and six stacked round logs. Exterior utility prop with actual roof supports.",
+  "bounds": {
+    "x": 1.6,
+    "y": 1.01954,
+    "z": 1.64588,
+    "unit": "m"
+  },
+  "triangles": 1748,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-log-shelter-01/v1.0.0/model.glb",
+      "size": 125876,
+      "sha256": "5058affb0c456d89623a83319ed5bfc689ac114d70d0ab5638c7f744f9ce16b1"
+    },
+    "blend": {
+      "path": "assets/village/village-log-shelter-01/v1.0.0/source.blend",
+      "size": 783736,
+      "sha256": "2949aa08f824a42cf014424c709bc65d460985ec4c807ae91a1896e7e7a32938"
+    },
+    "generator": {
+      "path": "assets/village/village-log-shelter-01/v1.0.0/generate.py",
+      "size": 16378,
+      "sha256": "edcd55ca495d86ff62539ccc08b2f5bc939069175cae395df94cefd4962de99f"
+    },
+    "render": {
+      "path": "assets/village/village-log-shelter-01/v1.0.0/thumbnail.png",
+      "size": 365153,
+      "sha256": "8e0285dd0cc3b854e48701407d2a9678bcb5e4378aa6f19bc7d3ff4549dd50eb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

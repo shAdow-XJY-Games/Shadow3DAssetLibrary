@@ -1,0 +1,42 @@
+{
+  "id": "village-well-courtyard-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "scene",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Well Courtyard",
+  "description": "Original compact village vignette combining a hollow stone well, orchard tree, timber fence, stepping approach and meadow shrubs on a five-metre base. Reproducible standalone generator; editable component objects.",
+  "bounds": {
+    "x": 5.0,
+    "y": 4.5,
+    "z": 2.866,
+    "unit": "m"
+  },
+  "triangles": 4112,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-well-courtyard-01/v1.0.0/model.glb",
+      "size": 329520,
+      "sha256": "fe924337aa29a1205158b99d515469c3527e34ef7a8595a7a200c38cd4935fd6"
+    },
+    "blend": {
+      "path": "assets/village/village-well-courtyard-01/v1.0.0/source.blend",
+      "size": 1299232,
+      "sha256": "cd41f5b727a56399bbde17f6a38386a6bd2ebdd6c1c1ec04428938770d02c37d"
+    },
+    "generator": {
+      "path": "assets/village/village-well-courtyard-01/v1.0.0/generate.py",
+      "size": 12493,
+      "sha256": "1488c4c55b194fffce6663ae8aaabfee17d4ccaf3896a6b0dd7355a80fc44464"
+    },
+    "render": {
+      "path": "assets/village/village-well-courtyard-01/v1.0.0/thumbnail.png",
+      "size": 354202,
+      "sha256": "77607f42302af3cff0c221f3ee0219b8aa3a43a1e8c59b1d2b917deff9bab63f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

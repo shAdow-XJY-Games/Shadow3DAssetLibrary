@@ -1,0 +1,42 @@
+{
+  "id": "village-stone-well-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Willow Stone Well",
+  "description": "Original hollow coursed-stone village well with pitched timber canopy, spindle, crank and suspended bucket.",
+  "bounds": {
+    "x": 2.35,
+    "y": 1.59105,
+    "z": 2.26,
+    "unit": "m"
+  },
+  "triangles": 2020,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-stone-well-01/v1.0.0/model.glb",
+      "size": 145928,
+      "sha256": "059e86eaabc79f80da559e5c9caed2b5693c0d17340ed4b667d49c4f9e623fe1"
+    },
+    "blend": {
+      "path": "assets/village/village-stone-well-01/v1.0.0/source.blend",
+      "size": 940208,
+      "sha256": "38187b0c968a8fde7c97634e7e572c4761f9537ff73684d674ac5e10ef636991"
+    },
+    "generator": {
+      "path": "assets/village/village-stone-well-01/v1.0.0/generate.py",
+      "size": 10274,
+      "sha256": "733b7bd9198e8cd437eaa4fb16e1b996125fd39aab92ae5a8c8c4c3667b4a8da"
+    },
+    "render": {
+      "path": "assets/village/village-stone-well-01/v1.0.0/thumbnail.png",
+      "size": 413435,
+      "sha256": "4c1d86d296914117b4e7929a5f752ed88255047504d50e341c18bef890967991"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

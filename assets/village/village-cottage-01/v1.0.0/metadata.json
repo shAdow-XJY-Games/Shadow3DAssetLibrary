@@ -1,0 +1,42 @@
+{
+  "id": "village-cottage-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Gable Cottage",
+  "description": "Original compact closed exterior cottage with timber-framed plaster, gable roof, stone doorstep, chimney, shuttered windows and a framed door. Exterior-only background architecture; bottom-centre placement.",
+  "bounds": {
+    "x": 3.0188,
+    "y": 2.71,
+    "z": 3.3925,
+    "unit": "m"
+  },
+  "triangles": 2024,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-cottage-01/v1.0.0/model.glb",
+      "size": 159880,
+      "sha256": "659867604b8e9cafc6126b5ca16f27b3bf95446bff8188e98fa642485a38a456"
+    },
+    "blend": {
+      "path": "assets/village/village-cottage-01/v1.0.0/source.blend",
+      "size": 906420,
+      "sha256": "12c796d7be27decd674a9066bc7a4836586f5d57ea15a43713be9038a5139654"
+    },
+    "generator": {
+      "path": "assets/village/village-cottage-01/v1.0.0/generate.py",
+      "size": 10198,
+      "sha256": "dedd8d7c3062fcbe8f7e3c60fa6def27a1c4f90cbcdd0e8da0107f1b631d3b8e"
+    },
+    "render": {
+      "path": "assets/village/village-cottage-01/v1.0.0/thumbnail.png",
+      "size": 347870,
+      "sha256": "93e13a3ff9c52d980944a6d825e6ce61f33d50b9b2e052713baca0b9c33cd2e5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

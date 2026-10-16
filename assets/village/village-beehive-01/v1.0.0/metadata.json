@@ -1,0 +1,42 @@
+{
+  "id": "village-beehive-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Stacked Beehive",
+  "description": "Original raised timber beehive with stacked supers, pitched weatherproof lid, flight board, recessed entrance and four legs. Closed exterior prop.",
+  "bounds": {
+    "x": 0.76127,
+    "y": 0.795,
+    "z": 1.22,
+    "unit": "m"
+  },
+  "triangles": 1100,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-beehive-01/v1.0.0/model.glb",
+      "size": 87424,
+      "sha256": "155f4b62e0a846781fd5e0c8aa04fe06e470cdb7b9a391eeb056defbf9b8c2b7"
+    },
+    "blend": {
+      "path": "assets/village/village-beehive-01/v1.0.0/source.blend",
+      "size": 673504,
+      "sha256": "ab113e70a95773eac02dbbb33c0a5a964b46ed714b108993f72cf7422f3af31a"
+    },
+    "generator": {
+      "path": "assets/village/village-beehive-01/v1.0.0/generate.py",
+      "size": 8937,
+      "sha256": "b9e0d06045977e88a0650ceaf73206366b78e313a7b73156dabae456e1705285"
+    },
+    "render": {
+      "path": "assets/village/village-beehive-01/v1.0.0/thumbnail.png",
+      "size": 410132,
+      "sha256": "eb2f2876da9e31b52a799d7abd5f0adde80bba7bf5acddd87805f46a28f80e1a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

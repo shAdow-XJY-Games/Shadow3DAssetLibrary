@@ -1,0 +1,42 @@
+{
+  "id": "village-noticeboard-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Village Noticeboard",
+  "description": "Original timber public noticeboard with three blank paper notices, fitted pegs and a weather cap. Static sign prop without text or external textures.",
+  "bounds": {
+    "x": 1.6,
+    "y": 0.42,
+    "z": 1.87,
+    "unit": "m"
+  },
+  "triangles": 480,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-noticeboard-01/v1.0.0/model.glb",
+      "size": 39152,
+      "sha256": "72b8002b669d6f67ab8847ad176fb263266686ca0a64c092e77cda1bf4a84a78"
+    },
+    "blend": {
+      "path": "assets/village/village-noticeboard-01/v1.0.0/source.blend",
+      "size": 610632,
+      "sha256": "2a7480c1ce888e74105bd5ebf3370c061eed99d835206b0f25c205975482177f"
+    },
+    "generator": {
+      "path": "assets/village/village-noticeboard-01/v1.0.0/generate.py",
+      "size": 15566,
+      "sha256": "cfda390c74551d5b01cfde10863c4b4e839feb54cbde5630d060dfed4863dd5a"
+    },
+    "render": {
+      "path": "assets/village/village-noticeboard-01/v1.0.0/thumbnail.png",
+      "size": 326250,
+      "sha256": "27532e3211fc9094b541912de7b56802f96fcffaecf35bf53afa7d9ab7497e65"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

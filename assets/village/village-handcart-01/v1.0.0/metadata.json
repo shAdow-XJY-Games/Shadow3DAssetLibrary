@@ -1,0 +1,42 @@
+{
+  "id": "village-handcart-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Harvest Handcart",
+  "description": "Original two-wheel harvest handcart with open plank bed, spoked timber wheels, metal tyres, handles and a standing support.",
+  "bounds": {
+    "x": 2.04275,
+    "y": 1.24,
+    "z": 1.0525,
+    "unit": "m"
+  },
+  "triangles": 1556,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-handcart-01/v1.0.0/model.glb",
+      "size": 114580,
+      "sha256": "c8f91f64a9be088355272d1a9d703250e55e643e332f21479d87eb2f9c0c438f"
+    },
+    "blend": {
+      "path": "assets/village/village-handcart-01/v1.0.0/source.blend",
+      "size": 704504,
+      "sha256": "167fe0c4ccc0ab1462cbf48f90f36ae37327e8278896355170e561de1033465e"
+    },
+    "generator": {
+      "path": "assets/village/village-handcart-01/v1.0.0/generate.py",
+      "size": 14355,
+      "sha256": "54c049de11a13a0b8fb1de58b89592901fe2d2ee6a684fb94ff938a5e80c10e7"
+    },
+    "render": {
+      "path": "assets/village/village-handcart-01/v1.0.0/thumbnail.png",
+      "size": 331647,
+      "sha256": "418056ba45de6329373c498ef80080dc618b55ede43b6a697052a4663f4d6578"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

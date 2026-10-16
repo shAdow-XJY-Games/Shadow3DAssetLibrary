@@ -1,0 +1,42 @@
+{
+  "id": "village-fence-straight-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Two-Metre Fence",
+  "description": "Original timber field fence with pointed posts, two rails and staggered pickets. Snaps at post centres x=-1 and +1 metres; GLB is a joined mesh: edit out one duplicate terminal post for each joint; simple 2m instancing overlaps terminal posts.",
+  "bounds": {
+    "x": 2.15839,
+    "y": 0.16,
+    "z": 1.24,
+    "unit": "m"
+  },
+  "triangles": 584,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-fence-straight-01/v1.0.0/model.glb",
+      "size": 46636,
+      "sha256": "b77d555d5c4feede9b1365fb48c1625144339575fbccddb51fe750f83d78ca2d"
+    },
+    "blend": {
+      "path": "assets/village/village-fence-straight-01/v1.0.0/source.blend",
+      "size": 559536,
+      "sha256": "7c3dbf1be15a57922054c83f3c7b7b6317fc074ee3f9dde9bc1e14b59cc8dc16"
+    },
+    "generator": {
+      "path": "assets/village/village-fence-straight-01/v1.0.0/generate.py",
+      "size": 8822,
+      "sha256": "b9d0b9c9a86b6e0d502041f72f2e905df8c11aca01e83d50d9bdb2e79555daf4"
+    },
+    "render": {
+      "path": "assets/village/village-fence-straight-01/v1.0.0/thumbnail.png",
+      "size": 396667,
+      "sha256": "f87066a7c220af2390d819be3a2dce043901d7519cc7f2642e9be60a975434ff"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

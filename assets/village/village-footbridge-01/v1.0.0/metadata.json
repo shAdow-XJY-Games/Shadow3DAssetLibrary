@@ -1,0 +1,42 @@
+{
+  "id": "village-footbridge-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Arched Footbridge",
+  "description": "Original short pedestrian footbridge with shallow arched plank deck, segmented support stringers and handrails. Ground origin; approximately 2.6m span, one-metre deck.",
+  "bounds": {
+    "x": 2.52,
+    "y": 1.18,
+    "z": 1.10279,
+    "unit": "m"
+  },
+  "triangles": 1892,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-footbridge-01/v1.0.0/model.glb",
+      "size": 145628,
+      "sha256": "8ac9199e7ec1b2fe7ee1e539154d9c00df32f2e23ab73ddd258f7559f63a1882"
+    },
+    "blend": {
+      "path": "assets/village/village-footbridge-01/v1.0.0/source.blend",
+      "size": 743592,
+      "sha256": "c1ac5cd6e252e27b0122f4244e3d90fe1a73c45b06e5e62f184f7adabc52de5d"
+    },
+    "generator": {
+      "path": "assets/village/village-footbridge-01/v1.0.0/generate.py",
+      "size": 8724,
+      "sha256": "b67ae6ba25fa57973e15a4b2fa838f6610bbbd1b56326f476bfa64974c0ac9be"
+    },
+    "render": {
+      "path": "assets/village/village-footbridge-01/v1.0.0/thumbnail.png",
+      "size": 405808,
+      "sha256": "f0777c396d2b5af0c83214b4f92bbc6a33700475db1b3bfc464815d2dcf69bb0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

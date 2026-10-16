@@ -1,0 +1,42 @@
+{
+  "id": "village-fence-corner-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Right-Angle Fence",
+  "description": "Original right-angle timber corner with a shared central post and two one-metre fence wings. Corner origin is the central post foot; endpoints at (1,0) and (0,1).",
+  "bounds": {
+    "x": 1.1725,
+    "y": 1.1825,
+    "z": 1.2,
+    "unit": "m"
+  },
+  "triangles": 660,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-fence-corner-01/v1.0.0/model.glb",
+      "size": 52208,
+      "sha256": "24143a1f33e30206ba1c357f6ced6ebd623774c1b999e7e948ee76ab07b149a4"
+    },
+    "blend": {
+      "path": "assets/village/village-fence-corner-01/v1.0.0/source.blend",
+      "size": 562488,
+      "sha256": "e8f80e54987b508bcb0e80a8177d0035ea2e9e0c839c8907368b5f3b7d81b453"
+    },
+    "generator": {
+      "path": "assets/village/village-fence-corner-01/v1.0.0/generate.py",
+      "size": 8675,
+      "sha256": "234d77e2a6e031f1af07dd3c80a10e296850e4a217600bf55c601affd6206f1f"
+    },
+    "render": {
+      "path": "assets/village/village-fence-corner-01/v1.0.0/thumbnail.png",
+      "size": 430044,
+      "sha256": "20a4c6285c6711ad439aed526a26553a26d115158a332c83232186c2f5f4aee6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

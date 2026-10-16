@@ -1,0 +1,42 @@
+{
+  "id": "village-farm-workyard-01",
+  "version": "1.0.0",
+  "category": "environments",
+  "assetKind": "scene",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Farm Workyard",
+  "description": "Original farm workyard combining a supported firewood storage bay, a thick-walled water trough and three approach stones on a meadow slab. Standalone generator with complete verified support graph.",
+  "bounds": {
+    "x": 4.6,
+    "y": 3.4,
+    "z": 1.81788,
+    "unit": "m"
+  },
+  "triangles": 2088,
+  "materials": 7,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-farm-workyard-01/v1.0.0/model.glb",
+      "size": 153200,
+      "sha256": "610cc96ffcbfb12595fc92254c24341b3306a130b3bc49d12a67497fb122e04b"
+    },
+    "blend": {
+      "path": "assets/village/village-farm-workyard-01/v1.0.0/source.blend",
+      "size": 903348,
+      "sha256": "238b8a81d08ac7264690da64516c11a0eb44c93bc5567186d44168a498b434b2"
+    },
+    "generator": {
+      "path": "assets/village/village-farm-workyard-01/v1.0.0/generate.py",
+      "size": 17984,
+      "sha256": "7f5a4c73e5d5fdab3e820160f30ed8fbad8bcaa92ee880d08b683e2a9a170595"
+    },
+    "render": {
+      "path": "assets/village/village-farm-workyard-01/v1.0.0/thumbnail.png",
+      "size": 345220,
+      "sha256": "d1271f87e7a490ad903d95952bb581a935a82ab680e109975e57c88955e0029a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

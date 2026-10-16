@@ -1,0 +1,42 @@
+{
+  "id": "village-orchard-tree-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Round Orchard Tree",
+  "description": "Original broadleaf orchard tree with forked trunk, three faceted crown masses and visible surface roots. Ground-centred placement.",
+  "bounds": {
+    "x": 2.05686,
+    "y": 1.37,
+    "z": 3.16868,
+    "unit": "m"
+  },
+  "triangles": 624,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-orchard-tree-01/v1.0.0/model.glb",
+      "size": 56164,
+      "sha256": "83c934d13d26d42054fbf3b401dcf2404914d83740cd6d5bd846a8d7cfb33cb1"
+    },
+    "blend": {
+      "path": "assets/village/village-orchard-tree-01/v1.0.0/source.blend",
+      "size": 577876,
+      "sha256": "520b49e33ae2f4c7e92c7ccb640dbe7fcf489198c35c5802c36ad026e12d6b74"
+    },
+    "generator": {
+      "path": "assets/village/village-orchard-tree-01/v1.0.0/generate.py",
+      "size": 8424,
+      "sha256": "3bcd17a0c3fd7e3165e2560b68173591ab570905b33450499b4fcbed43879e22"
+    },
+    "render": {
+      "path": "assets/village/village-orchard-tree-01/v1.0.0/thumbnail.png",
+      "size": 360711,
+      "sha256": "320de359fcd630f9d23704c9ed57cd44df4e80813000dfa21cee4587158c0a7f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

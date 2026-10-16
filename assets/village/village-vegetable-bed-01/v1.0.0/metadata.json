@@ -1,0 +1,42 @@
+{
+  "id": "village-vegetable-bed-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Kitchen Garden Bed",
+  "description": "Original raised vegetable plot with joined timber frame, supported soil and six leafy carrot plants. Compact editable garden prop.",
+  "bounds": {
+    "x": 1.52,
+    "y": 1.1,
+    "z": 0.63737,
+    "unit": "m"
+  },
+  "triangles": 3584,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-vegetable-bed-01/v1.0.0/model.glb",
+      "size": 311152,
+      "sha256": "8353bf05b7255b30e81e63f4ededcf54777e54f9df959590180913a9dfb5debf"
+    },
+    "blend": {
+      "path": "assets/village/village-vegetable-bed-01/v1.0.0/source.blend",
+      "size": 1041972,
+      "sha256": "4865ddc69452f80912cc4d69c01631b74faa152eee93d161ea39d31571a74b19"
+    },
+    "generator": {
+      "path": "assets/village/village-vegetable-bed-01/v1.0.0/generate.py",
+      "size": 8732,
+      "sha256": "2395647b976cf6216ce377e966d4cef41f1046f628eb7c946855d3f265faf254"
+    },
+    "render": {
+      "path": "assets/village/village-vegetable-bed-01/v1.0.0/thumbnail.png",
+      "size": 405288,
+      "sha256": "3e9a9272f262227c1bf68b74a54ffa932e90d3e79435fb1b28f7706c988aa7aa"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "village-picnic-table-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "soft-low-poly",
+  "title": "Meadow Picnic Table",
+  "description": "Original picnic table with two integrated slatted benches, longitudinal brace and eight grounded legs. All seat and tabletop supports are modeled.",
+  "bounds": {
+    "x": 1.88,
+    "y": 1.8,
+    "z": 0.83,
+    "unit": "m"
+  },
+  "triangles": 968,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-picnic-table-01/v1.0.0/model.glb",
+      "size": 75568,
+      "sha256": "af63fa54e83b51da1fc8437d6a0c333e6ca4ddff1b6a8b90a8ac7b6fe1adbd89"
+    },
+    "blend": {
+      "path": "assets/village/village-picnic-table-01/v1.0.0/source.blend",
+      "size": 607764,
+      "sha256": "f87eb8609edf69d2db9857df0deda36c1cdefa8405d567e4197c1462a93f07df"
+    },
+    "generator": {
+      "path": "assets/village/village-picnic-table-01/v1.0.0/generate.py",
+      "size": 15676,
+      "sha256": "161d254d7fc04efb384deaccff50418475b99ea40d502a4f33684e5318552393"
+    },
+    "render": {
+      "path": "assets/village/village-picnic-table-01/v1.0.0/thumbnail.png",
+      "size": 341040,
+      "sha256": "03f1ef07a6e8e72762ca8a5399be089cf93d92cf24ac22c40f6c4d433a98ceb3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
