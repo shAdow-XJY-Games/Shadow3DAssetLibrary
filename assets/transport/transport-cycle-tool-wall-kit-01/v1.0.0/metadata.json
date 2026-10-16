@@ -1,0 +1,42 @@
+{
+  "id": "transport-cycle-tool-wall-kit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "Editable Cycle Service Tool Wall Kit",
+  "description": "Original S01 static wall-mounted service kit with a continuous backboard, two rear mounting cleats, two open-jaw wrench sizes and one continuous six-sided L-key. Each tool is a named independently editable mesh with its own centered origin, resting on a real small bearing shelf inside an open keeper bracket. The two rear cleat faces define the mounting plane; the local bottom is an installation datum, not a ground support. One kit, no separately counted wrench sizes. No tool operation, animated removal or structural load rating.",
+  "bounds": {
+    "x": 0.800000011920929,
+    "y": 0.10200000181794167,
+    "z": 0.550000011920929,
+    "unit": "m"
+  },
+  "triangles": 940,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-cycle-tool-wall-kit-01/v1.0.0/model.glb",
+      "size": 73080,
+      "sha256": "4c76563ce62f3f09a151b987d105546b5472b39f9b694c3b6ed6111c01a12945"
+    },
+    "blend": {
+      "path": "assets/transport/transport-cycle-tool-wall-kit-01/v1.0.0/source.blend",
+      "size": 783692,
+      "sha256": "148e24403da15899e181023dff4f6487d3a9ecccff6825193493a5993196e0c4"
+    },
+    "generator": {
+      "path": "assets/transport/transport-cycle-tool-wall-kit-01/v1.0.0/generate.py",
+      "size": 33532,
+      "sha256": "2b9ceacddc5a17db221de9a02cc0f3d5cdb5c3bdc12ad783721a885d35fc26f4"
+    },
+    "render": {
+      "path": "assets/transport/transport-cycle-tool-wall-kit-01/v1.0.0/thumbnail.png",
+      "size": 244730,
+      "sha256": "13c5c55247ec7a2951efa5ea70a08368f6ef731c14b005b95a0895f2132fc5b6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

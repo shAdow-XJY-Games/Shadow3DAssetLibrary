@@ -1,0 +1,42 @@
+{
+  "id": "transport-cycle-repair-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Split-Clamp Bicycle Repair Stand",
+  "description": "Original S01 static service stand with linked long stabilizing feet, a fixed braced raised arm and two separately editable split clamp jaws. The inner eight-sided clamp surfaces match the measured seat-tube section of transport-city-bicycle-01 in the documented fixed elevated display pose, with its unchanged wheels and deployed kickstand clear of the floor. A visible fixed screw and hand knob identify the clamp. No lifting trajectory, clamp actuation, load rating or repair simulation is provided.",
+  "bounds": {
+    "x": 0.800000011920929,
+    "y": 0.6850000023841858,
+    "z": 1.262673020362854,
+    "unit": "m"
+  },
+  "triangles": 468,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-cycle-repair-stand-01/v1.0.0/model.glb",
+      "size": 40352,
+      "sha256": "b1518e76f955eebf79485d327938b5a8b16cebac97da144ca061d3365b0458d9"
+    },
+    "blend": {
+      "path": "assets/transport/transport-cycle-repair-stand-01/v1.0.0/source.blend",
+      "size": 664744,
+      "sha256": "78bdd36dc81ba6d2ea397b324f1c9c21d8bda8834da870964e900f48317f1ed6"
+    },
+    "generator": {
+      "path": "assets/transport/transport-cycle-repair-stand-01/v1.0.0/generate.py",
+      "size": 32508,
+      "sha256": "2b60e1febc6fd2590d926e4017f10165c59104e0103ca097b76ea85db35230e3"
+    },
+    "render": {
+      "path": "assets/transport/transport-cycle-repair-stand-01/v1.0.0/thumbnail.png",
+      "size": 177441,
+      "sha256": "313d3b718d8ce4cd521f8dd19ccc33de9b0944cfc9ec2b7411dbda225589a1b3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
