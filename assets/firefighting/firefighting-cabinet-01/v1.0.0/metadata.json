@@ -1,0 +1,42 @@
+{
+  "id": "firefighting-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "firefighting",
+  "style": "soft-low-poly",
+  "title": "Open Equipment Cabinet",
+  "description": "Original open-front closed-thickness equipment cabinet with side/rear panels, shelf and blank identifier plaque. Static game module, no safety compliance or installation claim.",
+  "bounds": {
+    "x": 0.86,
+    "y": 0.4675,
+    "z": 1.21,
+    "unit": "m"
+  },
+  "triangles": 308,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/firefighting/firefighting-cabinet-01/v1.0.0/model.glb",
+      "size": 26432,
+      "sha256": "8458c93faf6789acd6c46d53ce0d049349e4e0e0dbcb8b94ab7aab68c6060c54"
+    },
+    "blend": {
+      "path": "assets/firefighting/firefighting-cabinet-01/v1.0.0/source.blend",
+      "size": 533912,
+      "sha256": "b3fb4e8e31e85ef2ce905d0c90d0b70c297516b376b249cfa39d54dde8c675ea"
+    },
+    "generator": {
+      "path": "assets/firefighting/firefighting-cabinet-01/v1.0.0/generate.py",
+      "size": 25907,
+      "sha256": "860b83a699a98142b66839df17c29c5f8417bd5c08b79d6eb50c6e407dc7ec62"
+    },
+    "render": {
+      "path": "assets/firefighting/firefighting-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 329823,
+      "sha256": "e93fe3889ca56d01527ee4bc9d0b24f3c3d066400ca32c16d15ba8c15c39f747"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "firefighting-extinguisher-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "firefighting",
+  "style": "soft-low-poly",
+  "title": "Static Extinguisher Prop",
+  "description": "Original low-poly visual equipment prop with separate tank, valve, genuine open carry handle, connector, curved hose and nozzle. No operating instructions, pressure rating or safety efficacy claim.",
+  "bounds": {
+    "x": 0.355,
+    "y": 0.24,
+    "z": 0.65456,
+    "unit": "m"
+  },
+  "triangles": 520,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/firefighting/firefighting-extinguisher-01/v1.0.0/model.glb",
+      "size": 37144,
+      "sha256": "fc8aedc92bb3ffc0fdc16d5bf17652f02319d687285949980b586872c81fbc4c"
+    },
+    "blend": {
+      "path": "assets/firefighting/firefighting-extinguisher-01/v1.0.0/source.blend",
+      "size": 555432,
+      "sha256": "e0c237da8b6a6d75e228aed0bb38d1609142a8983ab3d692430c6ad21259beba"
+    },
+    "generator": {
+      "path": "assets/firefighting/firefighting-extinguisher-01/v1.0.0/generate.py",
+      "size": 26176,
+      "sha256": "e8d38156372145bb76a1953dcdaec867bf6e11bb335bcb600e25a161824caf61"
+    },
+    "render": {
+      "path": "assets/firefighting/firefighting-extinguisher-01/v1.0.0/thumbnail.png",
+      "size": 293935,
+      "sha256": "31ebbcf8ed946d3fc857b18e4bfd279ba299ea11056bfe66e5cee99cfc07710c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

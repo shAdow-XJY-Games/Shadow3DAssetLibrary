@@ -1,0 +1,42 @@
+{
+  "id": "firefighting-equipment-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "firefighting",
+  "style": "soft-low-poly",
+  "title": "Fire Equipment Display Corner",
+  "description": "Original static visual equipment corner with one complete unit resting in an open cabinet and another freestanding beside it. No operation, fire simulation or safety efficacy claim.",
+  "bounds": {
+    "x": 2.4,
+    "y": 2.2,
+    "z": 1.322,
+    "unit": "m"
+  },
+  "triangles": 1392,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/firefighting/firefighting-equipment-corner-scene-01/v1.0.0/model.glb",
+      "size": 97812,
+      "sha256": "70faf150279a1194fb015f56d66d7ac00e629bac2ecc2d5f969c97e542649d1b"
+    },
+    "blend": {
+      "path": "assets/firefighting/firefighting-equipment-corner-scene-01/v1.0.0/source.blend",
+      "size": 673972,
+      "sha256": "ed0b125adde83f2003da848b96bfa518ab253555de8cdb5ac6d0e857d14e5d38"
+    },
+    "generator": {
+      "path": "assets/firefighting/firefighting-equipment-corner-scene-01/v1.0.0/generate.py",
+      "size": 28906,
+      "sha256": "1ae92ed0738780f6c6a29a28af2420a4651616a31c32937eb19ba4492ac6baf6"
+    },
+    "render": {
+      "path": "assets/firefighting/firefighting-equipment-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 320929,
+      "sha256": "a0757cc61dce895067d3e58e1001938db8ae88436670aceb37b8cf51db3c7d2c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
