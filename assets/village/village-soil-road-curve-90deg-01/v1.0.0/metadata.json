@@ -1,0 +1,42 @@
+{
+  "id": "village-soil-road-curve-90deg-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Quarter-Turn Village Soil Road",
+  "description": "S03 compact quarter-turn soil path for village lanes and pedestrian environment layouts. One closed faceted quarter-sector with shared 2 m top-section ports, 1 m centreline radius, 2 m outer radius and restrained soil/grass shoulders. Place at unit scale; tested 2 mm installation gaps. No vehicle steering, navigation or accessibility guarantee.",
+  "bounds": {
+    "x": 2.0,
+    "y": 2.0,
+    "z": 0.06,
+    "unit": "m"
+  },
+  "triangles": 352,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-soil-road-curve-90deg-01/v1.0.0/model.glb",
+      "size": 17932,
+      "sha256": "e5f9e4ad21f08224810d30dc1a642636debfe8756ab92d97ec374d1b45e6d512"
+    },
+    "blend": {
+      "path": "assets/village/village-soil-road-curve-90deg-01/v1.0.0/source.blend",
+      "size": 581768,
+      "sha256": "783e2f101082f4659bccc6dc5ee40e682c62564eb270a5d096e183c8a034be14"
+    },
+    "generator": {
+      "path": "assets/village/village-soil-road-curve-90deg-01/v1.0.0/generate.py",
+      "size": 41285,
+      "sha256": "6b03a108d2bf90bde7145941c16dc174a354f2e557f6dbff37a4884d184f9ce8"
+    },
+    "render": {
+      "path": "assets/village/village-soil-road-curve-90deg-01/v1.0.0/thumbnail.png",
+      "size": 282715,
+      "sha256": "ce7cefa13860b4be58ebe3d84004bd7f2ce9b1c81afa6857bec6b28977596697"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
