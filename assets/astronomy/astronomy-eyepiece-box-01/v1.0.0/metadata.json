@@ -1,0 +1,42 @@
+{
+  "id": "astronomy-eyepiece-box-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "astronomy",
+  "style": "S08-bright-instrumentation",
+  "title": "Open Three-Pocket Eyepiece Case",
+  "description": "Original S08 static open instrument accessory case with a recessed insert containing three true blind pockets, three independently editable eyepiece barrels, separate collars and recessed glass discs. Positive radial gaps around the barrels and actual opposed bottom contacts define the stored display pose. Closed editable source and GLB components; no lid, insertion animation, optical performance or tracking simulation.",
+  "bounds": {
+    "x": 0.36000001430511475,
+    "y": 0.23999999463558197,
+    "z": 0.10700000077486038,
+    "unit": "m"
+  },
+  "triangles": 836,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/astronomy/astronomy-eyepiece-box-01/v1.0.0/model.glb",
+      "size": 45740,
+      "sha256": "2e5599c35409d52f07fb567113d2fc48934c7c055e989215b21128d3e9d6d5c4"
+    },
+    "blend": {
+      "path": "assets/astronomy/astronomy-eyepiece-box-01/v1.0.0/source.blend",
+      "size": 884764,
+      "sha256": "22a1c0ea1dc0946045c4059702ad5f75e3845ceee1821c00bd753a211a1ba2c6"
+    },
+    "generator": {
+      "path": "assets/astronomy/astronomy-eyepiece-box-01/v1.0.0/generate.py",
+      "size": 32047,
+      "sha256": "0eadf9df3f770ba4c4fde46ce81d0ab3d23b0e366d743e617252321b4c5ea5c8"
+    },
+    "render": {
+      "path": "assets/astronomy/astronomy-eyepiece-box-01/v1.0.0/thumbnail.png",
+      "size": 208115,
+      "sha256": "00edd38fe1ff84949b15cd62603a9630da71c936f67f6b9acb18f10648f2ea33"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

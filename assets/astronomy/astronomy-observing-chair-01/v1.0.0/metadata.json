@@ -1,0 +1,42 @@
+{
+  "id": "astronomy-observing-chair-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "astronomy",
+  "style": "S08-bright-instrumentation",
+  "title": "Open-Frame Observing Rest Chair",
+  "description": "Original S08 static observing rest chair with two open sled side frames, a fixed chamfered seat shell, inset dark pad, low inclined back and rear transverse brace. Distinct grounded open-frame structure for the instrument family. Independently editable source and GLB parts; no adjustment, movement, load rating or ergonomic certification.",
+  "bounds": {
+    "x": 0.4399999976158142,
+    "y": 0.5153660625219345,
+    "z": 0.7900000214576721,
+    "unit": "m"
+  },
+  "triangles": 240,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/astronomy/astronomy-observing-chair-01/v1.0.0/model.glb",
+      "size": 19668,
+      "sha256": "f6bd1f9142a8e4333e1eef135446846a8afed8724a9375eef102500ad99f9617"
+    },
+    "blend": {
+      "path": "assets/astronomy/astronomy-observing-chair-01/v1.0.0/source.blend",
+      "size": 701100,
+      "sha256": "0b6485d0caecc6c0c989d6895a915d5e48d420c66fd720b3106552a6a90b6a45"
+    },
+    "generator": {
+      "path": "assets/astronomy/astronomy-observing-chair-01/v1.0.0/generate.py",
+      "size": 30491,
+      "sha256": "6d75e40bbcaad73f229537fa13868c6378428446c8fa3cc8d40aa687381c648d"
+    },
+    "render": {
+      "path": "assets/astronomy/astronomy-observing-chair-01/v1.0.0/thumbnail.png",
+      "size": 216547,
+      "sha256": "2fa5707a73670ed69de83508669573bf7e6d0ea14efe6a4d8bf6443cf09eba57"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

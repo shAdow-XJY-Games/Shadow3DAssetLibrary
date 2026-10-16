@@ -1,0 +1,42 @@
+{
+  "id": "village-draped-cloth-awning-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Independent Draped Cloth Awning",
+  "description": "Independent S03 draped cloth shelter with a continuous thick broad-fold canvas, four square posts and two real seating bars. Seven editable closed source parts export as one static runtime mesh. Overall 2.4 x 1.68 x 2.462 m. See generate.py opening documentation for origin, optional paving layout and finite geometric checks. Paving and reference figure are not included; no fabric simulation, load or weather guarantee",
+  "bounds": {
+    "x": 2.4,
+    "y": 1.68,
+    "z": 2.462,
+    "unit": "m"
+  },
+  "triangles": 320,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-draped-cloth-awning-01/v1.0.0/model.glb",
+      "size": 21620,
+      "sha256": "34fc59cbcdd6bf78ffae01dbba7d7f52da79e448cdb646f3bd486946aefce607"
+    },
+    "blend": {
+      "path": "assets/village/village-draped-cloth-awning-01/v1.0.0/source.blend",
+      "size": 560176,
+      "sha256": "ac27ea16a3b24e76dc992d84e056dafdede0692aebac1fa82deb0c3bf65500cd"
+    },
+    "generator": {
+      "path": "assets/village/village-draped-cloth-awning-01/v1.0.0/generate.py",
+      "size": 43703,
+      "sha256": "a7626a3014cb04d0d6ad064b52551b299b7f27715eff353d162c3b64b62f5d40"
+    },
+    "render": {
+      "path": "assets/village/village-draped-cloth-awning-01/v1.0.0/thumbnail.png",
+      "size": 325574,
+      "sha256": "e5436e140b1524d7e1a5dbe737e073439a8d7981dc95a4a5221df641328e72d9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
