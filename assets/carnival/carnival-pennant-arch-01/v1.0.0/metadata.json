@@ -1,0 +1,42 @@
+{
+  "id": "carnival-pennant-arch-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "carnival",
+  "style": "soft-low-poly",
+  "title": "Pennant Entrance Arch",
+  "description": "Original semicircular entrance arch with separate feet, posts, curved tube, crossbar and five thick triangular pennants. Overall foot width 1.84m, depth 0.45m and height 2.44m. Independent X layout repeat 2.0m leaves 0.16m between feet. Static visual module, no structural or event-access certification.",
+  "bounds": {
+    "x": 1.84,
+    "y": 0.45,
+    "z": 2.44,
+    "unit": "m"
+  },
+  "triangles": 592,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-pennant-arch-01/v1.0.0/model.glb",
+      "size": 46036,
+      "sha256": "318f558e996c74020549987ecce3b4f7642e28c6168ab2933b68358c691bc797"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-pennant-arch-01/v1.0.0/source.blend",
+      "size": 676360,
+      "sha256": "948393ba7d900d438e811457ae7d127180b3dd1e923786da11ddf1683920f3d2"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-pennant-arch-01/v1.0.0/generate.py",
+      "size": 29997,
+      "sha256": "d4cfa5d87afb49d2499a074af23b731237ca663dc01ac7d9f79e1be18fd68676"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-pennant-arch-01/v1.0.0/thumbnail.png",
+      "size": 295338,
+      "sha256": "b2d8d35bb8ceb3348c4cb1d3944a4f91a21f02e346f8b5274d275b712b9c7342"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

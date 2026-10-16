@@ -1,0 +1,42 @@
+{
+  "id": "carnival-ring-toss-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "soft-low-poly",
+  "title": "Ring-Toss Game Board",
+  "description": "Original ring-toss board with five fixed pegs and three closed geometric torus rings. Rings are resting presentation pieces anchored into the board surface, not animated or simulated. Overall board 0.80x0.60m; editable source parts and no textures required.",
+  "bounds": {
+    "x": 0.8,
+    "y": 0.6,
+    "z": 0.315,
+    "unit": "m"
+  },
+  "triangles": 1504,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-ring-toss-01/v1.0.0/model.glb",
+      "size": 107524,
+      "sha256": "591d5d1f93122c9bb2377f0fb813ea1fec6855a40bce6de6f0a81d8c4797344f"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-ring-toss-01/v1.0.0/source.blend",
+      "size": 727916,
+      "sha256": "5ca6752037249de5bca51156724454300b156adbbca63c80829b4d6512765a3e"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-ring-toss-01/v1.0.0/generate.py",
+      "size": 29583,
+      "sha256": "331a305f201301b9e9a302f5cf93d358ba5ec8fd3701bdd0abb88e8098d6a42e"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-ring-toss-01/v1.0.0/thumbnail.png",
+      "size": 305392,
+      "sha256": "a59032fc2c8940117de6851ab104215dccbffdcdf68b0af16cd07f35b363d7b1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

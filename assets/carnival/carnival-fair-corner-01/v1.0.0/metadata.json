@@ -1,0 +1,42 @@
+{
+  "id": "carnival-fair-corner-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "carnival",
+  "style": "soft-low-poly",
+  "title": "Small Fair Game Corner",
+  "description": "Original small fair corner on a 4.0x3.0m base, with pennant arch and ring-toss board supported on a stand. All source pieces editable. Static game-scene visuals without ring physics, scoring logic or event-safety certification.",
+  "bounds": {
+    "x": 4.0,
+    "y": 3.0,
+    "z": 2.53,
+    "unit": "m"
+  },
+  "triangles": 2536,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-fair-corner-01/v1.0.0/model.glb",
+      "size": 186140,
+      "sha256": "5e72885c265854dec3fc09e35fb7838ce92b33349e0c8652a1965820ac166187"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-fair-corner-01/v1.0.0/source.blend",
+      "size": 1049824,
+      "sha256": "1be92270b601ef5ae61f6f3e86d8805b4fd5bb448dde96dd89cbba122c11bc2c"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-fair-corner-01/v1.0.0/generate.py",
+      "size": 30035,
+      "sha256": "71a34e23d53014a13a3f02145aaf597e9ad041cb52ad38feb4c4030d4e8b5a9a"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-fair-corner-01/v1.0.0/thumbnail.png",
+      "size": 310782,
+      "sha256": "157e2a79dac2e86a0b1426816a5f29f4a3493c3af33244c5ded0c038d377eef6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
