@@ -1,0 +1,42 @@
+{
+  "id": "fishing-rod-rack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "fishing",
+  "style": "soft-low-poly",
+  "title": "Two Position Rod Rack",
+  "description": "Original freestanding rod display module with two open U keepers, crossbar, posts and broad base. Complete module supports paired upright rod grips. Static display geometry, not a safety-rated holder.",
+  "bounds": {
+    "x": 1.0,
+    "y": 0.35,
+    "z": 0.41,
+    "unit": "m"
+  },
+  "triangles": 296,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fishing/fishing-rod-rack-01/v1.0.0/model.glb",
+      "size": 23604,
+      "sha256": "f4578867598f07e18aa5551d185141eff9d72cd9fab3b993cc23a5a9f5898e3a"
+    },
+    "blend": {
+      "path": "assets/fishing/fishing-rod-rack-01/v1.0.0/source.blend",
+      "size": 527292,
+      "sha256": "aefc943c8f5e14f99e7c2e0986a7b83c326496266d4642e726978d74f4fc9b81"
+    },
+    "generator": {
+      "path": "assets/fishing/fishing-rod-rack-01/v1.0.0/generate.py",
+      "size": 25742,
+      "sha256": "77de48a1be6e22cc31dcbfaff7100cb8b4b8b36177a4e014e1b6373dad66a0e6"
+    },
+    "render": {
+      "path": "assets/fishing/fishing-rod-rack-01/v1.0.0/thumbnail.png",
+      "size": 300562,
+      "sha256": "2db855279ebb1a250571fef8244c6a0da47592160c53f50fcb535322520a938a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

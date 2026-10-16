@@ -1,0 +1,42 @@
+{
+  "id": "fishing-equipment-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "fishing",
+  "style": "soft-low-poly",
+  "title": "Angling Equipment Corner",
+  "description": "Original static equipment display with two complete rods supported by the base and keeper clips of a shared rack. Evaluated true overlap anchors verify both grips against the appropriate keeper.",
+  "bounds": {
+    "x": 3.2,
+    "y": 2.4,
+    "z": 2.02578,
+    "unit": "m"
+  },
+  "triangles": 2524,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fishing/fishing-equipment-corner-scene-01/v1.0.0/model.glb",
+      "size": 171596,
+      "sha256": "c28c59778fc987a6242a0298e60a51c2d118fece0afb2f6a5d5ee0b8c493b2de"
+    },
+    "blend": {
+      "path": "assets/fishing/fishing-equipment-corner-scene-01/v1.0.0/source.blend",
+      "size": 712808,
+      "sha256": "0f0cc030b79b75dbc6ad6dc5aab690da6f1903ded724d7168bad93e816d5e861"
+    },
+    "generator": {
+      "path": "assets/fishing/fishing-equipment-corner-scene-01/v1.0.0/generate.py",
+      "size": 29665,
+      "sha256": "934111e239cb9c6d01ef15557512f007bb6a85311bd3dfd4df7de7b23e70414b"
+    },
+    "render": {
+      "path": "assets/fishing/fishing-equipment-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 298909,
+      "sha256": "febe65f3fd6f25232b51073c03c721d117c92a601592f3aff69d0054a1ed3707"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
