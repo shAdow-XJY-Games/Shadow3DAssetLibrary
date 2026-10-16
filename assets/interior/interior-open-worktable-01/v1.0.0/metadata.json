@@ -1,0 +1,42 @@
+{
+  "id": "interior-open-worktable-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "S01 Open Worktable",
+  "description": "Original 1.2m wide, 0.6m deep, 0.9m high open worktable, with four legs, upper aprons, lower side and rear stretchers, and clear front access under the work surface. Individual complete top; not a seamless fitted-kitchen system. Independent editable components in a fixed static pose, with no motion, load or physics claim.",
+  "bounds": {
+    "x": 1.2000000476837158,
+    "y": 0.6000000238418579,
+    "z": 0.8999999761581421,
+    "unit": "m"
+  },
+  "triangles": 528,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-open-worktable-01/v1.0.0/model.glb",
+      "size": 46720,
+      "sha256": "78ec9cdb829e12c333ade0356adee759b8f95bdc7f037fe93ce946b0a487265b"
+    },
+    "blend": {
+      "path": "assets/interior/interior-open-worktable-01/v1.0.0/source.blend",
+      "size": 694676,
+      "sha256": "c301f9ea115036c78f2eaf06c3d26b0c672b5009d63c9320233d97b200d79894"
+    },
+    "generator": {
+      "path": "assets/interior/interior-open-worktable-01/v1.0.0/generate.py",
+      "size": 30478,
+      "sha256": "b4880f9c24dda10b566fa215c394295b6522a8ad448486918c591826480c09d8"
+    },
+    "render": {
+      "path": "assets/interior/interior-open-worktable-01/v1.0.0/thumbnail.png",
+      "size": 184560,
+      "sha256": "172f55ec78f8ba2795b812187b576f0a598ba3ae4953921d8ed15ea39c8689c5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "nature-bank-access-transition-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "nature",
+  "style": "hard-edge-faceted-nature",
+  "title": "Stream Bank Access Transition",
+  "description": "S02 hard-edge faceted earth module with a widened, lowered bank access shelf. Fixed 2 m X repeat with legacy end profiles at X plus or minus 1 m; inland middle width 1.8 m and lowered access around Z .35 to .39 m. Low dry access shelf at local Z .16 m; original scene placement adds Z .09 m with water world Z .16 m, terrain only, no water geometry. Visual modular terrain; no navigation, collision or walkability guarantee.",
+  "bounds": {
+    "x": 2.0,
+    "y": 1.8,
+    "z": 0.55,
+    "unit": "m"
+  },
+  "triangles": 36,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-bank-access-transition-01/v1.0.0/model.glb",
+      "size": 5220,
+      "sha256": "eee911abf6fda11593a2f0a3ca62fe82484e3dbb4dfdadf6848cbc3c82a2dc29"
+    },
+    "blend": {
+      "path": "assets/nature/nature-bank-access-transition-01/v1.0.0/source.blend",
+      "size": 610876,
+      "sha256": "dc24d1d86fe498c406a15f6ec48c801d9c8fbbb5354f67e70447ae5ce50c7f0a"
+    },
+    "generator": {
+      "path": "assets/nature/nature-bank-access-transition-01/v1.0.0/generate.py",
+      "size": 36512,
+      "sha256": "d7feb7405ccc3265325bca238f1363adc25522106464054e815759bb82b9f1c4"
+    },
+    "render": {
+      "path": "assets/nature/nature-bank-access-transition-01/v1.0.0/thumbnail.png",
+      "size": 289458,
+      "sha256": "8b33d002c1a9910976166fa4175cabf007269830524b408cd793447f4cb9e740"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
