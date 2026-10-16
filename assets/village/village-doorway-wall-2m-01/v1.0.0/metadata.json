@@ -1,0 +1,42 @@
+{
+  "id": "village-doorway-wall-2m-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Open Doorway Wall, 2 m",
+  "description": "Independent S03 modular village wall: 2 m repeat, 2.6 m height, 0.22 m plaster core and two-sided timber details. Matching X-end plaster profiles with 2 mm top-rail installation seam. Real open doorway, 0.98 m clear width and 2.05 m clear height measured above the 0.08 m threshold, with no door leaf. Cottage v2 supplies the appearance reference, not a directly interchangeable building system. Static visual module; no structural, collision or navigation claims.",
+  "bounds": {
+    "x": 2.0,
+    "y": 0.32,
+    "z": 2.6,
+    "unit": "m"
+  },
+  "triangles": 96,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-doorway-wall-2m-01/v1.0.0/model.glb",
+      "size": 9744,
+      "sha256": "2d0dd33e3699efed060ab61a245f71303c9f523b5fdb389cbb1b564080e0d2a5"
+    },
+    "blend": {
+      "path": "assets/village/village-doorway-wall-2m-01/v1.0.0/source.blend",
+      "size": 600700,
+      "sha256": "c776e67c4c4c9dae7699e5fca5397b9814177ad2a312843934c6aa9131530fb6"
+    },
+    "generator": {
+      "path": "assets/village/village-doorway-wall-2m-01/v1.0.0/generate.py",
+      "size": 33762,
+      "sha256": "aab54872bfe4165d4f7ca9667e6382cb56563f7c0e11f6bd126ff2b5ae9987fa"
+    },
+    "render": {
+      "path": "assets/village/village-doorway-wall-2m-01/v1.0.0/thumbnail.png",
+      "size": 315084,
+      "sha256": "899640a2673c3b64fbc99c80980958df9d75dc829089e8f3c321492f0adbf6b8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
