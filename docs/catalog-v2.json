@@ -284,6 +284,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "01606514f14383d3c9c86f97aaca2ac7f9bffa0b"
+    },
+    "transport-cycle-rack-v2": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "33ef114359b1beefa944631d60e28df4d21599df"
     }
   },
   "assetCount": 211,
@@ -326,9 +331,9 @@
     {
       "theme": "transport",
       "count": 16,
-      "path": "metadata/3f3b069e8a8c0ca3c9d5a1198e5d4f5a15fdca4678e11402184a66e8c2281ca0.json",
-      "size": 22086,
-      "sha256": "3f3b069e8a8c0ca3c9d5a1198e5d4f5a15fdca4678e11402184a66e8c2281ca0"
+      "path": "metadata/95c3cb178c10d852ac38ac7d9fc6b636b78fd16239cdb364b5e4a1c8aa6f312d.json",
+      "size": 22450,
+      "sha256": "95c3cb178c10d852ac38ac7d9fc6b636b78fd16239cdb364b5e4a1c8aa6f312d"
     },
     {
       "theme": "entryway",
