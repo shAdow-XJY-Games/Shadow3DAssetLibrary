@@ -489,9 +489,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "bab88da42f06a9f3dd16110ce4cd5182e5f5aa24"
+    },
+    "dining-setting-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "cb151c4ce73b2c570aff1df7376ac57f767023db"
     }
   },
-  "assetCount": 265,
+  "assetCount": 266,
   "shards": [
     {
       "theme": "camping",
@@ -509,10 +514,10 @@
     },
     {
       "theme": "dining",
-      "count": 7,
-      "path": "metadata/33e40f222ed8ce7860c87faf02af26034af806a4b938718af469875fd48bedf2.json",
-      "size": 9498,
-      "sha256": "33e40f222ed8ce7860c87faf02af26034af806a4b938718af469875fd48bedf2"
+      "count": 8,
+      "path": "metadata/22b798bc417d2fef2ddaea16a5507d7498d6652ac16063120cb4e3e610805976.json",
+      "size": 11128,
+      "sha256": "22b798bc417d2fef2ddaea16a5507d7498d6652ac16063120cb4e3e610805976"
     },
     {
       "theme": "kitchen",
