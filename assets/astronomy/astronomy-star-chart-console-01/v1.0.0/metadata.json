@@ -1,0 +1,42 @@
+{
+  "id": "astronomy-star-chart-console-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "astronomy",
+  "style": "S08-bright-instrumentation",
+  "title": "Open-Yoke Star Chart Instrument Console",
+  "description": "Original S08 static low-poly star-chart console with a continuous open U-shaped support, two grounded feet, chamfered layered instrument housing and a truly recessed display. Separate named display panel, six star markers and five links form an original fictional chart and can be replaced independently in source and GLB. Sparse fixed controls; no live astronomical data, precision navigation, motion or tracking simulation.",
+  "bounds": {
+    "x": 0.8500000238418579,
+    "y": 0.5719945430755615,
+    "z": 1.141087293624878,
+    "unit": "m"
+  },
+  "triangles": 712,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/astronomy/astronomy-star-chart-console-01/v1.0.0/model.glb",
+      "size": 54780,
+      "sha256": "440bb2288a409d758ea685d2ae35b927ec43c4cd79d5628ade690572f93b3d02"
+    },
+    "blend": {
+      "path": "assets/astronomy/astronomy-star-chart-console-01/v1.0.0/source.blend",
+      "size": 932436,
+      "sha256": "398e6b492706ce6d7a498a4dc1ba2881498477a88f08766f028fab65d2cb95b4"
+    },
+    "generator": {
+      "path": "assets/astronomy/astronomy-star-chart-console-01/v1.0.0/generate.py",
+      "size": 32015,
+      "sha256": "802d977c70c1436cdb5b8be734b295f0d0781a91b22174d4cf1da1eb9e229d2a"
+    },
+    "render": {
+      "path": "assets/astronomy/astronomy-star-chart-console-01/v1.0.0/thumbnail.png",
+      "size": 222494,
+      "sha256": "c424824a759bbd87b46ae1e1025d531a8b70c0afb913dcbc00a800f866bd3af5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

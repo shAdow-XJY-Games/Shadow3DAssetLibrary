@@ -1,0 +1,42 @@
+{
+  "id": "village-stone-box-culvert-2m-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Village Stone Box Culvert 2m",
+  "description": "S03 raised soil-road module with a small true stone-slab through channel. A 2 m road footprint matches existing rising-road high ends, with seven editable closed source parts and one static runtime mesh. Clear opening 0.34 x 0.24 m; its actual stone bottom is 0.06 m above the mounting plane. Overall depth includes 60 mm lining projections at both ends. See generate.py opening documentation for exact profile and placement. No water, navigation or structural performance guarantee.",
+  "bounds": {
+    "x": 2.0,
+    "y": 2.12,
+    "z": 0.56,
+    "unit": "m"
+  },
+  "triangles": 166,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-stone-box-culvert-2m-01/v1.0.0/model.glb",
+      "size": 13256,
+      "sha256": "8672592d1ddb79761902b6342ccd4ad89fcf24ac836018945c1770eecd96bba3"
+    },
+    "blend": {
+      "path": "assets/village/village-stone-box-culvert-2m-01/v1.0.0/source.blend",
+      "size": 646100,
+      "sha256": "77fa7f493c453275c5f1cf325ec507855c9697f438eaa27eec25429b73566450"
+    },
+    "generator": {
+      "path": "assets/village/village-stone-box-culvert-2m-01/v1.0.0/generate.py",
+      "size": 43699,
+      "sha256": "e310d92a43ed1a83131e68976c571b7947c16e078b8737009d71748b1ce65bc4"
+    },
+    "render": {
+      "path": "assets/village/village-stone-box-culvert-2m-01/v1.0.0/thumbnail.png",
+      "size": 308970,
+      "sha256": "9d0cb2ad0925b4e9f51537fdc84475f8a260c0709d8b9e5d98304091eb1d41fc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
