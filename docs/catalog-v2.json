@@ -209,9 +209,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "4e5591c8651f74714f2975b2bfba0a34d63fe59f"
+    },
+    "nature-hero-outcrop": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "61021021b91199798e68b6d21cf5a5e8aa4fce01"
     }
   },
-  "assetCount": 187,
+  "assetCount": 188,
   "shards": [
     {
       "theme": "camping",
@@ -264,10 +269,10 @@
     },
     {
       "theme": "nature",
-      "count": 7,
-      "path": "metadata/7247b7fa8639d74e3b9ae5ebcf7e9af881b2bfa419a3b0f77a8f2834b31c7985.json",
-      "size": 9209,
-      "sha256": "7247b7fa8639d74e3b9ae5ebcf7e9af881b2bfa419a3b0f77a8f2834b31c7985"
+      "count": 8,
+      "path": "metadata/39c3d56b906de9da80602d606f3433385bc40d1f50a185bfae6c3816aacd3d38.json",
+      "size": 10561,
+      "sha256": "39c3d56b906de9da80602d606f3433385bc40d1f50a185bfae6c3816aacd3d38"
     },
     {
       "theme": "astronomy",
