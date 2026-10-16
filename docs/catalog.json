@@ -765,6 +765,1690 @@
       },
       "status": "verified",
       "license": "All rights reserved"
+    },
+    {
+      "id": "dining-booth-straight-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "modular",
+      "theme": "dining",
+      "style": "soft-low-poly",
+      "title": "Maple Booth Module",
+      "description": "Original modular seafoam dining booth with a solid maple plinth, attached backrest and ivory trim. Repeat at 1.2 m X spacing, front -Y and backrest +Y; self-contained instances need no shared-part removal, with intentional beveled seams.",
+      "bounds": {
+        "x": 1.2,
+        "y": 0.615,
+        "z": 1.125,
+        "unit": "m"
+      },
+      "triangles": 264,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/dining/dining-booth-straight-01/v1.0.0/model.glb",
+          "size": 21756,
+          "sha256": "3de42d195eba2f64e9e29a939dcc787d60e36fe605e329e3e5ef671bbba3b389"
+        },
+        "blend": {
+          "path": "assets/dining/dining-booth-straight-01/v1.0.0/source.blend",
+          "size": 527444,
+          "sha256": "670d82409b16d6a8c02cbd148cb21e395f897dba3b4d035e78ce6aa5f1468548"
+        },
+        "generator": {
+          "path": "assets/dining/dining-booth-straight-01/v1.0.0/generate.py",
+          "size": 9738,
+          "sha256": "1424a7d05de721433c134d1780ec8d4e9fe1c67e968d088c0f4939721c64c600"
+        },
+        "render": {
+          "path": "assets/dining/dining-booth-straight-01/v1.0.0/thumbnail.png",
+          "size": 332639,
+          "sha256": "03a62b791a0fc487dd73520a4d2cbdc72f4ea9bc06195617c8de70c87685baa3"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "dining-corner-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "dining",
+      "style": "soft-low-poly",
+      "title": "Quiet Corner Dining Set",
+      "description": "Original modular dining vignette with booth, round table, chair, freestanding lattice divider, service counter and a ceramic mug. Self-contained procedural source.",
+      "bounds": {
+        "x": 3.5,
+        "y": 2.4,
+        "z": 1.6,
+        "unit": "m"
+      },
+      "triangles": 3540,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/dining/dining-corner-scene-01/v1.0.0/model.glb",
+          "size": 240892,
+          "sha256": "08334c2073926d804fc996cc7fe0d4dffbd38e2070f2ffbbf506233b1798e63e"
+        },
+        "blend": {
+          "path": "assets/dining/dining-corner-scene-01/v1.0.0/source.blend",
+          "size": 878272,
+          "sha256": "513039f7ee32b68ad7dc79838e5f41c858798596d5c768bbdd48a893cba97d9d"
+        },
+        "generator": {
+          "path": "assets/dining/dining-corner-scene-01/v1.0.0/generate.py",
+          "size": 15999,
+          "sha256": "9a168a434f9e712563584a1e8d8d413e051cd4c1844682c0e6d5dcc37970009f"
+        },
+        "render": {
+          "path": "assets/dining/dining-corner-scene-01/v1.0.0/thumbnail.png",
+          "size": 347951,
+          "sha256": "1855c9b77e62072da9a2f750f1e2246696519527f394ab7a318d522a4181c8a0"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "dining-lattice-divider-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "modular",
+      "theme": "dining",
+      "style": "soft-low-poly",
+      "title": "Freestanding Lattice Divider",
+      "description": "Original freestanding modular dining divider with maple posts, seafoam slats, ivory crossrails and two wide stabilizing feet. Repeat freestanding units along X at 1.2 m spacing, or rotate about Z. Broad faces are +/-Y. Feet determine the pitch and meet at the module boundary; the upright frames intentionally retain an 8 cm gap. Each instance is complete with its own stabilizers; no shared-part deletion or mesh welding is needed.",
+      "bounds": {
+        "x": 1.2,
+        "y": 0.48,
+        "z": 1.54,
+        "unit": "m"
+      },
+      "triangles": 572,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/dining/dining-lattice-divider-01/v1.0.0/model.glb",
+          "size": 46440,
+          "sha256": "67c86e4a2f3204eb73ea6c578caa5d1328d8deb523702893682c424161956f5a"
+        },
+        "blend": {
+          "path": "assets/dining/dining-lattice-divider-01/v1.0.0/source.blend",
+          "size": 572720,
+          "sha256": "065d5636a5db6e304e80d0836d55c916081739f5c27d584fc44861eda08ea6ef"
+        },
+        "generator": {
+          "path": "assets/dining/dining-lattice-divider-01/v1.0.0/generate.py",
+          "size": 10100,
+          "sha256": "f848702e059014e561e6d393cca11691249f6f1715f6bdf8747d6f179f26353f"
+        },
+        "render": {
+          "path": "assets/dining/dining-lattice-divider-01/v1.0.0/thumbnail.png",
+          "size": 333608,
+          "sha256": "a9d4a1cf3a3d2bc87ea721fea6be5191f58a2cbbc7e206110aba966abbb39765"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "dining-service-counter-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "modular",
+      "theme": "dining",
+      "style": "soft-low-poly",
+      "title": "Open Service Counter",
+      "description": "Original multiuse dining service counter with two open shelves, solid side supports and a broad maple top. Repeat along X at 1.34 m spacing. Open shelves face -Y; rear panel is +Y. Top widths align; the 1.30 m base leaves a 4 cm seam and the 1.28 m side-panel envelope leaves a 6 cm seam. Each instance is complete; no shared-part deletion or mesh welding is needed.",
+      "bounds": {
+        "x": 1.34,
+        "y": 0.54,
+        "z": 0.985,
+        "unit": "m"
+      },
+      "triangles": 308,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/dining/dining-service-counter-01/v1.0.0/model.glb",
+          "size": 25756,
+          "sha256": "e1351b492c8fc1ceb0a6fd1509161acd0caec27211f3c626e5b7e919d1f8bcab"
+        },
+        "blend": {
+          "path": "assets/dining/dining-service-counter-01/v1.0.0/source.blend",
+          "size": 533912,
+          "sha256": "d223eda6f565029e606584435ad253f2b607d808c1eb6d53045ae28d8ea81376"
+        },
+        "generator": {
+          "path": "assets/dining/dining-service-counter-01/v1.0.0/generate.py",
+          "size": 9935,
+          "sha256": "c8b32d0f843a7ea660533d96110ea36eacd136077c1184c14ae9a45d3acb0d3b"
+        },
+        "render": {
+          "path": "assets/dining/dining-service-counter-01/v1.0.0/thumbnail.png",
+          "size": 333416,
+          "sha256": "85d5aa759a685ebba9a874840070edc5c70e15adc1f1da2c11909645feed7f6d"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "kitchen-cutting-board-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "soft-low-poly",
+      "title": "Maple Prep Board",
+      "description": "Original rounded maple chopping board with contrasting inset grain strips and a hanging-hole handle.",
+      "bounds": {
+        "x": 0.28,
+        "y": 0.484,
+        "z": 0.0368,
+        "unit": "m"
+      },
+      "triangles": 648,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-cutting-board-01/v1.0.0/model.glb",
+          "size": 49996,
+          "sha256": "17a2e32132fcdfb1ab56f3cf57be6fd5f594fea0cc970307427377d2f53bd85d"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-cutting-board-01/v1.0.0/source.blend",
+          "size": 545108,
+          "sha256": "569332361f5360d84e324d569aebcf70bbeffa7cf1e8634b281e0d5f8bdd7a1e"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-cutting-board-01/v1.0.0/generate.py",
+          "size": 9304,
+          "sha256": "9bc16d2e4572190f20ad304a9998cbc31e1f8a5577e3de3d52d2226d474df402"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-cutting-board-01/v1.0.0/thumbnail.png",
+          "size": 342128,
+          "sha256": "4a46d8fe259a8fe9bfeab3d3a8cb58c3e955de626d361ec24677124a0ddb9a99"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "kitchen-dining-chair-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "soft-low-poly",
+      "title": "Hearth Dining Chair",
+      "description": "Original maple and seafoam dining chair with three ivory back slats, four legs and real supporting stretchers.",
+      "bounds": {
+        "x": 0.43,
+        "y": 0.43,
+        "z": 0.945,
+        "unit": "m"
+      },
+      "triangles": 616,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-dining-chair-01/v1.0.0/model.glb",
+          "size": 48068,
+          "sha256": "67af024ee19d127071489c40e3ffc184dab118e7e375b7c0c6280413440fa2f8"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-dining-chair-01/v1.0.0/source.blend",
+          "size": 579188,
+          "sha256": "508d0e5ff4766824f40ba46268924b80489d5fe6f97a1c4a9c20a970bdfab138"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-dining-chair-01/v1.0.0/generate.py",
+          "size": 9452,
+          "sha256": "46ce76c27065aca5e6faf75371063ac23da9fcaa8baa6146674ae6091c1f47ec"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-dining-chair-01/v1.0.0/thumbnail.png",
+          "size": 318251,
+          "sha256": "b718772ce8f931689a00db8c81821ed66243d87fd560477c4432ab7b0433d3b3"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "kitchen-frying-pan-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "soft-low-poly",
+      "title": "Sunday Skillet",
+      "description": "Original shallow seafoam skillet with ivory rim, dark cooking surface and broad wooden grip.",
+      "bounds": {
+        "x": 0.525,
+        "y": 0.31,
+        "z": 0.063,
+        "unit": "m"
+      },
+      "triangles": 980,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-frying-pan-01/v1.0.0/model.glb",
+          "size": 65308,
+          "sha256": "c5593bf5c2da84e5e0cf26d6efca8e5282b4e66e7ba676a794c1db38cad64857"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-frying-pan-01/v1.0.0/source.blend",
+          "size": 540340,
+          "sha256": "c5a81d0f755cf906423c59ce317d063b78fd39779962846a2902656ebdb9d98f"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-frying-pan-01/v1.0.0/generate.py",
+          "size": 9196,
+          "sha256": "1d23cc7a3d22e7523862e1039a6e2e5d207350c49f2794d60db579192f41590a"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-frying-pan-01/v1.0.0/thumbnail.png",
+          "size": 336646,
+          "sha256": "cf11d45f13dca1ee057ee0879c86fe7073cc13c60f3cc5ba871dfa95422c1e76"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "kitchen-hearth-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "kitchen",
+      "style": "soft-low-poly",
+      "title": "The Little Hearth Kitchen",
+      "description": "Original compact kitchen vignette with a two-burner stove, working-height sink cabinet, maple prep station and six separately editable cookware props.",
+      "bounds": {
+        "x": 2.40677,
+        "y": 1.05,
+        "z": 1.13774,
+        "unit": "m"
+      },
+      "triangles": 8024,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-hearth-scene-01/v1.0.0/model.glb",
+          "size": 529344,
+          "sha256": "43cdbdb10bde461071b9eea439e7aa0a7dce94110da1bd52586c37bec6defffc"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-hearth-scene-01/v1.0.0/source.blend",
+          "size": 1176436,
+          "sha256": "7e547340b2cca6f81554af7472870cbb46770be3f155f543f2e8d14dbc50bb81"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-hearth-scene-01/v1.0.0/generate.py",
+          "size": 15475,
+          "sha256": "4ffd393191f24dc26d41d579e9b8a177c77ec97ea5eb85b4db61cbc8faf29ed0"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-hearth-scene-01/v1.0.0/thumbnail.png",
+          "size": 335121,
+          "sha256": "9f12fa0ad41aa40b4e0de46d23bb6b57bcd74ca472547325b96eb8d6dbb21375"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "kitchen-measuring-spoon-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "soft-low-poly",
+      "title": "Bakers Measure",
+      "description": "Original deep seafoam measuring scoop with an ivory rolled lip and short maple handle.",
+      "bounds": {
+        "x": 0.1975,
+        "y": 0.082,
+        "z": 0.052,
+        "unit": "m"
+      },
+      "triangles": 872,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-measuring-spoon-01/v1.0.0/model.glb",
+          "size": 59548,
+          "sha256": "fb0ea94a00a31c1d5636fa251837ef2d0bf8a4e520a0df83739ede32e26fe355"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-measuring-spoon-01/v1.0.0/source.blend",
+          "size": 531664,
+          "sha256": "b20f99e10515703b2a3f47fac246e2b248c5aa855272c9f72af00bfca12c5f9b"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-measuring-spoon-01/v1.0.0/generate.py",
+          "size": 9050,
+          "sha256": "a8e74448eebd54760ea88fabf9c821b4df8c46d15bfb882f5c1be30154a86a61"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-measuring-spoon-01/v1.0.0/thumbnail.png",
+          "size": 345642,
+          "sha256": "c8654d79790fc38a28a6d9c671feaa3d7fff4842cbbf76d04c7d4f179f9ffca6"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "kitchen-mixing-bowl-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "soft-low-poly",
+      "title": "Maple Mixing Bowl",
+      "description": "Original thick-walled wooden mixing bowl with a cream rim and seafoam foot ring.",
+      "bounds": {
+        "x": 0.256,
+        "y": 0.256,
+        "z": 0.119,
+        "unit": "m"
+      },
+      "triangles": 1272,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-mixing-bowl-01/v1.0.0/model.glb",
+          "size": 61744,
+          "sha256": "db498a0f437cf7f54ca504cdb589208a6d10fea47d61be211b4d74b7c661ab66"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-mixing-bowl-01/v1.0.0/source.blend",
+          "size": 544092,
+          "sha256": "6e5663c6b2b9b050df438195b814be76d2c6cdf60f714b09f937967a78377fea"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-mixing-bowl-01/v1.0.0/generate.py",
+          "size": 9066,
+          "sha256": "9a8f880bb32a28e2b2bdeab7306f663cd38bd449dda2ad8abe305d371df9a26b"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-mixing-bowl-01/v1.0.0/thumbnail.png",
+          "size": 382492,
+          "sha256": "2252625e96ff5cc1554a7b9a6bc3b5ad62a95a6e67a0722419bf38cfb0bdfdb9"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "kitchen-mortar-pestle-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "soft-low-poly",
+      "title": "Herb Mortar and Pestle",
+      "description": "Original ivory mortar with a deep open bowl, seafoam pedestal and a separate tapered maple pestle resting alongside.",
+      "bounds": {
+        "x": 0.325,
+        "y": 0.154,
+        "z": 0.098,
+        "unit": "m"
+      },
+      "triangles": 1044,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-mortar-pestle-01/v1.0.0/model.glb",
+          "size": 46152,
+          "sha256": "6089853242375c04e9fa009e6c2754541b7dce982bb36ab3686052e658f52cc4"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-mortar-pestle-01/v1.0.0/source.blend",
+          "size": 535884,
+          "sha256": "ef867d21700f4d070767a75a3f67845ff99fad8b4618106c204448193d47b24e"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-mortar-pestle-01/v1.0.0/generate.py",
+          "size": 9223,
+          "sha256": "ee8fe88aff89b858b5c729256be5c11ea71129be45a4f88bf234994fd6a09b6c"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-mortar-pestle-01/v1.0.0/thumbnail.png",
+          "size": 347490,
+          "sha256": "8d872f241a3f9a6a5930481059861a5ba292bf737b93353a1d2e55565977c417"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "kitchen-mug-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "soft-low-poly",
+      "title": "Morning Tea Mug",
+      "description": "Original ivory ceramic mug with a seafoam foot, curved maple-color loop and a genuinely hollow interior.",
+      "bounds": {
+        "x": 0.13459,
+        "y": 0.092,
+        "z": 0.104,
+        "unit": "m"
+      },
+      "triangles": 916,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-mug-01/v1.0.0/model.glb",
+          "size": 40784,
+          "sha256": "688bd42250f0434acef8801df1280caca75ab93c75e0c426ecaec31b3307fca8"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-mug-01/v1.0.0/source.blend",
+          "size": 531716,
+          "sha256": "9d802999ef4ba10b0319ce5027749641273ea0ef17a781da48124c0d8cc08dce"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-mug-01/v1.0.0/generate.py",
+          "size": 9205,
+          "sha256": "f8f5bda63bcc4c9c4da68203ac2fb1909339c1a69ec15ca4513b50669047e8d5"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-mug-01/v1.0.0/thumbnail.png",
+          "size": 383392,
+          "sha256": "90cef3309c731c5cea9c99c1814c3cf3527a2fec526ed695463b646c7c7eb0ce"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "kitchen-pantry-scene-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "kitchen",
+      "style": "soft-low-poly",
+      "title": "Pantry Prep Corner",
+      "description": "Original pantry worktable vignette with mixing bowl, herb mortar, chopping board, cup, measure and a low maple step stool. Fully self-contained generation script.",
+      "bounds": {
+        "x": 1.35,
+        "y": 1.2,
+        "z": 0.992,
+        "unit": "m"
+      },
+      "triangles": 5632,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-pantry-scene-01/v1.0.0/model.glb",
+          "size": 353900,
+          "sha256": "fc381767fd87d24a2d0352c53197723011167783e4b9d35b06aa3cb5dd960e97"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-pantry-scene-01/v1.0.0/source.blend",
+          "size": 863280,
+          "sha256": "230e680a5335fa9c3041abf72f349290f6cf971fb87c40c8069d4abddf72e9ac"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-pantry-scene-01/v1.0.0/generate.py",
+          "size": 16912,
+          "sha256": "2484f9042e90e252aa18dc07a1bfb6c040e136e3782436f29a8f6bd7e67f517c"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-pantry-scene-01/v1.0.0/thumbnail.png",
+          "size": 351355,
+          "sha256": "50cee7a7b1f65266b06c0ff76eec35439b3b4dcd1e72cfe5da91098aefa91b31"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "kitchen-round-table-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "soft-low-poly",
+      "title": "Gathering Round Table",
+      "description": "Original compact round maple table with a seafoam cross-frame, four stout legs and ivory leveling feet.",
+      "bounds": {
+        "x": 0.92,
+        "y": 0.92,
+        "z": 0.79,
+        "unit": "m"
+      },
+      "triangles": 820,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-round-table-01/v1.0.0/model.glb",
+          "size": 55096,
+          "sha256": "1b66395c42d5171879db135bff10898fce86ba14fede9a826b1f1fe12eb68fb7"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-round-table-01/v1.0.0/source.blend",
+          "size": 570004,
+          "sha256": "a71b0719a303c97b83bfc26b0cc9d5a0d116473fca36786d03dd138d261bbb90"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-round-table-01/v1.0.0/generate.py",
+          "size": 9330,
+          "sha256": "3abc3cd7fa516f9161abea93b2df95a40b4bc53feabe0e10d9d8d80ff991a3ba"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-round-table-01/v1.0.0/thumbnail.png",
+          "size": 311820,
+          "sha256": "8b6c74e8621255d950167b21cc7f059d8d9073d8bd41055755cb137385d2c3b2"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "kitchen-sink-cabinet-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "soft-low-poly",
+      "title": "Washday Sink Cabinet",
+      "description": "Original seafoam sink cabinet with inset ivory basin, bent mixer faucet and warm wooden door details.",
+      "bounds": {
+        "x": 0.7,
+        "y": 0.584,
+        "z": 1.07774,
+        "unit": "m"
+      },
+      "triangles": 1316,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-sink-cabinet-01/v1.0.0/model.glb",
+          "size": 96304,
+          "sha256": "5ea95628db8b03458860ed293e14dda5a7e15ca20d1fd3bbd8ab428807e5e86f"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-sink-cabinet-01/v1.0.0/source.blend",
+          "size": 666184,
+          "sha256": "ccd465b1de56d9629be4ca6cd078f4eb397c9df1341080ca878aa4885d9dacc2"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-sink-cabinet-01/v1.0.0/generate.py",
+          "size": 10183,
+          "sha256": "73ed024c358d0f937576f7e58a343c9bedc9df1c1d296e3a8c55443e68fbc846"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-sink-cabinet-01/v1.0.0/thumbnail.png",
+          "size": 322210,
+          "sha256": "8a14bd8c1b2a53abc2658cb1b97d929a926aef0e024aa874148e708f716fea39"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "kitchen-slotted-spatula-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "soft-low-poly",
+      "title": "Hearth Slotted Turner",
+      "description": "Original seafoam slotted turner with four real open slots, ivory collar and maple grip.",
+      "bounds": {
+        "x": 0.1,
+        "y": 0.325,
+        "z": 0.032,
+        "unit": "m"
+      },
+      "triangles": 440,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-slotted-spatula-01/v1.0.0/model.glb",
+          "size": 36060,
+          "sha256": "eec12397725f3a4781a27d289e337ffa0e33145bd04b4643589219088cb17cd5"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-slotted-spatula-01/v1.0.0/source.blend",
+          "size": 553316,
+          "sha256": "8e6f4c30365ab544206655f9debdebd7220c644b51b196a2070b9542e647b06c"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-slotted-spatula-01/v1.0.0/generate.py",
+          "size": 9214,
+          "sha256": "a15128cadeeda36b0e8e2e18a1c98f757a49c2815103be599aecb84d05958be3"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-slotted-spatula-01/v1.0.0/thumbnail.png",
+          "size": 335208,
+          "sha256": "04f51a9e6eba865adabed4aceafca96c29dd1d1d2d5860664e1edd34c92667f5"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "kitchen-step-stool-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "soft-low-poly",
+      "title": "Little Pantry Stool",
+      "description": "Original compact maple step stool with a seafoam lower step, ivory rails and four splayed supports.",
+      "bounds": {
+        "x": 0.36,
+        "y": 0.41,
+        "z": 0.3375,
+        "unit": "m"
+      },
+      "triangles": 528,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-step-stool-01/v1.0.0/model.glb",
+          "size": 43120,
+          "sha256": "74279fc3151f468eee0ce6d6c779d913d09cc3b55763efbd6d16d14d2e4e48d2"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-step-stool-01/v1.0.0/source.blend",
+          "size": 566252,
+          "sha256": "096b2ee95fd1cd9e488449ead82ae8817293966c559f1155e811262d1d661fb6"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-step-stool-01/v1.0.0/generate.py",
+          "size": 9329,
+          "sha256": "05db4ec5401d421d51927e97e9c04c1d46a11899b172803a05fdf4c7d3fb915f"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-step-stool-01/v1.0.0/thumbnail.png",
+          "size": 408500,
+          "sha256": "66ffbeea3169f49fcbda17e4a26bce2dddd572e9a8893e954ac0a55dce0c69e1"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "kitchen-stockpot-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "soft-low-poly",
+      "title": "Hearth Enamel Stockpot",
+      "description": "Original open seafoam enamel stockpot with rolled ivory rim, visible inner basin and paired maple loop handles.",
+      "bounds": {
+        "x": 0.41353,
+        "y": 0.29,
+        "z": 0.168,
+        "unit": "m"
+      },
+      "triangles": 1140,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-stockpot-01/v1.0.0/model.glb",
+          "size": 58664,
+          "sha256": "6622ea0531c998ca96cd5a9678062916d4fda7b516d4b3d7c660105f0ce5c30f"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-stockpot-01/v1.0.0/source.blend",
+          "size": 544604,
+          "sha256": "249ee8f2d6a6d656641dc9ef827f3976cee997dc2fdbe3c548431545f0e2a140"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-stockpot-01/v1.0.0/generate.py",
+          "size": 9185,
+          "sha256": "957f1f23bd7e75c9e4cb20c5aeab09215d6a7b572b95dadfbec625d164a2c1c9"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-stockpot-01/v1.0.0/thumbnail.png",
+          "size": 357664,
+          "sha256": "98a8e9dea3a6557c303bc37101056c287dfd540d0627ac5829633bc48d83f42e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "kitchen-stove-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "soft-low-poly",
+      "title": "Hearth Two Burner Stove",
+      "description": "Original compact ivory stove with seafoam side casing, two detailed burners, maple knobs and inset oven door.",
+      "bounds": {
+        "x": 0.63,
+        "y": 0.6215,
+        "z": 0.8475,
+        "unit": "m"
+      },
+      "triangles": 1404,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-stove-01/v1.0.0/model.glb",
+          "size": 92908,
+          "sha256": "126fae257245a0e508e93ee32627f093cbc143cbeadca5f5a474b363e7b48c8b"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-stove-01/v1.0.0/source.blend",
+          "size": 638680,
+          "sha256": "d5ab3c9a3e9c4b5200a7f9858a5a15bb6ecd738fb285e4b8c9eab87b7165c14e"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-stove-01/v1.0.0/generate.py",
+          "size": 9859,
+          "sha256": "2567f46556bcfbc2bd67371acb0583d1f6137d76e4b8fd5ec4690df55f2de49c"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-stove-01/v1.0.0/thumbnail.png",
+          "size": 396668,
+          "sha256": "aac98b04ca4b9fa1537f4302bb926e6949848255b9d6c49f43612fc15df249ca"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "kitchen-wall-shelf-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "kitchen",
+      "style": "soft-low-poly",
+      "title": "Pantry Wall Shelf",
+      "description": "Original maple wall shelf with two triangular seafoam support cheeks and three ivory utility hooks.",
+      "bounds": {
+        "x": 0.8,
+        "y": 0.27772,
+        "z": 0.215,
+        "unit": "m"
+      },
+      "triangles": 288,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/kitchen/kitchen-wall-shelf-01/v1.0.0/model.glb",
+          "size": 22844,
+          "sha256": "28d44a56f40e36144e3ef5237dcc619d14f2f212b2e370cf8da418eaef0e6422"
+        },
+        "blend": {
+          "path": "assets/kitchen/kitchen-wall-shelf-01/v1.0.0/source.blend",
+          "size": 525456,
+          "sha256": "9b827c805aaa8debd5faf7e08c3ce0f32b01e9efd8e507b99e8065da9ad192c3"
+        },
+        "generator": {
+          "path": "assets/kitchen/kitchen-wall-shelf-01/v1.0.0/generate.py",
+          "size": 9349,
+          "sha256": "6af34826f736a9d468223610f7d854a45f92d53045020f966c012776651a552d"
+        },
+        "render": {
+          "path": "assets/kitchen/kitchen-wall-shelf-01/v1.0.0/thumbnail.png",
+          "size": 289139,
+          "sha256": "29daec9c73e4e941701734adffcaad6dd303ec534d6530901f21cebb4b646231"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "village-beehive-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "village",
+      "style": "soft-low-poly",
+      "title": "Meadow Stacked Beehive",
+      "description": "Original raised timber beehive with stacked supers, pitched weatherproof lid, flight board, recessed entrance and four legs. Closed exterior prop.",
+      "bounds": {
+        "x": 0.76127,
+        "y": 0.795,
+        "z": 1.22,
+        "unit": "m"
+      },
+      "triangles": 1100,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-beehive-01/v1.0.0/model.glb",
+          "size": 87424,
+          "sha256": "155f4b62e0a846781fd5e0c8aa04fe06e470cdb7b9a391eeb056defbf9b8c2b7"
+        },
+        "blend": {
+          "path": "assets/village/village-beehive-01/v1.0.0/source.blend",
+          "size": 673504,
+          "sha256": "ab113e70a95773eac02dbbb33c0a5a964b46ed714b108993f72cf7422f3af31a"
+        },
+        "generator": {
+          "path": "assets/village/village-beehive-01/v1.0.0/generate.py",
+          "size": 8937,
+          "sha256": "b9e0d06045977e88a0650ceaf73206366b78e313a7b73156dabae456e1705285"
+        },
+        "render": {
+          "path": "assets/village/village-beehive-01/v1.0.0/thumbnail.png",
+          "size": 410132,
+          "sha256": "eb2f2876da9e31b52a799d7abd5f0adde80bba7bf5acddd87805f46a28f80e1a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "village-cottage-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "modular",
+      "theme": "village",
+      "style": "soft-low-poly",
+      "title": "Meadow Gable Cottage",
+      "description": "Original compact closed exterior cottage with timber-framed plaster, gable roof, stone doorstep, chimney, shuttered windows and a framed door. Exterior-only background architecture; bottom-centre placement.",
+      "bounds": {
+        "x": 3.0188,
+        "y": 2.71,
+        "z": 3.3925,
+        "unit": "m"
+      },
+      "triangles": 2024,
+      "materials": 8,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-cottage-01/v1.0.0/model.glb",
+          "size": 159880,
+          "sha256": "659867604b8e9cafc6126b5ca16f27b3bf95446bff8188e98fa642485a38a456"
+        },
+        "blend": {
+          "path": "assets/village/village-cottage-01/v1.0.0/source.blend",
+          "size": 906420,
+          "sha256": "12c796d7be27decd674a9066bc7a4836586f5d57ea15a43713be9038a5139654"
+        },
+        "generator": {
+          "path": "assets/village/village-cottage-01/v1.0.0/generate.py",
+          "size": 10198,
+          "sha256": "dedd8d7c3062fcbe8f7e3c60fa6def27a1c4f90cbcdd0e8da0107f1b631d3b8e"
+        },
+        "render": {
+          "path": "assets/village/village-cottage-01/v1.0.0/thumbnail.png",
+          "size": 347870,
+          "sha256": "93e13a3ff9c52d980944a6d825e6ce61f33d50b9b2e052713baca0b9c33cd2e5"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "village-farm-workyard-01",
+      "version": "1.0.0",
+      "category": "environments",
+      "assetKind": "scene",
+      "theme": "village",
+      "style": "soft-low-poly",
+      "title": "Meadow Farm Workyard",
+      "description": "Original farm workyard combining a supported firewood storage bay, a thick-walled water trough and three approach stones on a meadow slab. Standalone generator with complete verified support graph.",
+      "bounds": {
+        "x": 4.6,
+        "y": 3.4,
+        "z": 1.81788,
+        "unit": "m"
+      },
+      "triangles": 2088,
+      "materials": 7,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-farm-workyard-01/v1.0.0/model.glb",
+          "size": 153200,
+          "sha256": "610cc96ffcbfb12595fc92254c24341b3306a130b3bc49d12a67497fb122e04b"
+        },
+        "blend": {
+          "path": "assets/village/village-farm-workyard-01/v1.0.0/source.blend",
+          "size": 903348,
+          "sha256": "238b8a81d08ac7264690da64516c11a0eb44c93bc5567186d44168a498b434b2"
+        },
+        "generator": {
+          "path": "assets/village/village-farm-workyard-01/v1.0.0/generate.py",
+          "size": 17984,
+          "sha256": "7f5a4c73e5d5fdab3e820160f30ed8fbad8bcaa92ee880d08b683e2a9a170595"
+        },
+        "render": {
+          "path": "assets/village/village-farm-workyard-01/v1.0.0/thumbnail.png",
+          "size": 345220,
+          "sha256": "d1271f87e7a490ad903d95952bb581a935a82ab680e109975e57c88955e0029a"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "village-fence-corner-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "modular",
+      "theme": "village",
+      "style": "soft-low-poly",
+      "title": "Meadow Right-Angle Fence",
+      "description": "Original right-angle timber corner with a shared central post and two one-metre fence wings. Corner origin is the central post foot; endpoints at (1,0) and (0,1).",
+      "bounds": {
+        "x": 1.1725,
+        "y": 1.1825,
+        "z": 1.2,
+        "unit": "m"
+      },
+      "triangles": 660,
+      "materials": 2,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-fence-corner-01/v1.0.0/model.glb",
+          "size": 52208,
+          "sha256": "24143a1f33e30206ba1c357f6ced6ebd623774c1b999e7e948ee76ab07b149a4"
+        },
+        "blend": {
+          "path": "assets/village/village-fence-corner-01/v1.0.0/source.blend",
+          "size": 562488,
+          "sha256": "e8f80e54987b508bcb0e80a8177d0035ea2e9e0c839c8907368b5f3b7d81b453"
+        },
+        "generator": {
+          "path": "assets/village/village-fence-corner-01/v1.0.0/generate.py",
+          "size": 8675,
+          "sha256": "234d77e2a6e031f1af07dd3c80a10e296850e4a217600bf55c601affd6206f1f"
+        },
+        "render": {
+          "path": "assets/village/village-fence-corner-01/v1.0.0/thumbnail.png",
+          "size": 430044,
+          "sha256": "20a4c6285c6711ad439aed526a26553a26d115158a332c83232186c2f5f4aee6"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "village-fence-gate-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "modular",
+      "theme": "village",
+      "style": "soft-low-poly",
+      "title": "Meadow Hinged Gate",
+      "description": "Original two-metre gateway with hinged timber gate, diagonal sag brace and visible iron latch. End posts at x=-1 and +1 metres match the field fence grid.",
+      "bounds": {
+        "x": 2.22,
+        "y": 0.285,
+        "z": 1.26,
+        "unit": "m"
+      },
+      "triangles": 908,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-fence-gate-01/v1.0.0/model.glb",
+          "size": 70756,
+          "sha256": "8c0750c49690025dc764ae7adcb9f3763e6868e05e409e2c16cffa443cfa9f4c"
+        },
+        "blend": {
+          "path": "assets/village/village-fence-gate-01/v1.0.0/source.blend",
+          "size": 623776,
+          "sha256": "2c7c8f755a31c1f490fef2847fe98ae27a5cb0484eff352568cf1f15b27c7541"
+        },
+        "generator": {
+          "path": "assets/village/village-fence-gate-01/v1.0.0/generate.py",
+          "size": 8786,
+          "sha256": "48c9389d00be066245ef0ade8ec80f99dfa333265126ef47bef5b95cd2bec70f"
+        },
+        "render": {
+          "path": "assets/village/village-fence-gate-01/v1.0.0/thumbnail.png",
+          "size": 400119,
+          "sha256": "51dd1516c638b0ec5b6c38e87f9ca5ab8b8cc87650a65448c041f0b7b2ac5e45"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "village-fence-straight-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "modular",
+      "theme": "village",
+      "style": "soft-low-poly",
+      "title": "Meadow Two-Metre Fence",
+      "description": "Original timber field fence with pointed posts, two rails and staggered pickets. Snaps at post centres x=-1 and +1 metres; GLB is a joined mesh: edit out one duplicate terminal post for each joint; simple 2m instancing overlaps terminal posts.",
+      "bounds": {
+        "x": 2.15839,
+        "y": 0.16,
+        "z": 1.24,
+        "unit": "m"
+      },
+      "triangles": 584,
+      "materials": 2,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-fence-straight-01/v1.0.0/model.glb",
+          "size": 46636,
+          "sha256": "b77d555d5c4feede9b1365fb48c1625144339575fbccddb51fe750f83d78ca2d"
+        },
+        "blend": {
+          "path": "assets/village/village-fence-straight-01/v1.0.0/source.blend",
+          "size": 559536,
+          "sha256": "7c3dbf1be15a57922054c83f3c7b7b6317fc074ee3f9dde9bc1e14b59cc8dc16"
+        },
+        "generator": {
+          "path": "assets/village/village-fence-straight-01/v1.0.0/generate.py",
+          "size": 8822,
+          "sha256": "b9d0b9c9a86b6e0d502041f72f2e905df8c11aca01e83d50d9bdb2e79555daf4"
+        },
+        "render": {
+          "path": "assets/village/village-fence-straight-01/v1.0.0/thumbnail.png",
+          "size": 396667,
+          "sha256": "f87066a7c220af2390d819be3a2dce043901d7519cc7f2642e9be60a975434ff"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "village-flower-box-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "village",
+      "style": "soft-low-poly",
+      "title": "Meadow Porch Planter",
+      "description": "Original raised plank flower box with contrasting corner feet, inset soil and three low-poly flowering plants.",
+      "bounds": {
+        "x": 1.2,
+        "y": 0.495,
+        "z": 1.095,
+        "unit": "m"
+      },
+      "triangles": 2844,
+      "materials": 5,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-flower-box-01/v1.0.0/model.glb",
+          "size": 270888,
+          "sha256": "b885c6fc68488affb47bb8ae9bd8b95abb376e2cd5925a82f353e70449836988"
+        },
+        "blend": {
+          "path": "assets/village/village-flower-box-01/v1.0.0/source.blend",
+          "size": 922992,
+          "sha256": "15f03667c83394c629ef60c07e3ff4ae301376a0c0c688d1909cf9dbbcb580ce"
+        },
+        "generator": {
+          "path": "assets/village/village-flower-box-01/v1.0.0/generate.py",
+          "size": 8727,
+          "sha256": "e091939b342341342669135c8d443a947eb11deeffa6b1f57e35b6bf39fda689"
+        },
+        "render": {
+          "path": "assets/village/village-flower-box-01/v1.0.0/thumbnail.png",
+          "size": 419049,
+          "sha256": "abb42ddc3a8af118fc4308ae5d51f4071c81456fc8687c4a30a016f62b6ff6ac"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "village-footbridge-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "modular",
+      "theme": "village",
+      "style": "soft-low-poly",
+      "title": "Meadow Arched Footbridge",
+      "description": "Original short pedestrian footbridge with shallow arched plank deck, segmented support stringers and handrails. Ground origin; approximately 2.6m span, one-metre deck.",
+      "bounds": {
+        "x": 2.52,
+        "y": 1.18,
+        "z": 1.10279,
+        "unit": "m"
+      },
+      "triangles": 1892,
+      "materials": 2,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-footbridge-01/v1.0.0/model.glb",
+          "size": 145628,
+          "sha256": "8ac9199e7ec1b2fe7ee1e539154d9c00df32f2e23ab73ddd258f7559f63a1882"
+        },
+        "blend": {
+          "path": "assets/village/village-footbridge-01/v1.0.0/source.blend",
+          "size": 743592,
+          "sha256": "c1ac5cd6e252e27b0122f4244e3d90fe1a73c45b06e5e62f184f7adabc52de5d"
+        },
+        "generator": {
+          "path": "assets/village/village-footbridge-01/v1.0.0/generate.py",
+          "size": 8724,
+          "sha256": "b67ae6ba25fa57973e15a4b2fa838f6610bbbd1b56326f476bfa64974c0ac9be"
+        },
+        "render": {
+          "path": "assets/village/village-footbridge-01/v1.0.0/thumbnail.png",
+          "size": 405808,
+          "sha256": "f0777c396d2b5af0c83214b4f92bbc6a33700475db1b3bfc464815d2dcf69bb0"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "village-handcart-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "village",
+      "style": "soft-low-poly",
+      "title": "Meadow Harvest Handcart",
+      "description": "Original two-wheel harvest handcart with open plank bed, spoked timber wheels, metal tyres, handles and a standing support.",
+      "bounds": {
+        "x": 2.04275,
+        "y": 1.24,
+        "z": 1.0525,
+        "unit": "m"
+      },
+      "triangles": 1556,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-handcart-01/v1.0.0/model.glb",
+          "size": 114580,
+          "sha256": "c8f91f64a9be088355272d1a9d703250e55e643e332f21479d87eb2f9c0c438f"
+        },
+        "blend": {
+          "path": "assets/village/village-handcart-01/v1.0.0/source.blend",
+          "size": 704504,
+          "sha256": "167fe0c4ccc0ab1462cbf48f90f36ae37327e8278896355170e561de1033465e"
+        },
+        "generator": {
+          "path": "assets/village/village-handcart-01/v1.0.0/generate.py",
+          "size": 14355,
+          "sha256": "54c049de11a13a0b8fb1de58b89592901fe2d2ee6a684fb94ff938a5e80c10e7"
+        },
+        "render": {
+          "path": "assets/village/village-handcart-01/v1.0.0/thumbnail.png",
+          "size": 331647,
+          "sha256": "418056ba45de6329373c498ef80080dc618b55ede43b6a697052a4663f4d6578"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "village-log-shelter-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "modular",
+      "theme": "village",
+      "style": "soft-low-poly",
+      "title": "Meadow Firewood Shelter",
+      "description": "Original open-front firewood shelter with sloped weather roof, supporting frame and six stacked round logs. Exterior utility prop with actual roof supports.",
+      "bounds": {
+        "x": 1.6,
+        "y": 1.01954,
+        "z": 1.64588,
+        "unit": "m"
+      },
+      "triangles": 1748,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-log-shelter-01/v1.0.0/model.glb",
+          "size": 125876,
+          "sha256": "5058affb0c456d89623a83319ed5bfc689ac114d70d0ab5638c7f744f9ce16b1"
+        },
+        "blend": {
+          "path": "assets/village/village-log-shelter-01/v1.0.0/source.blend",
+          "size": 783736,
+          "sha256": "2949aa08f824a42cf014424c709bc65d460985ec4c807ae91a1896e7e7a32938"
+        },
+        "generator": {
+          "path": "assets/village/village-log-shelter-01/v1.0.0/generate.py",
+          "size": 16378,
+          "sha256": "edcd55ca495d86ff62539ccc08b2f5bc939069175cae395df94cefd4962de99f"
+        },
+        "render": {
+          "path": "assets/village/village-log-shelter-01/v1.0.0/thumbnail.png",
+          "size": 365153,
+          "sha256": "8e0285dd0cc3b854e48701407d2a9678bcb5e4378aa6f19bc7d3ff4549dd50eb"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "village-market-stall-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "village",
+      "style": "soft-low-poly",
+      "title": "Meadow Produce Stall",
+      "description": "Original open market stall with pitched striped timber canopy, front display counter and two divided produce trays. Walk-in access at rear.",
+      "bounds": {
+        "x": 2.12,
+        "y": 1.45464,
+        "z": 2.35,
+        "unit": "m"
+      },
+      "triangles": 2764,
+      "materials": 5,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-market-stall-01/v1.0.0/model.glb",
+          "size": 237424,
+          "sha256": "cc7c8f05aeafc36e1906a623c0c5d229b73bf6ceedf553f82cd191997ea881ed"
+        },
+        "blend": {
+          "path": "assets/village/village-market-stall-01/v1.0.0/source.blend",
+          "size": 926256,
+          "sha256": "f87dea3f179d08bdddf3a34a20fbda35763606cdefefc6a6b9a72b5e8b37742b"
+        },
+        "generator": {
+          "path": "assets/village/village-market-stall-01/v1.0.0/generate.py",
+          "size": 9061,
+          "sha256": "26d03969db8ab1ebcafff5ca016b61de796d547f134ede78340ec6e6055ad89c"
+        },
+        "render": {
+          "path": "assets/village/village-market-stall-01/v1.0.0/thumbnail.png",
+          "size": 422472,
+          "sha256": "16be0d9850c9d8f9dfe0ff5338b3bd09ecbe72746f6d632c0b6412f31fd36605"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "village-noticeboard-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "village",
+      "style": "soft-low-poly",
+      "title": "Meadow Village Noticeboard",
+      "description": "Original timber public noticeboard with three blank paper notices, fitted pegs and a weather cap. Static sign prop without text or external textures.",
+      "bounds": {
+        "x": 1.6,
+        "y": 0.42,
+        "z": 1.87,
+        "unit": "m"
+      },
+      "triangles": 480,
+      "materials": 5,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-noticeboard-01/v1.0.0/model.glb",
+          "size": 39152,
+          "sha256": "72b8002b669d6f67ab8847ad176fb263266686ca0a64c092e77cda1bf4a84a78"
+        },
+        "blend": {
+          "path": "assets/village/village-noticeboard-01/v1.0.0/source.blend",
+          "size": 610632,
+          "sha256": "2a7480c1ce888e74105bd5ebf3370c061eed99d835206b0f25c205975482177f"
+        },
+        "generator": {
+          "path": "assets/village/village-noticeboard-01/v1.0.0/generate.py",
+          "size": 15566,
+          "sha256": "cfda390c74551d5b01cfde10863c4b4e839feb54cbde5630d060dfed4863dd5a"
+        },
+        "render": {
+          "path": "assets/village/village-noticeboard-01/v1.0.0/thumbnail.png",
+          "size": 326250,
+          "sha256": "27532e3211fc9094b541912de7b56802f96fcffaecf35bf53afa7d9ab7497e65"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "village-orchard-tree-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "village",
+      "style": "soft-low-poly",
+      "title": "Round Orchard Tree",
+      "description": "Original broadleaf orchard tree with forked trunk, three faceted crown masses and visible surface roots. Ground-centred placement.",
+      "bounds": {
+        "x": 2.05686,
+        "y": 1.37,
+        "z": 3.16868,
+        "unit": "m"
+      },
+      "triangles": 624,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-orchard-tree-01/v1.0.0/model.glb",
+          "size": 56164,
+          "sha256": "83c934d13d26d42054fbf3b401dcf2404914d83740cd6d5bd846a8d7cfb33cb1"
+        },
+        "blend": {
+          "path": "assets/village/village-orchard-tree-01/v1.0.0/source.blend",
+          "size": 577876,
+          "sha256": "520b49e33ae2f4c7e92c7ccb640dbe7fcf489198c35c5802c36ad026e12d6b74"
+        },
+        "generator": {
+          "path": "assets/village/village-orchard-tree-01/v1.0.0/generate.py",
+          "size": 8424,
+          "sha256": "3bcd17a0c3fd7e3165e2560b68173591ab570905b33450499b4fcbed43879e22"
+        },
+        "render": {
+          "path": "assets/village/village-orchard-tree-01/v1.0.0/thumbnail.png",
+          "size": 360711,
+          "sha256": "320de359fcd630f9d23704c9ed57cd44df4e80813000dfa21cee4587158c0a7f"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "village-picnic-table-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "village",
+      "style": "soft-low-poly",
+      "title": "Meadow Picnic Table",
+      "description": "Original picnic table with two integrated slatted benches, longitudinal brace and eight grounded legs. All seat and tabletop supports are modeled.",
+      "bounds": {
+        "x": 1.88,
+        "y": 1.8,
+        "z": 0.83,
+        "unit": "m"
+      },
+      "triangles": 968,
+      "materials": 2,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-picnic-table-01/v1.0.0/model.glb",
+          "size": 75568,
+          "sha256": "af63fa54e83b51da1fc8437d6a0c333e6ca4ddff1b6a8b90a8ac7b6fe1adbd89"
+        },
+        "blend": {
+          "path": "assets/village/village-picnic-table-01/v1.0.0/source.blend",
+          "size": 607764,
+          "sha256": "f87eb8609edf69d2db9857df0deda36c1cdefa8405d567e4197c1462a93f07df"
+        },
+        "generator": {
+          "path": "assets/village/village-picnic-table-01/v1.0.0/generate.py",
+          "size": 15676,
+          "sha256": "161d254d7fc04efb384deaccff50418475b99ea40d502a4f33684e5318552393"
+        },
+        "render": {
+          "path": "assets/village/village-picnic-table-01/v1.0.0/thumbnail.png",
+          "size": 341040,
+          "sha256": "03f1ef07a6e8e72762ca8a5399be089cf93d92cf24ac22c40f6c4d433a98ceb3"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "village-stone-path-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "modular",
+      "theme": "village",
+      "style": "soft-low-poly",
+      "title": "Meadow Stepping Path",
+      "description": "Original two-metre path module with irregular beveled paving stones and open grass gaps. Tile at 2 metre X intervals; ground-centre origin.",
+      "bounds": {
+        "x": 1.97455,
+        "y": 0.8652,
+        "z": 0.11,
+        "unit": "m"
+      },
+      "triangles": 680,
+      "materials": 2,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-stone-path-01/v1.0.0/model.glb",
+          "size": 52324,
+          "sha256": "72a8b99e9ff3d5dbae6a7a5bc13831b64c1bdbb6420519d48f024d433b1494da"
+        },
+        "blend": {
+          "path": "assets/village/village-stone-path-01/v1.0.0/source.blend",
+          "size": 541788,
+          "sha256": "c0ef2f425d0d91165a9cfb8f53c82788defa75364d17c479473f2b852a96678b"
+        },
+        "generator": {
+          "path": "assets/village/village-stone-path-01/v1.0.0/generate.py",
+          "size": 8527,
+          "sha256": "bd0f5ea74e99a675c01541dc7fabeeae541a12fd095e0f073ea2ab57935cf3f8"
+        },
+        "render": {
+          "path": "assets/village/village-stone-path-01/v1.0.0/thumbnail.png",
+          "size": 354693,
+          "sha256": "714222e39d192cf7140a147be1a3af626b5949db036abeb8dfcb7ea89a679b2b"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "village-stone-well-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "village",
+      "style": "soft-low-poly",
+      "title": "Willow Stone Well",
+      "description": "Original hollow coursed-stone village well with pitched timber canopy, spindle, crank and suspended bucket.",
+      "bounds": {
+        "x": 2.35,
+        "y": 1.59105,
+        "z": 2.26,
+        "unit": "m"
+      },
+      "triangles": 2020,
+      "materials": 6,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-stone-well-01/v1.0.0/model.glb",
+          "size": 145928,
+          "sha256": "059e86eaabc79f80da559e5c9caed2b5693c0d17340ed4b667d49c4f9e623fe1"
+        },
+        "blend": {
+          "path": "assets/village/village-stone-well-01/v1.0.0/source.blend",
+          "size": 940208,
+          "sha256": "38187b0c968a8fde7c97634e7e572c4761f9537ff73684d674ac5e10ef636991"
+        },
+        "generator": {
+          "path": "assets/village/village-stone-well-01/v1.0.0/generate.py",
+          "size": 10274,
+          "sha256": "733b7bd9198e8cd437eaa4fb16e1b996125fd39aab92ae5a8c8c4c3667b4a8da"
+        },
+        "render": {
+          "path": "assets/village/village-stone-well-01/v1.0.0/thumbnail.png",
+          "size": 413435,
+          "sha256": "4c1d86d296914117b4e7929a5f752ed88255047504d50e341c18bef890967991"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "village-vegetable-bed-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "village",
+      "style": "soft-low-poly",
+      "title": "Meadow Kitchen Garden Bed",
+      "description": "Original raised vegetable plot with joined timber frame, supported soil and six leafy carrot plants. Compact editable garden prop.",
+      "bounds": {
+        "x": 1.52,
+        "y": 1.1,
+        "z": 0.63737,
+        "unit": "m"
+      },
+      "triangles": 3584,
+      "materials": 5,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-vegetable-bed-01/v1.0.0/model.glb",
+          "size": 311152,
+          "sha256": "8353bf05b7255b30e81e63f4ededcf54777e54f9df959590180913a9dfb5debf"
+        },
+        "blend": {
+          "path": "assets/village/village-vegetable-bed-01/v1.0.0/source.blend",
+          "size": 1041972,
+          "sha256": "4865ddc69452f80912cc4d69c01631b74faa152eee93d161ea39d31571a74b19"
+        },
+        "generator": {
+          "path": "assets/village/village-vegetable-bed-01/v1.0.0/generate.py",
+          "size": 8732,
+          "sha256": "2395647b976cf6216ce377e966d4cef41f1046f628eb7c946855d3f265faf254"
+        },
+        "render": {
+          "path": "assets/village/village-vegetable-bed-01/v1.0.0/thumbnail.png",
+          "size": 405288,
+          "sha256": "3e9a9272f262227c1bf68b74a54ffa932e90d3e79435fb1b28f7706c988aa7aa"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "village-water-trough-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "village",
+      "style": "soft-low-poly",
+      "title": "Meadow Stone Water Trough",
+      "description": "Original open monolithic stone livestock trough with thick walls, recessed water and two low feet. Basin is one closed manifold wall-and-floor mesh.",
+      "bounds": {
+        "x": 1.6,
+        "y": 0.68,
+        "z": 0.58,
+        "unit": "m"
+      },
+      "triangles": 224,
+      "materials": 3,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-water-trough-01/v1.0.0/model.glb",
+          "size": 19800,
+          "sha256": "bf438f4364998e10c80c6ce265b9fde0c06a9693b98b38803757864ec04f299b"
+        },
+        "blend": {
+          "path": "assets/village/village-water-trough-01/v1.0.0/source.blend",
+          "size": 515272,
+          "sha256": "4ec56948a030d3921ff05716d709f47d4e8fdcd6d9d9e9a2db685212081def3a"
+        },
+        "generator": {
+          "path": "assets/village/village-water-trough-01/v1.0.0/generate.py",
+          "size": 15682,
+          "sha256": "1dc2169c71b9c0291f612f55839b29076ae306e5803086684c50d48a53f6c0c6"
+        },
+        "render": {
+          "path": "assets/village/village-water-trough-01/v1.0.0/thumbnail.png",
+          "size": 300609,
+          "sha256": "8b2dc142dd9b820acfb2d2673fd813f0ff85bc33461d165e44dfaf320514eb83"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
+    },
+    {
+      "id": "village-well-courtyard-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "scene",
+      "theme": "village",
+      "style": "soft-low-poly",
+      "title": "Meadow Well Courtyard",
+      "description": "Original compact village vignette combining a hollow stone well, orchard tree, timber fence, stepping approach and meadow shrubs on a five-metre base. Reproducible standalone generator; editable component objects.",
+      "bounds": {
+        "x": 5.0,
+        "y": 4.5,
+        "z": 2.866,
+        "unit": "m"
+      },
+      "triangles": 4112,
+      "materials": 8,
+      "files": {
+        "glb": {
+          "path": "assets/village/village-well-courtyard-01/v1.0.0/model.glb",
+          "size": 329520,
+          "sha256": "fe924337aa29a1205158b99d515469c3527e34ef7a8595a7a200c38cd4935fd6"
+        },
+        "blend": {
+          "path": "assets/village/village-well-courtyard-01/v1.0.0/source.blend",
+          "size": 1299232,
+          "sha256": "cd41f5b727a56399bbde17f6a38386a6bd2ebdd6c1c1ec04428938770d02c37d"
+        },
+        "generator": {
+          "path": "assets/village/village-well-courtyard-01/v1.0.0/generate.py",
+          "size": 12493,
+          "sha256": "1488c4c55b194fffce6663ae8aaabfee17d4ccaf3896a6b0dd7355a80fc44464"
+        },
+        "render": {
+          "path": "assets/village/village-well-courtyard-01/v1.0.0/thumbnail.png",
+          "size": 354202,
+          "sha256": "77607f42302af3cff0c221f3ee0219b8aa3a43a1e8c59b1d2b917deff9bab63f"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "expanded-collection"
     }
-  ]
+  ],
+  "sources": {
+    "expanded-collection": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "a4f9ab53d3bb40010aa60c4f77669622055ec724"
+    }
+  }
 }
