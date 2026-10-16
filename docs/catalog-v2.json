@@ -434,9 +434,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "26d26afe23eb1c531466dfd23327db1b6e3636ee"
+    },
+    "water-receiver": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "afe8be0d0d9d72275bcfa1fae99a30ff147c572b"
     }
   },
-  "assetCount": 248,
+  "assetCount": 249,
   "shards": [
     {
       "theme": "camping",
@@ -468,10 +473,10 @@
     },
     {
       "theme": "village",
-      "count": 55,
-      "path": "metadata/58839fec03490f1b8dcb5e0c583c7be73f035bd7ff4b9b684776c74e8f3d8784.json",
-      "size": 73341,
-      "sha256": "58839fec03490f1b8dcb5e0c583c7be73f035bd7ff4b9b684776c74e8f3d8784"
+      "count": 56,
+      "path": "metadata/dafeaccfbc63346fca03801d139d40c2d8ea8187a525653e10bae5a6d55cc629.json",
+      "size": 74808,
+      "sha256": "dafeaccfbc63346fca03801d139d40c2d8ea8187a525653e10bae5a6d55cc629"
     },
     {
       "theme": "transport",
