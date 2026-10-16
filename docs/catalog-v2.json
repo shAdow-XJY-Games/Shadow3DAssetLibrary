@@ -279,9 +279,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "a5ce8aca2e7ddd13c0e175c9afcfc4f24eec9078"
+    },
+    "clay-roof-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "01606514f14383d3c9c86f97aaca2ac7f9bffa0b"
     }
   },
-  "assetCount": 210,
+  "assetCount": 211,
   "shards": [
     {
       "theme": "camping",
@@ -313,10 +318,10 @@
     },
     {
       "theme": "village",
-      "count": 36,
-      "path": "metadata/cbf2a2a5932a1162609bbbff2508493b6dd7848aebd7ce7b7481a6dc4c960155.json",
-      "size": 44287,
-      "sha256": "cbf2a2a5932a1162609bbbff2508493b6dd7848aebd7ce7b7481a6dc4c960155"
+      "count": 37,
+      "path": "metadata/43a117d7c9c2aeab44818be4f9addef58b17fb9a0e2a2f2e10ae08f212f17567.json",
+      "size": 45869,
+      "sha256": "43a117d7c9c2aeab44818be4f9addef58b17fb9a0e2a2f2e10ae08f212f17567"
     },
     {
       "theme": "transport",
