@@ -2,7 +2,7 @@
 import {readFile,writeFile,mkdir,readdir,lstat} from 'node:fs/promises';
 import {resolve,join} from 'node:path';
 import {fileURLToPath} from 'node:url';
-import {PUBLIC_FILES} from './build.mjs';
+import {PUBLIC_FILES,assessBudget} from './build.mjs';
 import {createHash} from 'node:crypto';
 import {validateCatalog} from '../docs/core.mjs';
 import {validateCatalogIndex,METADATA_LIMIT} from '../docs/core-catalog-v2.mjs';
@@ -19,8 +19,8 @@ if(process.argv[1]&&resolve(process.argv[1])===fileURLToPath(import.meta.url)){
  if(legacyBytes.length>METADATA_LIMIT)throw Error('Legacy catalog exceeds 256 KiB; provide the frozen migration snapshot');
  const totalMetadataBytes=[...result.files.values()].reduce((n,b)=>n+b.length,0);let runtimeBytes=0;for(const name of PUBLIC_FILES.filter(n=>n!=='catalog.json'))runtimeBytes+=(await readFile(new URL('../docs/'+name,import.meta.url))).length;
  let retainedOldShardBytes=0,retainedOldShardCount=0,names=[];try{names=await readdir(retained);}catch(error){if(error.code!=='ENOENT')throw error;}for(const name of names){if(!/^[a-f0-9]{64}[.]json$/.test(name))throw Error('Unexpected retained shard');const path=join(retained,name),stat=await lstat(path);if(!stat.isFile()||stat.isSymbolicLink()||stat.size>METADATA_LIMIT)throw Error('Invalid retained shard');const bytes=await readFile(path);if(createHash('sha256').update(bytes).digest('hex')!==name.slice(0,64))throw Error('Retained shard integrity mismatch');if(!result.files.has('metadata/'+name)){retainedOldShardBytes+=bytes.length;retainedOldShardCount++;}}
- const projectedPagesBytes=totalMetadataBytes+legacyBytes.length+runtimeBytes+retainedOldShardBytes;
- const report={assets:result.index.assetCount,shards:result.index.shards.length,indexBytes:result.files.get('catalog-v2.json').length,totalMetadataBytes,legacyCatalogBytes:legacyBytes.length,runtimeBytes,retainedOldShardCount,retainedOldShardBytes,projectedPagesBytes,remainingBytes:1048576-projectedPagesBytes,pagesBudgetBytes:1048576,warning:projectedPagesBytes>=838860?'Exceeds 80% of Pages budget including retained shards':null,note:'Retained bytes measured from supplied/default directory; assemble package and run build --check before publication'};
- console.log(JSON.stringify(report));if(projectedPagesBytes>1048576)throw Error('Projected package exceeds unchanged 1 MiB Pages budget');
+ const budget=assessBudget({activeMetadataBytes:totalMetadataBytes,historyBytes:legacyBytes.length+retainedOldShardBytes,shellBytes:runtimeBytes});const projectedPagesBytes=budget.packageBytes;
+ const report={assets:result.index.assetCount,shards:result.index.shards.length,indexBytes:result.files.get('catalog-v2.json').length,totalMetadataBytes,legacyCatalogBytes:legacyBytes.length,runtimeBytes,retainedOldShardCount,retainedOldShardBytes,projectedPagesBytes,remainingBytes:budget.packageBudget-projectedPagesBytes,pagesBudgetBytes:budget.packageBudget,historyBytes:budget.historyBytes,historyBudgetBytes:budget.historyBudget,activeMetadataBudgetBytes:budget.activeMetadataBudget,shellBudgetBytes:budget.shellBudget,warning:budget.historyWarning,note:'Retained bytes measured from supplied/default directory; assemble package and run build --check before publication'};
+ console.log(JSON.stringify(report));
  await mkdir(out);if(result.index.shards.length)await mkdir(join(out,'metadata'));for(const [path,bytes]of result.files)await writeFile(join(out,path),bytes);
 }
