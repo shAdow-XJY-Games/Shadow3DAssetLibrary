@@ -1,0 +1,42 @@
+{
+  "id": "railway-fixed-turnout-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "railway",
+  "style": "S01-clean-geometric",
+  "title": "S01 Fixed Three-Port Turnout",
+  "description": "Original fixed single-sided turnout visual module with three real rail ports, 12 progressively longer timber sleepers, fused same-layer rail geometry, fixed point tie, frog throat and opposite guard rails. The 1.00 m clear gauge and rail-head height Z=.20 m match the existing 2m straight track; inlet (0,-3), straight outlet (0,3), branch outlet (1.64201469,2.99968014) with heading .55 rad from +Y. Head-level flange channels are 40mm wide with recessed web relief; actual imported end faces and finite channel probes are checked. One straight-route parked inspection trolley pose is tested separately. Editable static components only: no switch animation, driving, continuous passage, load or railway safety certification.",
+  "bounds": {
+    "x": 2.909964144229889,
+    "y": 6.3164286613464355,
+    "z": 0.20000000298023224,
+    "unit": "m"
+  },
+  "triangles": 3874,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-fixed-turnout-01/v1.0.0/model.glb",
+      "size": 210144,
+      "sha256": "66b5ad425330aed71b8a56ef3953d79fd6fd5d19bfa683ba469a30df80152204"
+    },
+    "blend": {
+      "path": "assets/railway/railway-fixed-turnout-01/v1.0.0/source.blend",
+      "size": 1025720,
+      "sha256": "dd1402cd01a3835cbfe038977f64889ec85a37fe3b1ab0825a5776899a6d9b1c"
+    },
+    "generator": {
+      "path": "assets/railway/railway-fixed-turnout-01/v1.0.0/generate.py",
+      "size": 37646,
+      "sha256": "5f96af6243a4b0f0797ce07091e9ccec4b45a08dbe7e4e720e576ebef9973d24"
+    },
+    "render": {
+      "path": "assets/railway/railway-fixed-turnout-01/v1.0.0/thumbnail.png",
+      "size": 184362,
+      "sha256": "0dc149ecf9e224423369271350443403f47af3ba2a4a75bbff5e3e56c89e1e5c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
