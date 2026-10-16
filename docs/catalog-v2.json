@@ -469,9 +469,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "1bfdc97677e4881d089304d03ba0e943554ad46f"
+    },
+    "pottery-kiln": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "dfd7e6cc065b9d3a93967574a83b1d4af2ff75fc"
     }
   },
-  "assetCount": 260,
+  "assetCount": 261,
   "shards": [
     {
       "theme": "camping",
@@ -538,10 +543,10 @@
     },
     {
       "theme": "ceramics",
-      "count": 3,
-      "path": "metadata/a2443b354fbb6377becf458f6576a2db5edba02b0604e0ec47e983ff57248082.json",
-      "size": 3669,
-      "sha256": "a2443b354fbb6377becf458f6576a2db5edba02b0604e0ec47e983ff57248082"
+      "count": 4,
+      "path": "metadata/e2670b677089ff54a76fd853bd0d90ffc934cd9f83fbcf84e915b7de0eae9398.json",
+      "size": 5370,
+      "sha256": "e2670b677089ff54a76fd853bd0d90ffc934cd9f83fbcf84e915b7de0eae9398"
     },
     {
       "theme": "museum",
