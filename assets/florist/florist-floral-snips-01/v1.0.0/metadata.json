@@ -1,0 +1,42 @@
+{
+  "id": "florist-floral-snips-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "florist",
+  "style": "S01-clean-geometric",
+  "title": "Static Bypass Floral Stem Snips",
+  "description": "Original low-poly bypass floral stem snips with two curved blades in genuinely offset planes, two separate padded handles, two bored hubs, a fixed pin and positive-area bearing seats. Four upper-half meshes share one named editable pivot. Default near-closed pose retains a visible blade gap; a second fixed open pose at -40 degrees is verified by actual imported-world vertex transformations, mesh collision checks and bore/seat evidence. Original unmodified flower stem fits only the tested open alignment. No severing, continuous cutting sweep, spring action, force, gripping, load or safety certification.",
+  "bounds": {
+    "x": 0.07800000160932541,
+    "y": 0.20499999821186066,
+    "z": 0.017000000923871994,
+    "unit": "m"
+  },
+  "triangles": 892,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/florist/florist-floral-snips-01/v1.0.0/model.glb",
+      "size": 47860,
+      "sha256": "bfa9b24d46de06507870c1c98b39c01d98cf4fc835b4c6f4630d299b644d3ab6"
+    },
+    "blend": {
+      "path": "assets/florist/florist-floral-snips-01/v1.0.0/source.blend",
+      "size": 681896,
+      "sha256": "fd4c8ebd8beb50481caf0e69d5a0e23d2190ff1ee67a959813a9f5cb9b5586c3"
+    },
+    "generator": {
+      "path": "assets/florist/florist-floral-snips-01/v1.0.0/generate.py",
+      "size": 38332,
+      "sha256": "4e0c8e06d964f63ca811bf4af1a1aa60b5712dd2165222fa8b1aada364d36a3c"
+    },
+    "render": {
+      "path": "assets/florist/florist-floral-snips-01/v1.0.0/thumbnail.png",
+      "size": 184639,
+      "sha256": "34afff24aa20333dbda6cf2d6540cd48aee84114837e7ce7898df43e5a60f379"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
