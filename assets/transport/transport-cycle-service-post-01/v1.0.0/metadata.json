@@ -1,0 +1,42 @@
+{
+  "id": "transport-cycle-service-post-01",
+  "version": "1.0.0",
+  "category": "equipment",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "S01 Cycle Parking Service Post",
+  "description": "Original compact grounded cycle parking/service post with a true open locking loop and an integrated public-pump visual form: barrel, fixed T handle, routed hose and parked nozzle. No pressure, pumping, anti-theft, security or load-bearing clamp certification. Independent editable static source and GLB components with baked static transforms; the hose and handle are fixed display parts, with no operation or physics simulation.",
+  "bounds": {
+    "x": 0.4750000089406967,
+    "y": 0.4050000011920929,
+    "z": 1.0269999504089355,
+    "unit": "m"
+  },
+  "triangles": 660,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-cycle-service-post-01/v1.0.0/model.glb",
+      "size": 45304,
+      "sha256": "36cb166932498ab575e3efd16ad14f423af164edd887341768a380f8a1057b06"
+    },
+    "blend": {
+      "path": "assets/transport/transport-cycle-service-post-01/v1.0.0/source.blend",
+      "size": 745324,
+      "sha256": "9c27b9567433336541d78bb28b7dc4dda050dafe0aff754ef24ce6ae15cb4eb7"
+    },
+    "generator": {
+      "path": "assets/transport/transport-cycle-service-post-01/v1.0.0/generate.py",
+      "size": 30945,
+      "sha256": "8bde85908c7579fce35e395c23404dd17586674d311a2d99479ca346e3019832"
+    },
+    "render": {
+      "path": "assets/transport/transport-cycle-service-post-01/v1.0.0/thumbnail.png",
+      "size": 179802,
+      "sha256": "804805942130777891ba4d596ae6f17aa2557f4dfd21c7f2631b812c97a6fc09"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
