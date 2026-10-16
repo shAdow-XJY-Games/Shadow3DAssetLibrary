@@ -1,0 +1,42 @@
+{
+  "id": "logistics-wood-pallet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "logistics",
+  "style": "soft-low-poly",
+  "title": "Open Fork Pocket Pallet",
+  "description": "Original wooden pallet module with three bottom runners, nine spacer blocks, two cross-bearers and five deck planks. Two genuine open fork tunnels; visual dimensions only, no shipping certification.",
+  "bounds": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 0.21,
+    "unit": "m"
+  },
+  "triangles": 836,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/logistics/logistics-wood-pallet-01/v1.0.0/model.glb",
+      "size": 65484,
+      "sha256": "dfeba07944eb7da1b0b4372573ae411ebefb00f738ca9c6ac6a5656ed67379f6"
+    },
+    "blend": {
+      "path": "assets/logistics/logistics-wood-pallet-01/v1.0.0/source.blend",
+      "size": 588360,
+      "sha256": "443166273cdbd71fe5292f05e0a01dba3fd3bed039c4210a06f2ab15930faf65"
+    },
+    "generator": {
+      "path": "assets/logistics/logistics-wood-pallet-01/v1.0.0/generate.py",
+      "size": 25835,
+      "sha256": "aef803468d2fb4c3ed604a27b234a98e0ec50299041eeac0b181ded02f8d7715"
+    },
+    "render": {
+      "path": "assets/logistics/logistics-wood-pallet-01/v1.0.0/thumbnail.png",
+      "size": 320432,
+      "sha256": "6466896e2c5ec11008e840afbd5b278be8ff099ece74572b3d4cd9ae8b16b957"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

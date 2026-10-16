@@ -1,0 +1,42 @@
+{
+  "id": "logistics-pallet-jack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "logistics",
+  "style": "soft-low-poly",
+  "title": "Manual Pallet Jack",
+  "description": "Original static manual pallet jack with two forks, pump housing, separate front/rear rollers and open handle. Roller meshes have real flat contact facets. Visual game asset, no load rating or hydraulic simulation.",
+  "bounds": {
+    "x": 0.65,
+    "y": 1.4037,
+    "z": 1.0712,
+    "unit": "m"
+  },
+  "triangles": 540,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/logistics/logistics-pallet-jack-01/v1.0.0/model.glb",
+      "size": 38340,
+      "sha256": "d5717ba0061161705da1adfe3a7723b8ed8bceb2fd04c0addd22dd3d6c4c8a6c"
+    },
+    "blend": {
+      "path": "assets/logistics/logistics-pallet-jack-01/v1.0.0/source.blend",
+      "size": 551976,
+      "sha256": "1f45f9cf7faa94799373a57acc6557bbde6ec3f5876b1eca7eb5f0ec9a7a558b"
+    },
+    "generator": {
+      "path": "assets/logistics/logistics-pallet-jack-01/v1.0.0/generate.py",
+      "size": 26325,
+      "sha256": "1938ef42ba99fd0ee33167bc251e52c1c45313598cfe6a7521b48174504f73e0"
+    },
+    "render": {
+      "path": "assets/logistics/logistics-pallet-jack-01/v1.0.0/thumbnail.png",
+      "size": 298621,
+      "sha256": "fbe716d93354e13ca1c8ddd32fcacd891a3c192216184724596622f84c245e14"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

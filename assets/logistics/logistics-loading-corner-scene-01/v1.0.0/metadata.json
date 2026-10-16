@@ -1,0 +1,42 @@
+{
+  "id": "logistics-loading-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "logistics",
+  "style": "soft-low-poly",
+  "title": "Pallet Loading Corner",
+  "description": "Original static loading display with complete pallet jack forks entering the genuine pallet tunnels and joining both deck bearers. Editable source components; no mechanical physics or load rating.",
+  "bounds": {
+    "x": 2.6,
+    "y": 3.2,
+    "z": 1.1832,
+    "unit": "m"
+  },
+  "triangles": 1420,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/logistics/logistics-loading-corner-scene-01/v1.0.0/model.glb",
+      "size": 106008,
+      "sha256": "73336971c23030b9dfd4ac11680b70dfceeeb1b952a65c51dde43f3a0cf2d85f"
+    },
+    "blend": {
+      "path": "assets/logistics/logistics-loading-corner-scene-01/v1.0.0/source.blend",
+      "size": 704504,
+      "sha256": "3472e562ba45275680a91b265ec8bdba4b608e1af1a50f572b5bd7d0a44389e7"
+    },
+    "generator": {
+      "path": "assets/logistics/logistics-loading-corner-scene-01/v1.0.0/generate.py",
+      "size": 27617,
+      "sha256": "f90f8a23dfabd79a649e26ed00bb03addc11b5b59b6f6a7ed8768c368fcdbeea"
+    },
+    "render": {
+      "path": "assets/logistics/logistics-loading-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 302127,
+      "sha256": "3096d4a0d9d48e57cc4f1aa368c5cd9257e5896f40df8e605e4ed0f79292cd8d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
