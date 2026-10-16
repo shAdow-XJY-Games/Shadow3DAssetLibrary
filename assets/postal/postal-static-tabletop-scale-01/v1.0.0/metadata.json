@@ -1,0 +1,42 @@
+{
+  "id": "postal-static-tabletop-scale-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "postal",
+  "style": "S01-clean-geometric",
+  "title": "Static Parcel Tabletop Scale",
+  "description": "Original S01 static tabletop parcel scale with four feet, a separate weighing platform and a raised rear inclined display head. Twelve named editable GLB mesh nodes retain actual placement transforms. The unlit display and two keys are static geometry. Actual unchanged legacy parcel support and display clearance are checked in the documented pose; see generate.py opening documentation. Only this scale is a new asset; parcels and all hosts are reused. The handtruck use is one tested upright static placement, not dynamic transport. No weighing accuracy, capacity, calibration, scanning, payment or load simulation.",
+  "bounds": {
+    "x": 0.3400000035762787,
+    "y": 0.3800000101327896,
+    "z": 0.39500001072883606,
+    "unit": "m"
+  },
+  "triangles": 496,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/postal/postal-static-tabletop-scale-01/v1.0.0/model.glb",
+      "size": 45572,
+      "sha256": "caa9b981d42a34b67cea8e0bb24a9965e5c83bbb4291a3bf19a427a5a3e4fe55"
+    },
+    "blend": {
+      "path": "assets/postal/postal-static-tabletop-scale-01/v1.0.0/source.blend",
+      "size": 810612,
+      "sha256": "a8b42cc3708e7548fa24b9658d4d62c54983c6bb18af811e8089a8b53fbba352"
+    },
+    "generator": {
+      "path": "assets/postal/postal-static-tabletop-scale-01/v1.0.0/generate.py",
+      "size": 33210,
+      "sha256": "c3d7568a6db431d346abea76e2367d41bab7bb211a4ac94a4e55f532874206c3"
+    },
+    "render": {
+      "path": "assets/postal/postal-static-tabletop-scale-01/v1.0.0/thumbnail.png",
+      "size": 209929,
+      "sha256": "024b2cfef5f9b00782a4471c282fde08cdf08e1c72225c756f910bc30adb32a0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
