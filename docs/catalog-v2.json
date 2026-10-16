@@ -529,9 +529,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "eabbea86f4039715c77eb21383fbf838a95de2a4"
+    },
+    "garden-composter-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "c986d002cf36278e9dbb38ab631f8fdb144c67bb"
     }
   },
-  "assetCount": 275,
+  "assetCount": 276,
   "shards": [
     {
       "theme": "camping",
@@ -882,6 +887,13 @@
       "path": "metadata/ab73842bab91292eec8c8f3a11b8a7a37cdeb69c022b933a655f93bed2f507aa.json",
       "size": 1869,
       "sha256": "ab73842bab91292eec8c8f3a11b8a7a37cdeb69c022b933a655f93bed2f507aa"
+    },
+    {
+      "theme": "garden",
+      "count": 1,
+      "path": "metadata/905b339aafe3d15760e86232f15bba47c0e6b803edfb18a5ca83c5d7016db1fb.json",
+      "size": 1749,
+      "sha256": "905b339aafe3d15760e86232f15bba47c0e6b803edfb18a5ca83c5d7016db1fb"
     }
   ]
 }
