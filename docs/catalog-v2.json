@@ -269,9 +269,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "1588f9e8c66cb36fa9aeaa0b6a0576af61c6942d"
+    },
+    "city-bicycle-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "974afa43ea25af85fc6abe835b56664ac085f4fd"
     }
   },
-  "assetCount": 208,
+  "assetCount": 209,
   "shards": [
     {
       "theme": "camping",
@@ -310,10 +315,10 @@
     },
     {
       "theme": "transport",
-      "count": 14,
-      "path": "metadata/11e341328d2d62f12b8a030e2fdcf24d950c24420c299a8ce948f7d19ceb3009.json",
-      "size": 18852,
-      "sha256": "11e341328d2d62f12b8a030e2fdcf24d950c24420c299a8ce948f7d19ceb3009"
+      "count": 15,
+      "path": "metadata/0bf21fadf563e08a9da7132b8b83bd4c8390370df23323151f2c5204fb919e6d.json",
+      "size": 20517,
+      "sha256": "0bf21fadf563e08a9da7132b8b83bd4c8390370df23323151f2c5204fb919e6d"
     },
     {
       "theme": "entryway",
