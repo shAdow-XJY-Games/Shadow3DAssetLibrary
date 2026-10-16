@@ -1,0 +1,42 @@
+{
+  "id": "interior-corner-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "S01 Diagonal Corner Cabinet",
+  "description": "Original freestanding corner base with a nominal 0.9m by 0.9m countertop footprint, 0.9m high, with a diagonal fixed door, true storage cavity and shaped shelf. The diagonal front frame slightly projects past the nominal top footprint; placement must use the actual complete geometry envelope with an explicit installation clearance. The two returns accommodate separate same-family cabinets, not a strict seamless module. Individual complete top; not a seamless fitted-kitchen system. Independent editable components in a fixed static pose, with no motion, load or physics claim.",
+  "bounds": {
+    "x": 0.9109601676464081,
+    "y": 0.9109601676464081,
+    "z": 0.8999999761581421,
+    "unit": "m"
+  },
+  "triangles": 824,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-corner-cabinet-01/v1.0.0/model.glb",
+      "size": 61984,
+      "sha256": "ffb7108483dc7d252235c61f1561ee69d17636ddd6b0ac6329d6ed44b2fd3897"
+    },
+    "blend": {
+      "path": "assets/interior/interior-corner-cabinet-01/v1.0.0/source.blend",
+      "size": 761268,
+      "sha256": "9355746e146dd2b69a5c153feae4a26dcf2fb60ad96d59b4659b9857900c8a21"
+    },
+    "generator": {
+      "path": "assets/interior/interior-corner-cabinet-01/v1.0.0/generate.py",
+      "size": 34685,
+      "sha256": "87d9ecd5042048d986f8ddf97533b82bfbeaabc973288125bd27fd83d88275ca"
+    },
+    "render": {
+      "path": "assets/interior/interior-corner-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 198305,
+      "sha256": "325306c15e26991b5129bd73705b41432634408f691a90482cfab76dad889919"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
