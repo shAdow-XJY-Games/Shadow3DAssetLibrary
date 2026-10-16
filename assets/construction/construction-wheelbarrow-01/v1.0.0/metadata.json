@@ -1,0 +1,42 @@
+{
+  "id": "construction-wheelbarrow-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "soft-low-poly",
+  "title": "Single-Wheel Thick-Tub Barrow",
+  "description": "Original single-wheel barrow with a genuine open tapered tub modeled as one closed thick shell, separate rails, axle and two grounded rear legs. Faceted wheel has a finite flat ground patch. Static visual prop; no rolling animation, load rating or construction-safety claim.",
+  "bounds": {
+    "x": 0.72,
+    "y": 1.49652,
+    "z": 0.77,
+    "unit": "m"
+  },
+  "triangles": 468,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-wheelbarrow-01/v1.0.0/model.glb",
+      "size": 36596,
+      "sha256": "bc2a2678a542b1a622f62c4ed492a68e55b34503b5e3c2ed70dd35d73c7a9a54"
+    },
+    "blend": {
+      "path": "assets/construction/construction-wheelbarrow-01/v1.0.0/source.blend",
+      "size": 628168,
+      "sha256": "8eab12cc2009463e27f3534e15c2096debf8ec33b102956822d512e132e794ae"
+    },
+    "generator": {
+      "path": "assets/construction/construction-wheelbarrow-01/v1.0.0/generate.py",
+      "size": 30741,
+      "sha256": "9e8418ec4bb02b8e701827581ebfaa85cb86ad32629703a2f376f12f8a244e56"
+    },
+    "render": {
+      "path": "assets/construction/construction-wheelbarrow-01/v1.0.0/thumbnail.png",
+      "size": 306083,
+      "sha256": "74a47a0a53cbc9483a02645d213ee7d111b95d40ca714b9c28b0204c32efcf4f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

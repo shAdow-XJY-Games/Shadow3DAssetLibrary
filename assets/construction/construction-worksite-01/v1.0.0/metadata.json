@@ -1,0 +1,42 @@
+{
+  "id": "construction-worksite-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "construction",
+  "style": "soft-low-poly",
+  "title": "Small Worksite Corner",
+  "description": "Original small worksite visual scene on a 3.6x3.0m base. Braced scaffold-style platform and thick-shell single-wheel barrow remain separately editable. Static game assets with no load rating, access plan, rolling physics or engineering-safety certification.",
+  "bounds": {
+    "x": 3.6,
+    "y": 3.0,
+    "z": 1.92,
+    "unit": "m"
+  },
+  "triangles": 1480,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-worksite-01/v1.0.0/model.glb",
+      "size": 107228,
+      "sha256": "735dcaae65aa914623f202894f5d7fe175cff7096b4f0a9c28732a65b5f26ae8"
+    },
+    "blend": {
+      "path": "assets/construction/construction-worksite-01/v1.0.0/source.blend",
+      "size": 915620,
+      "sha256": "e327c9d9a4808650491e3f63d93f81adaddc901cc1862cbc8eefea21fd78d56a"
+    },
+    "generator": {
+      "path": "assets/construction/construction-worksite-01/v1.0.0/generate.py",
+      "size": 31172,
+      "sha256": "a7bd7bcbb68f69ca7d2cd39573402b511bbebff19afb026d14c5d2050ef1de44"
+    },
+    "render": {
+      "path": "assets/construction/construction-worksite-01/v1.0.0/thumbnail.png",
+      "size": 318749,
+      "sha256": "53c096dfa7f61d904c356a5070e5a4a69b1bfe70b68533bd5b9b4bd130d910cb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

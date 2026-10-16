@@ -1,0 +1,42 @@
+{
+  "id": "construction-scaffold-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "construction",
+  "style": "soft-low-poly",
+  "title": "Braced Scaffold Display Module",
+  "description": "Original four-post scaffold-style module with separate deck boards, guard tubes and crossed rear diagonals. Actual deck width 1.39m; 1.40m X layout spacing leaves a 10mm deck gap and 60mm foot gap. Independent guarded units, not a continuous accessible walkway. Visual game asset only, no safe access or load certification.",
+  "bounds": {
+    "x": 1.39,
+    "y": 0.94,
+    "z": 1.83,
+    "unit": "m"
+  },
+  "triangles": 968,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-scaffold-01/v1.0.0/model.glb",
+      "size": 67632,
+      "sha256": "b84388a86d02edae3883cf41a190a8120123ca2bc70cac889fdf2ac4b91600cc"
+    },
+    "blend": {
+      "path": "assets/construction/construction-scaffold-01/v1.0.0/source.blend",
+      "size": 700116,
+      "sha256": "95c80316293fcec499aa21d75518da5af1b43f6a2ba22ef7047ecc6332ea94f9"
+    },
+    "generator": {
+      "path": "assets/construction/construction-scaffold-01/v1.0.0/generate.py",
+      "size": 31203,
+      "sha256": "a33af28cead3eb70394680c630926b2520b1800de22e5ddb8f6084044cd2aed8"
+    },
+    "render": {
+      "path": "assets/construction/construction-scaffold-01/v1.0.0/thumbnail.png",
+      "size": 330414,
+      "sha256": "4dda658d2baed204199c837d5c66f943f1e71ca31f47589968a2db53d34c6587"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
