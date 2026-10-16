@@ -4678,6 +4678,135 @@
       "status": "verified",
       "license": "All rights reserved",
       "sourceId": "photography-extension"
+    },
+    {
+      "id": "playground-play-corner-01",
+      "version": "1.0.0",
+      "category": "scenes",
+      "assetKind": "scene",
+      "theme": "playground",
+      "style": "soft-low-poly",
+      "title": "Pastel Playground Corner",
+      "description": "Original game-visual playground corner on a 6x4.6 m base, combining a pivoted seesaw and continuous curved slide. Beam_Runtime is independent with Blender pivot (-1.4,-0.4,0.73)m / glTF (-1.4,0.73,0.4)m and axis Blender +Y / glTF -Z; Base_Runtime contains fixed pieces. Seven discrete seesaw poses in -15 to +15 degrees are checked. No physics, animation clip, engineering or facility safety certification is included.",
+      "bounds": {
+        "x": 6.0,
+        "y": 4.6,
+        "z": 1.86,
+        "unit": "m"
+      },
+      "triangles": 1556,
+      "materials": 7,
+      "files": {
+        "glb": {
+          "path": "assets/playground/playground-play-corner-01/v1.0.0/model.glb",
+          "size": 119416,
+          "sha256": "46f043b2db54e9c4bd2067be852799009f0f377ea232c530d8790934d0134851"
+        },
+        "blend": {
+          "path": "assets/playground/playground-play-corner-01/v1.0.0/source.blend",
+          "size": 978384,
+          "sha256": "d53c923b9c8d798438a0b8fa2a7cf67de67c3f2f7a27b370a7f180634bfde90d"
+        },
+        "generator": {
+          "path": "assets/playground/playground-play-corner-01/v1.0.0/generate.py",
+          "size": 34177,
+          "sha256": "1a7e47461c73ef62ac952ad284bddac393cf9ba41ea08b62982e05588caf5dbd"
+        },
+        "render": {
+          "path": "assets/playground/playground-play-corner-01/v1.0.0/thumbnail.png",
+          "size": 319135,
+          "sha256": "181c9280804eb482d76ca305dd25dcbf09341c2ebc1aca87cd58797764af599e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "playground-extension"
+    },
+    {
+      "id": "playground-seesaw-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "prop",
+      "theme": "playground",
+      "style": "soft-low-poly",
+      "title": "Soft Low-poly Seesaw",
+      "description": "Original game-visual seesaw with a 2.6 m beam, two seats and grips. Beam_Runtime is separate from Base_Runtime, with pivot Blender (0,0,0.64)m / glTF (0,0.64,0)m and axis Blender +Y / glTF -Z. Intended visual angle range is -15 to +15 degrees; seven discrete poses are checked. Source has separately editable pieces and SeesawPivot_Edit marker. No animation clip, physics or playground engineering specification is included.",
+      "bounds": {
+        "x": 2.6,
+        "y": 0.68,
+        "z": 1.155,
+        "unit": "m"
+      },
+      "triangles": 476,
+      "materials": 6,
+      "files": {
+        "glb": {
+          "path": "assets/playground/playground-seesaw-01/v1.0.0/model.glb",
+          "size": 37680,
+          "sha256": "e1a9b8b492cf15b049945fd7b7af58918e41d03983ab4036388e41bd218df827"
+        },
+        "blend": {
+          "path": "assets/playground/playground-seesaw-01/v1.0.0/source.blend",
+          "size": 778436,
+          "sha256": "805e61f7ec69962abf73cf3286d9d4efabc809de5a0e6a31936b4508cce76967"
+        },
+        "generator": {
+          "path": "assets/playground/playground-seesaw-01/v1.0.0/generate.py",
+          "size": 33472,
+          "sha256": "eabe513225cc5f75c68de832c6ebf4168efc2ccb9d1f6a24ada55b2b55e4d304"
+        },
+        "render": {
+          "path": "assets/playground/playground-seesaw-01/v1.0.0/thumbnail.png",
+          "size": 294303,
+          "sha256": "5248581d6c3e506fe8bebf3e8ef94e3d2ac3554ff181d370566ad9a92cfda4b0"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "playground-extension"
+    },
+    {
+      "id": "playground-small-slide-01",
+      "version": "1.0.0",
+      "category": "props",
+      "assetKind": "modular",
+      "theme": "playground",
+      "style": "soft-low-poly",
+      "title": "Curved Low-poly Slide",
+      "description": "Original game-visual small slide. Entry platform is 1.35 m high; the continuous closed faceted chute descends along +Y with matching inset curved rims. Four platform feet, ladder feet and toe support are separately editable. Ladder rungs attach to both rails. Intended as a visual module, not a safety-rated physical facility or engineering design.",
+      "bounds": {
+        "x": 0.8,
+        "y": 3.28,
+        "z": 1.77,
+        "unit": "m"
+      },
+      "triangles": 1036,
+      "materials": 4,
+      "files": {
+        "glb": {
+          "path": "assets/playground/playground-small-slide-01/v1.0.0/model.glb",
+          "size": 79720,
+          "sha256": "716d1250641d42874e5baee5d6e0cfddfa9ddb77aff3e4a790d79d7a626c1e3d"
+        },
+        "blend": {
+          "path": "assets/playground/playground-small-slide-01/v1.0.0/source.blend",
+          "size": 751620,
+          "sha256": "710190250649a5cd6783e09b713c3e31db6e5f166be2898a3aa920b0290e7e20"
+        },
+        "generator": {
+          "path": "assets/playground/playground-small-slide-01/v1.0.0/generate.py",
+          "size": 30452,
+          "sha256": "8f7439aca1e88169881a2f91677e84f32d47ee7cbd8b6a2481b8d4ed26d0e1ca"
+        },
+        "render": {
+          "path": "assets/playground/playground-small-slide-01/v1.0.0/thumbnail.png",
+          "size": 314556,
+          "sha256": "e8e60e6501985b51179ae5374a3c1b32b0ced6b2a5147a1866b81d98fe00432e"
+        }
+      },
+      "status": "verified",
+      "license": "All rights reserved",
+      "sourceId": "playground-extension"
     }
   ],
   "sources": {
@@ -4735,6 +4864,11 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "2af200e405325fc66e13ca7c753e52bec8af33f8"
+    },
+    "playground-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "59f81f00441d76912108ea16a15e4171d523ab21"
     }
   }
 }
