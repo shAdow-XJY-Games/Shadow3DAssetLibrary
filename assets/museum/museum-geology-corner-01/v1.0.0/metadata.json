@@ -1,0 +1,42 @@
+{
+  "id": "museum-geology-corner-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "museum",
+  "style": "soft-low-poly",
+  "title": "Small Geological Exhibit Corner",
+  "description": "Original small geology display scene on a 3.0x2.2m base. A five-prism crystal cluster occupies a tall plinth and two faceted mineral specimens sit on a lower plinth. Blank editable caption plaques and independent source components. Stylized visual assets without scientific identification or structural load certification.",
+  "bounds": {
+    "x": 3.0,
+    "y": 2.2,
+    "z": 1.68,
+    "unit": "m"
+  },
+  "triangles": 834,
+  "materials": 7,
+  "files": {
+    "glb": {
+      "path": "assets/museum/museum-geology-corner-01/v1.0.0/model.glb",
+      "size": 75176,
+      "sha256": "a9cf349cdc5593c9fafcf9208361c95d4fa91f1d196f1da5d1a87060ffdd3381"
+    },
+    "blend": {
+      "path": "assets/museum/museum-geology-corner-01/v1.0.0/source.blend",
+      "size": 872516,
+      "sha256": "707d0fe030001b1fdc71f74e71fa59ab9da0ed2db1cbdaea797b57b432cbe316"
+    },
+    "generator": {
+      "path": "assets/museum/museum-geology-corner-01/v1.0.0/generate.py",
+      "size": 29615,
+      "sha256": "aaa84a6c7f1ca941572f8e058fafd06524b5ccb656c905890087c61659636714"
+    },
+    "render": {
+      "path": "assets/museum/museum-geology-corner-01/v1.0.0/thumbnail.png",
+      "size": 307079,
+      "sha256": "fa3414c17ae6fea5fb0627c3451c9030a57cb496d83d56f05e7ac071daeec724"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

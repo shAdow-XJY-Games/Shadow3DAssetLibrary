@@ -1,0 +1,42 @@
+{
+  "id": "museum-exhibit-plinth-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "museum",
+  "style": "soft-low-poly",
+  "title": "Independent Exhibit Plinth",
+  "description": "Original exhibit plinth with separate foot, column, cap and blank caption plaque. Overall 0.86x0.86x0.86m. Repeating at 1.0m in X or Y leaves 0.14m between caps. Layout module for independent displays, not mechanically linked; no load rating.",
+  "bounds": {
+    "x": 0.86,
+    "y": 0.86,
+    "z": 0.86,
+    "unit": "m"
+  },
+  "triangles": 176,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/museum/museum-exhibit-plinth-01/v1.0.0/model.glb",
+      "size": 16168,
+      "sha256": "35ae9db136892c9d949a8d5985400b27d99d26127697e14b8119a76cbda8254a"
+    },
+    "blend": {
+      "path": "assets/museum/museum-exhibit-plinth-01/v1.0.0/source.blend",
+      "size": 630348,
+      "sha256": "db0ce9ed12a8d424bf7b3ce8f13073f256f3ed9b2a49bb6183f3c580d337f464"
+    },
+    "generator": {
+      "path": "assets/museum/museum-exhibit-plinth-01/v1.0.0/generate.py",
+      "size": 29532,
+      "sha256": "4c20367215ee55d72cfacf2ce3ab33670c2c722ff85dd6ce1d49b66b3c1bd676"
+    },
+    "render": {
+      "path": "assets/museum/museum-exhibit-plinth-01/v1.0.0/thumbnail.png",
+      "size": 321075,
+      "sha256": "193c36c47be9a00b1597abd51b43c97809f4c7d3606a34b4d69542ba24feb184"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

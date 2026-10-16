@@ -1,0 +1,42 @@
+{
+  "id": "museum-crystal-cluster-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "museum",
+  "style": "soft-low-poly",
+  "title": "Crystal Cluster on Stone Matrix",
+  "description": "Original five-prism stylized crystal cluster anchored in a faceted stone matrix on a flat display foot. Hexagonal shafts and pointed tips are modeled as closed editable solids. Approximately 0.74m high. Opaque stylized material; no mineral-identification or crystallographic accuracy claim.",
+  "bounds": {
+    "x": 0.62,
+    "y": 0.46173,
+    "z": 0.74,
+    "unit": "m"
+  },
+  "triangles": 234,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/museum/museum-crystal-cluster-01/v1.0.0/model.glb",
+      "size": 22924,
+      "sha256": "91e9b6c35d7c3c49a0ad5da1db9c9946fe3335f2235ba6c07d0920d5a31e189e"
+    },
+    "blend": {
+      "path": "assets/museum/museum-crystal-cluster-01/v1.0.0/source.blend",
+      "size": 601476,
+      "sha256": "f29454a8cb235066d1f7c9a9871df7f05278f839ae824db434709fff458587fe"
+    },
+    "generator": {
+      "path": "assets/museum/museum-crystal-cluster-01/v1.0.0/generate.py",
+      "size": 29177,
+      "sha256": "c49a6dae736d2d496980d0a3a65a538e5bc82587823ecefc595db480f08569c8"
+    },
+    "render": {
+      "path": "assets/museum/museum-crystal-cluster-01/v1.0.0/thumbnail.png",
+      "size": 308040,
+      "sha256": "8baf19f2c51e08882e47ef7da67a0f41ea4e140d8a77b0dd9e3b341a99be78d4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
