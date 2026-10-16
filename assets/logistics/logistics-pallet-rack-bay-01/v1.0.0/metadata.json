@@ -1,0 +1,42 @@
+{
+  "id": "logistics-pallet-rack-bay-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "logistics",
+  "style": "S01-clean-geometric",
+  "title": "Braced Single-Bay Pallet Rack",
+  "description": "Original complete single-bay pallet rack with two braced upright frames, four grounded feet, paired front/rear upper bearing beams and visible beam-end connectors. Twenty-two editable closed parts in one static assembly. Frozen pallet fit is verified using six actual bottom-runner contact patches and displaced-pallet/missing-beam negatives. Upper pallet placement is static context only; original manual jack remains on the floor. No lifting, load rating, anchoring, stability or continuous handling certification.",
+  "bounds": {
+    "x": 1.7799999713897705,
+    "y": 1.0,
+    "z": 2.2100000381469727,
+    "unit": "m"
+  },
+  "triangles": 968,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/logistics/logistics-pallet-rack-bay-01/v1.0.0/model.glb",
+      "size": 85832,
+      "sha256": "f747420e14cd4b6a7a38955c4b973f3d6bf87b1860ea7ccbb0bc90bb4e689b8d"
+    },
+    "blend": {
+      "path": "assets/logistics/logistics-pallet-rack-bay-01/v1.0.0/source.blend",
+      "size": 807396,
+      "sha256": "d945399b17e65eb91f7e58e4e51b5e6b975d7d341120804c0e4e51f71b5221f2"
+    },
+    "generator": {
+      "path": "assets/logistics/logistics-pallet-rack-bay-01/v1.0.0/generate.py",
+      "size": 32670,
+      "sha256": "ee9f2aa033909165c0f53b0cb7899e600ca54d56ee125a5ade6394f6591c4738"
+    },
+    "render": {
+      "path": "assets/logistics/logistics-pallet-rack-bay-01/v1.0.0/thumbnail.png",
+      "size": 201694,
+      "sha256": "7f7a21dc385796319102dfb87758cb7b1b1760d72377f054743b52c7dfbb9c2c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
