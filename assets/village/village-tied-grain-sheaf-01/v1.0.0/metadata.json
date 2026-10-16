@@ -1,0 +1,42 @@
+{
+  "id": "village-tied-grain-sheaf-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Tied Harvest Grain Sheaf",
+  "description": "Static S03 tied grain sheaf with nine gathered cut stems, elongated overlapping seed heads and a small rope binding knot. Three solid PBR materials,86 editable closed source pieces and one assembled runtime mesh. See generate.py opening documentation for origin, unit-scale placement and finite geometric validation scope. Paving and shelter are not included; no crop species, rope simulation or balance guarantee",
+  "bounds": {
+    "x": 0.33964,
+    "y": 0.33964,
+    "z": 0.724,
+    "unit": "m"
+  },
+  "triangles": 3720,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-tied-grain-sheaf-01/v1.0.0/model.glb",
+      "size": 293884,
+      "sha256": "6c1c4b93e270990179f16b7480e601772bc9650a85d2160038201f11f1b0ec51"
+    },
+    "blend": {
+      "path": "assets/village/village-tied-grain-sheaf-01/v1.0.0/source.blend",
+      "size": 1134664,
+      "sha256": "e0091cd9afed7b55e004ad3429086ac98258ba3cd725fe4dcfc9e12056ad1f40"
+    },
+    "generator": {
+      "path": "assets/village/village-tied-grain-sheaf-01/v1.0.0/generate.py",
+      "size": 43614,
+      "sha256": "9bd9ea0f601212535e86fddb71eeda780469a1d97dc7821fec63ec721b858f57"
+    },
+    "render": {
+      "path": "assets/village/village-tied-grain-sheaf-01/v1.0.0/thumbnail.png",
+      "size": 329826,
+      "sha256": "6883f0d4c8147a92213b83ee1c3da641b678f37a8a7f648cc5e0596ef087ffbb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
