@@ -1,0 +1,42 @@
+{
+  "id": "railway-side-platform-2m-01",
+  "version": "1.0.0",
+  "category": "railway-infrastructure",
+  "assetKind": "modular",
+  "theme": "railway",
+  "style": "S01-clean-geometric",
+  "title": "S01 Two-metre Railway Side Platform",
+  "description": "Original static two-metre railway side platform with two recessed concrete piers, full slab, separate light track-edge coping and rear steel railing. Platform top is 0.77 m above its actual ground plane; Y is the 2 m repeat direction. Intended placement X=1.25 m beside the original 1 m clear-gauge straight track leaves 70 mm between pier and sleeper envelopes and 84 mm between coping and inspection-trolley body envelopes. These are static visual placement measurements, not accessibility, loading, passenger-safety or engineering specifications. Editable fixed source and GLB components; no movement claim.",
+  "bounds": {
+    "x": 1.100000023841858,
+    "y": 2.0,
+    "z": 1.627500057220459,
+    "unit": "m"
+  },
+  "triangles": 396,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-side-platform-2m-01/v1.0.0/model.glb",
+      "size": 34920,
+      "sha256": "57bd5eb000eba9401e425e5cfb95796b09a65b2e21fe2238aa75b80f82a2b7ef"
+    },
+    "blend": {
+      "path": "assets/railway/railway-side-platform-2m-01/v1.0.0/source.blend",
+      "size": 721608,
+      "sha256": "3994ab1ebbc8e11001b6a48cb2c94c14de2a48001f410d688bcbca8ea39c5dbb"
+    },
+    "generator": {
+      "path": "assets/railway/railway-side-platform-2m-01/v1.0.0/generate.py",
+      "size": 29381,
+      "sha256": "b935d0656588315d18c4f3e1b9fe6ba975880ad0a798ee897246e688365de806"
+    },
+    "render": {
+      "path": "assets/railway/railway-side-platform-2m-01/v1.0.0/thumbnail.png",
+      "size": 220763,
+      "sha256": "8501c77cb3e25722184de0042c2699802cb2ff22d981ac730f5836bda8faab0e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "railway-buffer-stop-01",
+  "version": "1.0.0",
+  "category": "railway-infrastructure",
+  "assetKind": "modular",
+  "theme": "railway",
+  "style": "S01-clean-geometric",
+  "title": "S01 Static Railway Buffer Stop",
+  "description": "Original static railway end-buffer visual prop with two rail-head mounting shoes at X plus/minus 0.54 m, triangular rear bracing, cross beam and two fixed charcoal pads. Local Z=0 is the rail-head mounting plane, not terrain: place at Z=0.20 m on the original straight-track rail heads. Actual opposing surface contacts are verified in the use-board evidence. Fixed editable parts only; no impact absorption, collision simulation or railway safety specification.",
+  "bounds": {
+    "x": 1.2000000476837158,
+    "y": 0.7200000286102295,
+    "z": 0.5799999833106995,
+    "unit": "m"
+  },
+  "triangles": 396,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-buffer-stop-01/v1.0.0/model.glb",
+      "size": 35448,
+      "sha256": "d7445626b275f783b7670fe77783ba25213ca5d9ad5393de1077a88337547a66"
+    },
+    "blend": {
+      "path": "assets/railway/railway-buffer-stop-01/v1.0.0/source.blend",
+      "size": 721608,
+      "sha256": "77b90a573da23097fe958c8ba9f9b89c69eb270a3439c8f8e68f111dc4ba917a"
+    },
+    "generator": {
+      "path": "assets/railway/railway-buffer-stop-01/v1.0.0/generate.py",
+      "size": 29489,
+      "sha256": "285b909887d4ae1e417e4a754c895fcc6bfb67aae8297ce45f51da17f6bdd70a"
+    },
+    "render": {
+      "path": "assets/railway/railway-buffer-stop-01/v1.0.0/thumbnail.png",
+      "size": 182941,
+      "sha256": "f54d37afdc84a981f4d6be9b053dbab4c515ae680441bda19cf714ded5c60469"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
