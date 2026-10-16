@@ -1,0 +1,42 @@
+{
+  "id": "village-low-entry-landing-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Low Timber Entry Landing",
+  "description": "Original S03 low timber entry landing, 2m wide by 1m deep. Five boards bear on two beams and four short ground blocks; finished surface .30m matches the existing stone apron, with a declared .08m rise to the doorway sill. The old .69m four-tier stair is not fitted or rescaled. Visual modular entrance platform, no navigation or accessibility guarantee.",
+  "bounds": {
+    "x": 2.0,
+    "y": 1.0,
+    "z": 0.3,
+    "unit": "m"
+  },
+  "triangles": 132,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-low-entry-landing-01/v1.0.0/model.glb",
+      "size": 11284,
+      "sha256": "4f5075dec7f82eccd9b9c579d6a31f8a9f3f1e5c05a77e449ea4b1524b35c7c8"
+    },
+    "blend": {
+      "path": "assets/village/village-low-entry-landing-01/v1.0.0/source.blend",
+      "size": 570324,
+      "sha256": "d9f5e3463cede5fbe9ce29b19d5796070b909ac744e2a0bceee0f08424d9eff7"
+    },
+    "generator": {
+      "path": "assets/village/village-low-entry-landing-01/v1.0.0/generate.py",
+      "size": 39240,
+      "sha256": "e02dc429f8e684a572673f5645adc978e1818434b7defbed1f58c47809b2f5a9"
+    },
+    "render": {
+      "path": "assets/village/village-low-entry-landing-01/v1.0.0/thumbnail.png",
+      "size": 301916,
+      "sha256": "8ca2b23897e0a57ddffa67bd79a682f65a7d0fadd21d56151d9a1c142d1307ed"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
