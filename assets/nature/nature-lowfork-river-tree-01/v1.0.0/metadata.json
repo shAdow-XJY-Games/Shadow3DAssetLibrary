@@ -1,0 +1,42 @@
+{
+  "id": "nature-lowfork-river-tree-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "hard-edge-faceted-nature",
+  "title": "Low-fork Riverbank Tree",
+  "description": "S02 hard-edge faceted riverbank tree with a low fork, thicker curved riverward leader, shorter inward secondary leader, continuous grounded root collar and two unequal overlapping crowns. Coherent sage foliage and warm bark values. Directional environmental tree at metre scale; no wind rig or botanical accuracy claim.",
+  "bounds": {
+    "x": 4.57,
+    "y": 2.4778,
+    "z": 3.57951,
+    "unit": "m"
+  },
+  "triangles": 478,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-lowfork-river-tree-01/v1.0.0/model.glb",
+      "size": 38280,
+      "sha256": "878f6a9fdebf6deb61186a8317d5aa8a788525de8fea0759d9795e08b3850cc4"
+    },
+    "blend": {
+      "path": "assets/nature/nature-lowfork-river-tree-01/v1.0.0/source.blend",
+      "size": 711876,
+      "sha256": "94aacfbe816d3e55b03cbff8f7b6aaa1f66359b78fed171c51c4f5da8095e82b"
+    },
+    "generator": {
+      "path": "assets/nature/nature-lowfork-river-tree-01/v1.0.0/generate.py",
+      "size": 37339,
+      "sha256": "bc70c1226663754c9e03be4437f5241217c03b25b1beb5b93008ff981ddb9f38"
+    },
+    "render": {
+      "path": "assets/nature/nature-lowfork-river-tree-01/v1.0.0/thumbnail.png",
+      "size": 309173,
+      "sha256": "9e181dde022363e3dd677a1480501412779f59576c91940374c25f858f836e90"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
