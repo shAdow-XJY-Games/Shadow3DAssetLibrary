@@ -1,0 +1,42 @@
+{
+  "id": "village-soil-road-grade-2m-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Rising Village Soil Road",
+  "description": "S03 closed earth road grade, 2 m long and 2 m wide with 0.5 m rise, maximum height 0.56 m. One continuous ground-supported embankment carries restrained soil and grass shoulders. Both top cross-sections match the 2 m flat-road family after the high end is raised 0.5 m. A high flat neighbour requires separate terrain support; demonstration support terrain is not included. Use unit scale and tested 2 mm seams. No navigation, accessibility, vehicle or engineering guarantee.",
+  "bounds": {
+    "x": 2.0,
+    "y": 2.0,
+    "z": 0.56,
+    "unit": "m"
+  },
+  "triangles": 94,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-soil-road-grade-2m-01/v1.0.0/model.glb",
+      "size": 5956,
+      "sha256": "2a7ed29bb4873b04587e344a134799b6588a7c044f52bd04898a4141ceadf4e6"
+    },
+    "blend": {
+      "path": "assets/village/village-soil-road-grade-2m-01/v1.0.0/source.blend",
+      "size": 567844,
+      "sha256": "cabfc4bccbc0f774ddbd7b9621ed163438c0f249b1fdb1ce369b8ba6ba0bbf0b"
+    },
+    "generator": {
+      "path": "assets/village/village-soil-road-grade-2m-01/v1.0.0/generate.py",
+      "size": 41460,
+      "sha256": "22504a51369ac735eda2cb62262658b9134196d33eb2ca0c400f313e40396696"
+    },
+    "render": {
+      "path": "assets/village/village-soil-road-grade-2m-01/v1.0.0/thumbnail.png",
+      "size": 295822,
+      "sha256": "d8ed3dc91bfeb52df924aa49c20b35f1295a4fd729578b43083065bff9c5fc14"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
