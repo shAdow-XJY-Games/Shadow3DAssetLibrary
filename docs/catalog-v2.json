@@ -449,9 +449,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "a99b27ad8986bbbfc7d18692bc98f6f86372a2f7"
+    },
+    "tailoring-service-pair": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "9820bb726f6eb90a76893367f2c5006311736844"
     }
   },
-  "assetCount": 252,
+  "assetCount": 254,
   "shards": [
     {
       "theme": "camping",
@@ -725,6 +730,13 @@
       "path": "metadata/940f9c69e06194b8e52b441d41dde0500138d9b6c39e0350cffcd2165f3bba9e.json",
       "size": 10874,
       "sha256": "940f9c69e06194b8e52b441d41dde0500138d9b6c39e0350cffcd2165f3bba9e"
+    },
+    {
+      "theme": "tailoring",
+      "count": 2,
+      "path": "metadata/093b8525805e58ca0c1950f2172727c84424e62f4fa9f748800161e54a1d896d.json",
+      "size": 3370,
+      "sha256": "093b8525805e58ca0c1950f2172727c84424e62f4fa9f748800161e54a1d896d"
     }
   ]
 }
