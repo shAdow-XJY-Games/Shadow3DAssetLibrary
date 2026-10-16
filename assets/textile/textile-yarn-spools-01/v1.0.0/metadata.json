@@ -1,0 +1,42 @@
+{
+  "id": "textile-yarn-spools-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "textile",
+  "style": "soft-low-poly",
+  "title": "Wound Yarn Spools on Tray",
+  "description": "Original three yarn spools on a grounded 0.62x0.46m tray. Annular low-poly wound yarn has modeled circumferential ridges around separate wooden cores and flanges. Overall height 0.30m; source pieces are editable and require no texture.",
+  "bounds": {
+    "x": 0.62,
+    "y": 0.46,
+    "z": 0.3,
+    "unit": "m"
+  },
+  "triangles": 2360,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-yarn-spools-01/v1.0.0/model.glb",
+      "size": 156288,
+      "sha256": "bfa44fe9d845d778bf00453535b33bb4d39c6ea701a6915145f6d8f2cef31d1a"
+    },
+    "blend": {
+      "path": "assets/textile/textile-yarn-spools-01/v1.0.0/source.blend",
+      "size": 702428,
+      "sha256": "55813b5edac99d5e6913f60d1901d63969478498ef90b28138574143c4adcf4f"
+    },
+    "generator": {
+      "path": "assets/textile/textile-yarn-spools-01/v1.0.0/generate.py",
+      "size": 29316,
+      "sha256": "d56a8228718761f8f732aaa3c5d34a4f0b9dfa5f878fde2bbc76a39f905cfbd3"
+    },
+    "render": {
+      "path": "assets/textile/textile-yarn-spools-01/v1.0.0/thumbnail.png",
+      "size": 322450,
+      "sha256": "ea7f211a35c908ea949d4d39286bede99862ac47d28029dca1801eb3063b8d37"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

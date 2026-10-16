@@ -1,0 +1,42 @@
+{
+  "id": "textile-weaving-corner-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "textile",
+  "style": "soft-low-poly",
+  "title": "Small Weaving Work Corner",
+  "description": "Original weaving work corner on a 2.9x2.3m base with a seventeen-thread loom and a small work bench holding three ridged yarn spools. All source parts remain editable. Static game scene without cloth simulation, weaving animation or structural rating.",
+  "bounds": {
+    "x": 2.9,
+    "y": 2.3,
+    "z": 1.31,
+    "unit": "m"
+  },
+  "triangles": 3856,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-weaving-corner-01/v1.0.0/model.glb",
+      "size": 259068,
+      "sha256": "e5a6ae1ef01bf3ae0fc211cc7f69307cce523d6dcfd03545e9256c20191b9a8b"
+    },
+    "blend": {
+      "path": "assets/textile/textile-weaving-corner-01/v1.0.0/source.blend",
+      "size": 1060804,
+      "sha256": "3be573d2253a12b7a50752d3b95e15e7b3623b2721c12da61ee11cc856980a46"
+    },
+    "generator": {
+      "path": "assets/textile/textile-weaving-corner-01/v1.0.0/generate.py",
+      "size": 29789,
+      "sha256": "4d97463c78d005f6c9cd293d472ca0ff8b07f03321d033ecad12e2d5738fe9f0"
+    },
+    "render": {
+      "path": "assets/textile/textile-weaving-corner-01/v1.0.0/thumbnail.png",
+      "size": 310165,
+      "sha256": "34df9045f2d6ff06665514756841eaa50165908fc10d701aeaa5713aacb5980b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

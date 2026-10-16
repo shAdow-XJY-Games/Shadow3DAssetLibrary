@@ -1,0 +1,42 @@
+{
+  "id": "textile-weaving-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "textile",
+  "style": "soft-low-poly",
+  "title": "Small Standing Weaving Frame",
+  "description": "Original standing weaving-frame module, 0.98m wide, 0.55m deep and 1.22m high. Seventeen real geometric warp threads connect both crossbeams, with a separate lower woven-cloth display panel. For side-by-side workstation layout, repeat at 1.04m on X for a 60mm foot gap. Static visual asset without cloth physics or operating mechanism.",
+  "bounds": {
+    "x": 0.98,
+    "y": 0.55,
+    "z": 1.22,
+    "unit": "m"
+  },
+  "triangles": 1056,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-weaving-frame-01/v1.0.0/model.glb",
+      "size": 71036,
+      "sha256": "ff72c7d298535a4478f21cdeb0831da13ce89d70b7ef82a863527dcf7d01424c"
+    },
+    "blend": {
+      "path": "assets/textile/textile-weaving-frame-01/v1.0.0/source.blend",
+      "size": 759164,
+      "sha256": "e9c253da4093027511d850a5d80d83d2f59374a3e4ebb736a26d7344874399fe"
+    },
+    "generator": {
+      "path": "assets/textile/textile-weaving-frame-01/v1.0.0/generate.py",
+      "size": 29825,
+      "sha256": "f90235b6315e99d958ccb5f1394d08acb4f9bada791a6d17dd7aab653f09e602"
+    },
+    "render": {
+      "path": "assets/textile/textile-weaving-frame-01/v1.0.0/thumbnail.png",
+      "size": 324917,
+      "sha256": "ce6338fb374d59425d343672bc2a004c8c37ab86d2c80dd94d4c273da158dbbd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
