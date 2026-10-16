@@ -1,0 +1,42 @@
+{
+  "id": "postal-letterbox-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "postal",
+  "style": "soft-low-poly",
+  "title": "Arched Street Letterbox",
+  "description": "Original arched street letterbox on a grounded pedestal. The mail slot is a real closed recess in the shell. Separate access-door panel, latch and blank label plaque are editable. Overall height 1.33m; visual game prop without functional delivery or opening animation.",
+  "bounds": {
+    "x": 0.5,
+    "y": 0.44,
+    "z": 1.33,
+    "unit": "m"
+  },
+  "triangles": 276,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/postal/postal-letterbox-01/v1.0.0/model.glb",
+      "size": 23256,
+      "sha256": "79d9d8a6951b364bd54370b330b836f690c1f31e64653f4f6c29ee466bb234bc"
+    },
+    "blend": {
+      "path": "assets/postal/postal-letterbox-01/v1.0.0/source.blend",
+      "size": 690120,
+      "sha256": "40ac87dfbc53e26be0a55571dfafc1448a90c0b8c3c42e788ab0791b23bcc2b2"
+    },
+    "generator": {
+      "path": "assets/postal/postal-letterbox-01/v1.0.0/generate.py",
+      "size": 29797,
+      "sha256": "11375a3bb094ca7ce85823fa9161d146c0989b081f625962058c8874be9ac500"
+    },
+    "render": {
+      "path": "assets/postal/postal-letterbox-01/v1.0.0/thumbnail.png",
+      "size": 297731,
+      "sha256": "2bd2d40569941e9b5030294fb9e23b44edc698a1813fb26ba3c505d3e59cfcff"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

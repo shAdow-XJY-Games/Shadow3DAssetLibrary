@@ -1,0 +1,42 @@
+{
+  "id": "postal-corner-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "postal",
+  "style": "soft-low-poly",
+  "title": "Small Postal Service Corner",
+  "description": "Original postal corner on a 3.4x2.3m base with an arched street letterbox and a six-cell sorting cabinet. Two labelled parcel shapes occupy the lower centre cubby. Editable source parts; no operational postal service, door animation or structural certification is included.",
+  "bounds": {
+    "x": 3.4,
+    "y": 2.3,
+    "z": 1.42,
+    "unit": "m"
+  },
+  "triangles": 1156,
+  "materials": 8,
+  "files": {
+    "glb": {
+      "path": "assets/postal/postal-corner-01/v1.0.0/model.glb",
+      "size": 93176,
+      "sha256": "32c43df41ccce65e5f13a3bbbb943a656d84c16b8d1b2f56c4b1c101a709a093"
+    },
+    "blend": {
+      "path": "assets/postal/postal-corner-01/v1.0.0/source.blend",
+      "size": 958488,
+      "sha256": "6dd67a0eb9677c57c06c1979ab6804d5d694feef8d58dde0300a9eee70b87855"
+    },
+    "generator": {
+      "path": "assets/postal/postal-corner-01/v1.0.0/generate.py",
+      "size": 30303,
+      "sha256": "854bca87718b5cfdb2f6c12673790adba9d4d1c8ebee1ffdd5149e634d5d1fbd"
+    },
+    "render": {
+      "path": "assets/postal/postal-corner-01/v1.0.0/thumbnail.png",
+      "size": 308765,
+      "sha256": "068ce5e18e2a2a7aec2c8fe1d2303abacadf91c7b1abda52866ccb4762a6fbc2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

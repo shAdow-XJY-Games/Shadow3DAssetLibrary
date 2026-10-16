@@ -1,0 +1,42 @@
+{
+  "id": "postal-sorting-cubbies-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "postal",
+  "style": "soft-low-poly",
+  "title": "Six-Cell Postal Sorting Module",
+  "description": "Original six-cell open-front sorting cabinet on four legs. Actual cabinet width 1.2m, nominal repeat spacing 1.22m along X leaves a 20mm installation gap. Depth including feet 0.46m; top Z=1.1m. Separate frame, shelves, back and dividers; visual asset without load rating.",
+  "bounds": {
+    "x": 1.2,
+    "y": 0.46,
+    "z": 1.1,
+    "unit": "m"
+  },
+  "triangles": 704,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/postal/postal-sorting-cubbies-01/v1.0.0/model.glb",
+      "size": 56480,
+      "sha256": "fca2788d0f22a102d06ec94c20c7e6d8df36d101603637ee35589b5ddeb00b75"
+    },
+    "blend": {
+      "path": "assets/postal/postal-sorting-cubbies-01/v1.0.0/source.blend",
+      "size": 661628,
+      "sha256": "f05590342a49a846bb2175521aa9a7cf6452a696e67f3eb59d411212ff9d2dc8"
+    },
+    "generator": {
+      "path": "assets/postal/postal-sorting-cubbies-01/v1.0.0/generate.py",
+      "size": 30139,
+      "sha256": "c29d06efc38decd2a50e5c4b6228fff868fc598161e063d58e933176f6475549"
+    },
+    "render": {
+      "path": "assets/postal/postal-sorting-cubbies-01/v1.0.0/thumbnail.png",
+      "size": 352471,
+      "sha256": "c92134ef8f22f1190c582a89cd7285150e164fb16f7ff4c234450e25722b794d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
