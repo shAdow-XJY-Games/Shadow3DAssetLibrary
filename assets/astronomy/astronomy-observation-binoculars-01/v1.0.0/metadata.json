@@ -1,0 +1,42 @@
+{
+  "id": "astronomy-observation-binoculars-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "astronomy",
+  "style": "S08-bright-instrumentation",
+  "title": "Recessed Twin Observation Binoculars",
+  "description": "Original S08 static low-poly binoculars with offset prism shoulders, an open central bridge, distinct graphite grasp faces and deeply recessed objective and ocular discs. Independently editable source and GLB components. Fictional visual equipment only; no optical magnification, moving focus or tracking simulation.",
+  "bounds": {
+    "x": 0.23600000143051147,
+    "y": 0.24199999868869781,
+    "z": 0.10000000149011612,
+    "unit": "m"
+  },
+  "triangles": 808,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/astronomy/astronomy-observation-binoculars-01/v1.0.0/model.glb",
+      "size": 45644,
+      "sha256": "9922454ebbd2d98c8c81e8d6ba2be58a83ddf683b0fc53ea5e0ae983d4ee1324"
+    },
+    "blend": {
+      "path": "assets/astronomy/astronomy-observation-binoculars-01/v1.0.0/source.blend",
+      "size": 953500,
+      "sha256": "daf610dbcf75215d729de728a43596ff579fd99d2d8cb4a08f314eb14bb98487"
+    },
+    "generator": {
+      "path": "assets/astronomy/astronomy-observation-binoculars-01/v1.0.0/generate.py",
+      "size": 31386,
+      "sha256": "8f7b7a7e9150eb838142046c6ec4a5fd5dd5ac32a0a08d1dc282ec1a0fd7a5a2"
+    },
+    "render": {
+      "path": "assets/astronomy/astronomy-observation-binoculars-01/v1.0.0/thumbnail.png",
+      "size": 216246,
+      "sha256": "d334aadbca10ce6e4b07704df50d9472cdfe6f5f18aa25b556b588f6943b8b31"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
