@@ -684,9 +684,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "4716d6eb47803912d06710396428d2e51dd7426d"
+    },
+    "transport-single-space-parking-meter-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "2f32a16f2f03759e3abc6f894d6e4f6ee61597b7"
     }
   },
-  "assetCount": 307,
+  "assetCount": 308,
   "shards": [
     {
       "theme": "camping",
@@ -1254,6 +1259,13 @@
       "path": "metadata/8a33210503089c171f0ebf9c3793886782c812e2ca67a7f6ebd6bbb80a0c361b.json",
       "size": 2097,
       "sha256": "8a33210503089c171f0ebf9c3793886782c812e2ca67a7f6ebd6bbb80a0c361b"
+    },
+    {
+      "theme": "transport",
+      "count": 1,
+      "path": "metadata/cbafabdea3dd4eac0f6529ba925ac9774d08082a437669a11122583131247ebe.json",
+      "size": 1953,
+      "sha256": "cbafabdea3dd4eac0f6529ba925ac9774d08082a437669a11122583131247ebe"
     }
   ]
 }
