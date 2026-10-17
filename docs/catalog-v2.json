@@ -689,9 +689,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "2f32a16f2f03759e3abc6f894d6e4f6ee61597b7"
+    },
+    "railway-hopper-wagon-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "94d940c296e8f10f025c499366c102d572ac6a0c"
     }
   },
-  "assetCount": 308,
+  "assetCount": 309,
   "shards": [
     {
       "theme": "camping",
@@ -1266,6 +1271,13 @@
       "path": "metadata/cbafabdea3dd4eac0f6529ba925ac9774d08082a437669a11122583131247ebe.json",
       "size": 1953,
       "sha256": "cbafabdea3dd4eac0f6529ba925ac9774d08082a437669a11122583131247ebe"
+    },
+    {
+      "theme": "railway",
+      "count": 1,
+      "path": "metadata/a1d966a074e8c03eac467a578c8c542f9c6d94c4bbc44aee6f0c26095c47865e.json",
+      "size": 2028,
+      "sha256": "a1d966a074e8c03eac467a578c8c542f9c6d94c4bbc44aee6f0c26095c47865e"
     }
   ]
 }
