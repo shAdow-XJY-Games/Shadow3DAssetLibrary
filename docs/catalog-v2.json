@@ -629,9 +629,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "3d2a19edc87c308ef6396a9b11bc095c63bd3cb4"
+    },
+    "interior-serving-pitcher-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "7d7e24069f0de1f0950b490c68edde4676bb5b9d"
     }
   },
-  "assetCount": 296,
+  "assetCount": 297,
   "shards": [
     {
       "theme": "camping",
@@ -1122,6 +1127,13 @@
       "path": "metadata/d8754b0b4ab86b3683701562ab53b412cd6efc5b70b9a1b98b9478e51dda5b06.json",
       "size": 2281,
       "sha256": "d8754b0b4ab86b3683701562ab53b412cd6efc5b70b9a1b98b9478e51dda5b06"
+    },
+    {
+      "theme": "interior",
+      "count": 1,
+      "path": "metadata/0e90fc78f133fb1d329b31cf6e4d34205a248332441f215ffe22acc4c0a20c48.json",
+      "size": 1734,
+      "sha256": "0e90fc78f133fb1d329b31cf6e4d34205a248332441f215ffe22acc4c0a20c48"
     }
   ]
 }
