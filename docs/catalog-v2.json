@@ -679,9 +679,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "90362f1936f764928871e77b608201eab472873a"
+    },
+    "nature-bank-escarpment-transition-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "4716d6eb47803912d06710396428d2e51dd7426d"
     }
   },
-  "assetCount": 306,
+  "assetCount": 307,
   "shards": [
     {
       "theme": "camping",
@@ -1242,6 +1247,13 @@
       "path": "metadata/6573a6c7cf0da7cae492db5fc50b48ac31fff7a21b72f591c9a7495e50f26f80.json",
       "size": 1930,
       "sha256": "6573a6c7cf0da7cae492db5fc50b48ac31fff7a21b72f591c9a7495e50f26f80"
+    },
+    {
+      "theme": "nature",
+      "count": 1,
+      "path": "metadata/8a33210503089c171f0ebf9c3793886782c812e2ca67a7f6ebd6bbb80a0c361b.json",
+      "size": 2097,
+      "sha256": "8a33210503089c171f0ebf9c3793886782c812e2ca67a7f6ebd6bbb80a0c361b"
     }
   ]
 }
