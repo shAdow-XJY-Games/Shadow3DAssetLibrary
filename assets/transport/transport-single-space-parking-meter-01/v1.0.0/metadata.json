@@ -1,0 +1,42 @@
+{
+  "id": "transport-single-space-parking-meter-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "Single-space Parking Meter",
+  "description": "Original S01 static single-space parking-meter prop with a faceted arch-top head, a genuinely recessed analog-display pocket with fixed gauge marks and pointer, a deep closed-back coin-slot recess, and a fixed winding handle. The continuous post sits inside a socket on a flat ground plate with four static bolt heads. Metre scale, source Z up, operator face -Y, root at the ground under the post. Five solid PBR materials, no textures. Independent editable closed components. Existing cycle-service post and bus-stop information pole contain no parking timer; this is an original transport-expansion prop. No operating timer, animation, coin handling, payment, billing, parking enforcement, security, stability, engineering or infrastructure certification.",
+  "bounds": {
+    "x": 0.31,
+    "y": 0.263,
+    "z": 1.5,
+    "unit": "m"
+  },
+  "triangles": 668,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-single-space-parking-meter-01/v1.0.0/model.glb",
+      "size": 50060,
+      "sha256": "16fd175c6d65b04ff1f2a3ab77977991ec88d2a26a33e4f3ef540f2a965f8065"
+    },
+    "blend": {
+      "path": "assets/transport/transport-single-space-parking-meter-01/v1.0.0/source.blend",
+      "size": 660256,
+      "sha256": "2d56158c95c1267668b5f6bdd5036cab773b501727b8a959b8e2298487a38b9a"
+    },
+    "generator": {
+      "path": "assets/transport/transport-single-space-parking-meter-01/v1.0.0/generate.py",
+      "size": 20055,
+      "sha256": "75f2249795bfc75710f0895dc36dd5b68958095fa78c48a4fb5687e90a687fa8"
+    },
+    "render": {
+      "path": "assets/transport/transport-single-space-parking-meter-01/v1.0.0/thumbnail.png",
+      "size": 457953,
+      "sha256": "08931687258950e77599ff43595b8ccaaf896f9cd4bc485ef03bf2113f790ce7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
