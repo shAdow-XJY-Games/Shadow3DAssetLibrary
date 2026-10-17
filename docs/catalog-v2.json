@@ -544,9 +544,19 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "37d94373bb0b5513f87be23b9cf10ef9e810920f"
+    },
+    "harbor-cargo-rest-platform-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "982939c47a67316444704eed8fb047d286ed7339"
+    },
+    "industrial-bench-drill-press-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "982939c47a67316444704eed8fb047d286ed7339"
     }
   },
-  "assetCount": 279,
+  "assetCount": 281,
   "shards": [
     {
       "theme": "camping",
@@ -918,6 +928,20 @@
       "path": "metadata/2b5ad75c03f47d5d55f99e9228cff8e7a3ccb38ff487f9bace092063c5de3b88.json",
       "size": 1866,
       "sha256": "2b5ad75c03f47d5d55f99e9228cff8e7a3ccb38ff487f9bace092063c5de3b88"
+    },
+    {
+      "theme": "harbor",
+      "count": 1,
+      "path": "metadata/0e39ff16dcdefc80debac21034fc4aecbda4c3a8295d87a3f8a2d8e4015e7a43.json",
+      "size": 1495,
+      "sha256": "0e39ff16dcdefc80debac21034fc4aecbda4c3a8295d87a3f8a2d8e4015e7a43"
+    },
+    {
+      "theme": "industrial",
+      "count": 1,
+      "path": "metadata/352d17cf6eee9b6b1d37da40a01fbf279bd5e51c1054ac74bc4ce0690901e6b1.json",
+      "size": 1709,
+      "sha256": "352d17cf6eee9b6b1d37da40a01fbf279bd5e51c1054ac74bc4ce0690901e6b1"
     }
   ]
 }
