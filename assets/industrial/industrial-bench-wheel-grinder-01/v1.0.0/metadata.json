@@ -1,0 +1,42 @@
+{
+  "id": "industrial-bench-wheel-grinder-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "industrial",
+  "style": "S01-clean-geometric",
+  "title": "Original Compact Twin-Wheel Bench Grinder",
+  "description": "Original static compact horizontal twin-wheel bench grinder in a limited S01 palette. Separate planar base, pedestal, horizontal motor, coaxial spindle, bored wheels, flanges, thick open-front guards, bolted tool-rest brackets, upper deflectors and front rocker. Four restrained teal, steel, charcoal and rough gray wheel PBR materials. No movement, grinding performance, anchoring, load capacity, manufacturability, or safety certification is claimed.",
+  "bounds": {
+    "x": 0.36399999260902405,
+    "y": 0.21299999952316284,
+    "z": 0.23100000619888306,
+    "unit": "m"
+  },
+  "triangles": 3656,
+  "materials": 4,
+  "status": "verified",
+  "license": "All rights reserved",
+  "files": {
+    "glb": {
+      "path": "assets/industrial/industrial-bench-wheel-grinder-01/v1.0.0/model.glb",
+      "size": 193900,
+      "sha256": "cdfb46501cc8f89e2cba2d9ed33d1a661688ba5d31d7cb2fcb20a9f8e4abc484"
+    },
+    "blend": {
+      "path": "assets/industrial/industrial-bench-wheel-grinder-01/v1.0.0/source.blend",
+      "size": 905472,
+      "sha256": "3ee602a569849a705f56fd5dd84b8dabb48aa08857e0fd902203d789d9838ca4"
+    },
+    "generator": {
+      "path": "assets/industrial/industrial-bench-wheel-grinder-01/v1.0.0/generate.py",
+      "size": 11237,
+      "sha256": "c96437604a1292c802dba2f009e6c12f07fa90015ee5466bbe538d85f5f0fb4a"
+    },
+    "render": {
+      "path": "assets/industrial/industrial-bench-wheel-grinder-01/v1.0.0/thumbnail.png",
+      "size": 1075869,
+      "sha256": "f9ea9cc041f96cb52d2721e3cf4ba259702e743c453d2d184b5a8c8a4722dc66"
+    }
+  }
+}
