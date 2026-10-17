@@ -554,9 +554,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "982939c47a67316444704eed8fb047d286ed7339"
+    },
+    "industrial-bench-wheel-grinder-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "7b4cc89e6a4f96a17174209f641c797e627debd6"
     }
   },
-  "assetCount": 281,
+  "assetCount": 282,
   "shards": [
     {
       "theme": "camping",
@@ -942,6 +947,13 @@
       "path": "metadata/352d17cf6eee9b6b1d37da40a01fbf279bd5e51c1054ac74bc4ce0690901e6b1.json",
       "size": 1709,
       "sha256": "352d17cf6eee9b6b1d37da40a01fbf279bd5e51c1054ac74bc4ce0690901e6b1"
+    },
+    {
+      "theme": "industrial",
+      "count": 1,
+      "path": "metadata/a49e1b4ce1dba59ac1ec683098dd7df1fc5fa7ad801e269cdd4834627d594294.json",
+      "size": 1681,
+      "sha256": "a49e1b4ce1dba59ac1ec683098dd7df1fc5fa7ad801e269cdd4834627d594294"
     }
   ]
 }
