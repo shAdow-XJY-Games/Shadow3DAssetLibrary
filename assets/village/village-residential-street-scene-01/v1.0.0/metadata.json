@@ -1,0 +1,42 @@
+{
+  "id": "village-residential-street-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "village",
+  "style": "warm-handcrafted-village",
+  "title": "Village Residential Street Scene",
+  "description": "One static residential street scene, zero new standalone models. Four fixed exterior porch cottages face a nine-tile soil lane, with 2mm real road seams, straight members from the narrow stone border kit, eight detached complete fence panels and two orchard trees. Unit-scale original geometry and full solid PBR are preserved. Border corner member is not included. Requires external flat Z0 ground. Original door leaves remain fixed; no enterable interior, navigation, collision-controller, accessibility or building safety certification.",
+  "bounds": {
+    "x": 18.016000747680664,
+    "y": 13.559999465942383,
+    "z": 4.599999904632568,
+    "unit": "m"
+  },
+  "triangles": 21542,
+  "materials": 20,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-residential-street-scene-01/v1.0.0/model.glb",
+      "size": 580380,
+      "sha256": "0beebfadf70bfec7c807947f98878263a6a3364475793d650420f96eed6297bf"
+    },
+    "blend": {
+      "path": "assets/village/village-residential-street-scene-01/v1.0.0/source.blend",
+      "size": 3260416,
+      "sha256": "4123bfa539c14fcfdef3b154ea08b1d07af8e314d563262c6e4620ea80261710"
+    },
+    "generator": {
+      "path": "assets/village/village-residential-street-scene-01/v1.0.0/generate.py",
+      "size": 507192,
+      "sha256": "72ccc70ca74c98b75dbbb309153c45e78d3433ddc96bee96ef675325e084bbd4"
+    },
+    "render": {
+      "path": "assets/village/village-residential-street-scene-01/v1.0.0/thumbnail.png",
+      "size": 838384,
+      "sha256": "9dd7f45750ac956aa26f510acf8a5da8433a88a4033e52fc791594f262ab2915"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
