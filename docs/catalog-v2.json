@@ -619,9 +619,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "73e173c2ec9e07195abc205cd4e3a5bde2a0aab4"
+    },
+    "interior-open-bookcase-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "5d8e63bb6552d8c47113bba3a3ff55f905ad5800"
     }
   },
-  "assetCount": 294,
+  "assetCount": 295,
   "shards": [
     {
       "theme": "camping",
@@ -1098,6 +1103,13 @@
       "path": "metadata/8ab4919cb459a1f4224c6d602a6ce82d34d5fa57a4ce3db75834d2e6a82ea1fd.json",
       "size": 1768,
       "sha256": "8ab4919cb459a1f4224c6d602a6ce82d34d5fa57a4ce3db75834d2e6a82ea1fd"
+    },
+    {
+      "theme": "interior",
+      "count": 1,
+      "path": "metadata/c773dc6d353f27f3f619886a799ce06985e2aa789d93e50d05def476aed3e685.json",
+      "size": 1862,
+      "sha256": "c773dc6d353f27f3f619886a799ce06985e2aa789d93e50d05def476aed3e685"
     }
   ]
 }
