@@ -1,0 +1,42 @@
+{
+  "id": "interior-entryway-mirror-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "S01 Fixed Entryway Floor Mirror",
+  "description": "Original S01 fixed full-length entryway mirror, width 0.64 m, depth 0.34 m and height 1.68 m. A continuous 60 mm-deep clipped-corner maple ring retains a separate 7 mm mirror sheet and an 18 mm seafoam backboard. Two fixed rear supports join the lower ring and backboard to a broad ivory floor base. Metres, Z up, front -Y, origin at the floor-contact centre. Six named closed independently editable static components. The mirror uses standard metallic-roughness PBR, metallic 1 and roughness 0.12; no runtime planar reflection, environment capture or reflection-fidelity guarantee. No pivot, animation, decorative props, wall installation, load, stability, glass-safety or manufacturing certification.",
+  "bounds": {
+    "x": 0.64,
+    "y": 0.34,
+    "z": 1.68,
+    "unit": "m"
+  },
+  "triangles": 508,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-entryway-mirror-01/v1.0.0/model.glb",
+      "size": 34084,
+      "sha256": "b6a0b263c0b90e52af58adb20337e0e989f37819a0d76e653e4e71f72f0a9639"
+    },
+    "blend": {
+      "path": "assets/interior/interior-entryway-mirror-01/v1.0.0/source.blend",
+      "size": 565844,
+      "sha256": "b552dc22eb9e7ab8f604839942f8d2e575457e8caab9ed8d9b8d78bc835e36ca"
+    },
+    "generator": {
+      "path": "assets/interior/interior-entryway-mirror-01/v1.0.0/generate.py",
+      "size": 18850,
+      "sha256": "79fe87c1229a56585ce5574b48984a218f8d750b08cc7a61def62b9fa88754fc"
+    },
+    "render": {
+      "path": "assets/interior/interior-entryway-mirror-01/v1.0.0/thumbnail.png",
+      "size": 474966,
+      "sha256": "5da02ce79025aa3154d5c4a1cddc3bad4bdd718ba2de2a3a8070574b51a6b002"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
