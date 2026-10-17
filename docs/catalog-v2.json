@@ -704,9 +704,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "3637fe01bad6304fbe01a090b28b6109b6f1180b"
+    },
+    "nature-forest-path-scene-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "60c7b2bf29c2f4c7cc585f4a534b17c420eb8c21"
     }
   },
-  "assetCount": 311,
+  "assetCount": 312,
   "shards": [
     {
       "theme": "camping",
@@ -1302,6 +1307,13 @@
       "path": "metadata/70ef6051f2eb31093ce62a89f2e699714ea120d67cc58e8f9e4bff0e28de8ee0.json",
       "size": 1899,
       "sha256": "70ef6051f2eb31093ce62a89f2e699714ea120d67cc58e8f9e4bff0e28de8ee0"
+    },
+    {
+      "theme": "nature",
+      "count": 1,
+      "path": "metadata/ab06b48e685804096e30004721d54f7ead2fb9e2870dce40a966afedf163755d.json",
+      "size": 1729,
+      "sha256": "ab06b48e685804096e30004721d54f7ead2fb9e2870dce40a966afedf163755d"
     }
   ]
 }
