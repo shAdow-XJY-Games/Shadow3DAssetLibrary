@@ -654,9 +654,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "9c6fc921100857f8e99748d8261b41759272b52b"
+    },
+    "transport-wheel-chock-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "fbdf3661740f9600b634b767906816f7df3575f6"
     }
   },
-  "assetCount": 301,
+  "assetCount": 302,
   "shards": [
     {
       "theme": "camping",
@@ -1182,6 +1187,13 @@
       "path": "metadata/1705d557de83a9272d9fbc499267c69b14deb306a8711d74cd3f73a8a8b32f33.json",
       "size": 1847,
       "sha256": "1705d557de83a9272d9fbc499267c69b14deb306a8711d74cd3f73a8a8b32f33"
+    },
+    {
+      "theme": "transport",
+      "count": 1,
+      "path": "metadata/fc0e38034a39caa48df449efd07e9c93b6b7cd7574d5f2dc7e45a055db310181.json",
+      "size": 1845,
+      "sha256": "fc0e38034a39caa48df449efd07e9c93b6b7cd7574d5f2dc7e45a055db310181"
     }
   ]
 }
