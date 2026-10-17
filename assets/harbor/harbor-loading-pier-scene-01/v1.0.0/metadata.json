@@ -1,0 +1,42 @@
+{
+  "id": "harbor-loading-pier-scene-01",
+  "version": "1.0.0",
+  "category": "scene-compositions",
+  "assetKind": "scene",
+  "theme": "harbor",
+  "style": "soft-low-poly",
+  "title": "Harbor Cargo and Rest Platform Preset",
+  "description": "4m static cargo/rest platform preset reusing 9 published Harbor IDs at v1.0.0 as 12 independently selectable rigid instances: west cargo, northeast seating and open center. No new standalone prop, water or shore connection. Exact source commit and hashes embedded in generator. Original 12mm deck seams and bench/rope contact limits retained; offline review only.",
+  "bounds": {
+    "x": 4.0,
+    "y": 4.0,
+    "z": 2.681,
+    "unit": "m"
+  },
+  "triangles": 12396,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-loading-pier-scene-01/v1.0.0/model.glb",
+      "size": 743996,
+      "sha256": "4589e67c455d925a04345ec3d63bac32effcc7ffeb7a5c714b164cc6af5ae299"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-loading-pier-scene-01/v1.0.0/source.blend",
+      "size": 1744588,
+      "sha256": "bcb5f84e4850ec465c35938689721cdfda1711be3153798ae403d6b4a1d4a359"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-loading-pier-scene-01/v1.0.0/generate.py",
+      "size": 36154,
+      "sha256": "9d2830a79305eeda5b816823557a5880bb2af3b63515f2e8fb986c3d1bf8f529"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-loading-pier-scene-01/v1.0.0/thumbnail.png",
+      "size": 1370975,
+      "sha256": "71ec193a583f1b837deb68733a43e8696b163a67ef240f4e286141c917687ee5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
