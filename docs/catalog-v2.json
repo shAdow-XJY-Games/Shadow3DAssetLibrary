@@ -559,9 +559,19 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "7b4cc89e6a4f96a17174209f641c797e627debd6"
+    },
+    "retail-fresh-market-preset-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "914e6e082248b28b01ecb0149b2b00d79059b78e"
+    },
+    "cafe-order-pickup-counter-preset-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "914e6e082248b28b01ecb0149b2b00d79059b78e"
     }
   },
-  "assetCount": 282,
+  "assetCount": 284,
   "shards": [
     {
       "theme": "camping",
@@ -954,6 +964,20 @@
       "path": "metadata/a49e1b4ce1dba59ac1ec683098dd7df1fc5fa7ad801e269cdd4834627d594294.json",
       "size": 1681,
       "sha256": "a49e1b4ce1dba59ac1ec683098dd7df1fc5fa7ad801e269cdd4834627d594294"
+    },
+    {
+      "theme": "retail",
+      "count": 1,
+      "path": "metadata/2b2c4a592422aca2748fc953be07a9861a0f80008ea0248bce91bf8532e6bcf0.json",
+      "size": 1790,
+      "sha256": "2b2c4a592422aca2748fc953be07a9861a0f80008ea0248bce91bf8532e6bcf0"
+    },
+    {
+      "theme": "cafe",
+      "count": 1,
+      "path": "metadata/aa2d103a7fc7677a2923134df76c83fbf022cef76bbce9066177523949c261ba.json",
+      "size": 1560,
+      "sha256": "aa2d103a7fc7677a2923134df76c83fbf022cef76bbce9066177523949c261ba"
     }
   ]
 }
