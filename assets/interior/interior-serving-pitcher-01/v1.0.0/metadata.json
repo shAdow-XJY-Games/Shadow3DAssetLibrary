@@ -1,0 +1,42 @@
+{
+  "id": "interior-serving-pitcher-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "Open Seafoam Serving Pitcher",
+  "description": "Original S01 table-scale serving pitcher with a generous faceted belly, narrowed neck, large open refill mouth and an elongated integrated pouring lip. One continuous closed thick shell includes the flat base, real inner floor, inner walls and visible ivory rim. One separate solid C-profile rear handle has a large real aperture and two roots inserted into the body wall. Two named editable meshes, solid PBR materials, metre scale and body-base-centre origin at Z=0; spout +X, handle -X. Static game visual only; no liquid, pouring animation, capacity, load, grip ergonomics or food-contact certification.",
+  "bounds": {
+    "x": 0.296037,
+    "y": 0.178,
+    "z": 0.245,
+    "unit": "m"
+  },
+  "triangles": 1352,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-serving-pitcher-01/v1.0.0/model.glb",
+      "size": 74616,
+      "sha256": "1252f808ce43ca979d0bb7a3ac71787314473036e226d2620d9e078bc3958857"
+    },
+    "blend": {
+      "path": "assets/interior/interior-serving-pitcher-01/v1.0.0/source.blend",
+      "size": 525948,
+      "sha256": "304bee18b10144354ab4c0775fe69791f130210f4efa148af3aa872e972b841c"
+    },
+    "generator": {
+      "path": "assets/interior/interior-serving-pitcher-01/v1.0.0/generate.py",
+      "size": 14922,
+      "sha256": "aa130052872c9c568759110bb175f2d6f64845a7bc2ee4f5a198b3766f80cad8"
+    },
+    "render": {
+      "path": "assets/interior/interior-serving-pitcher-01/v1.0.0/thumbnail.png",
+      "size": 509414,
+      "sha256": "dbff0807545cd51bfdbdd8bcb74cc2f5e9ef41cf368f8274796c05ab4b9746b8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
