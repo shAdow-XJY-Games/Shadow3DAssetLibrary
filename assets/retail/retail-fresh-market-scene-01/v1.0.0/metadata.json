@@ -1,0 +1,42 @@
+{
+  "id": "retail-fresh-market-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "retail",
+  "style": "original-source-mix",
+  "title": "Two-Bay Fresh Market Handoff Preset",
+  "description": "Static game layout: two complete published produce stalls, shared rear prep table with whole produce kit, and two side-pocket two-crate stacks. Separate front public and rear external handoff/storage interfaces. Stall interior has nominal 1.95m beam clearance and does not pass a 1.95m-body workflow. Exterior routes terminate at handoff points outside canopy. External flat ground Z=0 required. Seven named game ports and full reserved-route data are embedded in the GLB. Custom regions use preset-local Blender Z-up metres and map to glTF Y-up by (x,y,z) to (x,z,-y). No moving navigation, accessibility, commercial, load or dynamics certification.",
+  "bounds": {
+    "x": 4.96,
+    "y": 2.3273196,
+    "z": 2.3499999,
+    "unit": "m"
+  },
+  "triangles": 10580,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-fresh-market-scene-01/v1.0.0/model.glb",
+      "size": 430232,
+      "sha256": "b8622b6889f0c8d9f772a2b5dfc7e7d8f756ec30dc8c1dd50cf854e73ead1e53"
+    },
+    "blend": {
+      "path": "assets/retail/retail-fresh-market-scene-01/v1.0.0/source.blend",
+      "size": 1602916,
+      "sha256": "9ea5b5260b8ec868fad8d63b05a560fa9f952c3bde7e75001e9a044989458eea"
+    },
+    "generator": {
+      "path": "assets/retail/retail-fresh-market-scene-01/v1.0.0/generate.py",
+      "size": 48249,
+      "sha256": "8f3c5510acfdceb398ae8074fa6d758f730c65eb55dbf46c59c4d9da51d6e592"
+    },
+    "render": {
+      "path": "assets/retail/retail-fresh-market-scene-01/v1.0.0/thumbnail.png",
+      "size": 1381085,
+      "sha256": "8d156b58c9f965124b22ffb1b16b320a83abbd5434a04567c4c42c0b5dd13be2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
