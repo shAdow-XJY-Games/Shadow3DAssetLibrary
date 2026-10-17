@@ -574,9 +574,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "7bcff6afe4e472624fb2952f8aee05e72aa6b124"
+    },
+    "industrial-workshop-dust-collector-r2-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "f9e2fa6a57f613a6991fa0c3caf656dd00d043c7"
     }
   },
-  "assetCount": 285,
+  "assetCount": 286,
   "shards": [
     {
       "theme": "camping",
@@ -990,6 +995,13 @@
       "path": "metadata/02dd38c6371b7fea92cabc4716cdf49f8df1047bfa19c4f2981f802b25233452.json",
       "size": 1735,
       "sha256": "02dd38c6371b7fea92cabc4716cdf49f8df1047bfa19c4f2981f802b25233452"
+    },
+    {
+      "theme": "industrial",
+      "count": 1,
+      "path": "metadata/d052d5e79c2b82a2047f9b9fb14b12875c8b2a1a995843b757517591cc11a86b.json",
+      "size": 1797,
+      "sha256": "d052d5e79c2b82a2047f9b9fb14b12875c8b2a1a995843b757517591cc11a86b"
     }
   ]
 }
