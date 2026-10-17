@@ -634,9 +634,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "7d7e24069f0de1f0950b490c68edde4676bb5b9d"
+    },
+    "nature-fern-clump-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "8dbe40802a7c6cd34e1a5679e0560d4954b4cd95"
     }
   },
-  "assetCount": 297,
+  "assetCount": 298,
   "shards": [
     {
       "theme": "camping",
@@ -1134,6 +1139,13 @@
       "path": "metadata/0e90fc78f133fb1d329b31cf6e4d34205a248332441f215ffe22acc4c0a20c48.json",
       "size": 1734,
       "sha256": "0e90fc78f133fb1d329b31cf6e4d34205a248332441f215ffe22acc4c0a20c48"
+    },
+    {
+      "theme": "nature",
+      "count": 1,
+      "path": "metadata/3443698b68e39c5454df9d93cebf81550fb96455b458eef131b59431560eb32c.json",
+      "size": 1721,
+      "sha256": "3443698b68e39c5454df9d93cebf81550fb96455b458eef131b59431560eb32c"
     }
   ]
 }
