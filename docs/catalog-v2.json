@@ -699,9 +699,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "64dc6b0a941600c40810e10b4b2292048418bcef"
+    },
+    "transport-passenger-minibus-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "3637fe01bad6304fbe01a090b28b6109b6f1180b"
     }
   },
-  "assetCount": 310,
+  "assetCount": 311,
   "shards": [
     {
       "theme": "camping",
@@ -1290,6 +1295,13 @@
       "path": "metadata/5390378601b03b6bbd02587f9c6d934d181b47e74825b90528893e6ea33e4dec.json",
       "size": 2367,
       "sha256": "5390378601b03b6bbd02587f9c6d934d181b47e74825b90528893e6ea33e4dec"
+    },
+    {
+      "theme": "transport",
+      "count": 1,
+      "path": "metadata/70ef6051f2eb31093ce62a89f2e699714ea120d67cc58e8f9e4bff0e28de8ee0.json",
+      "size": 1899,
+      "sha256": "70ef6051f2eb31093ce62a89f2e699714ea120d67cc58e8f9e4bff0e28de8ee0"
     }
   ]
 }
