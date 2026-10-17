@@ -589,9 +589,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "3bc5c06530cbc0da61a55138b852607b18b800f7"
+    },
+    "interior-arched-door-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "3857e111ec973f779c43b2e4f6947dd47f651874"
     }
   },
-  "assetCount": 288,
+  "assetCount": 289,
   "shards": [
     {
       "theme": "camping",
@@ -1026,6 +1031,13 @@
       "path": "metadata/99ff933b9957124cef284036640aa79fad4b29492138aea40661604233c74c91.json",
       "size": 1776,
       "sha256": "99ff933b9957124cef284036640aa79fad4b29492138aea40661604233c74c91"
+    },
+    {
+      "theme": "interior",
+      "count": 1,
+      "path": "metadata/3dd0bbf42e82ab79692ce51c0aff6ffd7f77eac6301a5e8fbe8658296e5e34cf.json",
+      "size": 1923,
+      "sha256": "3dd0bbf42e82ab79692ce51c0aff6ffd7f77eac6301a5e8fbe8658296e5e34cf"
     }
   ]
 }
