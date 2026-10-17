@@ -1,0 +1,42 @@
+{
+  "id": "nature-waterfall-transition-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "nature",
+  "style": "hard-edge-faceted-nature",
+  "title": "Stream Waterfall Height Transition",
+  "description": "Original S02 static stream waterfall transition with a real 1.10 m water-level drop over a 2 m X run. One continuous closed editable terrain solid surrounds a separate connected closed water body with an upstream lip, steep falling face and widened receiving basin. Both end sections match the existing stream-width transition narrow port: bank-foot spacing .60 m, raw water width .72 m; downstream X=+1 water Z=.16 m, upstream X=-1 water Z=1.26 m. Old upstream placement is rotation Z=180 degrees plus translation (-2,0,1.10) m; downstream translation (2,0,0) m. Terrain union caps match within 2e-6 m. Water bottom edges retreat .01 m, retaining the old 20 mm paired V gap: water-surface continuity only, no full water-volume claim. Legacy earth/water PBR values remain on visible port-adjacent surfaces; hidden terrain cap material partition is not identical to the old separate bed/bank caps. Upper-end installation requires equally raised supporting terrain. The escarpment is a height-scale reference only; no cliff-side, bend or whole-scene exact snap. No added decorative rocks or vegetation. Static visual module only; no animated flow, hydrology, collision, navigation, walkability, support/load or physics certification.",
+  "bounds": {
+    "x": 2.0,
+    "y": 3.42,
+    "z": 1.8,
+    "unit": "m"
+  },
+  "triangles": 280,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-waterfall-transition-01/v1.0.0/model.glb",
+      "size": 21032,
+      "sha256": "1c8ab8375235ca3a420a126ad82f18fd25b95ea07097ee899247cf5282c44fb1"
+    },
+    "blend": {
+      "path": "assets/nature/nature-waterfall-transition-01/v1.0.0/source.blend",
+      "size": 583300,
+      "sha256": "3be731e4393e97210ab26a3bb28ebac3350b0cc959b5a21844ac11ea30af9b50"
+    },
+    "generator": {
+      "path": "assets/nature/nature-waterfall-transition-01/v1.0.0/generate.py",
+      "size": 16816,
+      "sha256": "48880ec737198eba25329dee28c60f3c5a0350e934c68f26edea0605bdcafc42"
+    },
+    "render": {
+      "path": "assets/nature/nature-waterfall-transition-01/v1.0.0/thumbnail.png",
+      "size": 494672,
+      "sha256": "7a3158d029f6d8a571d1e8ed8fdea045f045746048b65eac6e74de371043d63c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
