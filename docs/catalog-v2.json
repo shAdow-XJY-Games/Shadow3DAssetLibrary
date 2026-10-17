@@ -639,9 +639,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "8dbe40802a7c6cd34e1a5679e0560d4954b4cd95"
+    },
+    "interior-entryway-mirror-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "cbd24ca04db39a54bc98556416ba45a3bf871226"
     }
   },
-  "assetCount": 298,
+  "assetCount": 299,
   "shards": [
     {
       "theme": "camping",
@@ -1146,6 +1151,13 @@
       "path": "metadata/3443698b68e39c5454df9d93cebf81550fb96455b458eef131b59431560eb32c.json",
       "size": 1721,
       "sha256": "3443698b68e39c5454df9d93cebf81550fb96455b458eef131b59431560eb32c"
+    },
+    {
+      "theme": "interior",
+      "count": 1,
+      "path": "metadata/189ca018453cde1adcb86ec29ead885382cc3ae246942fb20b4c282cae9ba3bc.json",
+      "size": 1825,
+      "sha256": "189ca018453cde1adcb86ec29ead885382cc3ae246942fb20b4c282cae9ba3bc"
     }
   ]
 }
