@@ -649,9 +649,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "9414949d4e05f16eee05d6d0334e8cb782df1ae0"
+    },
+    "interior-two-seat-sofa-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "9c6fc921100857f8e99748d8261b41759272b52b"
     }
   },
-  "assetCount": 300,
+  "assetCount": 301,
   "shards": [
     {
       "theme": "camping",
@@ -1170,6 +1175,13 @@
       "path": "metadata/ae7fc4e936f2cd911ecb169396d5140fadfc0bb6d1198f8e129ba150c541b35e.json",
       "size": 1738,
       "sha256": "ae7fc4e936f2cd911ecb169396d5140fadfc0bb6d1198f8e129ba150c541b35e"
+    },
+    {
+      "theme": "interior",
+      "count": 1,
+      "path": "metadata/1705d557de83a9272d9fbc499267c69b14deb306a8711d74cd3f73a8a8b32f33.json",
+      "size": 1847,
+      "sha256": "1705d557de83a9272d9fbc499267c69b14deb306a8711d74cd3f73a8a8b32f33"
     }
   ]
 }
