@@ -659,9 +659,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "fbdf3661740f9600b634b767906816f7df3575f6"
+    },
+    "railway-half-track-1m-extension": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "997f8f38ee77085c1b0ed6a5f9386b5fa9883997"
     }
   },
-  "assetCount": 302,
+  "assetCount": 303,
   "shards": [
     {
       "theme": "camping",
@@ -1194,6 +1199,13 @@
       "path": "metadata/fc0e38034a39caa48df449efd07e9c93b6b7cd7574d5f2dc7e45a055db310181.json",
       "size": 1845,
       "sha256": "fc0e38034a39caa48df449efd07e9c93b6b7cd7574d5f2dc7e45a055db310181"
+    },
+    {
+      "theme": "railway",
+      "count": 1,
+      "path": "metadata/0f2959393275a59c2f65f7ee0bb93855401d80d67383dca0571bc50d87f857fa.json",
+      "size": 1918,
+      "sha256": "0f2959393275a59c2f65f7ee0bb93855401d80d67383dca0571bc50d87f857fa"
     }
   ]
 }
