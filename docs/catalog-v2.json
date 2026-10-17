@@ -714,9 +714,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "196048dc71e63e4cb827f847e161cdae2cb88582"
+    },
+    "village-residential-street-scene-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "1b6c60d5d49fd534fd5748604a0e154411912a47"
     }
   },
-  "assetCount": 313,
+  "assetCount": 314,
   "shards": [
     {
       "theme": "camping",
@@ -1326,6 +1331,13 @@
       "path": "metadata/10dc68769b481e869430f1aaf6766fee71c0e7849ff00350ef5c2e3dcf794f8c.json",
       "size": 1896,
       "sha256": "10dc68769b481e869430f1aaf6766fee71c0e7849ff00350ef5c2e3dcf794f8c"
+    },
+    {
+      "theme": "village",
+      "count": 1,
+      "path": "metadata/d2b5701332daf77cbcd1d9bbe19a902eae9c220bf31d930baa0e8cb6cd9f8c2f.json",
+      "size": 1759,
+      "sha256": "d2b5701332daf77cbcd1d9bbe19a902eae9c220bf31d930baa0e8cb6cd9f8c2f"
     }
   ]
 }
