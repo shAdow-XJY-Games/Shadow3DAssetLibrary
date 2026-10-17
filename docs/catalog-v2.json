@@ -664,9 +664,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "997f8f38ee77085c1b0ed6a5f9386b5fa9883997"
+    },
+    "nature-root-flare-stump-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "bbfbb5989809a84bbb616021da13bc756e8a1587"
     }
   },
-  "assetCount": 303,
+  "assetCount": 304,
   "shards": [
     {
       "theme": "camping",
@@ -1206,6 +1211,13 @@
       "path": "metadata/0f2959393275a59c2f65f7ee0bb93855401d80d67383dca0571bc50d87f857fa.json",
       "size": 1918,
       "sha256": "0f2959393275a59c2f65f7ee0bb93855401d80d67383dca0571bc50d87f857fa"
+    },
+    {
+      "theme": "nature",
+      "count": 1,
+      "path": "metadata/3373b73baa09fd2279862e2a77325079562bfe87178e43c529869ee7653b8c2a.json",
+      "size": 1736,
+      "sha256": "3373b73baa09fd2279862e2a77325079562bfe87178e43c529869ee7653b8c2a"
     }
   ]
 }
