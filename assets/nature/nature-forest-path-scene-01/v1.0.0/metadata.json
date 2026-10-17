@@ -1,0 +1,42 @@
+{
+  "id": "nature-forest-path-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "nature",
+  "style": "S02-hard-edge-faceted",
+  "title": "Open Understory Forest Path Scene",
+  "description": "Static forest-path scene: sixteen unit-scale instances from six fixed existing assets, with original geometry and solid PBR preserved. Four soil-road modules retain 2mm seams and shallow ruts. Two broadleaf trees, two young conifers, three shrubs, three ferns and two scree clusters form low foreground, clear path and rear canopy layers. One new scene-only closed forest-floor support has bottom Z0 and top .16m; source ground interfaces sit at .16m. One scene, zero new standalone models. Editable original-ID hierarchy; no collision, navigation, animation or safety certification.",
+  "bounds": {
+    "x": 11.0,
+    "y": 7.299999952316284,
+    "z": 5.16755485534668,
+    "unit": "m"
+  },
+  "triangles": 11944,
+  "materials": 28,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-forest-path-scene-01/v1.0.0/model.glb",
+      "size": 590768,
+      "sha256": "8bf093acf78299311637d9d3c8e9561af687ad0ce8d14746217b0c61b77b05f2"
+    },
+    "blend": {
+      "path": "assets/nature/nature-forest-path-scene-01/v1.0.0/source.blend",
+      "size": 2721584,
+      "sha256": "9a3eac576ebabe09e768143839cbadd1affac7d42f98ecf8212f82937f38cf2f"
+    },
+    "generator": {
+      "path": "assets/nature/nature-forest-path-scene-01/v1.0.0/generate.py",
+      "size": 260217,
+      "sha256": "d86481cb7e7cbb817f26613d6784edb7b76c439cd8f4d54caa36c080c76968e2"
+    },
+    "render": {
+      "path": "assets/nature/nature-forest-path-scene-01/v1.0.0/thumbnail.png",
+      "size": 682424,
+      "sha256": "60c13de886ba0ce3e3edcdb832a530d9b54cf13a563758ed0b06756072fa90b9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
