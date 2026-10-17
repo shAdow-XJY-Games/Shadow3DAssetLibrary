@@ -609,9 +609,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "d6844840bca317c97af21fc63950a6cbce8fdbc0"
+    },
+    "interior-refrigerator-exterior-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "ba006d363765ae578085948083919e9516b13d5b"
     }
   },
-  "assetCount": 292,
+  "assetCount": 293,
   "shards": [
     {
       "theme": "camping",
@@ -1074,6 +1079,13 @@
       "path": "metadata/6717c30226a6ccd1942dc13cf329577f728658c4b7ef3c24d13b40c674c616c6.json",
       "size": 1809,
       "sha256": "6717c30226a6ccd1942dc13cf329577f728658c4b7ef3c24d13b40c674c616c6"
+    },
+    {
+      "theme": "interior",
+      "count": 1,
+      "path": "metadata/f81ee8cf3a87661cf0cadda952cd23e913fb6d894cea4e3551012fd86cbd4f95.json",
+      "size": 1931,
+      "sha256": "f81ee8cf3a87661cf0cadda952cd23e913fb6d894cea4e3551012fd86cbd4f95"
     }
   ]
 }
