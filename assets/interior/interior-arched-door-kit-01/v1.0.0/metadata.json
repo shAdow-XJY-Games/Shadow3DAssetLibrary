@@ -1,0 +1,42 @@
+{
+  "id": "interior-arched-door-kit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "interior",
+  "style": "soft-low-poly",
+  "title": "Seafoam Arched Interior Door Kit",
+  "description": "Original S01 independent frame and true arched leaf for the unchanged 1.4 m dining architecture family. Place kit jamb-foot origin at dining-archway-wall-01 origin +(0,0,0.05)m, or Z=0.095m above the bottom of dining-plank-floor-01. Frame outer/inner arch radii 0.412/0.386m, 0.232m deep, spring centre Z=1.60m; leaf radius0.372m, thickness0.036m, bottom clearance0.014m. DoorPivot (-0.380,-0.130,0)m is independently editable, opening towards -Y. Only discrete 0,-45,-90 degree Z poses are tested. No animation or continuous sweep claim. Keep old wall, maple reveals and threshold intact. Static central mounting shims deliberately engage the wall. One useful kit with editable frame, leaf, hinge and handle components; solid PBR materials, no textures. Functional origin is not the bounds centre.",
+  "bounds": {
+    "x": 0.908,
+    "y": 0.285,
+    "z": 2.012,
+    "unit": "m"
+  },
+  "triangles": 1192,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-arched-door-kit-01/v1.0.0/model.glb",
+      "size": 74556,
+      "sha256": "8ca33525ee3f391c481e9dbda4748c0e687c7f96134e4a1e076f2607dc67f544"
+    },
+    "blend": {
+      "path": "assets/interior/interior-arched-door-kit-01/v1.0.0/source.blend",
+      "size": 652000,
+      "sha256": "79a4d6199a9f84f980f07700065b1618ce9bf5a0a7f21f4512069228326a8682"
+    },
+    "generator": {
+      "path": "assets/interior/interior-arched-door-kit-01/v1.0.0/generate.py",
+      "size": 11946,
+      "sha256": "5b582b068004aad1b687f805039779b2233073df18f9a751126d3997331746d9"
+    },
+    "render": {
+      "path": "assets/interior/interior-arched-door-kit-01/v1.0.0/thumbnail.png",
+      "size": 504607,
+      "sha256": "44480945da4658d208b916925db12fb5872222d20e4b46909a5fe317e1cc43fb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
