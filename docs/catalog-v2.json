@@ -584,9 +584,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "687937cbf295b3618d708f2fb134de1c368eab9d"
+    },
+    "village-two-storey-shop-house-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "3bc5c06530cbc0da61a55138b852607b18b800f7"
     }
   },
-  "assetCount": 287,
+  "assetCount": 288,
   "shards": [
     {
       "theme": "camping",
@@ -1014,6 +1019,13 @@
       "path": "metadata/9b9f5a9a27426faf4440b68f823baabfb0b170a8696d6f9ff35f80d97963b679.json",
       "size": 1832,
       "sha256": "9b9f5a9a27426faf4440b68f823baabfb0b170a8696d6f9ff35f80d97963b679"
+    },
+    {
+      "theme": "village",
+      "count": 1,
+      "path": "metadata/99ff933b9957124cef284036640aa79fad4b29492138aea40661604233c74c91.json",
+      "size": 1776,
+      "sha256": "99ff933b9957124cef284036640aa79fad4b29492138aea40661604233c74c91"
     }
   ]
 }
