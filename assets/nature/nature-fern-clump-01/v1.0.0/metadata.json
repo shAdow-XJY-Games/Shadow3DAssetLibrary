@@ -1,0 +1,42 @@
+{
+  "id": "nature-fern-clump-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "hard-edge-faceted-nature",
+  "title": "Low-Crown Pinnate Fern",
+  "description": "Original S02 hard-edge faceted fern with seven unequal arching fronds and a small grounded crown. Each continuous central rachis carries six pairs of separate folded lanceolate pinnae and a terminal leaflet; open pinna gaps form a feathered silhouette distinct from unsegmented grass blades. Five mature outward-bowing fronds and two shorter ascending inner fronds create a low asymmetric clump. Named editable closed-volume parts, solid PBR materials, metre scale and crown-centre ground origin Z=0. Independently authored static visual prop: no external textures, wind rig, animation, collision mesh, physics or species-accuracy guarantee.",
+  "bounds": {
+    "x": 1.202311,
+    "y": 1.107096,
+    "z": 0.426025,
+    "unit": "m"
+  },
+  "triangles": 2724,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-fern-clump-01/v1.0.0/model.glb",
+      "size": 308872,
+      "sha256": "300adae0f59cd1ec03119df4b8278e6b9915f1fb235c70265b12675e6cdd0ab3"
+    },
+    "blend": {
+      "path": "assets/nature/nature-fern-clump-01/v1.0.0/source.blend",
+      "size": 1152728,
+      "sha256": "801b2784cd00e5aeac52360a07bc44af915b3e7db40f3ad428cf7a84048a7f76"
+    },
+    "generator": {
+      "path": "assets/nature/nature-fern-clump-01/v1.0.0/generate.py",
+      "size": 16488,
+      "sha256": "b138b8018ca86ca65cbd9316b3610c686d531089e1336cd65a7116b295f29971"
+    },
+    "render": {
+      "path": "assets/nature/nature-fern-clump-01/v1.0.0/thumbnail.png",
+      "size": 486497,
+      "sha256": "4ce02801373c0f32c104b5a3ad149b1ef10a8550467e69056251c2b5196e6e9c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
