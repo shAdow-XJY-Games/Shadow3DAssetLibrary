@@ -579,9 +579,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "f9e2fa6a57f613a6991fa0c3caf656dd00d043c7"
+    },
+    "industrial-bench-band-saw-r2-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "687937cbf295b3618d708f2fb134de1c368eab9d"
     }
   },
-  "assetCount": 286,
+  "assetCount": 287,
   "shards": [
     {
       "theme": "camping",
@@ -1002,6 +1007,13 @@
       "path": "metadata/d052d5e79c2b82a2047f9b9fb14b12875c8b2a1a995843b757517591cc11a86b.json",
       "size": 1797,
       "sha256": "d052d5e79c2b82a2047f9b9fb14b12875c8b2a1a995843b757517591cc11a86b"
+    },
+    {
+      "theme": "industrial",
+      "count": 1,
+      "path": "metadata/9b9f5a9a27426faf4440b68f823baabfb0b170a8696d6f9ff35f80d97963b679.json",
+      "size": 1832,
+      "sha256": "9b9f5a9a27426faf4440b68f823baabfb0b170a8696d6f9ff35f80d97963b679"
     }
   ]
 }
