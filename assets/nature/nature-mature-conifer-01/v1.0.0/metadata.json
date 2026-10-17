@@ -1,0 +1,42 @@
+{
+  "id": "nature-mature-conifer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "hard-edge-faceted-nature",
+  "title": "Mature Open-Bough Conifer",
+  "description": "Original S02 hard-edge faceted mature conifer with a thick tapered central trunk, five unequal root flares, staggered spreading lower boughs, ascending upper boughs and narrow pointed leader. Individual angular needle masses follow visible supporting branches; crown gaps and unequal lengths make an independently authored mature silhouette. Ground interface is Z=0 at the trunk centre; roots spread beyond the stem. Named editable trunk, roots, primary branches, secondary forks and foliage components. Solid PBR materials, no external textures. Static visual prop with no wind rig, animation, collision mesh or continuous mechanical simulation. Not a scaled or recoloured young-conifer variant.",
+  "bounds": {
+    "x": 5.005788,
+    "y": 4.629133,
+    "z": 8.644223,
+    "unit": "m"
+  },
+  "triangles": 3132,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-mature-conifer-01/v1.0.0/model.glb",
+      "size": 263524,
+      "sha256": "82dd18cb18b693c9c9190196419a7e7e53bbdf40d0fac161dd0caeaa9671d2d1"
+    },
+    "blend": {
+      "path": "assets/nature/nature-mature-conifer-01/v1.0.0/source.blend",
+      "size": 1099140,
+      "sha256": "43e6ac00f8e758701802098ff174ae3d6e6740e990889b2f204c7cad30cc4c8f"
+    },
+    "generator": {
+      "path": "assets/nature/nature-mature-conifer-01/v1.0.0/generate.py",
+      "size": 16488,
+      "sha256": "6a9f35db0bd7e84caf38abb3c6799b9502a9969db5ea2f4210074275252b0416"
+    },
+    "render": {
+      "path": "assets/nature/nature-mature-conifer-01/v1.0.0/thumbnail.png",
+      "size": 483404,
+      "sha256": "910e49d43b5251510761e70fc5f217a69950910506c19312230d9b0df1e8430a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
