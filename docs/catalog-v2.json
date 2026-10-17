@@ -694,9 +694,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "94d940c296e8f10f025c499366c102d572ac6a0c"
+    },
+    "nature-waterfall-transition-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "64dc6b0a941600c40810e10b4b2292048418bcef"
     }
   },
-  "assetCount": 309,
+  "assetCount": 310,
   "shards": [
     {
       "theme": "camping",
@@ -1278,6 +1283,13 @@
       "path": "metadata/a1d966a074e8c03eac467a578c8c542f9c6d94c4bbc44aee6f0c26095c47865e.json",
       "size": 2028,
       "sha256": "a1d966a074e8c03eac467a578c8c542f9c6d94c4bbc44aee6f0c26095c47865e"
+    },
+    {
+      "theme": "nature",
+      "count": 1,
+      "path": "metadata/5390378601b03b6bbd02587f9c6d934d181b47e74825b90528893e6ea33e4dec.json",
+      "size": 2367,
+      "sha256": "5390378601b03b6bbd02587f9c6d934d181b47e74825b90528893e6ea33e4dec"
     }
   ]
 }
