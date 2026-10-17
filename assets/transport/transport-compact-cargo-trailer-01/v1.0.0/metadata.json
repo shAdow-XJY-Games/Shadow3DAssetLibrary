@@ -1,0 +1,42 @@
+{
+  "id": "transport-compact-cargo-trailer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "Compact Parked Cargo Trailer",
+  "description": "Original S01/S06 static compact cargo trailer with one continuous open tub, a low supporting chassis, converging A-shaped drawbar, real vertical through-bored towing eye, two independently editable flat-tread tyre/hub assemblies, two raised mudguards with fixed brackets, and a grounded fixed parking leg. Four solid PBR materials, metre scale, source Z up, tow direction -Y. Ground origin is under the cargo tub centre; eye centre (0,-1.90,0.50) m with a 90 mm minimum clear bore along Z. Existing delivery van has no mating hitch; no host compatibility is claimed. One original reusable static prop, with no cargo or towing vehicle. No towing, animation, turning path, loading, braking, roadworthiness, stability, engineering, physics or safety certification.",
+  "bounds": {
+    "x": 1.64,
+    "y": 2.96,
+    "z": 0.95,
+    "unit": "m"
+  },
+  "triangles": 1640,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-compact-cargo-trailer-01/v1.0.0/model.glb",
+      "size": 98672,
+      "sha256": "fc9e1de2046f2a41353d0777364d78a823f53207821d20bd86c2946fc28e35b6"
+    },
+    "blend": {
+      "path": "assets/transport/transport-compact-cargo-trailer-01/v1.0.0/source.blend",
+      "size": 705616,
+      "sha256": "97de5e2a3ea17b4c5100240e27ec3b5a0effa0e0d980f5eeb564a3caeaf9d29e"
+    },
+    "generator": {
+      "path": "assets/transport/transport-compact-cargo-trailer-01/v1.0.0/generate.py",
+      "size": 22097,
+      "sha256": "1da24076a273a4be82241b5b97f0de341409aa3ca0b76e34f4652579d9f70db9"
+    },
+    "render": {
+      "path": "assets/transport/transport-compact-cargo-trailer-01/v1.0.0/thumbnail.png",
+      "size": 502120,
+      "sha256": "bb0fc91af4a46bf9e7a7d9893e8c48ff0f3772044a2e335bbf1feee4af41c342"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
