@@ -709,9 +709,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "60c7b2bf29c2f4c7cc585f4a534b17c420eb8c21"
+    },
+    "transport-open-bed-pickup-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "196048dc71e63e4cb827f847e161cdae2cb88582"
     }
   },
-  "assetCount": 312,
+  "assetCount": 313,
   "shards": [
     {
       "theme": "camping",
@@ -1314,6 +1319,13 @@
       "path": "metadata/ab06b48e685804096e30004721d54f7ead2fb9e2870dce40a966afedf163755d.json",
       "size": 1729,
       "sha256": "ab06b48e685804096e30004721d54f7ead2fb9e2870dce40a966afedf163755d"
+    },
+    {
+      "theme": "transport",
+      "count": 1,
+      "path": "metadata/10dc68769b481e869430f1aaf6766fee71c0e7849ff00350ef5c2e3dcf794f8c.json",
+      "size": 1896,
+      "sha256": "10dc68769b481e869430f1aaf6766fee71c0e7849ff00350ef5c2e3dcf794f8c"
     }
   ]
 }
