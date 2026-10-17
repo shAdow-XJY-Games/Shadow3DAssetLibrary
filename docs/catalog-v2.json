@@ -569,9 +569,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "914e6e082248b28b01ecb0149b2b00d79059b78e"
+    },
+    "office-standing-copy-staging-preset-r2-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "7bcff6afe4e472624fb2952f8aee05e72aa6b124"
     }
   },
-  "assetCount": 284,
+  "assetCount": 285,
   "shards": [
     {
       "theme": "camping",
@@ -978,6 +983,13 @@
       "path": "metadata/aa2d103a7fc7677a2923134df76c83fbf022cef76bbce9066177523949c261ba.json",
       "size": 1560,
       "sha256": "aa2d103a7fc7677a2923134df76c83fbf022cef76bbce9066177523949c261ba"
+    },
+    {
+      "theme": "office",
+      "count": 1,
+      "path": "metadata/02dd38c6371b7fea92cabc4716cdf49f8df1047bfa19c4f2981f802b25233452.json",
+      "size": 1735,
+      "sha256": "02dd38c6371b7fea92cabc4716cdf49f8df1047bfa19c4f2981f802b25233452"
     }
   ]
 }
