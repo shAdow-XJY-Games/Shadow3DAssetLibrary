@@ -644,9 +644,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "cbd24ca04db39a54bc98556416ba45a3bf871226"
+    },
+    "interior-dish-drying-rack-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "9414949d4e05f16eee05d6d0334e8cb782df1ae0"
     }
   },
-  "assetCount": 299,
+  "assetCount": 300,
   "shards": [
     {
       "theme": "camping",
@@ -1158,6 +1163,13 @@
       "path": "metadata/189ca018453cde1adcb86ec29ead885382cc3ae246942fb20b4c282cae9ba3bc.json",
       "size": 1825,
       "sha256": "189ca018453cde1adcb86ec29ead885382cc3ae246942fb20b4c282cae9ba3bc"
+    },
+    {
+      "theme": "interior",
+      "count": 1,
+      "path": "metadata/ae7fc4e936f2cd911ecb169396d5140fadfc0bb6d1198f8e129ba150c541b35e.json",
+      "size": 1738,
+      "sha256": "ae7fc4e936f2cd911ecb169396d5140fadfc0bb6d1198f8e129ba150c541b35e"
     }
   ]
 }
