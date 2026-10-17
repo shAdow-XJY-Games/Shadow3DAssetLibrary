@@ -669,9 +669,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "bbfbb5989809a84bbb616021da13bc756e8a1587"
+    },
+    "transport-raised-platform-ramp-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "7ed31f3e84813490a3ceab88bb591153232caaa8"
     }
   },
-  "assetCount": 304,
+  "assetCount": 305,
   "shards": [
     {
       "theme": "camping",
@@ -1218,6 +1223,13 @@
       "path": "metadata/3373b73baa09fd2279862e2a77325079562bfe87178e43c529869ee7653b8c2a.json",
       "size": 1736,
       "sha256": "3373b73baa09fd2279862e2a77325079562bfe87178e43c529869ee7653b8c2a"
+    },
+    {
+      "theme": "transport",
+      "count": 1,
+      "path": "metadata/d9482a12c9e42c5285195683586135f00043d9a323d13a320f213d82b58c773d.json",
+      "size": 2005,
+      "sha256": "d9482a12c9e42c5285195683586135f00043d9a323d13a320f213d82b58c773d"
     }
   ]
 }
