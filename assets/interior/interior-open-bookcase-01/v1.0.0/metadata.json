@@ -1,0 +1,42 @@
+{
+  "id": "interior-open-bookcase-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "S01 Wide Open Bookcase",
+  "description": "Original S01 freestanding wide shallow bookcase with four open horizontal book rows. Overall width 1.12 m, depth 0.34 m and height 1.80 m; metres, front -Y and ground-contact origin Z=0. Three fixed full-width intermediate shelves and the lower deck provide four long book surfaces, framed by warm-ivory side walls and crown, with a recessed seafoam backboard, two rear battens and a broad inset floor plinth. Each shelf has a nominal 0.98 m wide by 0.27 m deep flat placement rectangle; clear row heights exceed 0.35 m. Named closed components remain separately editable. Empty bookcase only, no books or props are included. Static visual furniture; no adjustable shelving, moving parts, book-fit validation, installation, load or tip-resistance certification.",
+  "bounds": {
+    "x": 1.12,
+    "y": 0.34,
+    "z": 1.8,
+    "unit": "m"
+  },
+  "triangles": 484,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-open-bookcase-01/v1.0.0/model.glb",
+      "size": 33484,
+      "sha256": "bab789933de41639bbdd785feaccb4b8f8864030aed326e0ccc5f1b42edade22"
+    },
+    "blend": {
+      "path": "assets/interior/interior-open-bookcase-01/v1.0.0/source.blend",
+      "size": 563044,
+      "sha256": "4d91f0c030c4cfcf0a7540a1785175dcfad24047f182f50a48041ff8cba6f75f"
+    },
+    "generator": {
+      "path": "assets/interior/interior-open-bookcase-01/v1.0.0/generate.py",
+      "size": 17278,
+      "sha256": "8a0a0c2af5afdadf6b20cba376f239db05abeb2f977d1002ef245bf81394980c"
+    },
+    "render": {
+      "path": "assets/interior/interior-open-bookcase-01/v1.0.0/thumbnail.png",
+      "size": 590630,
+      "sha256": "05e1c6e812f74ccf3df25a077202e1bb361e02ac18a937d889e38eff00f8aa2c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
