@@ -599,9 +599,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "edc51e60ba13d3c564d6efb5c0f6adddce600cbc"
+    },
+    "nature-mature-conifer-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "0c4408faf880ce7ed5d529afa46f493bbbb289d0"
     }
   },
-  "assetCount": 290,
+  "assetCount": 291,
   "shards": [
     {
       "theme": "camping",
@@ -1050,6 +1055,13 @@
       "path": "metadata/eb45f423fafefedc7e2bd343aa3874ebb32bd4652ed8ab181ec1343a535c44b7.json",
       "size": 1776,
       "sha256": "eb45f423fafefedc7e2bd343aa3874ebb32bd4652ed8ab181ec1343a535c44b7"
+    },
+    {
+      "theme": "nature",
+      "count": 1,
+      "path": "metadata/681dd8c3bc905b302a8bc350fd6f0d3913013cbf9aa7523dc1d6b07ca9247bf4.json",
+      "size": 1803,
+      "sha256": "681dd8c3bc905b302a8bc350fd6f0d3913013cbf9aa7523dc1d6b07ca9247bf4"
     }
   ]
 }
