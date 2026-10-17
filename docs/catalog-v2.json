@@ -594,9 +594,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "3857e111ec973f779c43b2e4f6947dd47f651874"
+    },
+    "transport-passenger-waiting-station-scene-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "edc51e60ba13d3c564d6efb5c0f6adddce600cbc"
     }
   },
-  "assetCount": 289,
+  "assetCount": 290,
   "shards": [
     {
       "theme": "camping",
@@ -1038,6 +1043,13 @@
       "path": "metadata/3dd0bbf42e82ab79692ce51c0aff6ffd7f77eac6301a5e8fbe8658296e5e34cf.json",
       "size": 1923,
       "sha256": "3dd0bbf42e82ab79692ce51c0aff6ffd7f77eac6301a5e8fbe8658296e5e34cf"
+    },
+    {
+      "theme": "transport",
+      "count": 1,
+      "path": "metadata/eb45f423fafefedc7e2bd343aa3874ebb32bd4652ed8ab181ec1343a535c44b7.json",
+      "size": 1776,
+      "sha256": "eb45f423fafefedc7e2bd343aa3874ebb32bd4652ed8ab181ec1343a535c44b7"
     }
   ]
 }
