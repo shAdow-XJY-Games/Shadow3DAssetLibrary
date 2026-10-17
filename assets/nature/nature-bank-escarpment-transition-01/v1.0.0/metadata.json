@@ -1,0 +1,42 @@
+{
+  "id": "nature-bank-escarpment-transition-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "nature",
+  "style": "hard-edge-faceted-nature",
+  "title": "Bank-to-Plateau Escarpment Transition",
+  "description": "Original S02 steep bank-to-plateau terrain transition with two unequal cliff ledges, angular fracture facets, low earth apron and broad upper earth shoulder. One continuous closed editable mesh, 2 m X repeat, 1.60 m landward depth and approximately 1.70 m total height. At placement (0,1.2,0), the complete local Y=0 front cap matches the original straight bank landward boundary, including its .55/.58/.55 m rim at X=-1/0/+1. Full boundary agreement and finite opposed contact are verified for this one placement within 2e-6 m positional tolerance. X=-1 and +1 sections repeat with another copy translated 2 m along X. Legacy earth PBR is retained on the low apron; stone values follow coherent cliff planes. Local origin is the low-front boundary centre at ground Z=0. No water geometry, whole-scene or curved-bank snapping, walkability, navigation, collision mesh, dynamic terrain, physics or engineering certification.",
+  "bounds": {
+    "x": 2.0,
+    "y": 1.6,
+    "z": 1.706,
+    "unit": "m"
+  },
+  "triangles": 96,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-bank-escarpment-transition-01/v1.0.0/model.glb",
+      "size": 10724,
+      "sha256": "3aea856de18cfcb17f6539a940efffe840752e13e89244602b67ec6d821fd748"
+    },
+    "blend": {
+      "path": "assets/nature/nature-bank-escarpment-transition-01/v1.0.0/source.blend",
+      "size": 548408,
+      "sha256": "fd937c8e2386ab0bbf949d48f5bbd6a4a17c3488b1c56907e5dc01cce18a42f5"
+    },
+    "generator": {
+      "path": "assets/nature/nature-bank-escarpment-transition-01/v1.0.0/generate.py",
+      "size": 14990,
+      "sha256": "e4fb2f02d3166a7cb39e0a1767d687bc7d84ccdc861be5cac3525019a0021f16"
+    },
+    "render": {
+      "path": "assets/nature/nature-bank-escarpment-transition-01/v1.0.0/thumbnail.png",
+      "size": 506609,
+      "sha256": "5ce9fdd536b3fa6e4e06ebe131d91a1bb55687320f1911e53a5f409f1da2b349"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
