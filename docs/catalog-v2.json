@@ -614,9 +614,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "ba006d363765ae578085948083919e9516b13d5b"
+    },
+    "nature-dry-grass-clump-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "73e173c2ec9e07195abc205cd4e3a5bde2a0aab4"
     }
   },
-  "assetCount": 293,
+  "assetCount": 294,
   "shards": [
     {
       "theme": "camping",
@@ -1086,6 +1091,13 @@
       "path": "metadata/f81ee8cf3a87661cf0cadda952cd23e913fb6d894cea4e3551012fd86cbd4f95.json",
       "size": 1931,
       "sha256": "f81ee8cf3a87661cf0cadda952cd23e913fb6d894cea4e3551012fd86cbd4f95"
+    },
+    {
+      "theme": "nature",
+      "count": 1,
+      "path": "metadata/8ab4919cb459a1f4224c6d602a6ce82d34d5fa57a4ce3db75834d2e6a82ea1fd.json",
+      "size": 1768,
+      "sha256": "8ab4919cb459a1f4224c6d602a6ce82d34d5fa57a4ce3db75834d2e6a82ea1fd"
     }
   ]
 }
