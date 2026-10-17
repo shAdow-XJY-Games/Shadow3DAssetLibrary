@@ -1,0 +1,42 @@
+{
+  "id": "nature-stream-width-transition-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "nature",
+  "style": "hard-edge-faceted-nature",
+  "title": "Narrow-to-Wide Stream Transition",
+  "description": "Original S02 two-port stream-width transition over a 2 m run, with channel bank-foot spacing changing from .60 to 1.40 m. End planes X=-1 and +1; tangent X; fixed water top Z=.16 m and zero longitudinal slope. Independent water body widens from .72 to 1.52 m, with .06 m lateral bank penetration matching the original straight-scene water style. Water top edges remain on the ports, but bottom edges retreat .01 m to make slanted closed caps without overlapping bank end faces; paired bottoms have a V gap and only surface continuity is claimed. Bank relative cross-sections preserve the original .06/.20/.55 m profile with +.09 m placement offset. Independently editable bed, banks, water and four inset original faceted rocks. Bed top Z=.09 m meets bank and water bottoms without overlapping end caps; bed extends .02 m past each outer bank. Legacy earth and water PBR values retained at end surfaces. Original bend raw water width is .60 m, so exact bend-water seam and whole legacy-scene base snapping are not claimed. Static visual module only; no hydrology, collision, navigation, walkability or physics certification.",
+  "bounds": {
+    "x": 2.0,
+    "y": 3.84,
+    "z": 0.725525,
+    "unit": "m"
+  },
+  "triangles": 316,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-stream-width-transition-01/v1.0.0/model.glb",
+      "size": 29420,
+      "sha256": "7c9fddba4d30286617458bdc7ba3e379a3a7c513aeef98bd803de99315974c83"
+    },
+    "blend": {
+      "path": "assets/nature/nature-stream-width-transition-01/v1.0.0/source.blend",
+      "size": 614348,
+      "sha256": "adf0bfbfcd41ee8459a670ffeb79984f00a4b9dac5d58ca49532f0a3c81bff81"
+    },
+    "generator": {
+      "path": "assets/nature/nature-stream-width-transition-01/v1.0.0/generate.py",
+      "size": 18055,
+      "sha256": "f4a67f954945f05fdcf26f385d6edd5a795f0533459db9ad143ab01c330e34f7"
+    },
+    "render": {
+      "path": "assets/nature/nature-stream-width-transition-01/v1.0.0/thumbnail.png",
+      "size": 494040,
+      "sha256": "8cbcbf5a51eb48ec4eb23a90d3d457b0c147dc30907caf266126b641a93b5ab4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
