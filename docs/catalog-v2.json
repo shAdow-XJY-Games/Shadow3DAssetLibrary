@@ -799,9 +799,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "e0a0d6d26a85565b3bd14f2314239207a6c162a3"
+    },
+    "education-axis-globe-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "373f70227eb8a822627833781c20b8c63bfae3cb"
     }
   },
-  "assetCount": 330,
+  "assetCount": 331,
   "shards": [
     {
       "theme": "camping",
@@ -1530,6 +1535,13 @@
       "path": "metadata/2193d71744610e7cebf17aad9f10ac079f456a71633d13ab89c4dc5f07a5cab6.json",
       "size": 2177,
       "sha256": "2193d71744610e7cebf17aad9f10ac079f456a71633d13ab89c4dc5f07a5cab6"
+    },
+    {
+      "theme": "education",
+      "count": 1,
+      "path": "metadata/700118899fb7f1d093c23b86c58cbeaf048d98c72dbe61e20cd46d4385c2db9a.json",
+      "size": 2063,
+      "sha256": "700118899fb7f1d093c23b86c58cbeaf048d98c72dbe61e20cd46d4385c2db9a"
     }
   ]
 }
