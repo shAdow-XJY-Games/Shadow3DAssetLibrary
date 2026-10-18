@@ -1,0 +1,42 @@
+{
+  "id": "sports-open-frame-three-tier-bleachers-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Open-Frame Three-Tier Bleachers",
+  "description": "One original low-poly three-tier bleacher module, counted as one complete static prop. Three separate long thick seat boards rise and step backward over three open support frames. Three lower footboards sit in front of their corresponding seat rows with real vertical and horizontal air gaps. Three grounded runners, nine uprights, three full-length seat beams, nine finite footboard arms and six diagonal braces form one connected fixed visual assembly. All part interfaces are finite opposed face contacts. No solid stair blocks, copied benches, passenger seats, railing, spectator, field, labels or animation. Thirty-six closed editable meshes with four opaque constant PBR materials; metres, native Z up, front -Y, horizontally bounds-centred ground origin. Static visual appearance only: no capacity, load, strength, stability, anti-tip, walking, access, evacuation, handrail, sport-facility standard, body fit, manufacture, installation or public safety claim. No compatibility with historical scene assets is asserted.",
+  "bounds": {
+    "x": 3.6,
+    "y": 2.34,
+    "z": 1.26,
+    "unit": "m"
+  },
+  "triangles": 432,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-open-frame-three-tier-bleachers-01/v1.0.0/model.glb",
+      "size": 46436,
+      "sha256": "4ff4c4b198d2cb9cecb6d722d86f2fb55453f8e69356b0671c33377b4fa48b3a"
+    },
+    "blend": {
+      "path": "assets/sports/sports-open-frame-three-tier-bleachers-01/v1.0.0/source.blend",
+      "size": 713436,
+      "sha256": "f7783a2a87786e1a408eb37df6bf0105a4d69f2864642917e0fd136e9ce95178"
+    },
+    "generator": {
+      "path": "assets/sports/sports-open-frame-three-tier-bleachers-01/v1.0.0/generate.py",
+      "size": 24982,
+      "sha256": "76b7a0ec225acc9457c55de2d447a2a70bdfa13d26baaeabbc1e580a75bbefbb"
+    },
+    "render": {
+      "path": "assets/sports/sports-open-frame-three-tier-bleachers-01/v1.0.0/thumbnail.png",
+      "size": 560082,
+      "sha256": "547078a00f87272a16c65e0a8dbbba5803969c166ba79d7b8b9312d322f60aa8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
