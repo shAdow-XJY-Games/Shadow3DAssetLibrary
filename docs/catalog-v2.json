@@ -784,9 +784,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "fa7915d24adc8fc3145f965b8cf27487917b4b88"
+    },
+    "timekeeping-pocket-watch-display-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "dbac1104cba629203fedaafe4486f6ac34236134"
     }
   },
-  "assetCount": 327,
+  "assetCount": 328,
   "shards": [
     {
       "theme": "camping",
@@ -1494,6 +1499,13 @@
       "path": "metadata/94ec08b5e00fc12c0432f479c7b7ffe7e50dffae673ea9d34c4539ab35dc1d26.json",
       "size": 2098,
       "sha256": "94ec08b5e00fc12c0432f479c7b7ffe7e50dffae673ea9d34c4539ab35dc1d26"
+    },
+    {
+      "theme": "timekeeping",
+      "count": 1,
+      "path": "metadata/bf18e6089d58770988bf5efcd8d0d0c86f76f289a33e0f4cff4762941aca94c0.json",
+      "size": 2102,
+      "sha256": "bf18e6089d58770988bf5efcd8d0d0c86f76f289a33e0f4cff4762941aca94c0"
     }
   ]
 }
