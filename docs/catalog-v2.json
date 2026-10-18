@@ -749,9 +749,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "85b4f29dda69ffa548bc650f7e69965c7d8a25e7"
+    },
+    "sports-training-football-goal-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "32a08de28a1e6550c5db907b66858c68d209691d"
     }
   },
-  "assetCount": 320,
+  "assetCount": 321,
   "shards": [
     {
       "theme": "camping",
@@ -1410,6 +1415,13 @@
       "path": "metadata/2db60408140409a92f787bd8132b067e41e77f91a1873f289308e4e5833c160d.json",
       "size": 1906,
       "sha256": "2db60408140409a92f787bd8132b067e41e77f91a1873f289308e4e5833c160d"
+    },
+    {
+      "theme": "sports",
+      "count": 1,
+      "path": "metadata/405933ac6589fff908738d01e14a761c766d0ea7bb4661326cfeb8e93dbbf68c.json",
+      "size": 2135,
+      "sha256": "405933ac6589fff908738d01e14a761c766d0ea7bb4661326cfeb8e93dbbf68c"
     }
   ]
 }
