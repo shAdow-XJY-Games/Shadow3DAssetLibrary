@@ -1119,9 +1119,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "22b1d44f57ff6271c6646052b9b00de5491afe2b"
+    },
+    "construction-fixed-a-frame-step-ladder-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "062ce84056fb5ac17001b0e87d4b5ec21342ff64"
     }
   },
-  "assetCount": 394,
+  "assetCount": 395,
   "shards": [
     {
       "theme": "camping",
@@ -2298,6 +2303,13 @@
       "path": "metadata/4e0ff7f9054bc1ae5ddf830dc1426b822ec08955a55a32dac7e6a564bebbcbcb.json",
       "size": 2337,
       "sha256": "4e0ff7f9054bc1ae5ddf830dc1426b822ec08955a55a32dac7e6a564bebbcbcb"
+    },
+    {
+      "theme": "construction",
+      "count": 1,
+      "path": "metadata/d0125e643bea232a903fb4c98c678835a1add1529a70d3ef738481d99a9d7ba0.json",
+      "size": 2771,
+      "sha256": "d0125e643bea232a903fb4c98c678835a1add1529a70d3ef738481d99a9d7ba0"
     }
   ]
 }
