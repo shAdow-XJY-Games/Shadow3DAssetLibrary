@@ -1109,9 +1109,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "5966348e6fc1371840a9231ef567d8602dda2134"
+    },
+    "fitness-twin-upright-barbell-rack-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "1f75c2d9db26ed60877ee3e1198751c9fe799f21"
     }
   },
-  "assetCount": 392,
+  "assetCount": 393,
   "shards": [
     {
       "theme": "camping",
@@ -2274,6 +2279,13 @@
       "path": "metadata/4b6f0023ef2e6e3a2908da07da3ce0bf2f6ec92f903679babb56ce3d96d6a582.json",
       "size": 2674,
       "sha256": "4b6f0023ef2e6e3a2908da07da3ce0bf2f6ec92f903679babb56ce3d96d6a582"
+    },
+    {
+      "theme": "fitness",
+      "count": 1,
+      "path": "metadata/d328190711de1ea36db94d020b4e5e226cdf8a724484f9da3f2f530e2c2dc108.json",
+      "size": 2317,
+      "sha256": "d328190711de1ea36db94d020b4e5e226cdf8a724484f9da3f2f530e2c2dc108"
     }
   ]
 }
