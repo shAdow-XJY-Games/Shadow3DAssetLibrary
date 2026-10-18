@@ -974,9 +974,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "b44e3e9654f3003bd47177694cec8ce82743e0ac"
+    },
+    "winter-hollow-snow-boot-pair-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "fd3a5d72ee54161bca5d927c3f3625fe35ecfb43"
     }
   },
-  "assetCount": 365,
+  "assetCount": 366,
   "shards": [
     {
       "theme": "camping",
@@ -1950,6 +1955,13 @@
       "path": "metadata/aa5c947fda5004d5dcc12112da565f240e2e98fd9fa3f47665aae5a2c98dcfb7.json",
       "size": 2551,
       "sha256": "aa5c947fda5004d5dcc12112da565f240e2e98fd9fa3f47665aae5a2c98dcfb7"
+    },
+    {
+      "theme": "winter",
+      "count": 1,
+      "path": "metadata/bb545f516dc69ab1a7514fd5a366db2b48df6f625c198e145a5fb70f04cc20cd.json",
+      "size": 2390,
+      "sha256": "bb545f516dc69ab1a7514fd5a366db2b48df6f625c198e145a5fb70f04cc20cd"
     }
   ]
 }
