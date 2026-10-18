@@ -1064,9 +1064,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "fff484b9703955c91e3aab2a0b6950b8f9747077"
+    },
+    "logistics-fixed-scissor-lift-platform-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "806037c845b41ec46f31e97b4d877e0978a8f409"
     }
   },
-  "assetCount": 383,
+  "assetCount": 384,
   "shards": [
     {
       "theme": "camping",
@@ -2166,6 +2171,13 @@
       "path": "metadata/14a714f4a1f5922fa888c67beedd0a868b73652f1f8d0f3a63585a3a646ad714.json",
       "size": 2373,
       "sha256": "14a714f4a1f5922fa888c67beedd0a868b73652f1f8d0f3a63585a3a646ad714"
+    },
+    {
+      "theme": "logistics",
+      "count": 1,
+      "path": "metadata/fab3b93098409b8ad5ee6e718d1dcc540e1a4f5b2f9e9868eef8fd997bc01bb6.json",
+      "size": 2449,
+      "sha256": "fab3b93098409b8ad5ee6e718d1dcc540e1a4f5b2f9e9868eef8fd997bc01bb6"
     }
   ]
 }
