@@ -1,0 +1,42 @@
+{
+  "id": "harbor-tapered-lantern-lighthouse-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "S01-clean-geometric",
+  "title": "Tapered Lantern Lighthouse",
+  "description": "One original low-poly harbor lighthouse exterior: a wide finite grounded octagonal base, a visibly tapered eight-sided tower with cream and muted coral masonry bands, a genuinely recessed fixed teal door, a supported upper gallery with open railings, eight real lantern-room columns, an empty unglazed window belt surrounding a small unlit amber lamp, and a dark closed pyramidal roof. The recessed door sits against the real back wall of a 0.51 to 0.69 metre deep architectural recess, not a colored panel applied to the facade. One static reusable prop with named editable closed mesh parts and five constant opaque PBR materials. No image or procedural textures, people, island, harbor scenery, branding or exterior stairs. Metres, Z up, front -Y, origin at the tower axis on the ground. Fixed visual geometry only. Finite geometric contact and void tests do not establish a usable or enterable building, internal floors or stairs, walking access, human clearance, lighting output, rotating light, navigation, maritime safety, wind resistance, structural capacity, tip resistance, building construction or fire-code compliance. No compatibility claim with existing pier modules.",
+  "bounds": {
+    "x": 3.510742,
+    "y": 3.510742,
+    "z": 8.8,
+    "unit": "m"
+  },
+  "triangles": 1212,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-tapered-lantern-lighthouse-01/v1.0.0/model.glb",
+      "size": 91820,
+      "sha256": "e7b0523c75f42e41d0185a3b8f06884e5f9fefb3086608cd3ef59a924eb69b96"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-tapered-lantern-lighthouse-01/v1.0.0/source.blend",
+      "size": 814044,
+      "sha256": "9b26aaf6f830263c1eb746b2af338bdb3598ef40569309510a165a024b83e63b"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-tapered-lantern-lighthouse-01/v1.0.0/generate.py",
+      "size": 29498,
+      "sha256": "a107340dd2bde27a7f6ffa84e3da133b4a7fc46a7be34427026ec9cb61488864"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-tapered-lantern-lighthouse-01/v1.0.0/thumbnail.png",
+      "size": 492499,
+      "sha256": "19b333345f82b1a90efd3e44e994a84eab1b3745a3c9151c927a55e906619eaa"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
