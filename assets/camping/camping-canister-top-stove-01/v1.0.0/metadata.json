@@ -1,0 +1,42 @@
+{
+  "id": "camping-canister-top-stove-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "camping",
+  "style": "S01-clean-geometric",
+  "title": "Single-Burner Canister-Top Camping Stove",
+  "description": "Original single unlit canister-top camping stove visual prop: a low faceted canister exterior with broad flat bottom, a separate narrowed neck and collar, a genuinely open thick concave burner cup, and three separately editable bent radial support arms. The arms share three finite coplanar raised support surfaces; their embedded roots have complete static geometric support routes through the collar to the canister bottom. A short front control stem seats an independent faceted knob. The cup has a real inner floor and walls, with an unobstructed finite mouth volume and actual gaps to the raised arms. Eight closed named editable meshes, four constant solid PBR materials, metre scale, source Z up, front -Y and ground-centre origin. One original reusable prop, no flame, cookware, fuel contents, hose, texture, text, logo or external dependencies. Source design is independent of the old campfire, lantern and kitchen two-burner stove. Static stylized visual only: no gas, pressure-vessel structure, ignition, combustion, heat, folding, cooking, cookware fit, carrying load, real operation, manufacture or outdoor/gas safety or performance guarantee.",
+  "bounds": {
+    "x": 0.150492,
+    "y": 0.139,
+    "z": 0.157,
+    "unit": "m"
+  },
+  "triangles": 1228,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/camping/camping-canister-top-stove-01/v1.0.0/model.glb",
+      "size": 67844,
+      "sha256": "491e61d3a781ee6c553ca22d110e3a2315c2fe96f22571b8deb2ebaa45ca9f4c"
+    },
+    "blend": {
+      "path": "assets/camping/camping-canister-top-stove-01/v1.0.0/source.blend",
+      "size": 597680,
+      "sha256": "a40d4008dd2c18a68e412df1b72ac9dac551ec7b0b777cfdda4ce4ac6006f89b"
+    },
+    "generator": {
+      "path": "assets/camping/camping-canister-top-stove-01/v1.0.0/generate.py",
+      "size": 22587,
+      "sha256": "f520503d372819c4a072350200125b86082025d1b605776a7933a4c3bb47044a"
+    },
+    "render": {
+      "path": "assets/camping/camping-canister-top-stove-01/v1.0.0/thumbnail.png",
+      "size": 508905,
+      "sha256": "13f9cd461e65caa2416cdbe48d7735a6676f6b74d92ffb486d35d915a945af00"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
