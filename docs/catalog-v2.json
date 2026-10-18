@@ -1004,9 +1004,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "25922bd1296882b9622d95623a2508299a7a2683"
+    },
+    "harbor-tapered-lantern-lighthouse-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "cdd83999d026cff942768f3292af9db890bb5080"
     }
   },
-  "assetCount": 371,
+  "assetCount": 372,
   "shards": [
     {
       "theme": "camping",
@@ -2022,6 +2027,13 @@
       "path": "metadata/6a96495d6b280c1a8b9a57f6fe22dbb79a338fa90eb123d9a3973f41ccd69eeb.json",
       "size": 2118,
       "sha256": "6a96495d6b280c1a8b9a57f6fe22dbb79a338fa90eb123d9a3973f41ccd69eeb"
+    },
+    {
+      "theme": "harbor",
+      "count": 1,
+      "path": "metadata/b4bb256143ff10199a34ac663d42c0884fe3f5f029a72f3a2f68c66ee97eee1e.json",
+      "size": 2349,
+      "sha256": "b4bb256143ff10199a34ac663d42c0884fe3f5f029a72f3a2f68c66ee97eee1e"
     }
   ]
 }
