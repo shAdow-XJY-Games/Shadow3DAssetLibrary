@@ -1104,9 +1104,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "16803a72e3c5b534a420a13c1fc6088055428063"
+    },
+    "firefighting-hollow-facepiece-display-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "5966348e6fc1371840a9231ef567d8602dda2134"
     }
   },
-  "assetCount": 391,
+  "assetCount": 392,
   "shards": [
     {
       "theme": "camping",
@@ -2262,6 +2267,13 @@
       "path": "metadata/0df764f7ac7ee455f18c94d62c3cf5c35d0fce7f08a84ee80062e797815f85fc.json",
       "size": 2572,
       "sha256": "0df764f7ac7ee455f18c94d62c3cf5c35d0fce7f08a84ee80062e797815f85fc"
+    },
+    {
+      "theme": "firefighting",
+      "count": 1,
+      "path": "metadata/4b6f0023ef2e6e3a2908da07da3ce0bf2f6ec92f903679babb56ce3d96d6a582.json",
+      "size": 2674,
+      "sha256": "4b6f0023ef2e6e3a2908da07da3ce0bf2f6ec92f903679babb56ce3d96d6a582"
     }
   ]
 }
