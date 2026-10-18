@@ -959,9 +959,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "2a0491f32cc240adf5b6738920ac4e0cd9f48c5c"
+    },
+    "toys-seated-plush-bear-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "e7644a3f99aa6f14b3aba8c28b13cb3c24019a9a"
     }
   },
-  "assetCount": 362,
+  "assetCount": 363,
   "shards": [
     {
       "theme": "camping",
@@ -1914,6 +1919,13 @@
       "path": "metadata/d0856f4ba3c8a280d6afc1c30cebfd79cc043aaa8366013b3a54d82c269f2f08.json",
       "size": 2207,
       "sha256": "d0856f4ba3c8a280d6afc1c30cebfd79cc043aaa8366013b3a54d82c269f2f08"
+    },
+    {
+      "theme": "toys",
+      "count": 1,
+      "path": "metadata/58d8c0bd7f11d76cba0b2b1df8bd8e1794593933511b6170fdda2cab85318a15.json",
+      "size": 2230,
+      "sha256": "58d8c0bd7f11d76cba0b2b1df8bd8e1794593933511b6170fdda2cab85318a15"
     }
   ]
 }
