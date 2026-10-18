@@ -1054,9 +1054,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "5cc74a1a760681502ae7f1d97ca6a7def8523d3d"
+    },
+    "timekeeping-fixed-spur-gear-study-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "aaab1e349c8071fd94e38a498f5a78f1f304e820"
     }
   },
-  "assetCount": 381,
+  "assetCount": 382,
   "shards": [
     {
       "theme": "camping",
@@ -2142,6 +2147,13 @@
       "path": "metadata/1a2c8a711ba2b9bea03b51dd1f51bbe9d70ce1ae76d28cd3b38d833dd19431f6.json",
       "size": 2340,
       "sha256": "1a2c8a711ba2b9bea03b51dd1f51bbe9d70ce1ae76d28cd3b38d833dd19431f6"
+    },
+    {
+      "theme": "timekeeping",
+      "count": 1,
+      "path": "metadata/4997caedcd13a5211686fecff3236e05b60efe921503ddd006fc80ef694c4922.json",
+      "size": 2465,
+      "sha256": "4997caedcd13a5211686fecff3236e05b60efe921503ddd006fc80ef694c4922"
     }
   ]
 }
