@@ -909,9 +909,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "c60278076ef368e27cc13ca991657e82b9ffc8b3"
+    },
+    "sports-fixed-flip-card-scoreboard-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "a2b5cb2dcc998c5205123fa32c33dc7932cad8bc"
     }
   },
-  "assetCount": 352,
+  "assetCount": 353,
   "shards": [
     {
       "theme": "camping",
@@ -1794,6 +1799,13 @@
       "path": "metadata/da4d5e6e273f4e5f46c78849ce5a045bb7d60a9138d5d9bce8ebf46f76f9a619.json",
       "size": 2187,
       "sha256": "da4d5e6e273f4e5f46c78849ce5a045bb7d60a9138d5d9bce8ebf46f76f9a619"
+    },
+    {
+      "theme": "sports",
+      "count": 1,
+      "path": "metadata/816afca0feb360ddeec1014fc636ab309f9f6d296402769cddec82b81966946f.json",
+      "size": 2212,
+      "sha256": "816afca0feb360ddeec1014fc636ab309f9f6d296402769cddec82b81966946f"
     }
   ]
 }
