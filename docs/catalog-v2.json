@@ -1124,9 +1124,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "062ce84056fb5ac17001b0e87d4b5ec21342ff64"
+    },
+    "firefighting-bored-head-display-axe-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "d39b842ecb778ae9c9a4bd4ef29102104bbce5f3"
     }
   },
-  "assetCount": 395,
+  "assetCount": 396,
   "shards": [
     {
       "theme": "camping",
@@ -2310,6 +2315,13 @@
       "path": "metadata/d0125e643bea232a903fb4c98c678835a1add1529a70d3ef738481d99a9d7ba0.json",
       "size": 2771,
       "sha256": "d0125e643bea232a903fb4c98c678835a1add1529a70d3ef738481d99a9d7ba0"
+    },
+    {
+      "theme": "firefighting",
+      "count": 1,
+      "path": "metadata/5ce6254d37b5848930c7dacec1e124f59469cdb87d94320717619beb557b65f3.json",
+      "size": 2532,
+      "sha256": "5ce6254d37b5848930c7dacec1e124f59469cdb87d94320717619beb557b65f3"
     }
   ]
 }
