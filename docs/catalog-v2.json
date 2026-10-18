@@ -859,9 +859,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "ea9aff7c7537bb54f4ed0e0601f8b10454d764bb"
+    },
+    "toys-finger-spinning-top-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "595609cdd676c2eb92568b2e158446c6b55043cf"
     }
   },
-  "assetCount": 342,
+  "assetCount": 343,
   "shards": [
     {
       "theme": "camping",
@@ -1674,6 +1679,13 @@
       "path": "metadata/d120e2301c624ef090337e97efd728bc658e26019a321ca7cc22a9cc31e81bb4.json",
       "size": 2065,
       "sha256": "d120e2301c624ef090337e97efd728bc658e26019a321ca7cc22a9cc31e81bb4"
+    },
+    {
+      "theme": "toys",
+      "count": 1,
+      "path": "metadata/08014e3531e47c47da4a16b8ac3da05712602715349deaf0ea7a8c0be7994ff3.json",
+      "size": 1986,
+      "sha256": "08014e3531e47c47da4a16b8ac3da05712602715349deaf0ea7a8c0be7994ff3"
     }
   ]
 }
