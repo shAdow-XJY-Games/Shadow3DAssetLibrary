@@ -1024,9 +1024,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "0e9018a82347b6d4e22b380d63a1d5c8cf26ae0a"
+    },
+    "renewable-perforated-cable-tray-straight-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "5d22987fc7efc4a2b2110f73fcd1a45bf1a5e609"
     }
   },
-  "assetCount": 375,
+  "assetCount": 376,
   "shards": [
     {
       "theme": "camping",
@@ -2070,6 +2075,13 @@
       "path": "metadata/c502f536f33fe1fc36673e5e5603719223749169b53144505a9669111c41e930.json",
       "size": 2135,
       "sha256": "c502f536f33fe1fc36673e5e5603719223749169b53144505a9669111c41e930"
+    },
+    {
+      "theme": "renewable",
+      "count": 1,
+      "path": "metadata/5a56c1867edeb9864c905adec54d7062757b444dae1f154d47223db6669ac282.json",
+      "size": 2591,
+      "sha256": "5a56c1867edeb9864c905adec54d7062757b444dae1f154d47223db6669ac282"
     }
   ]
 }
