@@ -1144,9 +1144,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "6fd295e9e94a0e022aaf25de0b3c76c7b36ad6fd"
+    },
+    "beach-fixed-overhead-shower-column-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "bb733dc24394160e3a2136083525f34408c1f4ab"
     }
   },
-  "assetCount": 399,
+  "assetCount": 400,
   "shards": [
     {
       "theme": "camping",
@@ -2358,6 +2363,13 @@
       "path": "metadata/16b0ac1456f284d92fcdbe26480d721154f5fa379ec241e5d47b6e5c349af13c.json",
       "size": 2900,
       "sha256": "16b0ac1456f284d92fcdbe26480d721154f5fa379ec241e5d47b6e5c349af13c"
+    },
+    {
+      "theme": "beach",
+      "count": 1,
+      "path": "metadata/16a9bfeb98752d9a0f16c6ee6b66763c9d7ec2b2385aaafd18169b8ee3eedfdc.json",
+      "size": 2535,
+      "sha256": "16a9bfeb98752d9a0f16c6ee6b66763c9d7ec2b2385aaafd18169b8ee3eedfdc"
     }
   ]
 }
