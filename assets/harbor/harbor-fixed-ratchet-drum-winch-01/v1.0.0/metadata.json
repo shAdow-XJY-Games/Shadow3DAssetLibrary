@@ -1,0 +1,42 @@
+{
+  "id": "harbor-fixed-ratchet-drum-winch-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Ratchet Drum Winch",
+  "description": "One original low-poly freestanding ratchet drum winch counted as one complete static visual prop. Four broad ground feet and two base rails support two thick tapered side pedestals with genuine polygonal through-bores. A continuous horizontal shaft rests by finite lower facets in both bores. One bare stepped drum has two integral flanges and a complete empty winding bay. One continuous twelve-tooth asymmetric ratchet wheel meets one separate thick fixed pawl at exactly one finite opposed stop face. The pawl has its own grounded root pedestal and embedded axial pin. An independent offset crank and short axial handgrip complete the single frozen pose. Sixteen named editable closed meshes, five opaque constant PBR materials; metres, native Z up, front -Y, horizontally bounds-centred ground origin. No rope, cargo, boat, dock, motor, labels, texture or animation. Static visual geometry only: no winching, hauling, rotation, reverse prevention, braking, locking, continuous engagement, transmission ratio, torque, load, stability, anti-tip, manufacture, installation fit, marine or equipment safety claim. No compatibility with historical harbor, reel or well assets is asserted.",
+  "bounds": {
+    "x": 1.34,
+    "y": 0.92,
+    "z": 0.921603,
+    "unit": "m"
+  },
+  "triangles": 1132,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-fixed-ratchet-drum-winch-01/v1.0.0/model.glb",
+      "size": 64492,
+      "sha256": "5bff460239dcdcc4fc2958d85a73237fd72855013b8faa3003969290f42ef286"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-fixed-ratchet-drum-winch-01/v1.0.0/source.blend",
+      "size": 674620,
+      "sha256": "94d0754bfd1e7b49af8c11993cd724852183d5c20bf7bb069c59529561c1fc81"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-fixed-ratchet-drum-winch-01/v1.0.0/generate.py",
+      "size": 30964,
+      "sha256": "fef9c44c5c4ee81d56aa79a35bc5afb88cdc7cf1f91cadaa9d488978e7a07578"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-fixed-ratchet-drum-winch-01/v1.0.0/thumbnail.png",
+      "size": 558217,
+      "sha256": "34c6caaec5d9f52e8fa72588b66136c41427d997bcd7a4e329870c1f688a9193"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
