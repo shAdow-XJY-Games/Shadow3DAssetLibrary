@@ -1,0 +1,42 @@
+{
+  "id": "arcade-open-playfield-pinball-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "arcade",
+  "style": "S01-clean-geometric",
+  "title": "Open-Playfield Pinball Machine",
+  "description": "Original single static low-poly pinball machine with an open-top inclined physical playfield. A deep tapered teal cabinet stands on four individually supported steel legs and dark foot pads. The right-side launch channel has its own raised divider, a seated faceted metal ball and a front fixed pull handle. The playing area contains two fixed tapered flipper paddles on real pivots, three stepped pop bumpers, two slingshot guides and three rear target blades, all joined to the sloped floor with actual support. A tall framed backbox carries a plain ivory face and raised original geometric medallion; it is an opaque solid sign with no image screen or runtime-display claim. Visible empty finite launch-lane, central-ball and lower drain-approach volumes distinguish the physical ball layout from a screen cabinet or flat tabletop. Cabinet rails, target brackets and coin-door relief are solid thickness, not texture overlays. Five fully opaque untextured constant PBR materials. Metres, source Z up, player at -Y, origin at the X centreline, design Y=0 datum and ground Z=0. One fixed stylized visual prop only: no playable pinball, ball simulation, scoring, input devices, electronics, moving parts, physics, mechanisms hidden under the playfield, fit, manufacture, load-bearing or amusement-equipment safety guarantee. No real branding, game imagery, fonts, textures, external dependencies or scene.",
+  "bounds": {
+    "x": 0.85,
+    "y": 1.62377,
+    "z": 1.825,
+    "unit": "m"
+  },
+  "triangles": 1888,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/arcade/arcade-open-playfield-pinball-01/v1.0.0/model.glb",
+      "size": 118364,
+      "sha256": "8bbf2dce37dacf530a2190aa7d44f0956728d776fe6e71a147d6536b83954bce"
+    },
+    "blend": {
+      "path": "assets/arcade/arcade-open-playfield-pinball-01/v1.0.0/source.blend",
+      "size": 852436,
+      "sha256": "54c3f6ec84f2c25e832c7bc24aac947ac1c131a5c4d707ae58577e8374fc7906"
+    },
+    "generator": {
+      "path": "assets/arcade/arcade-open-playfield-pinball-01/v1.0.0/generate.py",
+      "size": 28794,
+      "sha256": "dcf9a6653985254667658d7c6f3d7ececb1de8b8d46112894966493ddb9e7eab"
+    },
+    "render": {
+      "path": "assets/arcade/arcade-open-playfield-pinball-01/v1.0.0/thumbnail.png",
+      "size": 567549,
+      "sha256": "d10b3ea696051ba9c761412e73479dd41b62b3526194284ac37044a226f07b75"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
