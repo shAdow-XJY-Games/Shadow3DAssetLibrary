@@ -729,9 +729,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "e5b5abb51b2286d12d3b65ad94ed2b3d14cf33ab"
+    },
+    "textile-spinning-wheel-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "db47bf43a27a380a4c197faaebdacf8a101f17cd"
     }
   },
-  "assetCount": 316,
+  "assetCount": 317,
   "shards": [
     {
       "theme": "camping",
@@ -1362,6 +1367,13 @@
       "path": "metadata/9cc6c431240ab06070231eba04474b173af7f0dc0cdbb86d67755306b585eda3.json",
       "size": 1854,
       "sha256": "9cc6c431240ab06070231eba04474b173af7f0dc0cdbb86d67755306b585eda3"
+    },
+    {
+      "theme": "textile",
+      "count": 1,
+      "path": "metadata/bec05504261923737a93866f13e958f18e74f32e276849d0703c240969847308.json",
+      "size": 2075,
+      "sha256": "bec05504261923737a93866f13e958f18e74f32e276849d0703c240969847308"
     }
   ]
 }
