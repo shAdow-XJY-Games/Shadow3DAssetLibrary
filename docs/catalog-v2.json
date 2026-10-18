@@ -839,9 +839,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "a55434e458464bb3a2bc59a977c3f9b8f6ee438d"
+    },
+    "communications-handheld-charging-cradle-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "ddb9456f2e07f514b85600085ae739a85d1e0cce"
     }
   },
-  "assetCount": 338,
+  "assetCount": 339,
   "shards": [
     {
       "theme": "camping",
@@ -1626,6 +1631,13 @@
       "path": "metadata/cdf1dcbab865cf695b81ee69e95937c88bd7a2b2dcb0e0150f02213a26fd99b7.json",
       "size": 2044,
       "sha256": "cdf1dcbab865cf695b81ee69e95937c88bd7a2b2dcb0e0150f02213a26fd99b7"
+    },
+    {
+      "theme": "communications",
+      "count": 1,
+      "path": "metadata/29f19d242bd902e5debfc485c53874c04de6449a2f0e4986a3efdd359f1fbf7e.json",
+      "size": 2107,
+      "sha256": "29f19d242bd902e5debfc485c53874c04de6449a2f0e4986a3efdd359f1fbf7e"
     }
   ]
 }
