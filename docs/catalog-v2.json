@@ -864,9 +864,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "595609cdd676c2eb92568b2e158446c6b55043cf"
+    },
+    "beach-single-fin-surfboard-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "969ad0dbd8bd6ffdd62755da9eeaa30111e82cbf"
     }
   },
-  "assetCount": 343,
+  "assetCount": 344,
   "shards": [
     {
       "theme": "camping",
@@ -1686,6 +1691,13 @@
       "path": "metadata/08014e3531e47c47da4a16b8ac3da05712602715349deaf0ea7a8c0be7994ff3.json",
       "size": 1986,
       "sha256": "08014e3531e47c47da4a16b8ac3da05712602715349deaf0ea7a8c0be7994ff3"
+    },
+    {
+      "theme": "beach",
+      "count": 1,
+      "path": "metadata/5f60aa251f49b6304d832f959f592310653a94334368530f0e838d8246e84623.json",
+      "size": 2179,
+      "sha256": "5f60aa251f49b6304d832f959f592310653a94334368530f0e838d8246e84623"
     }
   ]
 }
