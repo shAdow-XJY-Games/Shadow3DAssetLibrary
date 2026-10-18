@@ -789,9 +789,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "dbac1104cba629203fedaafe4486f6ac34236134"
+    },
+    "playground-a-frame-swing-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "955a2c924ecaf1df73bdf4d9d0e5333c5ec09916"
     }
   },
-  "assetCount": 328,
+  "assetCount": 329,
   "shards": [
     {
       "theme": "camping",
@@ -1506,6 +1511,13 @@
       "path": "metadata/bf18e6089d58770988bf5efcd8d0d0c86f76f289a33e0f4cff4762941aca94c0.json",
       "size": 2102,
       "sha256": "bf18e6089d58770988bf5efcd8d0d0c86f76f289a33e0f4cff4762941aca94c0"
+    },
+    {
+      "theme": "playground",
+      "count": 1,
+      "path": "metadata/78d2029d3611fa121dd999f03aca555f7ae69b72f549a640acdcf217385efb30.json",
+      "size": 2252,
+      "sha256": "78d2029d3611fa121dd999f03aca555f7ae69b72f549a640acdcf217385efb30"
     }
   ]
 }
