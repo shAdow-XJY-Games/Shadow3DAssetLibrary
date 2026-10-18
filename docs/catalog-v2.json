@@ -1094,9 +1094,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "13b7cf92376ba1ace01cba35601e98c514015008"
+    },
+    "baggage-quarter-turn-roller-conveyor-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "e895771aaf85860632ba59d0037a35254b7bded8"
     }
   },
-  "assetCount": 389,
+  "assetCount": 390,
   "shards": [
     {
       "theme": "camping",
@@ -2238,6 +2243,13 @@
       "path": "metadata/2e96871e89fc9e3b8017540c842df4faa0fabf2db5684d20177ae3030811a82a.json",
       "size": 2189,
       "sha256": "2e96871e89fc9e3b8017540c842df4faa0fabf2db5684d20177ae3030811a82a"
+    },
+    {
+      "theme": "baggage",
+      "count": 1,
+      "path": "metadata/c488f198114b32a6fe22f6f0eefac05b23ef6af843e1ce997de89865f56490d1.json",
+      "size": 2256,
+      "sha256": "c488f198114b32a6fe22f6f0eefac05b23ef6af843e1ce997de89865f56490d1"
     }
   ]
 }
