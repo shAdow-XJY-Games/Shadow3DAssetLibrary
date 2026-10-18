@@ -1,0 +1,42 @@
+{
+  "id": "laboratory-cantilever-pipette-rack-kit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "laboratory",
+  "style": "S01-clean-geometric",
+  "title": "Three-Slot Cantilever Pipette Rack",
+  "description": "One original low-poly tabletop cantilever rack with a wide chamfered ground base, solid rear spine and a single thick projecting comb plate. Three genuine front-open U slots pass through the plate. Two original static pipette exterior models have recognizable rounded grips, raised thumb buttons, integral finger-rest shoulders and narrow tapered tips. Each shoulder rests with finite opposed contact on both sides of its fork slot. Both thin shafts and tips are suspended above the base, and the third slot stays empty. Five named editable closed connected meshes, five opaque constant PBR materials, metres, native Z up, front -Y, bounds-centred ground origin. The complete rack and two pipettes count as one prop. No labels, liquid, sample tubes, textures, animation, room or additional equipment. Static visual geometry only: no pipetting, aspiration, dispensing, volume measurement, calibration, experiment, sterilization, chemical compatibility, medical use, hygiene, ergonomic, load, stability, manufacture or safety claim. No insertion/removal trajectory, mechanism motion or compatibility with earlier sample tubes, racks, centrifuges or scenes is asserted.",
+  "bounds": {
+    "x": 0.39,
+    "y": 0.226,
+    "z": 0.433,
+    "unit": "m"
+  },
+  "triangles": 1936,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/laboratory/laboratory-cantilever-pipette-rack-kit-01/v1.0.0/model.glb",
+      "size": 105624,
+      "sha256": "8e0de998d96590f041bfb9965f694d87e4ae8e8d1cd12c63ac7febe7727078ff"
+    },
+    "blend": {
+      "path": "assets/laboratory/laboratory-cantilever-pipette-rack-kit-01/v1.0.0/source.blend",
+      "size": 663304,
+      "sha256": "169d31a5ebbfdbbcb611feedf29ab76a6db81181f2302f2a08a8602118130a4e"
+    },
+    "generator": {
+      "path": "assets/laboratory/laboratory-cantilever-pipette-rack-kit-01/v1.0.0/generate.py",
+      "size": 24962,
+      "sha256": "b000f2e756168d724b6b510431dd6e72be51a94965b123723059dd374c1a2535"
+    },
+    "render": {
+      "path": "assets/laboratory/laboratory-cantilever-pipette-rack-kit-01/v1.0.0/thumbnail.png",
+      "size": 513976,
+      "sha256": "20111055906986a91f13869e101d29c482da7d052cedfcc75b1e3c83c0096afc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
