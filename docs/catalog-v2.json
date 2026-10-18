@@ -1069,9 +1069,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "806037c845b41ec46f31e97b4d877e0978a8f409"
+    },
+    "ceramics-stepped-rim-lidded-jar-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "e9eff3033975253c32ea8cb71f83f1cbeab0d62b"
     }
   },
-  "assetCount": 384,
+  "assetCount": 385,
   "shards": [
     {
       "theme": "camping",
@@ -2178,6 +2183,13 @@
       "path": "metadata/fab3b93098409b8ad5ee6e718d1dcc540e1a4f5b2f9e9868eef8fd997bc01bb6.json",
       "size": 2449,
       "sha256": "fab3b93098409b8ad5ee6e718d1dcc540e1a4f5b2f9e9868eef8fd997bc01bb6"
+    },
+    {
+      "theme": "ceramics",
+      "count": 1,
+      "path": "metadata/d1e78fabfd1c0e296a9884b1c5eb3559a2aa3052da76d0a1314b649c8165918b.json",
+      "size": 2352,
+      "sha256": "d1e78fabfd1c0e296a9884b1c5eb3559a2aa3052da76d0a1314b649c8165918b"
     }
   ]
 }
