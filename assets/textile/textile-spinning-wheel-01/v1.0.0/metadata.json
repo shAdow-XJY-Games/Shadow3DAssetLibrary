@@ -1,0 +1,42 @@
+{
+  "id": "textile-spinning-wheel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "textile",
+  "style": "S01-clean-geometric",
+  "title": "Timber Treadle Spinning Wheel",
+  "description": "Original static timber spinning wheel with a large eight-spoke open driving wheel, separate solid axle and two supporting posts. A broad sloped treadle connects through an offset crank pin and diagonal connecting rod. A side-mounted winding spindle has two bearing posts, a small pulley, two flanges and a cream wound-yarn sleeve; a real closed cord loop follows the wheel and pulley. The eight spoke apertures, lateral wheel clearances, raised wheel bottom and treadle clearance are real geometry. All named parts have physical fixed-pose support routes to two long grounded feet. Metres, source Z up, wheel and spindle axes Y, ground-centre origin; four solid PBR materials, separate editable source components and no external dependencies. Distinct yarn preparation prop, not a loom or a loose spool tray. Static visual game asset only; no spinning animation, working transmission, cloth simulation, torque, human ergonomics, engineering or safety certification.",
+  "bounds": {
+    "x": 1.62,
+    "y": 0.845,
+    "z": 1.262829,
+    "unit": "m"
+  },
+  "triangles": 4152,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-spinning-wheel-01/v1.0.0/model.glb",
+      "size": 234188,
+      "sha256": "16db74949cb42128c42824b08d7cac2dc7e55df796f48c4a4bb7d1fc0542bc4e"
+    },
+    "blend": {
+      "path": "assets/textile/textile-spinning-wheel-01/v1.0.0/source.blend",
+      "size": 822864,
+      "sha256": "bde96218fe3dff98b7c804323c27f04c3b4d76a624733df6002da33cf2b36054"
+    },
+    "generator": {
+      "path": "assets/textile/textile-spinning-wheel-01/v1.0.0/generate.py",
+      "size": 24840,
+      "sha256": "ef2ab6f59f6e8450a81fff45c35227fdb64a17b8345462b58bd35838dacd0d59"
+    },
+    "render": {
+      "path": "assets/textile/textile-spinning-wheel-01/v1.0.0/thumbnail.png",
+      "size": 571285,
+      "sha256": "95839fd8867edfb3366649d13478fd75fdccb2c3eac25d8a1052ad5d87404db2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
