@@ -949,9 +949,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "ccf918590ab8f31607e57983f5dcbc61970a0ad9"
+    },
+    "museum-rope-stanchion-barrier-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "8294e8d3416d1f4c357b6dd69c331a92d826facf"
     }
   },
-  "assetCount": 360,
+  "assetCount": 361,
   "shards": [
     {
       "theme": "camping",
@@ -1890,6 +1895,13 @@
       "path": "metadata/07f967a2d27b479634531d349ee12b6225f0303fe9806b925d4f3ca069544861.json",
       "size": 2286,
       "sha256": "07f967a2d27b479634531d349ee12b6225f0303fe9806b925d4f3ca069544861"
+    },
+    {
+      "theme": "museum",
+      "count": 1,
+      "path": "metadata/e51883d97148906926b0380ec7a0a1508134ae35a437838ed0c9043821ae7028.json",
+      "size": 2177,
+      "sha256": "e51883d97148906926b0380ec7a0a1508134ae35a437838ed0c9043821ae7028"
     }
   ]
 }
