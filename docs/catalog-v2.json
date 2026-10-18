@@ -744,9 +744,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "897a74de1898121a530e22fff0d3c97b0118532f"
+    },
+    "laboratory-benchtop-centrifuge-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "85b4f29dda69ffa548bc650f7e69965c7d8a25e7"
     }
   },
-  "assetCount": 319,
+  "assetCount": 320,
   "shards": [
     {
       "theme": "camping",
@@ -1398,6 +1403,13 @@
       "path": "metadata/99ca9cdf30ef340075ac36ee1859293377e931eb05cc557785546a298a8b3865.json",
       "size": 2772,
       "sha256": "99ca9cdf30ef340075ac36ee1859293377e931eb05cc557785546a298a8b3865"
+    },
+    {
+      "theme": "laboratory",
+      "count": 1,
+      "path": "metadata/2db60408140409a92f787bd8132b067e41e77f91a1873f289308e4e5833c160d.json",
+      "size": 1906,
+      "sha256": "2db60408140409a92f787bd8132b067e41e77f91a1873f289308e4e5833c160d"
     }
   ]
 }
