@@ -934,9 +934,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "d9c791363bf1dc2c99bc9c72ddebc3ace937afe2"
+    },
+    "firefighting-three-outlet-hydrant-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "a7262ee9e7e0d664d94a7baee8c13e93d698fe1f"
     }
   },
-  "assetCount": 357,
+  "assetCount": 358,
   "shards": [
     {
       "theme": "camping",
@@ -1854,6 +1859,13 @@
       "path": "metadata/1b2e545a7b1d14fdfe7a889cb57a58a8f186660c9c08ecf670706af1d4c3c194.json",
       "size": 2058,
       "sha256": "1b2e545a7b1d14fdfe7a889cb57a58a8f186660c9c08ecf670706af1d4c3c194"
+    },
+    {
+      "theme": "firefighting",
+      "count": 1,
+      "path": "metadata/3b7a92362fc767b0fe6366c32ae9c3f4d62261d7bb5fb998652b4e98ccd0f906.json",
+      "size": 2357,
+      "sha256": "3b7a92362fc767b0fe6366c32ae9c3f4d62261d7bb5fb998652b4e98ccd0f906"
     }
   ]
 }
