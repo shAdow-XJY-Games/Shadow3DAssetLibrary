@@ -809,9 +809,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "daddfc7de00f98ed58464bed9d1735e8ac278dea"
+    },
+    "painting-crimped-paint-tube-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "1d51baa96750912dfb0fba6a45e8583fcdf311b3"
     }
   },
-  "assetCount": 332,
+  "assetCount": 333,
   "shards": [
     {
       "theme": "camping",
@@ -1554,6 +1559,13 @@
       "path": "metadata/1096fe9c9b0bea0c7bfb9806c37622f66a2dc2be7a9c26a7d8f808cde6a2624e.json",
       "size": 2215,
       "sha256": "1096fe9c9b0bea0c7bfb9806c37622f66a2dc2be7a9c26a7d8f808cde6a2624e"
+    },
+    {
+      "theme": "painting",
+      "count": 1,
+      "path": "metadata/5259b82d126de2f9113a4d0c392559da45087fd39699febc9586f15fc0b629d5.json",
+      "size": 2101,
+      "sha256": "5259b82d126de2f9113a4d0c392559da45087fd39699febc9586f15fc0b629d5"
     }
   ]
 }
