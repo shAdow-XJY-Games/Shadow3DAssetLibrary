@@ -764,9 +764,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "3f1f027b890b5e0cdaefd0b4d19e8f824534cb1f"
+    },
+    "arcade-sitdown-racer-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "cfaf4ee7cde2345257340e6f9f068e334c2ed93d"
     }
   },
-  "assetCount": 323,
+  "assetCount": 324,
   "shards": [
     {
       "theme": "camping",
@@ -1446,6 +1451,13 @@
       "path": "metadata/ab46c63b1870629830602b718a8ff4da86a90bbeace05783a720c06aa4cd1c3e.json",
       "size": 2145,
       "sha256": "ab46c63b1870629830602b718a8ff4da86a90bbeace05783a720c06aa4cd1c3e"
+    },
+    {
+      "theme": "arcade",
+      "count": 1,
+      "path": "metadata/94a304bfd972ab95cc8a75ca5d9a42632eced78766a4b7861e49b4fe1daf3101.json",
+      "size": 2300,
+      "sha256": "94a304bfd972ab95cc8a75ca5d9a42632eced78766a4b7861e49b4fe1daf3101"
     }
   ]
 }
