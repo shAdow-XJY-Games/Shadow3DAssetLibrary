@@ -849,9 +849,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "24163f62aefb72ccfdb3a9e051ab67d778444be1"
+    },
+    "bakery-countertop-dough-mixer-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "0e6ab211937cd7ce5146886f352b6269add909f3"
     }
   },
-  "assetCount": 340,
+  "assetCount": 341,
   "shards": [
     {
       "theme": "camping",
@@ -1650,6 +1655,13 @@
       "path": "metadata/df4107b34820e3ecfee93c1b6450e838a9730da96865ba0952bc025bbc5f439d.json",
       "size": 2227,
       "sha256": "df4107b34820e3ecfee93c1b6450e838a9730da96865ba0952bc025bbc5f439d"
+    },
+    {
+      "theme": "bakery",
+      "count": 1,
+      "path": "metadata/bcc6192e24b42ed95eefdc3f97d50bfa0fcd8de9ef398dcfc4826c3e2dee35aa.json",
+      "size": 2079,
+      "sha256": "bcc6192e24b42ed95eefdc3f97d50bfa0fcd8de9ef398dcfc4826c3e2dee35aa"
     }
   ]
 }
