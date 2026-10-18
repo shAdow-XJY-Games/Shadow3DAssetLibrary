@@ -1,0 +1,42 @@
+{
+  "id": "baggage-open-weekender-holdall-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "baggage",
+  "style": "S01-clean-geometric",
+  "title": "Open Weekender Travel Holdall",
+  "description": "One original static horizontal travel holdall with a rounded soft-profile thick shell, one genuinely empty main chamber, a broad finite floor and a real elongated top opening. Two independent wide carry loops rise from the two long sides; four separately editable reinforced anchor bands have finite seating into the shell and the handle terminals. A separate continuous fixed mouth binding follows the open top without sealing it. Eight closed named editable meshes, four constant solid PBR materials, metre scale, source Z up, length X, front -Y and ground-centre origin. No textures, logos, clothes, characters, scene or external assets. Original broad shoulder-and-belly profile and paired long-side handles differ from the old vertical closed backpack, divided postal satchel and rigid harvest basket. One fixed open pose only: no capacity, load, weatherproofing, cloth deformation, human fit, zipper operation, opening or carrying animation, travel performance, manufacture or safety certification.",
+  "bounds": {
+    "x": 0.69,
+    "y": 0.344,
+    "z": 0.515,
+    "unit": "m"
+  },
+  "triangles": 1572,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/baggage/baggage-open-weekender-holdall-01/v1.0.0/model.glb",
+      "size": 81488,
+      "sha256": "c7ea6decd59ee2cbb84bdefb7ba7ddfe5a10c2cf0108a0e01857ea627c659184"
+    },
+    "blend": {
+      "path": "assets/baggage/baggage-open-weekender-holdall-01/v1.0.0/source.blend",
+      "size": 612484,
+      "sha256": "abc60303a611e819b338c5affbeedf1b2020f6239f2d5a788d4c1ef04e9c595f"
+    },
+    "generator": {
+      "path": "assets/baggage/baggage-open-weekender-holdall-01/v1.0.0/generate.py",
+      "size": 24702,
+      "sha256": "0a33350b3ad5843b852b466b2a8b9e2bc988b0a04f9b1b92a46cd2f3b1993328"
+    },
+    "render": {
+      "path": "assets/baggage/baggage-open-weekender-holdall-01/v1.0.0/thumbnail.png",
+      "size": 571683,
+      "sha256": "c9c74c2e2db8c0e39bfba56452dafb93cb31fa95f03095d04c0fe0dbfafc4d5d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
