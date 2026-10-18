@@ -1,0 +1,42 @@
+{
+  "id": "carnival-service-window-ticket-booth-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "S01-clean-geometric",
+  "title": "Open-Service Carnival Ticket Booth",
+  "description": "One original freestanding static ticket booth with thick enclosing walls, a real open front service window, a supported interior counter extending into an exterior handover shelf, and a rear staff access opening. A finite ground plinth supports a single closed wall-shell mesh, corner posts, countertop and its interior triangular brackets, a thick ceiling cornice and a striped eight-face hipped roof. A small seated TICKETS plaque uses original solid polygon letters. Rear doorway nominal clear width 0.86 m, clear height 2.03 m above the 0.10 m floor step. Service opening nominal clear width 1.256 m, height 0.976 m above the 1.08 m counter. One static building prop, metres, Z up, ground-centre origin, public front -Y. Five constant PBR materials, no textures, people, equipment, tickets or external assets. No ticket sales, payments, opening animation, navigation, wheelchair accessibility, crowd or fire safety, operation, architectural compliance, load guarantee or compatibility with other building families is claimed.",
+  "bounds": {
+    "x": 2.16,
+    "y": 1.92,
+    "z": 2.96,
+    "unit": "m"
+  },
+  "triangles": 758,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-service-window-ticket-booth-01/v1.0.0/model.glb",
+      "size": 47672,
+      "sha256": "349b43671863cd2e0084fa132b3470f232dab62bec22f33f4bdcdbfd8fb6d779"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-service-window-ticket-booth-01/v1.0.0/source.blend",
+      "size": 676520,
+      "sha256": "684810fd4bfd49dd24044bcf6c819c1f0cb2c323b44f139bb5ae6a302f052f35"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-service-window-ticket-booth-01/v1.0.0/generate.py",
+      "size": 25772,
+      "sha256": "5742511a122bf2340f15adcc1a2b8714ddcd1ef386fdbfb91ae84a7bd260c5dc"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-service-window-ticket-booth-01/v1.0.0/thumbnail.png",
+      "size": 610702,
+      "sha256": "254822ee02b4615f6ca58d7fa1fe98c776763480b8e6079ed61c10a22165e29b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
