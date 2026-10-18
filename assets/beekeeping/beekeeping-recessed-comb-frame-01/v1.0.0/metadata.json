@@ -1,0 +1,42 @@
+{
+  "id": "beekeeping-recessed-comb-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "beekeeping",
+  "style": "S01-clean-geometric",
+  "title": "Recessed Honeycomb Wooden Frame",
+  "description": "One original static honeycomb-frame prop lying flat on finite timber-bar undersides. A long top bar has two short raised-underside hanging ears; two independently editable side rails and a lower bar capture a solid wax foundation. A single connected wax mesh contains 136 actual shallow hexagonal recesses in a 17 by 8 staggered field. Shared cell walls have finite thickness, each cavity has a real floor, and the integrated base overlaps the supported foundation. Four small seated timber pegs mark the rail joints. Ten named closed editable meshes and three solid PBR materials without textures, bees, honey fluid or external models. Metres, native Z up, ground-centre origin, cell openings +Z, long top bar toward +Y. Stylized cell spacing intentionally limits geometry cost. One standalone game/display prop, without hive or extractor insertion compatibility, species-specific cell dimensions, honey production, bee behaviour, fluid, animation, manufacture or beekeeping-safety guarantees.",
+  "bounds": {
+    "x": 0.48,
+    "y": 0.274,
+    "z": 0.0315,
+    "unit": "m"
+  },
+  "triangles": 4880,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/beekeeping/beekeeping-recessed-comb-frame-01/v1.0.0/model.glb",
+      "size": 192176,
+      "sha256": "e04295d6f02d36a9e8710abc0828f2f0b6123f14b597b6e26fca7c3e86b17432"
+    },
+    "blend": {
+      "path": "assets/beekeeping/beekeeping-recessed-comb-frame-01/v1.0.0/source.blend",
+      "size": 709132,
+      "sha256": "559e4e15edc06af829737dde057c1c61c72da02e454b7c9f405f9c7bda5d7968"
+    },
+    "generator": {
+      "path": "assets/beekeeping/beekeeping-recessed-comb-frame-01/v1.0.0/generate.py",
+      "size": 21550,
+      "sha256": "4744ff1a5e03d285792ceb8b838ae8cb81536e3fb968652f320de6cfb3badb7e"
+    },
+    "render": {
+      "path": "assets/beekeeping/beekeeping-recessed-comb-frame-01/v1.0.0/thumbnail.png",
+      "size": 547466,
+      "sha256": "8371124e2b3425698013204c74d24650edd8312f0a719f506b2ed24b17ddd114"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
