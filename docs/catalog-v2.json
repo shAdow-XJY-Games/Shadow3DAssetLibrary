@@ -794,9 +794,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "955a2c924ecaf1df73bdf4d9d0e5333c5ec09916"
+    },
+    "renewable-paddle-water-wheel-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "e0a0d6d26a85565b3bd14f2314239207a6c162a3"
     }
   },
-  "assetCount": 329,
+  "assetCount": 330,
   "shards": [
     {
       "theme": "camping",
@@ -1518,6 +1523,13 @@
       "path": "metadata/78d2029d3611fa121dd999f03aca555f7ae69b72f549a640acdcf217385efb30.json",
       "size": 2252,
       "sha256": "78d2029d3611fa121dd999f03aca555f7ae69b72f549a640acdcf217385efb30"
+    },
+    {
+      "theme": "renewable",
+      "count": 1,
+      "path": "metadata/2193d71744610e7cebf17aad9f10ac079f456a71633d13ab89c4dc5f07a5cab6.json",
+      "size": 2177,
+      "sha256": "2193d71744610e7cebf17aad9f10ac079f456a71633d13ab89c4dc5f07a5cab6"
     }
   ]
 }
