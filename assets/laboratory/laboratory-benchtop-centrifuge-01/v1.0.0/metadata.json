@@ -1,0 +1,42 @@
+{
+  "id": "laboratory-benchtop-centrifuge-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "laboratory",
+  "style": "S01-clean-geometric",
+  "title": "Fixed-Open Laboratory Benchtop Centrifuge",
+  "description": "Original compact static benchtop centrifuge visual prop with a thick chamfered enclosure, genuine blind-bottom circular chamber, centrally supported eight-well rotor and eight real deep blind receiving cavities. Fixed open thick lid, inset seal ring, two bored hinge supports and a polygonal pin resting on actual finite bearing facets. Independent controls and four grounded feet. Five solid PBR materials; closed separately editable components. Metres, source Z up, front -Y, ground origin (0,0,0). No sample tubes or compatibility with the existing sample rack are claimed. No rotor or lid animation, continuous motion, laboratory procedure, diagnosis, speed, electrical, load, stability or safety certification.",
+  "bounds": {
+    "x": 0.58,
+    "y": 0.777652,
+    "z": 0.866463,
+    "unit": "m"
+  },
+  "triangles": 3080,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/laboratory/laboratory-benchtop-centrifuge-01/v1.0.0/model.glb",
+      "size": 166336,
+      "sha256": "3d7ae680911a43188eecb94966dda9805c78ac3671633a41b126d71c46f4ffa3"
+    },
+    "blend": {
+      "path": "assets/laboratory/laboratory-benchtop-centrifuge-01/v1.0.0/source.blend",
+      "size": 804980,
+      "sha256": "9bb9c57c1378e4fd0cf51ea314a8d97d07d400e19e07cf58aa4c003c545e631e"
+    },
+    "generator": {
+      "path": "assets/laboratory/laboratory-benchtop-centrifuge-01/v1.0.0/generate.py",
+      "size": 27126,
+      "sha256": "37bfd6cd849cd557d9b8f7d935d9f2930bc830bb436c40c11d6b2387b88131b2"
+    },
+    "render": {
+      "path": "assets/laboratory/laboratory-benchtop-centrifuge-01/v1.0.0/thumbnail.png",
+      "size": 535457,
+      "sha256": "78262158d5cacc1f9dc447fc27bfbe1950b19ed55167cff42dcb554e89334f05"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
