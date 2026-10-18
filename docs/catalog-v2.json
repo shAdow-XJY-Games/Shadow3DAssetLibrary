@@ -1129,9 +1129,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "d39b842ecb778ae9c9a4bd4ef29102104bbce5f3"
+    },
+    "postal-individual-compartment-pickup-locker-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "2c2344698f9a3b3859a0cb600524f27b15e2e9d6"
     }
   },
-  "assetCount": 396,
+  "assetCount": 397,
   "shards": [
     {
       "theme": "camping",
@@ -2322,6 +2327,13 @@
       "path": "metadata/5ce6254d37b5848930c7dacec1e124f59469cdb87d94320717619beb557b65f3.json",
       "size": 2532,
       "sha256": "5ce6254d37b5848930c7dacec1e124f59469cdb87d94320717619beb557b65f3"
+    },
+    {
+      "theme": "postal",
+      "count": 1,
+      "path": "metadata/c5e7a61ebcc077af45d5ab9607d7b76b086c707bb3e07318d379c4c5a7ac70ce.json",
+      "size": 2460,
+      "sha256": "c5e7a61ebcc077af45d5ab9607d7b76b086c707bb3e07318d379c4c5a7ac70ce"
     }
   ]
 }
