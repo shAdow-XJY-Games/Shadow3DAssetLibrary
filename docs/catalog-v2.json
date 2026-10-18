@@ -1059,9 +1059,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "aaab1e349c8071fd94e38a498f5a78f1f304e820"
+    },
+    "fishing-hinged-compartment-bait-box-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "fff484b9703955c91e3aab2a0b6950b8f9747077"
     }
   },
-  "assetCount": 382,
+  "assetCount": 383,
   "shards": [
     {
       "theme": "camping",
@@ -2154,6 +2159,13 @@
       "path": "metadata/4997caedcd13a5211686fecff3236e05b60efe921503ddd006fc80ef694c4922.json",
       "size": 2465,
       "sha256": "4997caedcd13a5211686fecff3236e05b60efe921503ddd006fc80ef694c4922"
+    },
+    {
+      "theme": "fishing",
+      "count": 1,
+      "path": "metadata/14a714f4a1f5922fa888c67beedd0a868b73652f1f8d0f3a63585a3a646ad714.json",
+      "size": 2373,
+      "sha256": "14a714f4a1f5922fa888c67beedd0a868b73652f1f8d0f3a63585a3a646ad714"
     }
   ]
 }
