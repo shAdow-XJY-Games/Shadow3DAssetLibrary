@@ -1019,9 +1019,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "08b4bfb6e797f37ff9bbf2a0f6cc656f6a4b3c23"
+    },
+    "photography-dual-rod-camera-slider-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "0e9018a82347b6d4e22b380d63a1d5c8cf26ae0a"
     }
   },
-  "assetCount": 374,
+  "assetCount": 375,
   "shards": [
     {
       "theme": "camping",
@@ -2058,6 +2063,13 @@
       "path": "metadata/986d35b9065323ae8330221536e79f148bf6f8a3fe332f58cf6029f188cf6fc0.json",
       "size": 2434,
       "sha256": "986d35b9065323ae8330221536e79f148bf6f8a3fe332f58cf6029f188cf6fc0"
+    },
+    {
+      "theme": "photography",
+      "count": 1,
+      "path": "metadata/c502f536f33fe1fc36673e5e5603719223749169b53144505a9669111c41e930.json",
+      "size": 2135,
+      "sha256": "c502f536f33fe1fc36673e5e5603719223749169b53144505a9669111c41e930"
     }
   ]
 }
