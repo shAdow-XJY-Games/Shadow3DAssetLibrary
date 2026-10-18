@@ -1,0 +1,42 @@
+{
+  "id": "fishing-stem-float-kit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fishing",
+  "style": "S01-clean-geometric",
+  "title": "Three-Profile Stem Fishing Float Kit",
+  "description": "Original three-float static kit counted as one prop. A compact egg, an elongated asymmetric teardrop and a slender symmetric spindle have genuinely distinct body profiles. Every float has a long integral striped top antenna and a separate lower stem joined by finite interior seats to the closed body. Each body rests on its own finite planar lower facet at Z=0. The three parallel floats have positive actual separation and no rack or display base. Nine editable closed meshes, four constant fully opaque solid PBR materials. The common orange/ivory/graphite tail bands are material regions on continuous mesh faces, not overlays or separate color variants. Original geometry, metre scale, Z up, front -Y, central ground-plane origin. No line eyes, line, hooks, fish, water, accessories, logo, texture, animation or scene. Stylized fixed dry-laid visual only. No buoyancy, sensitivity, shot capacity, fishing performance, water behavior, rod/line compatibility, true equipment dimensions, manufacture, installation or safety guarantee. Not real fishing-equipment design or use guidance.",
+  "bounds": {
+    "x": 0.168443,
+    "y": 0.355,
+    "z": 0.035308,
+    "unit": "m"
+  },
+  "triangles": 1668,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/fishing/fishing-stem-float-kit-01/v1.0.0/model.glb",
+      "size": 92572,
+      "sha256": "b4c0149b8ef30feeb37160b62d6a5435bb96691fe929eaa63f8e087fe502dede"
+    },
+    "blend": {
+      "path": "assets/fishing/fishing-stem-float-kit-01/v1.0.0/source.blend",
+      "size": 618688,
+      "sha256": "951c268daa5960edc9f4adbd6a59ff12c9281de97fbeff7013dc357b0742a7a5"
+    },
+    "generator": {
+      "path": "assets/fishing/fishing-stem-float-kit-01/v1.0.0/generate.py",
+      "size": 21262,
+      "sha256": "6a71ddc3c7f37450513f015f1263dc8b21b6ea2fba97db73592af96c38bf39f2"
+    },
+    "render": {
+      "path": "assets/fishing/fishing-stem-float-kit-01/v1.0.0/thumbnail.png",
+      "size": 463377,
+      "sha256": "cecd4fe780aa8a4a4212f3895a1b108310ba1de65c29d2f19ed76396bafd3c4e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
