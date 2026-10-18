@@ -1204,9 +1204,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "33c9dd921acad2f5ec9aa6dfcf789d34c8cc778c"
+    },
+    "carnival-fixed-canopy-carousel-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "200b6f9eb9d832880e4a119bc2e13969d1731557"
     }
   },
-  "assetCount": 411,
+  "assetCount": 412,
   "shards": [
     {
       "theme": "camping",
@@ -2502,6 +2507,13 @@
       "path": "metadata/5f76793bdd1f5dd6fa14d76d6248ea18738ff821641f9e0f7d62c4a4ab392fc6.json",
       "size": 2432,
       "sha256": "5f76793bdd1f5dd6fa14d76d6248ea18738ff821641f9e0f7d62c4a4ab392fc6"
+    },
+    {
+      "theme": "carnival",
+      "count": 1,
+      "path": "metadata/519f6faddbda77d60b12d9c4664f5bfe776985648205958057e39f5a3792eb42.json",
+      "size": 2786,
+      "sha256": "519f6faddbda77d60b12d9c4664f5bfe776985648205958057e39f5a3792eb42"
     }
   ]
 }
