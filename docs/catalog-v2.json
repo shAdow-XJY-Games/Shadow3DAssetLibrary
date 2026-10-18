@@ -1214,9 +1214,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "8e82b788bf83bc320ed647bb3a929c0ba42ebea1"
+    },
+    "beekeeping-bent-end-hive-scraper-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "7ee11a3945958e4445e3cae489b7414448663d17"
     }
   },
-  "assetCount": 413,
+  "assetCount": 414,
   "shards": [
     {
       "theme": "camping",
@@ -2526,6 +2531,13 @@
       "path": "metadata/0f0462c185ed276b96948649256c9374f1c7ad67a8a7e044cd0c98c76561d1f7.json",
       "size": 2214,
       "sha256": "0f0462c185ed276b96948649256c9374f1c7ad67a8a7e044cd0c98c76561d1f7"
+    },
+    {
+      "theme": "beekeeping",
+      "count": 1,
+      "path": "metadata/c787f62149a8835c2f72a634ee201b66ddf9770950e2bab82b45ad8286d6a786.json",
+      "size": 2186,
+      "sha256": "c787f62149a8835c2f72a634ee201b66ddf9770950e2bab82b45ad8286d6a786"
     }
   ]
 }
