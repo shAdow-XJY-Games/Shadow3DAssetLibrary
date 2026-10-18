@@ -1034,9 +1034,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "85b80116eb6a287842da4a29b8f18ea5908dfc85"
+    },
+    "bakery-sliced-sandwich-loaf-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "1d173d5222d39ab2f98696b30f3ad7952de418c7"
     }
   },
-  "assetCount": 377,
+  "assetCount": 378,
   "shards": [
     {
       "theme": "camping",
@@ -2094,6 +2099,13 @@
       "path": "metadata/e6c47154a29d2a8ef9b73c66178e99e1df47b5994e97868a3f2881e9d4263a79.json",
       "size": 2268,
       "sha256": "e6c47154a29d2a8ef9b73c66178e99e1df47b5994e97868a3f2881e9d4263a79"
+    },
+    {
+      "theme": "bakery",
+      "count": 1,
+      "path": "metadata/9f701cfcfbe3c74e5131d798448edabb3527f20df60da2ed316ffd530fc31dbe.json",
+      "size": 2294,
+      "sha256": "9f701cfcfbe3c74e5131d798448edabb3527f20df60da2ed316ffd530fc31dbe"
     }
   ]
 }
