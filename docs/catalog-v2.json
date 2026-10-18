@@ -754,9 +754,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "32a08de28a1e6550c5db907b66858c68d209691d"
+    },
+    "construction-tilting-drum-mixer-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "78b34c890a2723c6b117ad1752e449701409c8a8"
     }
   },
-  "assetCount": 321,
+  "assetCount": 322,
   "shards": [
     {
       "theme": "camping",
@@ -1422,6 +1427,13 @@
       "path": "metadata/405933ac6589fff908738d01e14a761c766d0ea7bb4661326cfeb8e93dbbf68c.json",
       "size": 2135,
       "sha256": "405933ac6589fff908738d01e14a761c766d0ea7bb4661326cfeb8e93dbbf68c"
+    },
+    {
+      "theme": "construction",
+      "count": 1,
+      "path": "metadata/76c8c2fcb5b1abab891c47d0a3924765c7c271940439520cff28db3003e6ea51.json",
+      "size": 2154,
+      "sha256": "76c8c2fcb5b1abab891c47d0a3924765c7c271940439520cff28db3003e6ea51"
     }
   ]
 }
