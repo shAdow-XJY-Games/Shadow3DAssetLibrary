@@ -1,0 +1,42 @@
+{
+  "id": "astronomy-counterweighted-equatorial-mount-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "astronomy",
+  "style": "S01-clean-geometric",
+  "title": "Counterweighted Equatorial Mount",
+  "description": "One original fixed equatorial-mount stand with a new three-leg finite-foot support, a wedged 45-degree polar bearing sleeve, perpendicular declination spindle, empty raised-rail instrument saddle and a genuinely bored counterweight threaded over its rod. The weight is seated on a separate stop collar and a terminal retention cap remains below it. Hollow sleeves have visible radial gaps around their shafts; positive-volume shoulder seats fix this static arrangement. Separate closed editable meshes, five solid PBR materials, no textures or external dependencies. Metres, Z up, ground-centre origin. One complete stand counts as one prop. Only this pictured fixed pose is checked. No telescope included and no compatibility with existing telescope assets claimed. No tracking, alignment, rotation range, balancing, precision measurement, load rating, manufacture, installation or safety guarantee.",
+  "bounds": {
+    "x": 1.024733,
+    "y": 1.072243,
+    "z": 1.521148,
+    "unit": "m"
+  },
+  "triangles": 2272,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/astronomy/astronomy-counterweighted-equatorial-mount-01/v1.0.0/model.glb",
+      "size": 120316,
+      "sha256": "624015caa9fdc127f32a2166ced6622fbc2987c510fb438c65b3a895a66e96cd"
+    },
+    "blend": {
+      "path": "assets/astronomy/astronomy-counterweighted-equatorial-mount-01/v1.0.0/source.blend",
+      "size": 745052,
+      "sha256": "2d9dea734fbd3a478d1b4c7d2d37d74827054fbf726a95ba0b150be72e1df456"
+    },
+    "generator": {
+      "path": "assets/astronomy/astronomy-counterweighted-equatorial-mount-01/v1.0.0/generate.py",
+      "size": 25623,
+      "sha256": "260acbda033f4d168564b01a8cc02ecee20154fe66bc6591f75ac6a1c69eb520"
+    },
+    "render": {
+      "path": "assets/astronomy/astronomy-counterweighted-equatorial-mount-01/v1.0.0/thumbnail.png",
+      "size": 513256,
+      "sha256": "2a08874bbb6b3dade1e0de788b0fb69e05136a68ed0530ab3d90d83234a776a8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
