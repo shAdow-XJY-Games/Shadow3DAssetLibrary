@@ -1,0 +1,42 @@
+{
+  "id": "renewable-finned-inverter-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "renewable",
+  "style": "S01-clean-geometric",
+  "title": "Finned Inverter Cabinet",
+  "description": "One original static low-poly inverter-cabinet exterior. Two short full-depth skids support a continuous thick cabinet body with a genuinely recessed lower connection bay, thick floor and back wall. Three independent thick blind-bore connector seats are recessed inside that bay. A separate rear plate finitely joins the body and nine thick vertical fins; eight real full-height open channels remain between the fins. The front has one recessed opaque blank display and two fixed buttons. Nineteen closed connected editable meshes, five opaque unlinked constant PBR materials, metres, native Z up, front -Y and a fixed ground-level design datum with actual Y bounds midpoint -0.0055 m. One prop only: no solar panels, batteries, cables, text, brand, door motion, textures or animation. The upper body is a solid exterior representation; no internal electronics are modeled. Static visual geometry only. No power conversion, supply, voltage, circuits, wiring, communication, efficiency, air flow, thermal performance, waterproofing, fire resistance, insulation, shock protection, load, tip resistance, installation, manufacture or electrical/safety certification is asserted. No compatibility with earlier power-station, cabinet, panel or cable-tray assets.",
+  "bounds": {
+    "x": 0.62,
+    "y": 0.576,
+    "z": 1.09,
+    "unit": "m"
+  },
+  "triangles": 1640,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/renewable/renewable-finned-inverter-cabinet-01/v1.0.0/model.glb",
+      "size": 89036,
+      "sha256": "138b1ffe49213a7351c7cab6bf9accf459159ef1d508d4c6eea0ec934720f74e"
+    },
+    "blend": {
+      "path": "assets/renewable/renewable-finned-inverter-cabinet-01/v1.0.0/source.blend",
+      "size": 724144,
+      "sha256": "516170a118a09e42efeadc75cae92324fec7e25f23e4d9bef2fbbec42dde5824"
+    },
+    "generator": {
+      "path": "assets/renewable/renewable-finned-inverter-cabinet-01/v1.0.0/generate.py",
+      "size": 24996,
+      "sha256": "50990cbc4a0b600597465276296f412481d0912626275a390a504c4dcd9e94d3"
+    },
+    "render": {
+      "path": "assets/renewable/renewable-finned-inverter-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 522763,
+      "sha256": "2af7988fc3c34d12673e8a9800f590403f8ffeb58e0a9254590c2bb5ec6e0c10"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
