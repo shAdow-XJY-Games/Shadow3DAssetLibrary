@@ -1084,9 +1084,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "1c62bd3b0e6c0998e7d3580f6b791791fc754828"
+    },
+    "sports-freestanding-centre-strap-tennis-net-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "c402559ecddfaa7a6e2c75a4b7e03d0531173cc3"
     }
   },
-  "assetCount": 387,
+  "assetCount": 388,
   "shards": [
     {
       "theme": "camping",
@@ -2214,6 +2219,13 @@
       "path": "metadata/aca674b8b3e8dae13f4dabae78596627e34fdee7d1c27b6efc03b26ddfdd6c4e.json",
       "size": 2392,
       "sha256": "aca674b8b3e8dae13f4dabae78596627e34fdee7d1c27b6efc03b26ddfdd6c4e"
+    },
+    {
+      "theme": "sports",
+      "count": 1,
+      "path": "metadata/78b1f77f7d6ceea7b6ad234cc4bf08fb66608a890a97001e5331f4681eca774a.json",
+      "size": 2420,
+      "sha256": "78b1f77f7d6ceea7b6ad234cc4bf08fb66608a890a97001e5331f4681eca774a"
     }
   ]
 }
