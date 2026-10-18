@@ -1,0 +1,42 @@
+{
+  "id": "firefighting-supported-hose-reel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "firefighting",
+  "style": "S01-clean-geometric",
+  "title": "Supported Fire Hose Reel",
+  "description": "Original static firefighting hose reel with twin thick six-spoke open side plates, a broad winding core, a fixed shaft, two visible outboard bearing stands and connected flat ground feet. One continuous closed hose mesh follows six separated gradually expanding turns, then a smooth outlet route into a parked downward nozzle. A grounded frame arm and a bored retaining collar support the nozzle; its annular tip has a genuine blind opening, and a short rear inlet coupling has a real recessed bore. Five solid PBR materials, separate named editable parts, source Z up, metres and ground-centre origin. One reusable prop, no scene, textures or external dependencies. Distinct from the existing two-extinguisher cabinet, unspooled fishing reel and flat harbor rope. Only one checked static pose: no winding or deployment animation, fluid, pressure, plumbing compatibility, fire suppression performance, real operation, installation or fire-safety certification.",
+  "bounds": {
+    "x": 1.08,
+    "y": 0.685,
+    "z": 1.139165,
+    "unit": "m"
+  },
+  "triangles": 9232,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/firefighting/firefighting-supported-hose-reel-01/v1.0.0/model.glb",
+      "size": 486204,
+      "sha256": "e6480b7ab3c0058df2aa4803f1994e38828c9f57f310c6b3afc13d88fb0cbaf2"
+    },
+    "blend": {
+      "path": "assets/firefighting/firefighting-supported-hose-reel-01/v1.0.0/source.blend",
+      "size": 1063992,
+      "sha256": "261c3fe7ce018b137d8f788a3d6dd4db36b34b28ef79f95789e8cc019858928f"
+    },
+    "generator": {
+      "path": "assets/firefighting/firefighting-supported-hose-reel-01/v1.0.0/generate.py",
+      "size": 24573,
+      "sha256": "af2723af1478c2a10d930f83e75a8d82fc75be45adecbdcea171d3f0585d7fb5"
+    },
+    "render": {
+      "path": "assets/firefighting/firefighting-supported-hose-reel-01/v1.0.0/thumbnail.png",
+      "size": 597431,
+      "sha256": "b189841094c808864cf83bd10e6bbc6f7c923afa9eb5d6784b174220a01ac531"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
