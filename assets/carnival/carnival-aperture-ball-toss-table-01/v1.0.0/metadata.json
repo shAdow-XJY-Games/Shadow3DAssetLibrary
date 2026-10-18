@@ -1,0 +1,42 @@
+{
+  "id": "carnival-aperture-ball-toss-table-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "S01-clean-geometric",
+  "title": "Aperture Ball Toss Table",
+  "description": "One complete static carnival ball toss table, counted as one prop. A 25-degree inclined 65 mm thick connected target board has four real polygonal circular through-holes, each with continuous visible inner walls and a flush ochre material rim. The holes are geometry, not black discs. Two separate side rails and sloped side cheeks carry the board over a collection cavity with a solid floor, side and rear walls and an open front retrieval side above a low lip. Four separate upright legs, two side stretchers and two cross stretchers connect the assembly to four finite floor-contact patches. The below-board cavity and all four target passages are genuinely empty. Editable closed meshes, opaque constant PBR colours, metres, source Z up, front -Y and ground-centre origin. No textures, labels, characters, loose balls, ring posts, basketball hoop, pinball mechanisms or surrounding scene. Static visual geometry only. No throwing trajectory, ball motion, bounce, hole-entry probability, automatic ball return, scoring, payment, game rules, gameplay completeness, human fit, load capacity, anti-tip performance, operation, amusement-facility or child safety certification. No legacy ball or scene compatibility claim. Dimensions define visual geometry only.",
+  "bounds": {
+    "x": 1.55,
+    "y": 1.5,
+    "z": 1.449931,
+    "unit": "m"
+  },
+  "triangles": 1412,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-aperture-ball-toss-table-01/v1.0.0/model.glb",
+      "size": 60300,
+      "sha256": "38612098d7c63990f702d6496c65d57f41cfa33aad86e414f3a94f78e7d754e3"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-aperture-ball-toss-table-01/v1.0.0/source.blend",
+      "size": 647384,
+      "sha256": "10937837a2705c9384619da0682e7a8426bdf511ce92a612491ae058311cb38c"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-aperture-ball-toss-table-01/v1.0.0/generate.py",
+      "size": 27204,
+      "sha256": "eb01ada79de9659a96b4cbae19dbb17057794dad063550e7b9475f5bb852bf0a"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-aperture-ball-toss-table-01/v1.0.0/thumbnail.png",
+      "size": 596079,
+      "sha256": "6ca5d3ad8189ee84170037ce75d09adcd83f0eafd717ae7a3ce310f8ea2a2124"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
