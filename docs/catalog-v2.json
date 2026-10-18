@@ -1209,9 +1209,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "200b6f9eb9d832880e4a119bc2e13969d1731557"
+    },
+    "photography-recessed-insert-camera-bag-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "8e82b788bf83bc320ed647bb3a929c0ba42ebea1"
     }
   },
-  "assetCount": 412,
+  "assetCount": 413,
   "shards": [
     {
       "theme": "camping",
@@ -2514,6 +2519,13 @@
       "path": "metadata/519f6faddbda77d60b12d9c4664f5bfe776985648205958057e39f5a3792eb42.json",
       "size": 2786,
       "sha256": "519f6faddbda77d60b12d9c4664f5bfe776985648205958057e39f5a3792eb42"
+    },
+    {
+      "theme": "photography",
+      "count": 1,
+      "path": "metadata/0f0462c185ed276b96948649256c9374f1c7ad67a8a7e044cd0c98c76561d1f7.json",
+      "size": 2214,
+      "sha256": "0f0462c185ed276b96948649256c9374f1c7ad67a8a7e044cd0c98c76561d1f7"
     }
   ]
 }
