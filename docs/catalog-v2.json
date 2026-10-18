@@ -1099,9 +1099,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "e895771aaf85860632ba59d0037a35254b7bded8"
+    },
+    "beekeeping-open-sieve-straining-stand-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "16803a72e3c5b534a420a13c1fc6088055428063"
     }
   },
-  "assetCount": 390,
+  "assetCount": 391,
   "shards": [
     {
       "theme": "camping",
@@ -2250,6 +2255,13 @@
       "path": "metadata/c488f198114b32a6fe22f6f0eefac05b23ef6af843e1ce997de89865f56490d1.json",
       "size": 2256,
       "sha256": "c488f198114b32a6fe22f6f0eefac05b23ef6af843e1ce997de89865f56490d1"
+    },
+    {
+      "theme": "beekeeping",
+      "count": 1,
+      "path": "metadata/0df764f7ac7ee455f18c94d62c3cf5c35d0fce7f08a84ee80062e797815f85fc.json",
+      "size": 2572,
+      "sha256": "0df764f7ac7ee455f18c94d62c3cf5c35d0fce7f08a84ee80062e797815f85fc"
     }
   ]
 }
