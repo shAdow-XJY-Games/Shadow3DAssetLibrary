@@ -919,9 +919,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "7b8e990d3ccb363c0d7f0c73629c7976cd76a10a"
+    },
+    "playground-triangulated-climbing-dome-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "984b27f36bb0e59f2b7c4fbadb0184697b44741e"
     }
   },
-  "assetCount": 354,
+  "assetCount": 355,
   "shards": [
     {
       "theme": "camping",
@@ -1818,6 +1823,13 @@
       "path": "metadata/797e9a5c911a2d4acf5ca705c86258aaa9b3d2d728ceb21bfbc29bfd5d4defc1.json",
       "size": 2457,
       "sha256": "797e9a5c911a2d4acf5ca705c86258aaa9b3d2d728ceb21bfbc29bfd5d4defc1"
+    },
+    {
+      "theme": "playground",
+      "count": 1,
+      "path": "metadata/9249ddcb8a488f4f6b892a7b241d9602acb38e5c31c971d438b7cbbb6a210c45.json",
+      "size": 2091,
+      "sha256": "9249ddcb8a488f4f6b892a7b241d9602acb38e5c31c971d438b7cbbb6a210c45"
     }
   ]
 }
