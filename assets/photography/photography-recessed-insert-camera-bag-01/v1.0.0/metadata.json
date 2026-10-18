@@ -1,0 +1,42 @@
+{
+  "id": "photography-recessed-insert-camera-bag-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "photography",
+  "style": "S01-clean-geometric",
+  "title": "Recessed Insert Camera Bag",
+  "description": "One original static low-poly open camera bag, counted as one prop. A broad low thick chamfered shell has a genuine complete bottom and open mouth. One continuous padded insert is finitely seated on the bag floor and contains a central rectangular bottomed equipment recess and two round bottomed empty lens wells. All three recesses have actual continuous inner walls, finite separating material and a complete common lower plate. A thick rear lid is fixed raised with a finite shell-root embedding; two short open side lifting loops each embed both roots in the shell. Five closed connected mesh components, five opaque constant PBR materials, metres, native Z up, bounds-centred ground origin and front -Y. No camera, lens, hard case, separate pouch, scene, texture or animation. Static illustrative geometry only; no shock, water, load, wear, equipment protection, storage capacity, lens specification, human-fit, manufacturing, safety or old-equipment dimensional compatibility claim.",
+  "bounds": {
+    "x": 0.7,
+    "y": 0.40883,
+    "z": 0.495374,
+    "unit": "m"
+  },
+  "triangles": 872,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-recessed-insert-camera-bag-01/v1.0.0/model.glb",
+      "size": 41808,
+      "sha256": "3fb4eb91519b4695b53d18e2ef5837267172949f0b1435f850a1d86044348cf0"
+    },
+    "blend": {
+      "path": "assets/photography/photography-recessed-insert-camera-bag-01/v1.0.0/source.blend",
+      "size": 611328,
+      "sha256": "0196c0b0a051b64f5594a9d1250c7070e5d41b6aa5d25582b498deacaa956237"
+    },
+    "generator": {
+      "path": "assets/photography/photography-recessed-insert-camera-bag-01/v1.0.0/generate.py",
+      "size": 25927,
+      "sha256": "fe7eaa1d7e1ec99e416f5923fa8f33168f03377b410f82c5859ced55b666ece7"
+    },
+    "render": {
+      "path": "assets/photography/photography-recessed-insert-camera-bag-01/v1.0.0/thumbnail.png",
+      "size": 541474,
+      "sha256": "adbc3d38dcc87a7027a1fd84987f48a94a55da6e671228a6d2c98aad4c1d5834"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
