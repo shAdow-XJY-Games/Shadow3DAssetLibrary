@@ -1,0 +1,42 @@
+{
+  "id": "construction-compact-tracked-excavator-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Compact Tracked Excavator",
+  "description": "Original single static low-poly compact tracked excavator. Two thick continuous closed-loop rubber belts wrap around separate visible end wheels and support rollers; four transverse steel axles join the wheels and side rails to a central chassis. A circular fixed pedestal supports the amber upper deck, rear counterweight and engine cover. An open air operator bay has a real supported seat and two-post canopy, with no glass or sealed cab. A forked main boom and a narrower stick have actual cross-axis pins, small finite side clearances and a fixed exterior cylinder barrel/rod joining two anchors. A curved, thick-walled open scoop has two side plates, real inner void, bucket ears and three teeth; it is independently constructed rather than a reused truck bed or wheelbarrow. Four opaque constant PBR materials, no textures, fonts, branding or external dependencies. Metres, source Z up, arm/front at -Y. Origin is the chassis X centreline, chassis longitudinal Y=0 datum and track ground Z=0, not the asymmetric asset bounding-box centre. All components remain individually editable. One fixed stylized visual pose only. No locomotion, slewing, hydraulic or linkage simulation, joint range, continuous collision test, digging performance, traction, realistic powertrain, human fit, manufacture, loads, stability or construction-equipment/occupational safety guarantee. No operator, soil or environment is included.",
+  "bounds": {
+    "x": 1.64,
+    "y": 3.305,
+    "z": 2.005,
+    "unit": "m"
+  },
+  "triangles": 2104,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-compact-tracked-excavator-01/v1.0.0/model.glb",
+      "size": 122652,
+      "sha256": "8342cf947356aa67299d910b65a6a9f06edfe8d688b4659737e1701d7d174ba6"
+    },
+    "blend": {
+      "path": "assets/construction/construction-compact-tracked-excavator-01/v1.0.0/source.blend",
+      "size": 844636,
+      "sha256": "128a4af1083e6d17ce75197f4f02eb42c9a103f36a873c5c172ae2c157ce3048"
+    },
+    "generator": {
+      "path": "assets/construction/construction-compact-tracked-excavator-01/v1.0.0/generate.py",
+      "size": 30570,
+      "sha256": "f0ea9b71fe280906ad526c73e8c43fd8a05bd511755646ee6a49be62cde619b5"
+    },
+    "render": {
+      "path": "assets/construction/construction-compact-tracked-excavator-01/v1.0.0/thumbnail.png",
+      "size": 579713,
+      "sha256": "d71ce846c8cb5c948b2e55ad85cd4a2febbbc2a48ed64213a1308fe9eb67e325"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
