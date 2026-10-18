@@ -969,9 +969,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "12dad3d45d1f6a7a79c9fcc58652c61e5aab7496"
+    },
+    "arcade-open-playfield-pinball-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "b44e3e9654f3003bd47177694cec8ce82743e0ac"
     }
   },
-  "assetCount": 364,
+  "assetCount": 365,
   "shards": [
     {
       "theme": "camping",
@@ -1938,6 +1943,13 @@
       "path": "metadata/59a0029ebff48920ccdb3caada0177205e196287fb0fbec4f403ed17a7b0567b.json",
       "size": 2282,
       "sha256": "59a0029ebff48920ccdb3caada0177205e196287fb0fbec4f403ed17a7b0567b"
+    },
+    {
+      "theme": "arcade",
+      "count": 1,
+      "path": "metadata/aa5c947fda5004d5dcc12112da565f240e2e98fd9fa3f47665aae5a2c98dcfb7.json",
+      "size": 2551,
+      "sha256": "aa5c947fda5004d5dcc12112da565f240e2e98fd9fa3f47665aae5a2c98dcfb7"
     }
   ]
 }
