@@ -1039,9 +1039,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "1d173d5222d39ab2f98696b30f3ad7952de418c7"
+    },
+    "playground-coil-spring-rider-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "94fdd224b4beb8de0b8d180a29af2c2f6e4284f3"
     }
   },
-  "assetCount": 378,
+  "assetCount": 379,
   "shards": [
     {
       "theme": "camping",
@@ -2106,6 +2111,13 @@
       "path": "metadata/9f701cfcfbe3c74e5131d798448edabb3527f20df60da2ed316ffd530fc31dbe.json",
       "size": 2294,
       "sha256": "9f701cfcfbe3c74e5131d798448edabb3527f20df60da2ed316ffd530fc31dbe"
+    },
+    {
+      "theme": "playground",
+      "count": 1,
+      "path": "metadata/829eb1c64bb4da906c082ac2776aa654cab5d41dbab8ef6c76215aae610cc4c0.json",
+      "size": 2216,
+      "sha256": "829eb1c64bb4da906c082ac2776aa654cab5d41dbab8ef6c76215aae610cc4c0"
     }
   ]
 }
