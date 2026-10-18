@@ -1,0 +1,42 @@
+{
+  "id": "painting-cantilever-mesh-drying-rack-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "painting",
+  "style": "S01-clean-geometric",
+  "title": "Cantilever Mesh Drying Rack",
+  "description": "One original empty low-poly artwork drying rack: six independent horizontal welded mesh trays project forward from a pair of rear spines. Each tray is a single connected thick closed solid with a continuous outer frame, fine crossing ribs and 63 true rectangular through-windows. Six continuous rear axles, twelve thick annular hinge ears with real axial bores and six broad fixed rear stop bearers provide a complete static support chain to two long base skids and four finite grounded pads. No front posts obstruct the paper-facing access. One reusable prop, 40 named editable closed mesh parts, four constant opaque PBR materials, no image or procedural textures, paper, artwork, branding, people or scene. Metres, Z up, front -Y; origin on the ground X midline with Y=0 as the assembly datum. Fixed visual geometry only. Temporary flat rectangular fixtures verify finite coplanar support, and complete finite volumes verify openings and layer clearances in this pose. These tests do not establish standard paper sizes, insertion/removal paths, tray flipping range, dynamics, drying speed, airflow, paint compatibility, load capacity, anti-tip stability, manufacturing or product safety certification.",
+  "bounds": {
+    "x": 1.06,
+    "y": 0.88,
+    "z": 1.4,
+    "unit": "m"
+  },
+  "triangles": 11256,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/painting/painting-cantilever-mesh-drying-rack-01/v1.0.0/model.glb",
+      "size": 375376,
+      "sha256": "ed26dfbddbe1dbc717dc9575b0158feec3e7370d4546baf5f8b7594341648ea7"
+    },
+    "blend": {
+      "path": "assets/painting/painting-cantilever-mesh-drying-rack-01/v1.0.0/source.blend",
+      "size": 1116204,
+      "sha256": "b6cae8d74faec8b1b0f4777fd0dc1d8450c8b658e1dbb6fda25d00de90fca88a"
+    },
+    "generator": {
+      "path": "assets/painting/painting-cantilever-mesh-drying-rack-01/v1.0.0/generate.py",
+      "size": 25533,
+      "sha256": "5d506a93abd620146b71eab3f1c0a9bf11f0ccbbd02f461d220cfd40d3ebf44f"
+    },
+    "render": {
+      "path": "assets/painting/painting-cantilever-mesh-drying-rack-01/v1.0.0/thumbnail.png",
+      "size": 590724,
+      "sha256": "dad53957ec928e35f33daafa872391aa7afb9ceffc3b27032732db567c1fd207"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
