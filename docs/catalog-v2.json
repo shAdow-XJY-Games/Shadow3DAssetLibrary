@@ -734,9 +734,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "db47bf43a27a380a4c197faaebdacf8a101f17cd"
+    },
+    "museum-chambered-fossil-section-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "136bc150f8c2c851574923ce72954c56e4ec0b47"
     }
   },
-  "assetCount": 317,
+  "assetCount": 318,
   "shards": [
     {
       "theme": "camping",
@@ -1374,6 +1379,13 @@
       "path": "metadata/bec05504261923737a93866f13e958f18e74f32e276849d0703c240969847308.json",
       "size": 2075,
       "sha256": "bec05504261923737a93866f13e958f18e74f32e276849d0703c240969847308"
+    },
+    {
+      "theme": "museum",
+      "count": 1,
+      "path": "metadata/b8a2dd3c3a1d575468c59e5c70d87903d96b1d9fdfaf578c6daec63f2ca701c7.json",
+      "size": 2088,
+      "sha256": "b8a2dd3c3a1d575468c59e5c70d87903d96b1d9fdfaf578c6daec63f2ca701c7"
     }
   ]
 }
