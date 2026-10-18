@@ -819,9 +819,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "ede9a7b18424cc5ab3da8e2e527d8ae578fbf048"
+    },
+    "carpentry-open-throat-hand-plane-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "3780a2d3d0bd719a0a4a2370e1b78cf327a912fc"
     }
   },
-  "assetCount": 334,
+  "assetCount": 335,
   "shards": [
     {
       "theme": "camping",
@@ -1578,6 +1583,13 @@
       "path": "metadata/d280e04b3df30c94504eb441347b99bccbb0794b5e3c070d22981c87023a58b9.json",
       "size": 2156,
       "sha256": "d280e04b3df30c94504eb441347b99bccbb0794b5e3c070d22981c87023a58b9"
+    },
+    {
+      "theme": "carpentry",
+      "count": 1,
+      "path": "metadata/822105e0bc67220fc7463794f37bcea573ef9e3473d1b3aa0ee5296f40d3e58b.json",
+      "size": 2066,
+      "sha256": "822105e0bc67220fc7463794f37bcea573ef9e3473d1b3aa0ee5296f40d3e58b"
     }
   ]
 }
