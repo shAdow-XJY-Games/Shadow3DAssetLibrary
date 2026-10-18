@@ -999,9 +999,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "307acc698387da885acc503ab2778437ad055f0c"
+    },
+    "beach-radial-rib-parasol-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "25922bd1296882b9622d95623a2508299a7a2683"
     }
   },
-  "assetCount": 370,
+  "assetCount": 371,
   "shards": [
     {
       "theme": "camping",
@@ -2010,6 +2015,13 @@
       "path": "metadata/e70fd350ac020654df54bc39d52716bc31d9009403a2da44cb18e068759086ce.json",
       "size": 2650,
       "sha256": "e70fd350ac020654df54bc39d52716bc31d9009403a2da44cb18e068759086ce"
+    },
+    {
+      "theme": "beach",
+      "count": 1,
+      "path": "metadata/6a96495d6b280c1a8b9a57f6fe22dbb79a338fa90eb123d9a3973f41ccd69eeb.json",
+      "size": 2118,
+      "sha256": "6a96495d6b280c1a8b9a57f6fe22dbb79a338fa90eb123d9a3973f41ccd69eeb"
     }
   ]
 }
