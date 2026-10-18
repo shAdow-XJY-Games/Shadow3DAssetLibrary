@@ -1139,9 +1139,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "0c3191567daec4dbe59661a7d7f52fbc2e6f60b9"
+    },
+    "music-perforated-sheet-music-stand-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "6fd295e9e94a0e022aaf25de0b3c76c7b36ad6fd"
     }
   },
-  "assetCount": 398,
+  "assetCount": 399,
   "shards": [
     {
       "theme": "camping",
@@ -2346,6 +2351,13 @@
       "path": "metadata/1244fd3e3683aa3afea0248150f4ea8add36f04011caa96d25a8c02024086a95.json",
       "size": 2572,
       "sha256": "1244fd3e3683aa3afea0248150f4ea8add36f04011caa96d25a8c02024086a95"
+    },
+    {
+      "theme": "music",
+      "count": 1,
+      "path": "metadata/16b0ac1456f284d92fcdbe26480d721154f5fa379ec241e5d47b6e5c349af13c.json",
+      "size": 2900,
+      "sha256": "16b0ac1456f284d92fcdbe26480d721154f5fa379ec241e5d47b6e5c349af13c"
     }
   ]
 }
