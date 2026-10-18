@@ -914,9 +914,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "a2b5cb2dcc998c5205123fa32c33dc7932cad8bc"
+    },
+    "laboratory-fixed-sash-fume-hood-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "7b8e990d3ccb363c0d7f0c73629c7976cd76a10a"
     }
   },
-  "assetCount": 353,
+  "assetCount": 354,
   "shards": [
     {
       "theme": "camping",
@@ -1806,6 +1811,13 @@
       "path": "metadata/816afca0feb360ddeec1014fc636ab309f9f6d296402769cddec82b81966946f.json",
       "size": 2212,
       "sha256": "816afca0feb360ddeec1014fc636ab309f9f6d296402769cddec82b81966946f"
+    },
+    {
+      "theme": "laboratory",
+      "count": 1,
+      "path": "metadata/797e9a5c911a2d4acf5ca705c86258aaa9b3d2d728ceb21bfbc29bfd5d4defc1.json",
+      "size": 2457,
+      "sha256": "797e9a5c911a2d4acf5ca705c86258aaa9b3d2d728ceb21bfbc29bfd5d4defc1"
     }
   ]
 }
