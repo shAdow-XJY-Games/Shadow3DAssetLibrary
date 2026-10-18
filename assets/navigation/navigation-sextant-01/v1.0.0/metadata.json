@@ -1,0 +1,42 @@
+{
+  "id": "navigation-sextant-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "navigation",
+  "style": "S01-clean-geometric",
+  "title": "Brass Arc Navigation Sextant",
+  "description": "Original static low-poly navigation sextant with an open fan-shaped brass framework, separate dark graduation arc and 61 physical scale marks, a fixed pivot-connected index arm and arc shoe, two distinct supported silver mirror plates in U-shaped seats, a short supported sighting tube and a rear wooden grip. Four radial ribs and an inner arch form six real cut-through framework windows. Two integral compact display feet support the arc. All named components connect through actual finite interior overlaps to grounded feet; handle/frame and tube/frame clearance are checked. Six flat solid PBR materials, no textures or external resources. Metres, native Z up, front -Y and ground origin at centre. One original reusable instrument, distinct from the earlier compass, map table and telescope. Static stylized visual only: no optical-path validity, angular measurement, calibration, navigation, moving mechanism, stability or safety certification.",
+  "bounds": {
+    "x": 0.852993,
+    "y": 0.286,
+    "z": 0.696,
+    "unit": "m"
+  },
+  "triangles": 3432,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/navigation/navigation-sextant-01/v1.0.0/model.glb",
+      "size": 229196,
+      "sha256": "7fdaf79c13cee8e52e16eaa309dd89a909877d62eb64bffa7e1594eba459cbbb"
+    },
+    "blend": {
+      "path": "assets/navigation/navigation-sextant-01/v1.0.0/source.blend",
+      "size": 1216568,
+      "sha256": "38370cd8bdc7b616f980a05b1bd60fce48349b9f63a659382388bda84f8cf607"
+    },
+    "generator": {
+      "path": "assets/navigation/navigation-sextant-01/v1.0.0/generate.py",
+      "size": 26494,
+      "sha256": "52ff188d262fdc64f081faad2233156f8c988757ff833f43b6f54bef2624e853"
+    },
+    "render": {
+      "path": "assets/navigation/navigation-sextant-01/v1.0.0/thumbnail.png",
+      "size": 586755,
+      "sha256": "7da1e967b384edf80a03afd43bd16c2848af61a671a074f76248b856dc1793f8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
