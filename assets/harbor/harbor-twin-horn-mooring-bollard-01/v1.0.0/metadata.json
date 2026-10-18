@@ -1,0 +1,42 @@
+{
+  "id": "harbor-twin-horn-mooring-bollard-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin-Horn Mooring Bollard",
+  "description": "One original static low harbor bollard with a broad chamfered flat-bottom foot, a tapered post with a flared shoulder, and two independently editable thick upturned horns. The mirrored horns have broad embedded roots and gently rising faceted ends; complete finite open volumes beneath both horns preserve the real rope-retaining silhouette. Four seated capped fastener details are part of the prop, with no substrate or installation claim. Eight closed named editable meshes, three constant solid PBR materials, metre scale, source Z up, horns along X, front -Y and ground-centre origin. No ropes, boat, dock, new ground, text, textures or external dependencies. All components have finite support paths to the flat foot. One fixed visual pose only: no rope tying or mooring operation, pull strength, anchorage, ship matching, dock installation compatibility, load rating, corrosion resistance, manufacture or maritime/equipment safety certification.",
+  "bounds": {
+    "x": 0.94,
+    "y": 0.46,
+    "z": 0.495,
+    "unit": "m"
+  },
+  "triangles": 656,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-twin-horn-mooring-bollard-01/v1.0.0/model.glb",
+      "size": 38520,
+      "sha256": "0be66728c875fa9621a3917f32f23ebe932dc698023443bc39df1cf6e7ffd3f9"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-twin-horn-mooring-bollard-01/v1.0.0/source.blend",
+      "size": 555532,
+      "sha256": "e4da1d411bccbfcebe7975728fee49c7969ada6d286bf99b32e4461ab8592713"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-twin-horn-mooring-bollard-01/v1.0.0/generate.py",
+      "size": 21627,
+      "sha256": "acb55b669df0f48061ed1cb4db55b798c207eddadd8293c6b3511386af23fb0f"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-twin-horn-mooring-bollard-01/v1.0.0/thumbnail.png",
+      "size": 488903,
+      "sha256": "5352c46fab2d856a1708130e0dc30f6de37066cf0a92341e2a4a51cf93d02b7c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
