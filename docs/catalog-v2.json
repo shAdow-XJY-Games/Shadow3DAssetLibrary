@@ -1049,9 +1049,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "3898ae834a4f559b7bc27a7778deb75651b2f06d"
+    },
+    "tailoring-open-blade-shears-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "5cc74a1a760681502ae7f1d97ca6a7def8523d3d"
     }
   },
-  "assetCount": 380,
+  "assetCount": 381,
   "shards": [
     {
       "theme": "camping",
@@ -2130,6 +2135,13 @@
       "path": "metadata/f97d0905c7d484bb071c25f49f2fe2c9243134bb2f2dc7e4012b7920525c353f.json",
       "size": 2251,
       "sha256": "f97d0905c7d484bb071c25f49f2fe2c9243134bb2f2dc7e4012b7920525c353f"
+    },
+    {
+      "theme": "tailoring",
+      "count": 1,
+      "path": "metadata/1a2c8a711ba2b9bea03b51dd1f51bbe9d70ce1ae76d28cd3b38d833dd19431f6.json",
+      "size": 2340,
+      "sha256": "1a2c8a711ba2b9bea03b51dd1f51bbe9d70ce1ae76d28cd3b38d833dd19431f6"
     }
   ]
 }
