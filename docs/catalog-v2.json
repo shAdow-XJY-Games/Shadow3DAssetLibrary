@@ -954,9 +954,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "8294e8d3416d1f4c357b6dd69c331a92d826facf"
+    },
+    "fishing-stem-float-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "2a0491f32cc240adf5b6738920ac4e0cd9f48c5c"
     }
   },
-  "assetCount": 361,
+  "assetCount": 362,
   "shards": [
     {
       "theme": "camping",
@@ -1902,6 +1907,13 @@
       "path": "metadata/e51883d97148906926b0380ec7a0a1508134ae35a437838ed0c9043821ae7028.json",
       "size": 2177,
       "sha256": "e51883d97148906926b0380ec7a0a1508134ae35a437838ed0c9043821ae7028"
+    },
+    {
+      "theme": "fishing",
+      "count": 1,
+      "path": "metadata/d0856f4ba3c8a280d6afc1c30cebfd79cc043aaa8366013b3a54d82c269f2f08.json",
+      "size": 2207,
+      "sha256": "d0856f4ba3c8a280d6afc1c30cebfd79cc043aaa8366013b3a54d82c269f2f08"
     }
   ]
 }
