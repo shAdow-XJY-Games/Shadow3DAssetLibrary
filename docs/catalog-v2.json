@@ -894,9 +894,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "cdec75f46f17ba83428ad36e89bbfd18ced9f208"
+    },
+    "camping-canister-top-stove-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "afef257ac439dc86f53a79795cd771f4e70ca617"
     }
   },
-  "assetCount": 349,
+  "assetCount": 350,
   "shards": [
     {
       "theme": "camping",
@@ -1758,6 +1763,13 @@
       "path": "metadata/eb397d7a507a56e773947ef40a6c2d5d037839be9e4b34b91685243fdc002bf5.json",
       "size": 2111,
       "sha256": "eb397d7a507a56e773947ef40a6c2d5d037839be9e4b34b91685243fdc002bf5"
+    },
+    {
+      "theme": "camping",
+      "count": 1,
+      "path": "metadata/c5518d16a46cfe245c4f2fd4e0d6ac56d42bbab59fdeaeac066ef57bc2b0eda7.json",
+      "size": 2301,
+      "sha256": "c5518d16a46cfe245c4f2fd4e0d6ac56d42bbab59fdeaeac066ef57bc2b0eda7"
     }
   ]
 }
