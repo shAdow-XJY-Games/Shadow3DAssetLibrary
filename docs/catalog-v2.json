@@ -1044,9 +1044,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "94fdd224b4beb8de0b8d180a29af2c2f6e4284f3"
+    },
+    "music-compact-acoustic-drum-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "3898ae834a4f559b7bc27a7778deb75651b2f06d"
     }
   },
-  "assetCount": 379,
+  "assetCount": 380,
   "shards": [
     {
       "theme": "camping",
@@ -2118,6 +2123,13 @@
       "path": "metadata/829eb1c64bb4da906c082ac2776aa654cab5d41dbab8ef6c76215aae610cc4c0.json",
       "size": 2216,
       "sha256": "829eb1c64bb4da906c082ac2776aa654cab5d41dbab8ef6c76215aae610cc4c0"
+    },
+    {
+      "theme": "music",
+      "count": 1,
+      "path": "metadata/f97d0905c7d484bb071c25f49f2fe2c9243134bb2f2dc7e4012b7920525c353f.json",
+      "size": 2251,
+      "sha256": "f97d0905c7d484bb071c25f49f2fe2c9243134bb2f2dc7e4012b7920525c353f"
     }
   ]
 }
