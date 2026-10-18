@@ -1,0 +1,42 @@
+{
+  "id": "laboratory-footed-graduated-cylinder-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "laboratory",
+  "style": "S01-clean-geometric",
+  "title": "Footed Graduated Cylinder",
+  "description": "One original static low-poly graduated-cylinder visual prop: a slender straight thick-walled tube, real deep empty cavity and inner floor, an integral forward pouring lip and a broad six-sided ground-supported foot. The lip continuously deforms both inner and outer top surfaces of the same connected solid. Fifteen separate solid illustrative ticks, five long and ten short, embed finitely in the outside wall without entering the cavity. One main closed connected mesh plus fifteen closed connected tick meshes, three plain opaque constant PBR materials, metres, native Z up, bounds-centred ground origin and front -Y. No numbers, units, capacity, handle, lid, liquid, rack, additional size, textures or animation. Static visual geometry only: no calibrated scale, measurement accuracy, rated volume, transparency or refraction, fluid or meniscus simulation, pouring behavior, experimental procedure, diagnostic, chemical, temperature, material-performance, hygiene, human-fit, manufacturing, laboratory safety or certification claim. No compatibility claim with earlier laboratory props.",
+  "bounds": {
+    "x": 0.162813,
+    "y": 0.188,
+    "z": 0.334,
+    "unit": "m"
+  },
+  "triangles": 2316,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/laboratory/laboratory-footed-graduated-cylinder-01/v1.0.0/model.glb",
+      "size": 112344,
+      "sha256": "7ffeb88f837965ade3660a17875f83541c111ac6eeede016f22973304a379795"
+    },
+    "blend": {
+      "path": "assets/laboratory/laboratory-footed-graduated-cylinder-01/v1.0.0/source.blend",
+      "size": 698240,
+      "sha256": "707b3d357aed7ef71c63750c2f6873e9803268128cfab3f1c826621eac676ce6"
+    },
+    "generator": {
+      "path": "assets/laboratory/laboratory-footed-graduated-cylinder-01/v1.0.0/generate.py",
+      "size": 20166,
+      "sha256": "6db044ec9a3cb2290aa60096ff42d2c0929206d6001ec49481932ed6f2eaac9b"
+    },
+    "render": {
+      "path": "assets/laboratory/laboratory-footed-graduated-cylinder-01/v1.0.0/thumbnail.png",
+      "size": 485076,
+      "sha256": "c8e872a94ff53da42afe4f2bb5f744564a74200f9355650bbbc3d7a6c5b2d664"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
