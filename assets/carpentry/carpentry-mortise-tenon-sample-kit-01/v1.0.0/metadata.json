@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-mortise-tenon-sample-kit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "S01-clean-geometric",
+  "title": "Half-Inserted Mortise and Tenon Sample",
+  "description": "One original static woodworking sample set, counted as one prop: two short chamfered wooden pieces in a fixed half-inserted T arrangement. The cross-member has a real rectangular through-mortise with continuous thick walls. The other piece is one connected closed mesh with an integral reduced rectangular tenon and broad shoulders. The tenon tip reaches halfway through the 160 mm-deep mortise; 70 mm of neck remains exposed before the shoulder and 80 mm of the hole remains unoccupied behind the tip. Both bodies have finite flat ground contact. The inserted tenon has a finite face contact on the mortise floor, positive side and upper clearances, and a subtly chamfered tip. Two named editable closed meshes, four constant solid wood PBR materials, metres, source Z up, front -Y and ground-centre origin. No round peg, extra tool, mounting base or surrounding scene. Static visual and geometry sample only: no insertion path, sliding, assembly animation, disassembly, mechanical load, joint strength, wood tolerance or shrinkage, glue, machining drawing, manufacturing feasibility, furniture suitability or woodworking safety guarantee.",
+  "bounds": {
+    "x": 0.46,
+    "y": 0.48,
+    "z": 0.12,
+    "unit": "m"
+  },
+  "triangles": 164,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-mortise-tenon-sample-kit-01/v1.0.0/model.glb",
+      "size": 12224,
+      "sha256": "07a8ade6c43d65214156b832a9aaad4f7c0a21eef72f7cfadc425211146b60f9"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-mortise-tenon-sample-kit-01/v1.0.0/source.blend",
+      "size": 531544,
+      "sha256": "73b023973eceb39b8344c4d756ece1e8c35001c541f35bc2bf43c928ed1d3bc2"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-mortise-tenon-sample-kit-01/v1.0.0/generate.py",
+      "size": 23812,
+      "sha256": "5687caa85327b5756475a33f67eda39ae366921e9bc05457a00e3c40bbe84f9d"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-mortise-tenon-sample-kit-01/v1.0.0/thumbnail.png",
+      "size": 498585,
+      "sha256": "56ee28cf7ca57b8674d388b4cb6d68d58d02e61625132ded3156b58f25c5418f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
