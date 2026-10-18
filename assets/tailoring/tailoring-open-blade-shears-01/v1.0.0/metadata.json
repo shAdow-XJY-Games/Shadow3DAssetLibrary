@@ -1,0 +1,42 @@
+{
+  "id": "tailoring-open-blade-shears-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "tailoring",
+  "style": "S01-clean-geometric",
+  "title": "Slightly Open Tailoring Shears",
+  "description": "One original static low-poly tailoring shears prop in a fixed slightly open flat pose. Two continuous thick blade-to-handle halves have separate genuine through handle openings, one long oval and one smaller oval, and actual coaxial pivot bores. Each blade has an integral geometric bevel with a finite blunt edge and tip. The halves occupy separate thickness layers with positive surface clearance. One continuous fixed pin with integral lower and upper retaining heads and one genuinely bored center spacer make four finite opposed pivot contact faces without penetrating the blade bodies. Thickened handle rims and the pin base have real finite ground patches. Four named editable closed meshes and three opaque constant PBR materials. Metres, native Z up, blades/front -Y, pivot X=Y=0 and ground Z=0. No cloth, workbench, tools, labels, texture or animation. Static visual geometry only: no cutting performance, sharpness, opening or closing motion, assembly path, moving bearing, ergonomic or finger fit, stability, load capacity, manufacturing tolerance, quality, textile-process or safety certification. No fit or compatibility with earlier sewing, ironing or tool-rack assets.",
+  "bounds": {
+    "x": 0.106829,
+    "y": 0.275859,
+    "z": 0.014,
+    "unit": "m"
+  },
+  "triangles": 1528,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/tailoring/tailoring-open-blade-shears-01/v1.0.0/model.glb",
+      "size": 67972,
+      "sha256": "0dda8ff7cb26246ade1eaf9ff4c8182afafcb209089236714b6a65d4b48e6406"
+    },
+    "blend": {
+      "path": "assets/tailoring/tailoring-open-blade-shears-01/v1.0.0/source.blend",
+      "size": 578172,
+      "sha256": "827408018c9a798a3d85a13a9e0ee8ba767cff85661821c8573f8245e5fe273e"
+    },
+    "generator": {
+      "path": "assets/tailoring/tailoring-open-blade-shears-01/v1.0.0/generate.py",
+      "size": 37308,
+      "sha256": "90e1c9f438e1a0f998abb0e80e4e629357e014b83f701c8639bcc5c1c13c7cd9"
+    },
+    "render": {
+      "path": "assets/tailoring/tailoring-open-blade-shears-01/v1.0.0/thumbnail.png",
+      "size": 466860,
+      "sha256": "aa9bed5577822739bd1ec1f50b5e18673d0dbc33669187e491f59835dd6dde18"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
