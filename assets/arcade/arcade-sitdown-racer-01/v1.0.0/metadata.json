@@ -1,0 +1,42 @@
+{
+  "id": "arcade-sitdown-racer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "arcade",
+  "style": "S01-clean-geometric",
+  "title": "Sit-Down Arcade Racer",
+  "description": "Original single static low-poly sit-down arcade racing machine on a continuous chamfered ground base. An orange deep bucket seat has a reclined back, side bolsters and enclosed lower support. An open footwell leads to two separate inclined fixed pedals on real struts. A three-spoke tilted steering ring is attached by a shaft to a separate console with two base-supported inclined legs. A broad framed blank screen pod is supported by the front cabinet. Screen_Runtime is an exclusive named mesh with its own Runtime screen exclusive solid PBR material, ready for content replacement by a consuming application. Teal shell, coral upholstery, dark rubber and pale bezel remain separately editable; all components have actual interior support witnesses leading to the shared base. Finite seat, lap and foot-approach volumes are geometrically empty; the geometry is not a human-fit guarantee. Metres, source Z up, rider facing +Y, origin at ground projection of base centre. Seven solid PBR materials, no textures or external dependencies. Static game visual only: no game content, trademarks, networking, input device, steering/pedal action, driving physics, human fit, load or amusement-equipment safety certification.",
+  "bounds": {
+    "x": 1.171,
+    "y": 2.6,
+    "z": 1.796659,
+    "unit": "m"
+  },
+  "triangles": 1332,
+  "materials": 7,
+  "files": {
+    "glb": {
+      "path": "assets/arcade/arcade-sitdown-racer-01/v1.0.0/model.glb",
+      "size": 99404,
+      "sha256": "af1bdf8e3f7a6c72772943222a402c876c2bc8e49058940cb03652307b7effa5"
+    },
+    "blend": {
+      "path": "assets/arcade/arcade-sitdown-racer-01/v1.0.0/source.blend",
+      "size": 833812,
+      "sha256": "cef2522833ee438964ca0ee830ca3e66bb69ddd3d48b36fe4f7107d98f051a66"
+    },
+    "generator": {
+      "path": "assets/arcade/arcade-sitdown-racer-01/v1.0.0/generate.py",
+      "size": 28098,
+      "sha256": "7617b1f1365645e96faf1487e9faeb4e397bc64fe2b341be9cc911595e7ef1b8"
+    },
+    "render": {
+      "path": "assets/arcade/arcade-sitdown-racer-01/v1.0.0/thumbnail.png",
+      "size": 555576,
+      "sha256": "7b31d4c43837137a798395397b5dc885656e059f77c99c207cf8e502053fe586"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
