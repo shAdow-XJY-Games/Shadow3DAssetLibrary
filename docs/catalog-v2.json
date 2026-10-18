@@ -1179,9 +1179,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "8a1374f95545aa595f757b8f5fd8f14545d527b5"
+    },
+    "astronomy-slotted-observatory-dome-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "164c4982cb40fd929fed7f20ccdb4106bf66073a"
     }
   },
-  "assetCount": 406,
+  "assetCount": 407,
   "shards": [
     {
       "theme": "camping",
@@ -2442,6 +2447,13 @@
       "path": "metadata/86969c44cdc3e239a2ef5b7ee18c7e748347768cbbabdae122d80ae8ce581fe8.json",
       "size": 2332,
       "sha256": "86969c44cdc3e239a2ef5b7ee18c7e748347768cbbabdae122d80ae8ce581fe8"
+    },
+    {
+      "theme": "astronomy",
+      "count": 1,
+      "path": "metadata/7c0c9279b277738ae328d97415e3657e9319192dc1c71051c595d93a5ad98c05.json",
+      "size": 2909,
+      "sha256": "7c0c9279b277738ae328d97415e3657e9319192dc1c71051c595d93a5ad98c05"
     }
   ]
 }
