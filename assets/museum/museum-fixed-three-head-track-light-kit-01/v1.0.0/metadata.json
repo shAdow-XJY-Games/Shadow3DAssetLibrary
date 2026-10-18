@@ -1,0 +1,42 @@
+{
+  "id": "museum-fixed-three-head-track-light-kit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "museum",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Three-Head Museum Track Light",
+  "description": "One original low-poly fixed three-head museum track-light assembly counted as one hanging prop. A continuous thick downward-open rail has integral inward shoulders and closed end stops. Three separate T-shaped seats rest on finite opposing rail shoulders with positive clearance on every other slot surface. Each integral neck connects to a crossbar and two genuinely bored bracket ears. One bored elongated central lug, one continuous capped pin and one fixed stop carry each original thick tapered lamp housing in a fixed -15, 0 or 15 degree pose. Each housing has a true deep front cavity and one opaque recessed diffuser disk seated on a finite inner shoulder. Two finite top mounting faces lie at source Z=0; all asset geometry lies on or below that plane. Thirty named editable closed meshes, five opaque constant PBR materials, metres, source Z up, illustrative front -Y and an origin at the mounting-plane centre. A temporary QA ceiling support is a geometric witness only, excluded from the model and formal renders. No ground contact or standalone support is claimed. No ceiling, wall, cable, supply, emitted light, scene, labels, textures or animation. Old task lamps, softboxes and lanterns already have light-head forms; the independently authored continuous slotted rail, three seated fixed heads and finite mounting patches provide the narrower new coverage. Static visual geometry only. No electrical connection, powered operation, illumination or photometry, beam angle, colour temperature, glare, heat dissipation, fire resistance, track-standard fit, sliding, tilting motion, assembly path, mounting load, fall protection, strength, manufacture, installation or luminaire/museum safety certification. No compatibility with earlier ceilings, walls, displays, cable trays, camera rails or light fixtures. Geometric contacts do not establish functional or safe equipment.",
+  "bounds": {
+    "x": 1.92,
+    "y": 0.35234,
+    "z": 0.541177,
+    "unit": "m"
+  },
+  "triangles": 4484,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/museum/museum-fixed-three-head-track-light-kit-01/v1.0.0/model.glb",
+      "size": 203912,
+      "sha256": "5d92c58ae76781e08d0bf368ec4d6888cb6a4ade80eb7487fa417257d940e021"
+    },
+    "blend": {
+      "path": "assets/museum/museum-fixed-three-head-track-light-kit-01/v1.0.0/source.blend",
+      "size": 933316,
+      "sha256": "8142dabd9e780e53e6b1d5185b985690a7dffe574b0a16a5be985d0f6b27a7c4"
+    },
+    "generator": {
+      "path": "assets/museum/museum-fixed-three-head-track-light-kit-01/v1.0.0/generate.py",
+      "size": 29512,
+      "sha256": "2b6290072ce580e5ce252640dce802235047654740bf2fb22ddf1b3fc998e807"
+    },
+    "render": {
+      "path": "assets/museum/museum-fixed-three-head-track-light-kit-01/v1.0.0/thumbnail.png",
+      "size": 268076,
+      "sha256": "2a8596c08c2ac2e4444d82a433ea656d8512a6138cccbf538e531a8829410890"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
