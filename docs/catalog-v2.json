@@ -1159,9 +1159,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "7f779bb81493408e66a4b87d8d5e7731a99a0bb0"
+    },
+    "arcade-recessed-token-dispenser-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "ec5709cc074c099b99cef40f54e2a8b9b02d12d2"
     }
   },
-  "assetCount": 402,
+  "assetCount": 403,
   "shards": [
     {
       "theme": "camping",
@@ -2394,6 +2399,13 @@
       "path": "metadata/bbda49f52c7fad49ba225070404aacd02feb15eae34be39f9bdc9bb52194e05e.json",
       "size": 2449,
       "sha256": "bbda49f52c7fad49ba225070404aacd02feb15eae34be39f9bdc9bb52194e05e"
+    },
+    {
+      "theme": "arcade",
+      "count": 1,
+      "path": "metadata/da6c8da9447466f0768087650d3c78a75ee0d93c70d34ad5dc6d64ac96c81c83.json",
+      "size": 2468,
+      "sha256": "da6c8da9447466f0768087650d3c78a75ee0d93c70d34ad5dc6d64ac96c81c83"
     }
   ]
 }
