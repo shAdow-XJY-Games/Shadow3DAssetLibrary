@@ -1,0 +1,42 @@
+{
+  "id": "beach-radial-rib-parasol-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "beach",
+  "style": "S01-clean-geometric",
+  "title": "Radial Rib Beach Parasol",
+  "description": "One original static low-poly opened beach parasol with one connected closed thick eight-panel domed canopy, eight continuous curved radial ribs beneath it and eight diagonal fixed stretchers. A genuinely bored upper hub and fixed runner join the ribs and stretchers to one central pole. A bored lower socket and one finite bevelled ballast-style base complete the supported prop. The cream and aqua sectors are material assignments within the same physical thick shell, not separate assets. Twenty-two named editable closed meshes. Five constant opaque PBR materials; no image or procedural textures, logos, people, beach surface or scene. Metres, native Z up, front -Y. Origin is at ground level on the pole axis. One fixed open visual only: geometric support and clear-volume tests do not establish folding or opening motion, kinematics, ultraviolet or sun protection, rain protection, wind resistance, heat comfort, human fit, load capacity, tip resistance, installation or public-space safety performance.",
+  "bounds": {
+    "x": 2.516258,
+    "y": 2.516258,
+    "z": 2.533,
+    "unit": "m"
+  },
+  "triangles": 2584,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/beach/beach-radial-rib-parasol-01/v1.0.0/model.glb",
+      "size": 150664,
+      "sha256": "705e00736e85cc2962e7f83b9b0d2713d79a2418fd8d9f9db8582b659f53d869"
+    },
+    "blend": {
+      "path": "assets/beach/beach-radial-rib-parasol-01/v1.0.0/source.blend",
+      "size": 747432,
+      "sha256": "10c7b5101b346e80ecf1a15dd7608ad83913db39f5f4bee6677360575e23a576"
+    },
+    "generator": {
+      "path": "assets/beach/beach-radial-rib-parasol-01/v1.0.0/generate.py",
+      "size": 27231,
+      "sha256": "bc19213584e1d154a2b350bbcd4ab933f6d7b27b9f1ae34c96a5dbbf9f3618d1"
+    },
+    "render": {
+      "path": "assets/beach/beach-radial-rib-parasol-01/v1.0.0/thumbnail.png",
+      "size": 481026,
+      "sha256": "e582958016dd2f9accf2bb65fdc6987b4284bc9254d19e2eb620424bf4df7b03"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
