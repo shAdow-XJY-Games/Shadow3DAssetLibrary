@@ -1,0 +1,42 @@
+{
+  "id": "beekeeping-bent-end-hive-scraper-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "beekeeping",
+  "style": "S01-clean-geometric",
+  "title": "Bent-End Hive Scraper",
+  "description": "One original low-poly hive scraper counted as one fixed static visual prop. A single connected thick metal strip broadens to a wide oblique wedge scraper at one end, narrows through a red-coloured flat grip with a true elliptical through-hanging hole, and continues into an upward bent hook and short return lip at the other end. The wide wedge retains a finite blunt edge, the bend has continuous inner and outer faces, and the entire hook-under air and hanging-hole air are real open volumes. The broad flat back rests at ground. Two constant opaque material regions on one mesh, with no separate grip sleeve, numbers, logo, texture, animation, hive, hand, bees, display base or extra tool. Metres, native Z up, front -Y, horizontally bounds-centred ground origin. Static visual geometry only: no prying, scraping, wax removal, sharpness, strength, load, corrosion, food or bee suitability, hand fit, manufacturing or tool safety claim. No historical hive or frame dimensional compatibility is asserted.",
+  "bounds": {
+    "x": 0.26276,
+    "y": 0.072,
+    "z": 0.061825,
+    "unit": "m"
+  },
+  "triangles": 448,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/beekeeping/beekeeping-bent-end-hive-scraper-01/v1.0.0/model.glb",
+      "size": 20076,
+      "sha256": "dbbad9614ca4275f8ed8c1ba2ba3d82388606633558ed24347b5fa3ddd78ac94"
+    },
+    "blend": {
+      "path": "assets/beekeeping/beekeeping-bent-end-hive-scraper-01/v1.0.0/source.blend",
+      "size": 494236,
+      "sha256": "5cba6e20ef1908acb7ed74e029d3864cb410edade3aa1c8e36a884f5d8a46f36"
+    },
+    "generator": {
+      "path": "assets/beekeeping/beekeeping-bent-end-hive-scraper-01/v1.0.0/generate.py",
+      "size": 27274,
+      "sha256": "36d715a321c1d177f285e53292bd76209766b820955e5b556530d3587462f776"
+    },
+    "render": {
+      "path": "assets/beekeeping/beekeeping-bent-end-hive-scraper-01/v1.0.0/thumbnail.png",
+      "size": 459235,
+      "sha256": "08e3d5d45698d014ef286e62d19f746a3bf0a8e27f85b0abfca608a261cb937d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
