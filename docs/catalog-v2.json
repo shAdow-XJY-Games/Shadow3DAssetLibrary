@@ -1199,9 +1199,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "0d378421c4454f0a813065a944baa54f5836ca62"
+    },
+    "renewable-finned-inverter-cabinet-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "33c9dd921acad2f5ec9aa6dfcf789d34c8cc778c"
     }
   },
-  "assetCount": 410,
+  "assetCount": 411,
   "shards": [
     {
       "theme": "camping",
@@ -2490,6 +2495,13 @@
       "path": "metadata/9ad500c035923fc9320fc87484779bfa5e156e65cfe5e3c6299b7bd45037f590.json",
       "size": 2137,
       "sha256": "9ad500c035923fc9320fc87484779bfa5e156e65cfe5e3c6299b7bd45037f590"
+    },
+    {
+      "theme": "renewable",
+      "count": 1,
+      "path": "metadata/5f76793bdd1f5dd6fa14d76d6248ea18738ff821641f9e0f7d62c4a4ab392fc6.json",
+      "size": 2432,
+      "sha256": "5f76793bdd1f5dd6fa14d76d6248ea18738ff821641f9e0f7d62c4a4ab392fc6"
     }
   ]
 }
