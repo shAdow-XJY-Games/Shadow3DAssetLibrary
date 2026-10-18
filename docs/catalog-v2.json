@@ -944,9 +944,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "d2e68eeb7d2b9cb2377f8d8f72378967bd16011d"
+    },
+    "timekeeping-twin-bell-alarm-clock-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "ccf918590ab8f31607e57983f5dcbc61970a0ad9"
     }
   },
-  "assetCount": 359,
+  "assetCount": 360,
   "shards": [
     {
       "theme": "camping",
@@ -1878,6 +1883,13 @@
       "path": "metadata/dee2c4e99bc355dbbfa5a7057d1cb96dd1cd284547600b8a35aa84807fae9eb4.json",
       "size": 2303,
       "sha256": "dee2c4e99bc355dbbfa5a7057d1cb96dd1cd284547600b8a35aa84807fae9eb4"
+    },
+    {
+      "theme": "timekeeping",
+      "count": 1,
+      "path": "metadata/07f967a2d27b479634531d349ee12b6225f0303fe9806b925d4f3ca069544861.json",
+      "size": 2286,
+      "sha256": "07f967a2d27b479634531d349ee12b6225f0303fe9806b925d4f3ca069544861"
     }
   ]
 }
