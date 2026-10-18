@@ -1,0 +1,42 @@
+{
+  "id": "winter-wide-scoop-snow-shovel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "winter",
+  "style": "S01-clean-geometric",
+  "title": "Wide Scoop Snow Shovel",
+  "description": "One original fixed snow shovel counted as one prop: a broad shallow concave blue scoop has a continuous closed 10 mm vertical-thickness shell, low side wings and a blunt front edge. Two solid rear ribs meet the back of the scoop. A hollow rear socket has a finite join with the scoop and surrounds the inserted end of a long wooden shaft. The other end enters the solid lower stem of one orange D-shaped grip with a true full-thickness opening. The tool lies horizontally with finite support at the front scoop underside and the rear grip. Six editable closed meshes and four opaque constant PBR colours; no texture, animation, person, snow pile, footprints, plinth or surrounding scene. Metres, source Z up, front -Y, origin at ground under the shaft centreline, 700 mm behind the scoop front edge. Static visual geometry only. No snow-clearing action, snow or force simulation, capacity, ergonomics, cold resistance, sharpness, physical strength, manufacture, load, durability or winter-tool safety claim. No fit with prior snow piles, porches or characters. Dimensions describe this fixed visual geometry only.",
+  "bounds": {
+    "x": 0.47,
+    "y": 1.58,
+    "z": 0.138,
+    "unit": "m"
+  },
+  "triangles": 604,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/winter-wide-scoop-snow-shovel-01/v1.0.0/model.glb",
+      "size": 34100,
+      "sha256": "60c2c410e2a115293d524031e58c39a108345ca3b103607a64448880585ecfb2"
+    },
+    "blend": {
+      "path": "assets/winter/winter-wide-scoop-snow-shovel-01/v1.0.0/source.blend",
+      "size": 571160,
+      "sha256": "7e69eb0a818117b2f54ff249f5a0c1a2769ba416ee406490e25d267f3794d169"
+    },
+    "generator": {
+      "path": "assets/winter/winter-wide-scoop-snow-shovel-01/v1.0.0/generate.py",
+      "size": 25785,
+      "sha256": "7ccaae77fe4cc821deb0c0db591e4991e2d84a7ced6246531a1c6b053cccf4fd"
+    },
+    "render": {
+      "path": "assets/winter/winter-wide-scoop-snow-shovel-01/v1.0.0/thumbnail.png",
+      "size": 446069,
+      "sha256": "738a6566f4e8e3a07a1d6d688e04cd43cf139ac77b4b81f07c9c973db8536b6d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
