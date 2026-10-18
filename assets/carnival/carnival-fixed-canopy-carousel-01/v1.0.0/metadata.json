@@ -1,0 +1,42 @@
+{
+  "id": "carnival-fixed-canopy-carousel-01",
+  "version": "1.0.0",
+  "category": "prop",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "S01-clean-geometric",
+  "title": "Three-Horse Fixed Canopy Carousel",
+  "description": "One original low-poly fixed-pose carousel exterior, counted as one prop. A broad low grounded base, integral shoulder and solid central shaft support a genuinely through-bored flanged sleeve and thick annular circular deck through finite opposed bearing faces. The centre column continues to the thick segmented canopy. Three radial underside beams support its broad thick eave; three fixed upright poles each have finite embedded ends in the deck and beam. Three instances of one original closed block-built horse shape each have a torso, raised neck, short muzzle, two small ears, saddle, four separate short legs and an attached descending tail. Each horse is fixed to its pole by real finite material overlap. The stepped toy-horse form is intentionally geometric. All repeated horses are internal components of this single asset, never separate model counts. Metres, native Z up, origin at ground under the central axis, front -Y. Four constant opaque PBR materials, no texture, lettering, brand, visitors, lights, railing, ticket booth, ground scene, animation or second size. Newly authored canopy/body/horse composition, not a resized old parasol, modified spring bird, recoloured roundabout or old carnival scene. Static visual geometry only. No rotation, lifting, drive, electricity, control or operation logic; no riding, child or adult fit, body clearance, capacity, strength, stability, entrapment protection, railing adequacy, amusement-ride performance, safety certification, manufacture, installation or compatibility with prior assets is claimed. Dimensions and finite contacts describe model geometry only.",
+  "bounds": {
+    "x": 3.96,
+    "y": 3.96,
+    "z": 3.23,
+    "unit": "m"
+  },
+  "triangles": 6052,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-fixed-canopy-carousel-01/v1.0.0/model.glb",
+      "size": 221556,
+      "sha256": "b43540110494ff2e9f9ccfc44a728dfc2559b420bcda6efc6be31fd7c9d66414"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-fixed-canopy-carousel-01/v1.0.0/source.blend",
+      "size": 908364,
+      "sha256": "0339963c7b2eb4e2a25a7d48d0a422ed8087d6ff1a30bff6cf4ea6683dbecc8c"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-fixed-canopy-carousel-01/v1.0.0/generate.py",
+      "size": 29335,
+      "sha256": "09e1d09fd22d8fe0a0e90607abd39cd351968b5b7ffb3a276e82d04d98e2c254"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-fixed-canopy-carousel-01/v1.0.0/thumbnail.png",
+      "size": 576377,
+      "sha256": "092d145e5587d40ee2054fbd07b7724fbb171daf943de6fc105b5e9b25c3058c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
