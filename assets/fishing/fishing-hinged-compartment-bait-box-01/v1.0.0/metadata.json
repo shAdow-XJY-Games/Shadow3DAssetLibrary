@@ -1,0 +1,42 @@
+{
+  "id": "fishing-hinged-compartment-bait-box-01",
+  "version": "1.0.0",
+  "category": "prop",
+  "assetKind": "prop",
+  "theme": "fishing",
+  "style": "S01-clean-geometric",
+  "title": "Six-Compartment Hinged Bait Box",
+  "description": "One original low-poly low hard-shell empty bait box. A single closed tray mesh has a real thick bottom, four outer walls and an open interior, divided into six shallow rectangular compartments by three finitely connected solid partitions. A thick hard lid with a shallow recessed interior stays in one fixed raised pose. Two complete hinge assemblies each have three genuinely bored annular knuckles, two body brackets, a lid tongue and one fixed pin with finite static overlap in the hole walls. Two small front latch plates are fixed appearance only. One complete grounded assembly counts as one prop. Metres, native Z up, front -Y, origin centered on the box footprint at ground. Opaque constant PBR colors only; no textures, contents, hooks, sharp fittings, floats, line, duplicate box or scene. Static visual geometry only: no lid opening path, hinge motion, animation, latch closure testing, sealing, waterproofness, corrosion resistance, bait or food-contact suitability, storage capacity, physical tool fit, load rating, stability, anti-tip performance, manufacture or safety certification. No compatibility asserted with existing fishing floats, eyepieces, tools or scenes.",
+  "bounds": {
+    "x": 0.56,
+    "y": 0.499007,
+    "z": 0.438552,
+    "unit": "m"
+  },
+  "triangles": 1076,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/fishing/fishing-hinged-compartment-bait-box-01/v1.0.0/model.glb",
+      "size": 60060,
+      "sha256": "0eda5e3de7e8f54c465f18990d34617f256aa09d6575c2c3604e145bcd57d131"
+    },
+    "blend": {
+      "path": "assets/fishing/fishing-hinged-compartment-bait-box-01/v1.0.0/source.blend",
+      "size": 659904,
+      "sha256": "3a9bda7f11e9d6c1502566889f19b62e6ff6bd51ce0896e85ef46f187a6447a4"
+    },
+    "generator": {
+      "path": "assets/fishing/fishing-hinged-compartment-bait-box-01/v1.0.0/generate.py",
+      "size": 25130,
+      "sha256": "9bf7396e7eeb76feb6664b10b5b6db78f3ce1a6dc70075675d03939dde6e1b07"
+    },
+    "render": {
+      "path": "assets/fishing/fishing-hinged-compartment-bait-box-01/v1.0.0/thumbnail.png",
+      "size": 530681,
+      "sha256": "8666d189477ef2fb737d111529ae01cebe0ff891bb4e45c81369b7592f134aa7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
