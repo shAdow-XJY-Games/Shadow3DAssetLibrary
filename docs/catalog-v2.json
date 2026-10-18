@@ -1164,9 +1164,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "ec5709cc074c099b99cef40f54e2a8b9b02d12d2"
+    },
+    "laboratory-footed-graduated-cylinder-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "11e6f8b323d5eaa7d3a92706d9ac0cfb9177c8ff"
     }
   },
-  "assetCount": 403,
+  "assetCount": 404,
   "shards": [
     {
       "theme": "camping",
@@ -2406,6 +2411,13 @@
       "path": "metadata/da6c8da9447466f0768087650d3c78a75ee0d93c70d34ad5dc6d64ac96c81c83.json",
       "size": 2468,
       "sha256": "da6c8da9447466f0768087650d3c78a75ee0d93c70d34ad5dc6d64ac96c81c83"
+    },
+    {
+      "theme": "laboratory",
+      "count": 1,
+      "path": "metadata/619c9aa9e76fd19adb0a5aca9c629e5c9b6d494815a9bb12b2fab3c8c277d372.json",
+      "size": 2299,
+      "sha256": "619c9aa9e76fd19adb0a5aca9c629e5c9b6d494815a9bb12b2fab3c8c277d372"
     }
   ]
 }
