@@ -899,9 +899,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "afef257ac439dc86f53a79795cd771f4e70ca617"
+    },
+    "astronomy-counterweighted-equatorial-mount-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "94f76685c572b1646c000387b04df54bfd3f5346"
     }
   },
-  "assetCount": 350,
+  "assetCount": 351,
   "shards": [
     {
       "theme": "camping",
@@ -1770,6 +1775,13 @@
       "path": "metadata/c5518d16a46cfe245c4f2fd4e0d6ac56d42bbab59fdeaeac066ef57bc2b0eda7.json",
       "size": 2301,
       "sha256": "c5518d16a46cfe245c4f2fd4e0d6ac56d42bbab59fdeaeac066ef57bc2b0eda7"
+    },
+    {
+      "theme": "astronomy",
+      "count": 1,
+      "path": "metadata/1c7ef27ac0e13fcf3f741cd88c7c650433bd5e0e3a36a6d50896a5dd9b5040db.json",
+      "size": 2152,
+      "sha256": "1c7ef27ac0e13fcf3f741cd88c7c650433bd5e0e3a36a6d50896a5dd9b5040db"
     }
   ]
 }
