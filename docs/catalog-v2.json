@@ -1014,9 +1014,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "86b929ef90baa7d95b79669a2a168c84635c561d"
+    },
+    "carnival-aperture-ball-toss-table-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "08b4bfb6e797f37ff9bbf2a0f6cc656f6a4b3c23"
     }
   },
-  "assetCount": 373,
+  "assetCount": 374,
   "shards": [
     {
       "theme": "camping",
@@ -2046,6 +2051,13 @@
       "path": "metadata/620a796dfbeecc196b77626dcc91cbc35a80ba028410b75731ce34042dab1ffe.json",
       "size": 2303,
       "sha256": "620a796dfbeecc196b77626dcc91cbc35a80ba028410b75731ce34042dab1ffe"
+    },
+    {
+      "theme": "carnival",
+      "count": 1,
+      "path": "metadata/986d35b9065323ae8330221536e79f148bf6f8a3fe332f58cf6029f188cf6fc0.json",
+      "size": 2434,
+      "sha256": "986d35b9065323ae8330221536e79f148bf6f8a3fe332f58cf6029f188cf6fc0"
     }
   ]
 }
