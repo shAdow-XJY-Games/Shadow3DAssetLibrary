@@ -879,9 +879,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "c7608c8329a7a1b035af3061e39f39e03548ec3e"
+    },
+    "tailoring-seamed-pin-cushion-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "bbdd1779d5dcaf8ab1ef5c14b64a3b4c019c350e"
     }
   },
-  "assetCount": 346,
+  "assetCount": 347,
   "shards": [
     {
       "theme": "camping",
@@ -1722,6 +1727,13 @@
       "path": "metadata/c05581cc3695a84f4db2859b5103b3f0584e54f844219e21c5237e1e5c77da2f.json",
       "size": 2168,
       "sha256": "c05581cc3695a84f4db2859b5103b3f0584e54f844219e21c5237e1e5c77da2f"
+    },
+    {
+      "theme": "tailoring",
+      "count": 1,
+      "path": "metadata/aa2b205117e8cd4b84393e61d339ec3e7c392dfcb072d72da0e031956ed2d200.json",
+      "size": 2133,
+      "sha256": "aa2b205117e8cd4b84393e61d339ec3e7c392dfcb072d72da0e031956ed2d200"
     }
   ]
 }
