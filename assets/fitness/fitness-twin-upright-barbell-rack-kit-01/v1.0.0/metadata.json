@@ -1,0 +1,42 @@
+{
+  "id": "fitness-twin-upright-barbell-rack-kit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "S01-clean-geometric",
+  "title": "Twin-Upright Barbell Display Rack",
+  "description": "One original low-poly twin-upright barbell rack, counted as one complete static prop. Two broad ground feet and solid uprights are joined by one low rear crossbrace. Each upright carries a thick open J-shaped cradle; two finite lower facets of one continuous long bar sit on the opposed horizontal cradle seats. The central grip span remains clear. Two thick bevelled annular weight plates have real through-bores. Each plate is held in one frozen position between independent inner shoulder and outer retaining rings with finite opposed annular end-face contacts. The complete bore walls retain positive clearance around the bar. Fourteen named editable closed meshes, five opaque constant PBR materials; metres, native Z up, front -Y, horizontally bounds-centred ground origin. No athlete, bench, extra plates, room, textures, labels or animation. Static visual pose only: no exercise suitability, height adjustment, lifting, insertion/removal path, weight, friction, load, stability, anti-tip, manufacturing, installation, equipment-standard or safety claim. No compatibility with historical fitness assets is asserted.",
+  "bounds": {
+    "x": 2.3,
+    "y": 0.8,
+    "z": 1.4,
+    "unit": "m"
+  },
+  "triangles": 1972,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-twin-upright-barbell-rack-kit-01/v1.0.0/model.glb",
+      "size": 95696,
+      "sha256": "f284ecfdbffb89dec3087a378c2c0f969121da4f5fb521fcdbc230acc5969e8c"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-twin-upright-barbell-rack-kit-01/v1.0.0/source.blend",
+      "size": 713744,
+      "sha256": "f424088f6b5350d7e014e45eb76f7675f44ecde1b5a7cdc66407776ad4bcb8fe"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-twin-upright-barbell-rack-kit-01/v1.0.0/generate.py",
+      "size": 26711,
+      "sha256": "f3b36b4e5cd9f8d1d8fbd2fa0d63660b0ea4f2a4a1ab377cf33d4a3f37ae4358"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-twin-upright-barbell-rack-kit-01/v1.0.0/thumbnail.png",
+      "size": 517820,
+      "sha256": "d412824d02bc89b5c23d372f640a01562811b26caa7934c9b711a7da1601ced9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
