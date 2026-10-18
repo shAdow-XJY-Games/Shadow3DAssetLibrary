@@ -739,9 +739,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "136bc150f8c2c851574923ce72954c56e4ec0b47"
+    },
+    "nature-sediment-shoal-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "897a74de1898121a530e22fff0d3c97b0118532f"
     }
   },
-  "assetCount": 318,
+  "assetCount": 319,
   "shards": [
     {
       "theme": "camping",
@@ -1386,6 +1391,13 @@
       "path": "metadata/b8a2dd3c3a1d575468c59e5c70d87903d96b1d9fdfaf578c6daec63f2ca701c7.json",
       "size": 2088,
       "sha256": "b8a2dd3c3a1d575468c59e5c70d87903d96b1d9fdfaf578c6daec63f2ca701c7"
+    },
+    {
+      "theme": "nature",
+      "count": 1,
+      "path": "metadata/99ca9cdf30ef340075ac36ee1859293377e931eb05cc557785546a298a8b3865.json",
+      "size": 2772,
+      "sha256": "99ca9cdf30ef340075ac36ee1859293377e931eb05cc557785546a298a8b3865"
     }
   ]
 }
