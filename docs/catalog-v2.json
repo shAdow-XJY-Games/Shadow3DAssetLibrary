@@ -759,9 +759,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "78b34c890a2723c6b117ad1752e449701409c8a8"
+    },
+    "music-carved-violin-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "3f1f027b890b5e0cdaefd0b4d19e8f824534cb1f"
     }
   },
-  "assetCount": 322,
+  "assetCount": 323,
   "shards": [
     {
       "theme": "camping",
@@ -1434,6 +1439,13 @@
       "path": "metadata/76c8c2fcb5b1abab891c47d0a3924765c7c271940439520cff28db3003e6ea51.json",
       "size": 2154,
       "sha256": "76c8c2fcb5b1abab891c47d0a3924765c7c271940439520cff28db3003e6ea51"
+    },
+    {
+      "theme": "music",
+      "count": 1,
+      "path": "metadata/ab46c63b1870629830602b718a8ff4da86a90bbeace05783a720c06aa4cd1c3e.json",
+      "size": 2145,
+      "sha256": "ab46c63b1870629830602b718a8ff4da86a90bbeace05783a720c06aa4cd1c3e"
     }
   ]
 }
