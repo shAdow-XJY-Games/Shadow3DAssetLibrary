@@ -889,9 +889,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "f8fae9df5d2b8c14ae81e2c73eac7bd8e97ba809"
+    },
+    "harbor-twin-horn-mooring-bollard-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "cdec75f46f17ba83428ad36e89bbfd18ced9f208"
     }
   },
-  "assetCount": 348,
+  "assetCount": 349,
   "shards": [
     {
       "theme": "camping",
@@ -1746,6 +1751,13 @@
       "path": "metadata/a71dc0c273809c50e063187e3017876ac0aae900e6d2af57cc198319e05f4e38.json",
       "size": 2192,
       "sha256": "a71dc0c273809c50e063187e3017876ac0aae900e6d2af57cc198319e05f4e38"
+    },
+    {
+      "theme": "harbor",
+      "count": 1,
+      "path": "metadata/eb397d7a507a56e773947ef40a6c2d5d037839be9e4b34b91685243fdc002bf5.json",
+      "size": 2111,
+      "sha256": "eb397d7a507a56e773947ef40a6c2d5d037839be9e4b34b91685243fdc002bf5"
     }
   ]
 }
