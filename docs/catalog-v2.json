@@ -769,9 +769,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "cfaf4ee7cde2345257340e6f9f068e334c2ed93d"
+    },
+    "navigation-sextant-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "770c50a0f80ee87d95fb3b952848cca42b931ec5"
     }
   },
-  "assetCount": 324,
+  "assetCount": 325,
   "shards": [
     {
       "theme": "camping",
@@ -1458,6 +1463,13 @@
       "path": "metadata/94a304bfd972ab95cc8a75ca5d9a42632eced78766a4b7861e49b4fe1daf3101.json",
       "size": 2300,
       "sha256": "94a304bfd972ab95cc8a75ca5d9a42632eced78766a4b7861e49b4fe1daf3101"
+    },
+    {
+      "theme": "navigation",
+      "count": 1,
+      "path": "metadata/81cc84a891931dc9c00e49314d7a5b41bfb8ea1933113a379dbf2fd5856bfb45.json",
+      "size": 2055,
+      "sha256": "81cc84a891931dc9c00e49314d7a5b41bfb8ea1933113a379dbf2fd5856bfb45"
     }
   ]
 }
