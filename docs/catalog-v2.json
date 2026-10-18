@@ -964,9 +964,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "e7644a3f99aa6f14b3aba8c28b13cb3c24019a9a"
+    },
+    "beekeeping-brimmed-veil-hat-display-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "12dad3d45d1f6a7a79c9fcc58652c61e5aab7496"
     }
   },
-  "assetCount": 363,
+  "assetCount": 364,
   "shards": [
     {
       "theme": "camping",
@@ -1926,6 +1931,13 @@
       "path": "metadata/58d8c0bd7f11d76cba0b2b1df8bd8e1794593933511b6170fdda2cab85318a15.json",
       "size": 2230,
       "sha256": "58d8c0bd7f11d76cba0b2b1df8bd8e1794593933511b6170fdda2cab85318a15"
+    },
+    {
+      "theme": "beekeeping",
+      "count": 1,
+      "path": "metadata/59a0029ebff48920ccdb3caada0177205e196287fb0fbec4f403ed17a7b0567b.json",
+      "size": 2282,
+      "sha256": "59a0029ebff48920ccdb3caada0177205e196287fb0fbec4f403ed17a7b0567b"
     }
   ]
 }
