@@ -1,0 +1,42 @@
+{
+  "id": "construction-tilting-drum-mixer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Tilted Open Drum Concrete Mixer",
+  "description": "Original static low-poly small concrete mixer with an ochre pear-shaped thick drum, a genuinely open narrowed mouth, deep interior and three solid wall-rooted paddles. A rear drum spindle sits on a U-shaped tilting cradle with two horizontal trunnions seated on finite lower facets of true bored side bearings. A separate open handwheel, three spokes, rear motor shroud, braced teal chassis, solid axle, two faceted wheels and two flat front feet complete the independent assembly. All editable closed components connect through actual joints to finite ground patches. One fixed tilted pose, four solid PBR materials, metres, source Z up, ground-centre origin and front -Y. No texture or external asset. Distinct from a horizontal sealed garden composter. Static game visual only: no mixing performance, drum rotation, tilt animation, pour trajectory, complete mechanical drive, electrical operation, load, stability or construction-safety certification.",
+  "bounds": {
+    "x": 1.565,
+    "y": 1.375773,
+    "z": 1.691353,
+    "unit": "m"
+  },
+  "triangles": 2668,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-tilting-drum-mixer-01/v1.0.0/model.glb",
+      "size": 146752,
+      "sha256": "308248c07a0c7a5faf8052bb0d88bb85474da85865312d57277bb47252e9ab53"
+    },
+    "blend": {
+      "path": "assets/construction/construction-tilting-drum-mixer-01/v1.0.0/source.blend",
+      "size": 779164,
+      "sha256": "8268f536f046cabcc471c8624428adb746deeb931d43f6b55e64b20a8e1c3da7"
+    },
+    "generator": {
+      "path": "assets/construction/construction-tilting-drum-mixer-01/v1.0.0/generate.py",
+      "size": 24158,
+      "sha256": "52d4cd492a0d603a1d79caa93396353516ff6e04d627403de436a8d722d723e6"
+    },
+    "render": {
+      "path": "assets/construction/construction-tilting-drum-mixer-01/v1.0.0/thumbnail.png",
+      "size": 576145,
+      "sha256": "0f28440ee54577b1a919ce3c4c39fecc57ad10231ac7410c3e34e6b055eec838"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
