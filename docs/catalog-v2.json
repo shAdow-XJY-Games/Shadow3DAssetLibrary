@@ -1174,9 +1174,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "ca15203ede2263deef4cff09bace28f4bcc96c6e"
+    },
+    "tailoring-straight-and-curve-pattern-ruler-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "8a1374f95545aa595f757b8f5fd8f14545d527b5"
     }
   },
-  "assetCount": 405,
+  "assetCount": 406,
   "shards": [
     {
       "theme": "camping",
@@ -2430,6 +2435,13 @@
       "path": "metadata/b42f0bc5c102c9699afa7ad0314b31a6b3b254d9a47aee702ce945facad50b72.json",
       "size": 3101,
       "sha256": "b42f0bc5c102c9699afa7ad0314b31a6b3b254d9a47aee702ce945facad50b72"
+    },
+    {
+      "theme": "tailoring",
+      "count": 1,
+      "path": "metadata/86969c44cdc3e239a2ef5b7ee18c7e748347768cbbabdae122d80ae8ce581fe8.json",
+      "size": 2332,
+      "sha256": "86969c44cdc3e239a2ef5b7ee18c7e748347768cbbabdae122d80ae8ce581fe8"
     }
   ]
 }
