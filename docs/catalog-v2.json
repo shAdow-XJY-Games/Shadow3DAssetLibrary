@@ -804,9 +804,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "373f70227eb8a822627833781c20b8c63bfae3cb"
+    },
+    "fitness-rail-rowing-machine-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "daddfc7de00f98ed58464bed9d1735e8ac278dea"
     }
   },
-  "assetCount": 331,
+  "assetCount": 332,
   "shards": [
     {
       "theme": "camping",
@@ -1542,6 +1547,13 @@
       "path": "metadata/700118899fb7f1d093c23b86c58cbeaf048d98c72dbe61e20cd46d4385c2db9a.json",
       "size": 2063,
       "sha256": "700118899fb7f1d093c23b86c58cbeaf048d98c72dbe61e20cd46d4385c2db9a"
+    },
+    {
+      "theme": "fitness",
+      "count": 1,
+      "path": "metadata/1096fe9c9b0bea0c7bfb9806c37622f66a2dc2be7a9c26a7d8f808cde6a2624e.json",
+      "size": 2215,
+      "sha256": "1096fe9c9b0bea0c7bfb9806c37622f66a2dc2be7a9c26a7d8f808cde6a2624e"
     }
   ]
 }
