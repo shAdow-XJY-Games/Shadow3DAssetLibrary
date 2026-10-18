@@ -814,9 +814,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "1d51baa96750912dfb0fba6a45e8583fcdf311b3"
+    },
+    "firefighting-supported-hose-reel-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "ede9a7b18424cc5ab3da8e2e527d8ae578fbf048"
     }
   },
-  "assetCount": 333,
+  "assetCount": 334,
   "shards": [
     {
       "theme": "camping",
@@ -1566,6 +1571,13 @@
       "path": "metadata/5259b82d126de2f9113a4d0c392559da45087fd39699febc9586f15fc0b629d5.json",
       "size": 2101,
       "sha256": "5259b82d126de2f9113a4d0c392559da45087fd39699febc9586f15fc0b629d5"
+    },
+    {
+      "theme": "firefighting",
+      "count": 1,
+      "path": "metadata/d280e04b3df30c94504eb441347b99bccbb0794b5e3c070d22981c87023a58b9.json",
+      "size": 2156,
+      "sha256": "d280e04b3df30c94504eb441347b99bccbb0794b5e3c070d22981c87023a58b9"
     }
   ]
 }
