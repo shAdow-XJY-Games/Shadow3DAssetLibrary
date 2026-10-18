@@ -979,9 +979,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "fd3a5d72ee54161bca5d927c3f3625fe35ecfb43"
+    },
+    "fitness-continuous-belt-treadmill-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "7839a5bc24a965d4e100756e503e67a3d018cf25"
     }
   },
-  "assetCount": 366,
+  "assetCount": 367,
   "shards": [
     {
       "theme": "camping",
@@ -1962,6 +1967,13 @@
       "path": "metadata/bb545f516dc69ab1a7514fd5a366db2b48df6f625c198e145a5fb70f04cc20cd.json",
       "size": 2390,
       "sha256": "bb545f516dc69ab1a7514fd5a366db2b48df6f625c198e145a5fb70f04cc20cd"
+    },
+    {
+      "theme": "fitness",
+      "count": 1,
+      "path": "metadata/716485f93f8aab408ba791768165bac2ad571d460f3a49eba1436e9a56a9c4b3.json",
+      "size": 2342,
+      "sha256": "716485f93f8aab408ba791768165bac2ad571d460f3a49eba1436e9a56a9c4b3"
     }
   ]
 }
