@@ -724,9 +724,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "bcc9989caecf3a48bfce227a5f8b014ce9a1b5c9"
+    },
+    "photography-softbox-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "e5b5abb51b2286d12d3b65ad94ed2b3d14cf33ab"
     }
   },
-  "assetCount": 315,
+  "assetCount": 316,
   "shards": [
     {
       "theme": "camping",
@@ -1350,6 +1355,13 @@
       "path": "metadata/61b5b95fa1b3673d5301355c839a378f25bbccf680d069cd6b72840bf0e6d9cd.json",
       "size": 2190,
       "sha256": "61b5b95fa1b3673d5301355c839a378f25bbccf680d069cd6b72840bf0e6d9cd"
+    },
+    {
+      "theme": "photography",
+      "count": 1,
+      "path": "metadata/9cc6c431240ab06070231eba04474b173af7f0dc0cdbb86d67755306b585eda3.json",
+      "size": 1854,
+      "sha256": "9cc6c431240ab06070231eba04474b173af7f0dc0cdbb86d67755306b585eda3"
     }
   ]
 }
