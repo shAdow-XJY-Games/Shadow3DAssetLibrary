@@ -1,0 +1,42 @@
+{
+  "id": "bakery-sliced-sandwich-loaf-kit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "bakery",
+  "style": "S01-clean-geometric",
+  "title": "Sliced Sandwich Loaf Kit",
+  "description": "One static sliced sandwich loaf kit, counted as one prop: a long remaining bread body with a flat base, nearly square shoulders and arched crown, two upright separated 25 mm thick slices and one 25 mm thick slice resting flat to the side. Every cut face is a real closed end surface whose baked crust border and cream crumb are adjacent material regions sharing the same topology. Small shallow crumb dimples are actual connected geometry, never decals, floating inserts or textures. The curved rear heel is fully closed. Every piece has a finite flat ground patch and all four pieces have positive full-surface separation. Four editable closed meshes, four opaque constant PBR colours, no texture or animation. Metres, source Z up, front -Y and ground-centre origin. No plate, knife, chopping board, table, wrapper, label or surrounding scene. Static food appearance only. No edible-product, baking, taste, ingredient, nutrition, allergen, food-safety, hygiene, cutting/fracture physics, softness, manufacture or certification claim. No compatibility with earlier oven, baking tray or display case. Dimensions define visual geometry only.",
+  "bounds": {
+    "x": 0.324827,
+    "y": 0.3375,
+    "z": 0.148,
+    "unit": "m"
+  },
+  "triangles": 2184,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-sliced-sandwich-loaf-kit-01/v1.0.0/model.glb",
+      "size": 105320,
+      "sha256": "8b3564bd3100cfd02590fc98c74235160bbfbd832b07ddd7ea79478f41f9a580"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-sliced-sandwich-loaf-kit-01/v1.0.0/source.blend",
+      "size": 639252,
+      "sha256": "6b6a1431ad7320779d717d0aae22cb35749049b400da773e4287a90224aff11a"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-sliced-sandwich-loaf-kit-01/v1.0.0/generate.py",
+      "size": 24619,
+      "sha256": "e3b29cfcafaaa8fb2e5d1f56052a995d204f546eb22e75fb2492c3a65f794d38"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-sliced-sandwich-loaf-kit-01/v1.0.0/thumbnail.png",
+      "size": 506206,
+      "sha256": "0f672db95e7e121391c06ab626003b51a1e81637384f691344e192f834190e8f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
