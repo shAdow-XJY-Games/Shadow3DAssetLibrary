@@ -1074,9 +1074,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "e9eff3033975253c32ea8cb71f83f1cbeab0d62b"
+    },
+    "winter-wide-scoop-snow-shovel-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "947af94bf2e9d2014002181781b5d264bc0165a0"
     }
   },
-  "assetCount": 385,
+  "assetCount": 386,
   "shards": [
     {
       "theme": "camping",
@@ -2190,6 +2195,13 @@
       "path": "metadata/d1e78fabfd1c0e296a9884b1c5eb3559a2aa3052da76d0a1314b649c8165918b.json",
       "size": 2352,
       "sha256": "d1e78fabfd1c0e296a9884b1c5eb3559a2aa3052da76d0a1314b649c8165918b"
+    },
+    {
+      "theme": "winter",
+      "count": 1,
+      "path": "metadata/459557bcf1bfe364de826a3448028dd87135c643ab33fbc42fcd767bade89f35.json",
+      "size": 2246,
+      "sha256": "459557bcf1bfe364de826a3448028dd87135c643ab33fbc42fcd767bade89f35"
     }
   ]
 }
