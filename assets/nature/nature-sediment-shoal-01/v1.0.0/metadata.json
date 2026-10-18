@@ -1,0 +1,42 @@
+{
+  "id": "nature-sediment-shoal-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "nature",
+  "style": "hard-edge-faceted-nature",
+  "title": "Submerged Sediment Shoal",
+  "description": "Original S02 local riverbed-rise shoal over a 2 m straight run. A real asymmetric faceted sediment lens raises the bed from Z=.09 to .135 m under one connected flat water surface at Z=.16 m, leaving at least .025 m water depth. The separate closed water body has a bed-conforming bottom in actual opposed contact with the raised terrain; this is not a dry bank, flat shallow-stream recolour or exposed sediment island. Both ends match the actual existing width-transition narrow terrain cap union: bank feet Y=+/- .30, raw water edges Y=+/- .36, end planes X=-1/+1 m. Old west placement Rz=180 degrees plus (-2,0,0) m; east placement +(2,0,0) m. Water bottom cap edges retreat .01 m, retaining the old paired .02 m bottom V gap. Only surface continuity is claimed; terrain finite-area cap contact and water top-edge/tangent compatibility are verified separately. Visible end-adjacent earth/water PBR stays legacy-identical. Hidden single terrain caps do not reproduce the old separated bed/bank cap material partition. Only interior ShoalWater uses alpha BLEND opacity .28, base RGB (.70,.82,.78), zero transmission, roughness0 and glTF-default IOR1.5 as a non-refracting stylized static material, not real water optics. Other materials stay opaque. Transparent face sorting remains renderer-dependent and is bounded by the supplied runtime checks; sediment is real editable topology underneath. One continuous closed terrain mesh and one separate closed water mesh, no decorative stones or props. No exact bend, whole-scene or cliff-side snap. Static visual only; no animated flow, hydrology, fluid volume continuity, collision, navigation, wading safety or physics certification.",
+  "bounds": {
+    "x": 2.0,
+    "y": 3.04,
+    "z": 0.68,
+    "unit": "m"
+  },
+  "triangles": 408,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-sediment-shoal-01/v1.0.0/model.glb",
+      "size": 27376,
+      "sha256": "e74a8b32512c5c1510a25a8b1377fa391d51a4d1bba613a0489f128476f2c273"
+    },
+    "blend": {
+      "path": "assets/nature/nature-sediment-shoal-01/v1.0.0/source.blend",
+      "size": 594480,
+      "sha256": "036a7d2acd842c34cffb53e238c42e28f420a41cc72cd8081e09f0d3f79dc5b7"
+    },
+    "generator": {
+      "path": "assets/nature/nature-sediment-shoal-01/v1.0.0/generate.py",
+      "size": 17863,
+      "sha256": "96ccd44568582980d97f74467619760c8871f08dc163bb90d111e0e77a6d78c7"
+    },
+    "render": {
+      "path": "assets/nature/nature-sediment-shoal-01/v1.0.0/thumbnail.png",
+      "size": 475960,
+      "sha256": "03f56bba70157219babe4a458b13165d3520d001ce4ab30f9a05cbbc570607c4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
