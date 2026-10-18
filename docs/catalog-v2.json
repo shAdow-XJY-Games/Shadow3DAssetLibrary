@@ -984,9 +984,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "7839a5bc24a965d4e100756e503e67a3d018cf25"
+    },
+    "painting-cantilever-mesh-drying-rack-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "98a09efdc9e3c4e55e5f1027fb95021cf952010d"
     }
   },
-  "assetCount": 367,
+  "assetCount": 368,
   "shards": [
     {
       "theme": "camping",
@@ -1974,6 +1979,13 @@
       "path": "metadata/716485f93f8aab408ba791768165bac2ad571d460f3a49eba1436e9a56a9c4b3.json",
       "size": 2342,
       "sha256": "716485f93f8aab408ba791768165bac2ad571d460f3a49eba1436e9a56a9c4b3"
+    },
+    {
+      "theme": "painting",
+      "count": 1,
+      "path": "metadata/615b505b49c4863cb678ab8cd3137b282d809e5c0db6385b8a846d2bad40c636.json",
+      "size": 2398,
+      "sha256": "615b505b49c4863cb678ab8cd3137b282d809e5c0db6385b8a846d2bad40c636"
     }
   ]
 }
