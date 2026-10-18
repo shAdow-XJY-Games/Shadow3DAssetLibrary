@@ -719,9 +719,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "1b6c60d5d49fd534fd5748604a0e154411912a47"
+    },
+    "railway-maintenance-wagon-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "bcc9989caecf3a48bfce227a5f8b014ce9a1b5c9"
     }
   },
-  "assetCount": 314,
+  "assetCount": 315,
   "shards": [
     {
       "theme": "camping",
@@ -1338,6 +1343,13 @@
       "path": "metadata/d2b5701332daf77cbcd1d9bbe19a902eae9c220bf31d930baa0e8cb6cd9f8c2f.json",
       "size": 1759,
       "sha256": "d2b5701332daf77cbcd1d9bbe19a902eae9c220bf31d930baa0e8cb6cd9f8c2f"
+    },
+    {
+      "theme": "railway",
+      "count": 1,
+      "path": "metadata/61b5b95fa1b3673d5301355c839a378f25bbccf680d069cd6b72840bf0e6d9cd.json",
+      "size": 2190,
+      "sha256": "61b5b95fa1b3673d5301355c839a378f25bbccf680d069cd6b72840bf0e6d9cd"
     }
   ]
 }
