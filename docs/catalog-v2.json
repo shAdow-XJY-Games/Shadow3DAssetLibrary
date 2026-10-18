@@ -869,9 +869,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "969ad0dbd8bd6ffdd62755da9eeaa30111e82cbf"
+    },
+    "baggage-open-weekender-holdall-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "d79b47b8dc8034aead575bfe8006e5d91ba21f48"
     }
   },
-  "assetCount": 344,
+  "assetCount": 345,
   "shards": [
     {
       "theme": "camping",
@@ -1698,6 +1703,13 @@
       "path": "metadata/5f60aa251f49b6304d832f959f592310653a94334368530f0e838d8246e84623.json",
       "size": 2179,
       "sha256": "5f60aa251f49b6304d832f959f592310653a94334368530f0e838d8246e84623"
+    },
+    {
+      "theme": "baggage",
+      "count": 1,
+      "path": "metadata/78b8d2787882ec6c545700577b5c4d8c100a82d0d56054d0e41f66bf79b7b36e.json",
+      "size": 2158,
+      "sha256": "78b8d2787882ec6c545700577b5c4d8c100a82d0d56054d0e41f66bf79b7b36e"
     }
   ]
 }
