@@ -874,9 +874,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "d79b47b8dc8034aead575bfe8006e5d91ba21f48"
+    },
+    "logistics-straight-roller-table-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "c7608c8329a7a1b035af3061e39f39e03548ec3e"
     }
   },
-  "assetCount": 345,
+  "assetCount": 346,
   "shards": [
     {
       "theme": "camping",
@@ -1710,6 +1715,13 @@
       "path": "metadata/78b8d2787882ec6c545700577b5c4d8c100a82d0d56054d0e41f66bf79b7b36e.json",
       "size": 2158,
       "sha256": "78b8d2787882ec6c545700577b5c4d8c100a82d0d56054d0e41f66bf79b7b36e"
+    },
+    {
+      "theme": "logistics",
+      "count": 1,
+      "path": "metadata/c05581cc3695a84f4db2859b5103b3f0584e54f844219e21c5237e1e5c77da2f.json",
+      "size": 2168,
+      "sha256": "c05581cc3695a84f4db2859b5103b3f0584e54f844219e21c5237e1e5c77da2f"
     }
   ]
 }
