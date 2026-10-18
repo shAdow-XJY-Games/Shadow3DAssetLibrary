@@ -994,9 +994,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "88c0bf3799b70f280e6d2c776d5d3fce32ccb480"
+    },
+    "construction-compact-tracked-excavator-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "307acc698387da885acc503ab2778437ad055f0c"
     }
   },
-  "assetCount": 369,
+  "assetCount": 370,
   "shards": [
     {
       "theme": "camping",
@@ -1998,6 +2003,13 @@
       "path": "metadata/195277c7fa08c1a16a04ba8e51ec195513c4d420d705d751753d54b17b3e5ad9.json",
       "size": 2675,
       "sha256": "195277c7fa08c1a16a04ba8e51ec195513c4d420d705d751753d54b17b3e5ad9"
+    },
+    {
+      "theme": "construction",
+      "count": 1,
+      "path": "metadata/e70fd350ac020654df54bc39d52716bc31d9009403a2da44cb18e068759086ce.json",
+      "size": 2650,
+      "sha256": "e70fd350ac020654df54bc39d52716bc31d9009403a2da44cb18e068759086ce"
     }
   ]
 }
