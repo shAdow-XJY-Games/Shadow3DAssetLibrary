@@ -1079,9 +1079,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "947af94bf2e9d2014002181781b5d264bc0165a0"
+    },
+    "laboratory-cantilever-pipette-rack-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "1c62bd3b0e6c0998e7d3580f6b791791fc754828"
     }
   },
-  "assetCount": 386,
+  "assetCount": 387,
   "shards": [
     {
       "theme": "camping",
@@ -2202,6 +2207,13 @@
       "path": "metadata/459557bcf1bfe364de826a3448028dd87135c643ab33fbc42fcd767bade89f35.json",
       "size": 2246,
       "sha256": "459557bcf1bfe364de826a3448028dd87135c643ab33fbc42fcd767bade89f35"
+    },
+    {
+      "theme": "laboratory",
+      "count": 1,
+      "path": "metadata/aca674b8b3e8dae13f4dabae78596627e34fdee7d1c27b6efc03b26ddfdd6c4e.json",
+      "size": 2392,
+      "sha256": "aca674b8b3e8dae13f4dabae78596627e34fdee7d1c27b6efc03b26ddfdd6c4e"
     }
   ]
 }
