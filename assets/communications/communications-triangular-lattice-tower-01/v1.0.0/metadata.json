@@ -1,0 +1,42 @@
+{
+  "id": "communications-triangular-lattice-tower-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "communications",
+  "style": "S01-clean-geometric",
+  "title": "Triangular Lattice Communications Tower",
+  "description": "One original freestanding tapered triangular lattice tower visual module. Three continuous inclined main chords connect three finite ground pads to five triangular horizontal levels and twelve alternating face diagonals. The three sides contain twenty-four true triangular windows around an open tapered central cavity. Three top radial bearers support a short central mast; six horizontal arms support three separated solid antenna panels. Every intended junction has finite interior engagement. Independent X repetition is checked using actual full envelopes, a positive 0.650 m separation and matching surface witnesses; the second instance is a test fixture, not another asset or delivered scene. Metres, Z up, front -Y. Origin is the design triangle centre at ground Z=0, not the asymmetric Y bounds midpoint. Editable closed meshes and four opaque constant PBR materials. No textures, logos, animation, platform, ladder, people, fence, terrain or extra equipment. Static visual only. No radio transmission or reception, frequency, power, coverage, tracking, cabling, electricity, climbing, wind resistance, structural load, stability, lightning protection, foundation anchorage, installation, construction or communications safety certification. No vertical stacking, mechanical connector or compatibility with earlier dish antennas or other equipment. Not an engineering, manufacturing or use design.",
+  "bounds": {
+    "x": 2.238653,
+    "y": 1.995,
+    "z": 7.14,
+    "unit": "m"
+  },
+  "triangles": 1240,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/communications/communications-triangular-lattice-tower-01/v1.0.0/model.glb",
+      "size": 90144,
+      "sha256": "5a6c71f3708f800f313530c51d813283c98d952f58169b02099311daa1f5b19e"
+    },
+    "blend": {
+      "path": "assets/communications/communications-triangular-lattice-tower-01/v1.0.0/source.blend",
+      "size": 787180,
+      "sha256": "5012a7dd46746a5a47fda7a3c88a6b529b53b60e43830ff293bad6ef77f5ce00"
+    },
+    "generator": {
+      "path": "assets/communications/communications-triangular-lattice-tower-01/v1.0.0/generate.py",
+      "size": 26637,
+      "sha256": "e48238fcd12b93f716eaa6ebe4e8f72b8db403131a2917f560709767150dd58e"
+    },
+    "render": {
+      "path": "assets/communications/communications-triangular-lattice-tower-01/v1.0.0/thumbnail.png",
+      "size": 485760,
+      "sha256": "5c7c802f9429ccb72ede7f18e02981328bdf95f9e96b633677206fa38bb0af14"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
