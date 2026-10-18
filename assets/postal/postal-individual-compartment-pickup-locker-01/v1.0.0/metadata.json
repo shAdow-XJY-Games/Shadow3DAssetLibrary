@@ -1,0 +1,42 @@
+{
+  "id": "postal-individual-compartment-pickup-locker-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "postal",
+  "style": "S01-clean-geometric",
+  "title": "Four-Compartment Postal Pickup Locker",
+  "description": "One original low-poly postal pickup locker, counted as one complete static prop. A unified thick cabinet shell has four genuinely isolated storage cavities in two columns and two unequal-height rows, with full backs, floors, side walls, a continuous central divider and inset front stop frames. Each compartment has a separate thick door and two independent real through-bored hinge pairs with solid headed pins. The lower-left door is frozen open by 90 degrees; the other three are fixed closed. Finite opposed annular hinge seats support every door, with clear bore air around the shafts and visible separate fixed catch blocks and simple pull tabs. Four broad finite feet connect to the shell. Named editable closed meshes and five constant opaque PBR materials; no textures, parcel, screen, authentication device, labels, room or animation. Metres, native Z up, front -Y, horizontal bounds-centred ground origin. Static visual appearance only: no pickup system, lock/security/privacy, package capacity, postal operations, opening/closing path, pin insertion, load, stability, anti-tip, human fit, installation, manufacture, accessibility, facility-standard or safety claim. No historical parcel compatibility is asserted.",
+  "bounds": {
+    "x": 1.615,
+    "y": 1.357,
+    "z": 1.92,
+    "unit": "m"
+  },
+  "triangles": 4060,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/postal/postal-individual-compartment-pickup-locker-01/v1.0.0/model.glb",
+      "size": 175068,
+      "sha256": "69943839f5009eba28dc651e111277f345ac2e894656a76d24647ce8ed1d0c10"
+    },
+    "blend": {
+      "path": "assets/postal/postal-individual-compartment-pickup-locker-01/v1.0.0/source.blend",
+      "size": 912128,
+      "sha256": "70e67dce4ff0e5523f1716055d15c4c8ff808df8c909f505a2a57a43c62c9009"
+    },
+    "generator": {
+      "path": "assets/postal/postal-individual-compartment-pickup-locker-01/v1.0.0/generate.py",
+      "size": 29575,
+      "sha256": "0d82ca060b3517187fa33d46a7ffd767d582820e86c5d149d44880cb493aad61"
+    },
+    "render": {
+      "path": "assets/postal/postal-individual-compartment-pickup-locker-01/v1.0.0/thumbnail.png",
+      "size": 575581,
+      "sha256": "b4fc78502e02451fb8faa583fcbe7939bc030283c39a2327e1fd4ee92c74bd54"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
