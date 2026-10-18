@@ -1149,9 +1149,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "bb733dc24394160e3a2136083525f34408c1f4ab"
+    },
+    "bakery-bored-barrel-rolling-pin-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "c19f9e75d64b4bdcfe7aaf67fc6a3e5656951860"
     }
   },
-  "assetCount": 400,
+  "assetCount": 401,
   "shards": [
     {
       "theme": "camping",
@@ -2370,6 +2375,13 @@
       "path": "metadata/16a9bfeb98752d9a0f16c6ee6b66763c9d7ec2b2385aaafd18169b8ee3eedfdc.json",
       "size": 2535,
       "sha256": "16a9bfeb98752d9a0f16c6ee6b66763c9d7ec2b2385aaafd18169b8ee3eedfdc"
+    },
+    {
+      "theme": "bakery",
+      "count": 1,
+      "path": "metadata/2b6a25b6ece21a6d30b171e9895f6555328dd45bc33c97ed1309e3dd44df171c.json",
+      "size": 2290,
+      "sha256": "2b6a25b6ece21a6d30b171e9895f6555328dd45bc33c97ed1309e3dd44df171c"
     }
   ]
 }
