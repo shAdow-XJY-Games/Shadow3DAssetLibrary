@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-loop-trimming-tool-kit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "ceramics",
+  "style": "S01-clean-geometric",
+  "title": "Pottery Loop Trimming Tool Kit",
+  "description": "One original static pottery trimming tool kit counted as one prop, not three new models. A circular loop, triangular loop and asymmetric curved kidney scraper each have a genuine cut-through opening, a closed thick ribbon blade, a bent solid metal tang, a hollow stepped ferrule and an individual turned walnut handle. The ferrule has a narrow tang bore and a wider handle socket; actual interior witnesses connect the blade, tang, collar and wood. Flat lower blade surfaces and finite flat grip facets rest on the ground in this one arranged display pose. Twelve named editable closed meshes use walnut, dark walnut, warm brass and pale steel constant solid PBR materials. Source Z up, metres, ground-centre origin, blade direction -Y; no external textures or separate display stand. Static stylized game visual only: no sharpness, cutting performance, grip ergonomics, material certification or real-world tool safety claim.",
+  "bounds": {
+    "x": 0.252132,
+    "y": 0.281,
+    "z": 0.028,
+    "unit": "m"
+  },
+  "triangles": 2128,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/ceramics/ceramics-loop-trimming-tool-kit-01/v1.0.0/model.glb",
+      "size": 100016,
+      "sha256": "7fef4ac264e2405ddf646d8792f3a802b73bf10748a9cb88bcd2ccf303d55a6f"
+    },
+    "blend": {
+      "path": "assets/ceramics/ceramics-loop-trimming-tool-kit-01/v1.0.0/source.blend",
+      "size": 652196,
+      "sha256": "131818e24b0eb43ef092ce4722a34468044869a7c2e0d469863438fd94085ffb"
+    },
+    "generator": {
+      "path": "assets/ceramics/ceramics-loop-trimming-tool-kit-01/v1.0.0/generate.py",
+      "size": 21675,
+      "sha256": "9007d2217040210636b71c4cf21f5648c0af0ebbee926e76ab95db62c13db167"
+    },
+    "render": {
+      "path": "assets/ceramics/ceramics-loop-trimming-tool-kit-01/v1.0.0/thumbnail.png",
+      "size": 506340,
+      "sha256": "46f1ef92f4682cc217eb8803b5c1e2c16e4910d63ed70bf643194fc43f5f9b5a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
