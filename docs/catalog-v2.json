@@ -939,9 +939,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "a7262ee9e7e0d664d94a7baee8c13e93d698fe1f"
+    },
+    "photography-sweep-backdrop-roll-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "d2e68eeb7d2b9cb2377f8d8f72378967bd16011d"
     }
   },
-  "assetCount": 358,
+  "assetCount": 359,
   "shards": [
     {
       "theme": "camping",
@@ -1866,6 +1871,13 @@
       "path": "metadata/3b7a92362fc767b0fe6366c32ae9c3f4d62261d7bb5fb998652b4e98ccd0f906.json",
       "size": 2357,
       "sha256": "3b7a92362fc767b0fe6366c32ae9c3f4d62261d7bb5fb998652b4e98ccd0f906"
+    },
+    {
+      "theme": "photography",
+      "count": 1,
+      "path": "metadata/dee2c4e99bc355dbbfa5a7057d1cb96dd1cd284547600b8a35aa84807fae9eb4.json",
+      "size": 2303,
+      "sha256": "dee2c4e99bc355dbbfa5a7057d1cb96dd1cd284547600b8a35aa84807fae9eb4"
     }
   ]
 }
