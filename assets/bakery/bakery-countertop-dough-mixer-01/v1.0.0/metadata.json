@@ -1,0 +1,42 @@
+{
+  "id": "bakery-countertop-dough-mixer-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "bakery",
+  "style": "S01-clean-geometric",
+  "title": "Countertop Dough Mixer with Open Bowl",
+  "description": "Original static low-poly countertop dough mixer with a broad four-foot base, a continuous rear column and an overhanging cream motor head. A separately editable thick open metal bowl sits on a finite raised support seat. A vertical shaft and one continuous curved dough hook descend from the head into the genuinely empty bowl, with independently measured wall and floor clearance. A raised charcoal control knob is a fixed visual detail. Five constant PBR materials, named editable closed components, metres, source Z up, front -Y and ground-centre origin. One reusable prop without dough, food, textures, external assets or scene. Distinct from the old hand bowl and mortar or a wall-paddle construction drum. One checked static pose only: no mixing or kneading performance, food contact, hygiene, electrical operation, head lifting, shaft motion, continuous rotation, heat, load, manufacture or operating-safety certification.",
+  "bounds": {
+    "x": 0.39,
+    "y": 0.57,
+    "z": 0.606,
+    "unit": "m"
+  },
+  "triangles": 2356,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-countertop-dough-mixer-01/v1.0.0/model.glb",
+      "size": 128588,
+      "sha256": "9cbd4f675c6abc0c21df83ff24b6a010581fc4f45d1eff30dec71d6557dd5d20"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-countertop-dough-mixer-01/v1.0.0/source.blend",
+      "size": 692064,
+      "sha256": "d9f4b3a58bc0f789501230f051c3d091e6138fa8ba8ac93b4f1a24aeca24af3c"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-countertop-dough-mixer-01/v1.0.0/generate.py",
+      "size": 22245,
+      "sha256": "0df8caaa6baeb9a4a447a03a7f77c3238a5298a61e74093c6da24b37afde5b91"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-countertop-dough-mixer-01/v1.0.0/thumbnail.png",
+      "size": 540847,
+      "sha256": "406a3deb0efdfdf7a523d24455011f149c419cf0673efcc7be93aee3ff4ddcba"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
