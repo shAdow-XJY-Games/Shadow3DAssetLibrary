@@ -929,9 +929,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "5f26470b7318310ce5b567ce9d0838479258362c"
+    },
+    "music-looped-bugle-horn-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "d9c791363bf1dc2c99bc9c72ddebc3ace937afe2"
     }
   },
-  "assetCount": 356,
+  "assetCount": 357,
   "shards": [
     {
       "theme": "camping",
@@ -1842,6 +1847,13 @@
       "path": "metadata/9b327527686cb9655e79c2dc5ee5739a8f4ee4fb7b4ea93fd88912c74b2a3159.json",
       "size": 2336,
       "sha256": "9b327527686cb9655e79c2dc5ee5739a8f4ee4fb7b4ea93fd88912c74b2a3159"
+    },
+    {
+      "theme": "music",
+      "count": 1,
+      "path": "metadata/1b2e545a7b1d14fdfe7a889cb57a58a8f186660c9c08ecf670706af1d4c3c194.json",
+      "size": 2058,
+      "sha256": "1b2e545a7b1d14fdfe7a889cb57a58a8f186660c9c08ecf670706af1d4c3c194"
     }
   ]
 }
