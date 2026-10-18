@@ -1089,9 +1089,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "c402559ecddfaa7a6e2c75a4b7e03d0531173cc3"
+    },
+    "textile-tiered-peg-spool-rack-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "13b7cf92376ba1ace01cba35601e98c514015008"
     }
   },
-  "assetCount": 388,
+  "assetCount": 389,
   "shards": [
     {
       "theme": "camping",
@@ -2226,6 +2231,13 @@
       "path": "metadata/78b1f77f7d6ceea7b6ad234cc4bf08fb66608a890a97001e5331f4681eca774a.json",
       "size": 2420,
       "sha256": "78b1f77f7d6ceea7b6ad234cc4bf08fb66608a890a97001e5331f4681eca774a"
+    },
+    {
+      "theme": "textile",
+      "count": 1,
+      "path": "metadata/2e96871e89fc9e3b8017540c842df4faa0fabf2db5684d20177ae3030811a82a.json",
+      "size": 2189,
+      "sha256": "2e96871e89fc9e3b8017540c842df4faa0fabf2db5684d20177ae3030811a82a"
     }
   ]
 }
