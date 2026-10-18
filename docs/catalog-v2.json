@@ -1189,9 +1189,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "062ccb377e263c2009f647d1a6aa4e7763676310"
+    },
+    "painting-ribbed-brush-wash-bucket-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "de2118a9d2f0333431e5395b4a5c98d1d617a015"
     }
   },
-  "assetCount": 408,
+  "assetCount": 409,
   "shards": [
     {
       "theme": "camping",
@@ -2466,6 +2471,13 @@
       "path": "metadata/87faad9dc79455a358ade2cb21344d726ebfba7d01b3bb0f8b57b1e75b76fa05.json",
       "size": 2738,
       "sha256": "87faad9dc79455a358ade2cb21344d726ebfba7d01b3bb0f8b57b1e75b76fa05"
+    },
+    {
+      "theme": "painting",
+      "count": 1,
+      "path": "metadata/1bdd4751ca416c14b00e23e99171773796436211d33903eef1c214a2838e43ab.json",
+      "size": 2179,
+      "sha256": "1bdd4751ca416c14b00e23e99171773796436211d33903eef1c214a2838e43ab"
     }
   ]
 }
