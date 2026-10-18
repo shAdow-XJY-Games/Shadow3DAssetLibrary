@@ -1029,9 +1029,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "5d22987fc7efc4a2b2110f73fcd1a45bf1a5e609"
+    },
+    "aviation-long-wing-sailplane-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "85b80116eb6a287842da4a29b8f18ea5908dfc85"
     }
   },
-  "assetCount": 376,
+  "assetCount": 377,
   "shards": [
     {
       "theme": "camping",
@@ -2082,6 +2087,13 @@
       "path": "metadata/5a56c1867edeb9864c905adec54d7062757b444dae1f154d47223db6669ac282.json",
       "size": 2591,
       "sha256": "5a56c1867edeb9864c905adec54d7062757b444dae1f154d47223db6669ac282"
+    },
+    {
+      "theme": "aviation",
+      "count": 1,
+      "path": "metadata/e6c47154a29d2a8ef9b73c66178e99e1df47b5994e97868a3f2881e9d4263a79.json",
+      "size": 2268,
+      "sha256": "e6c47154a29d2a8ef9b73c66178e99e1df47b5994e97868a3f2881e9d4263a79"
     }
   ]
 }
