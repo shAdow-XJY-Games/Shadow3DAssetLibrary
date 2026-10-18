@@ -1,0 +1,42 @@
+{
+  "id": "sports-training-football-goal-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Open Pocket Training Football Goal",
+  "description": "Original static low-poly freestanding football training goal with two warm ivory front posts and a real open crossbar mouth. A muted teal return base, side shoulders, diagonal back stays and rear cross-members form a deep grounded frame. A sparse sand-coloured solid-rope net wraps the roof, sloped back and both trapezoidal sides, leaving the whole front open. Every rope has two physically joined support ends and every named component connects to four finite flat foot pads. The net openings and front-mouth clearance are real empty geometry. Approximate 3 m wide by 2 m high visual proportions, metres, source Z up, front faces -Y and ground-centre origin; four solid PBR materials, editable parts and no external dependencies. Distinct independent ground goal, not a scaled table-football pocket or a single flat divider net. Static game visual only; no regulation dimensions, net dynamics, playable ball collision, anchoring, tipping resistance, wind loading or safety certification.",
+  "bounds": {
+    "x": 3.18,
+    "y": 1.57,
+    "z": 2.06,
+    "unit": "m"
+  },
+  "triangles": 2472,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-training-football-goal-01/v1.0.0/model.glb",
+      "size": 156500,
+      "sha256": "ff8bab006ca8febd13b670ebffdd7a4c8ad6c9e8577060e700714bdacfa4fc5e"
+    },
+    "blend": {
+      "path": "assets/sports/sports-training-football-goal-01/v1.0.0/source.blend",
+      "size": 964828,
+      "sha256": "d1bd32aaf9b6dd8ea458f3bc5acf68f6f69c7b00b8833e287234a90c60c08396"
+    },
+    "generator": {
+      "path": "assets/sports/sports-training-football-goal-01/v1.0.0/generate.py",
+      "size": 20901,
+      "sha256": "62c47a58da732e4169301519a84713bd4bce1e76fb4c9feeac00f9387be66299"
+    },
+    "render": {
+      "path": "assets/sports/sports-training-football-goal-01/v1.0.0/thumbnail.png",
+      "size": 588078,
+      "sha256": "1f67f701ee3bb41a79c922024b8f01d2c9ef2757f6ced08f375f70e677cbbd01"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
