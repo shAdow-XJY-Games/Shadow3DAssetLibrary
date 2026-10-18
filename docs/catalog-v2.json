@@ -1114,9 +1114,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "1f75c2d9db26ed60877ee3e1198751c9fe799f21"
+    },
+    "harbor-fixed-ratchet-drum-winch-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "22b1d44f57ff6271c6646052b9b00de5491afe2b"
     }
   },
-  "assetCount": 393,
+  "assetCount": 394,
   "shards": [
     {
       "theme": "camping",
@@ -2286,6 +2291,13 @@
       "path": "metadata/d328190711de1ea36db94d020b4e5e226cdf8a724484f9da3f2f530e2c2dc108.json",
       "size": 2317,
       "sha256": "d328190711de1ea36db94d020b4e5e226cdf8a724484f9da3f2f530e2c2dc108"
+    },
+    {
+      "theme": "harbor",
+      "count": 1,
+      "path": "metadata/4e0ff7f9054bc1ae5ddf830dc1426b822ec08955a55a32dac7e6a564bebbcbcb.json",
+      "size": 2337,
+      "sha256": "4e0ff7f9054bc1ae5ddf830dc1426b822ec08955a55a32dac7e6a564bebbcbcb"
     }
   ]
 }
