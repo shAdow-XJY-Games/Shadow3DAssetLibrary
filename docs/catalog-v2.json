@@ -1184,9 +1184,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "164c4982cb40fd929fed7f20ccdb4106bf66073a"
+    },
+    "harbor-open-frame-marker-buoy-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "062ccb377e263c2009f647d1a6aa4e7763676310"
     }
   },
-  "assetCount": 407,
+  "assetCount": 408,
   "shards": [
     {
       "theme": "camping",
@@ -2454,6 +2459,13 @@
       "path": "metadata/7c0c9279b277738ae328d97415e3657e9319192dc1c71051c595d93a5ad98c05.json",
       "size": 2909,
       "sha256": "7c0c9279b277738ae328d97415e3657e9319192dc1c71051c595d93a5ad98c05"
+    },
+    {
+      "theme": "harbor",
+      "count": 1,
+      "path": "metadata/87faad9dc79455a358ade2cb21344d726ebfba7d01b3bb0f8b57b1e75b76fa05.json",
+      "size": 2738,
+      "sha256": "87faad9dc79455a358ade2cb21344d726ebfba7d01b3bb0f8b57b1e75b76fa05"
     }
   ]
 }
