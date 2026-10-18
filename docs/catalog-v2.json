@@ -844,9 +844,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "ddb9456f2e07f514b85600085ae739a85d1e0cce"
+    },
+    "carnival-service-window-ticket-booth-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "24163f62aefb72ccfdb3a9e051ab67d778444be1"
     }
   },
-  "assetCount": 339,
+  "assetCount": 340,
   "shards": [
     {
       "theme": "camping",
@@ -1638,6 +1643,13 @@
       "path": "metadata/29f19d242bd902e5debfc485c53874c04de6449a2f0e4986a3efdd359f1fbf7e.json",
       "size": 2107,
       "sha256": "29f19d242bd902e5debfc485c53874c04de6449a2f0e4986a3efdd359f1fbf7e"
+    },
+    {
+      "theme": "carnival",
+      "count": 1,
+      "path": "metadata/df4107b34820e3ecfee93c1b6450e838a9730da96865ba0952bc025bbc5f439d.json",
+      "size": 2227,
+      "sha256": "df4107b34820e3ecfee93c1b6450e838a9730da96865ba0952bc025bbc5f439d"
     }
   ]
 }
