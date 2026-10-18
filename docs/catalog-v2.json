@@ -779,9 +779,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "4a51d1cce45e5630083746f40ccb2dcee85f0435"
+    },
+    "ceramics-loop-trimming-tool-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "fa7915d24adc8fc3145f965b8cf27487917b4b88"
     }
   },
-  "assetCount": 326,
+  "assetCount": 327,
   "shards": [
     {
       "theme": "camping",
@@ -1482,6 +1487,13 @@
       "path": "metadata/055dbd1ef2b770c9f83f600ec43662a95ec71ed284244a607076d96eec004b3d.json",
       "size": 2176,
       "sha256": "055dbd1ef2b770c9f83f600ec43662a95ec71ed284244a607076d96eec004b3d"
+    },
+    {
+      "theme": "ceramics",
+      "count": 1,
+      "path": "metadata/94ec08b5e00fc12c0432f479c7b7ffe7e50dffae673ea9d34c4539ab35dc1d26.json",
+      "size": 2098,
+      "sha256": "94ec08b5e00fc12c0432f479c7b7ffe7e50dffae673ea9d34c4539ab35dc1d26"
     }
   ]
 }
