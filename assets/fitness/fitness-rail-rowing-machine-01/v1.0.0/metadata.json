@@ -1,0 +1,42 @@
+{
+  "id": "fitness-rail-rowing-machine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "S01-clean-geometric",
+  "title": "Long Rail Rowing Machine",
+  "description": "Original static low-poly indoor rowing machine with a 1.84m longitudinal rail, independent chamfered saddle and a captured four-roller carriage. Two upper rollers and two lower capture rollers engage the rail in one stored pose; external carrier cheeks have actual lateral clearance, with physical front and rear stops. Two inclined foot trays have raised heel edges and true open arch straps. A separate transverse pull handle rests on a solid cradle and connects to the front resistance enclosure by a fixed cord. The front unit has a thick annular enclosure, separately editable inner wheel, radial protective grilles, central hub and bearing-style caps. Front and rear crossfeet terminate in four finite ground pads. Six solid flat PBR materials, no textures, characters or imported seat geometry. Metres, native Z up, front -Y, origin on the ground under rail centreline. One original reusable prop. Static stylized visual only: no exercise prescription, body-fit guarantee, resistance/power specification, continuous sliding/rope controller, load rating or safety certification.",
+  "bounds": {
+    "x": 0.76,
+    "y": 2.58,
+    "z": 0.85,
+    "unit": "m"
+  },
+  "triangles": 2472,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-rail-rowing-machine-01/v1.0.0/model.glb",
+      "size": 162552,
+      "sha256": "63bdfd7c60cab5bee96681e10b8be70f1975347c551991c10c12906b183e176e"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-rail-rowing-machine-01/v1.0.0/source.blend",
+      "size": 1016224,
+      "sha256": "bc8415a20a2a14bb12ed24af3404d218bbfba4731cac4c4b4deb43260437be50"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-rail-rowing-machine-01/v1.0.0/generate.py",
+      "size": 27472,
+      "sha256": "bfd3c7390055ba3f20fc8676ea43db244027ad15df353ee3f02ed989eaddd905"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-rail-rowing-machine-01/v1.0.0/thumbnail.png",
+      "size": 510835,
+      "sha256": "395e8c124719d204fd0ea592e50e9e035af88736d94a4762469fd427fcbf8056"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
