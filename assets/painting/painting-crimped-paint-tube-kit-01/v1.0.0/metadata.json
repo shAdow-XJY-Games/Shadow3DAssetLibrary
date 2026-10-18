@@ -1,0 +1,42 @@
+{
+  "id": "painting-crimped-paint-tube-kit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "painting",
+  "style": "S01-clean-geometric",
+  "title": "Crimped Paint Tube Kit",
+  "description": "One original static paint-tube kit counted as one prop: three differently compressed soft-metal tubes with integral sloping shoulders, modeled hollow necks, finite folded crimp tails and ribbed screw-cap forms. Two caps are fitted over the necks; the third tube is open with a real visible bore and blind internal cavity, and its separate cap rests upright on a finite annular rim beside the set. Muted blue, ochre and vermilion bands are assigned to the body faces, not duplicate overlay surfaces, brands or text labels. Each tube has a finite flat lower body facet and its crimp joins the solid tail region; all components are supported in one arranged rest pose. Nine named editable closed meshes, six constant solid PBR materials, metres, native Z up, front -Y and ground-centre origin. No paint-flow, squeezing, cap animation, chemical composition, usable quantity, sealing, toxicity, painting performance or manufacturing guarantee.",
+  "bounds": {
+    "x": 0.18397,
+    "y": 0.185,
+    "z": 0.028,
+    "unit": "m"
+  },
+  "triangles": 5532,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/painting/painting-crimped-paint-tube-kit-01/v1.0.0/model.glb",
+      "size": 285624,
+      "sha256": "dd1c577439106f8593a6c0a9106e362ace85ac7fe6dd917cee09a98e6738e1bf"
+    },
+    "blend": {
+      "path": "assets/painting/painting-crimped-paint-tube-kit-01/v1.0.0/source.blend",
+      "size": 812196,
+      "sha256": "25d24f3368991c3d9e8bea1aa605ba6a357afad08dd224c7ab7fbfe8794a651d"
+    },
+    "generator": {
+      "path": "assets/painting/painting-crimped-paint-tube-kit-01/v1.0.0/generate.py",
+      "size": 21646,
+      "sha256": "f3f3db41e41a99d0bafc2e55d0dd35a583bcb0d9f5667eea2395ae82a7f8dee0"
+    },
+    "render": {
+      "path": "assets/painting/painting-crimped-paint-tube-kit-01/v1.0.0/thumbnail.png",
+      "size": 509973,
+      "sha256": "bfe94eb560362de5bf86251310e48662a1d7357e09cc202eaa7830d85188c0aa"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
