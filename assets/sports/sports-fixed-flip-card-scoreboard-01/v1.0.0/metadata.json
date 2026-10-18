@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-flip-card-scoreboard-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed 12\u201308 Sports Card Scoreboard",
+  "description": "One original static tabletop sports scoreboard with four separately editable perforated thick cards displaying fixed geometric 12 and 08. Two teal left-team cards and two terracotta right-team cards are separated by a broad real centre gap. Each card has one real circular through-hole and a thick closed suspension ring seated at its lower hole edge; the four rings connect to the rear transverse axle. Two splayed side frames meet broad flat-bottom feet, with a low rear cross tie. All digit segments are original closed extruded polygon geometry embedded into the card face, without fonts, logos, images or textures. Constant solid PBR materials, metre scale, source Z up, front -Y and ground-centre origin. All parts have finite support paths and explicit finite empty clearance volumes. One fixed visual pose and one displayed score only: no flip motion, score changing, automatic scoring, electronics, match rules, team affiliation, installation, load rating, wind resistance, stability test, sports standard or safety certification.",
+  "bounds": {
+    "x": 0.922,
+    "y": 0.36,
+    "z": 0.57,
+    "unit": "m"
+  },
+  "triangles": 4800,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-flip-card-scoreboard-01/v1.0.0/model.glb",
+      "size": 254408,
+      "sha256": "2f8dbc006e02775b8b930ec3cc4c61f5d9a2862058e26863ffe2501a09fcc49f"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-flip-card-scoreboard-01/v1.0.0/source.blend",
+      "size": 884272,
+      "sha256": "96f37ca1c4bc65fa49faef7d1602232ab88a7e9d103ccdaecdc70e8afea10815"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-flip-card-scoreboard-01/v1.0.0/generate.py",
+      "size": 23685,
+      "sha256": "9ab305b0a1502ae891291e2d9035358fcae011f36320329ba912e97f49957695"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-flip-card-scoreboard-01/v1.0.0/thumbnail.png",
+      "size": 554479,
+      "sha256": "84114d27ea18d0e558663574aa0ad501d028f3c6cc1eb394c9c47f4e1f90c1d9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
