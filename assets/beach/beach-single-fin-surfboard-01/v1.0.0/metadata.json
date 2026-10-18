@@ -1,0 +1,42 @@
+{
+  "id": "beach-single-fin-surfboard-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "beach",
+  "style": "S01-clean-geometric",
+  "title": "Wide-Rail Single-Fin Surfboard",
+  "description": "One original static single-fin surfboard with a broad continuous closed board, rounded faceted rails, a curved deck and bottom, tapered rounded nose and tucked tail. The board is 2.17 m long, 0.65 m wide and up to 0.08 m thick. A separately editable solid swept-back fin has a tapered finite thickness and is seated into the bottom with real interior overlap. One fixed deck-down rest pose places finite nose and tail deck patches on the ground, with the centre deck raised and the fin pointing upward. This preserves the normal board rocker when inverted; it does not imply buoyancy. Two closed editable meshes, four constant solid PBR materials, original face-assigned cream centre line and coral nose color; no overlays, textures, stand, people, water, straps or external assets. Metres, source Z up, nose -Y and ground-centre origin. One complete surfboard counts as one prop. No flotation, wave or fluid simulation, handling, motion, human fit, carrying capacity, manufacturing, sport-safety guarantee or compatibility with skis, bindings, boats or paddles.",
+  "bounds": {
+    "x": 0.65,
+    "y": 2.17,
+    "z": 0.382,
+    "unit": "m"
+  },
+  "triangles": 444,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/beach/beach-single-fin-surfboard-01/v1.0.0/model.glb",
+      "size": 27292,
+      "sha256": "cd100f4aff92f566cbb7f3489782cb34a779e4ca3de19d1ac0c43509085989d9"
+    },
+    "blend": {
+      "path": "assets/beach/beach-single-fin-surfboard-01/v1.0.0/source.blend",
+      "size": 540908,
+      "sha256": "52ff9c38fd6e940d419d52bd340e38d6d54cc76338ee64c18936fccec7ecafc2"
+    },
+    "generator": {
+      "path": "assets/beach/beach-single-fin-surfboard-01/v1.0.0/generate.py",
+      "size": 22257,
+      "sha256": "e69ac5f447fbb159089812bc89d97065d1aafaf18fa49490cb35ecc4577501bf"
+    },
+    "render": {
+      "path": "assets/beach/beach-single-fin-surfboard-01/v1.0.0/thumbnail.png",
+      "size": 454743,
+      "sha256": "eb3baa685d1c1daf4d6fd4a794bab389a7fd2cd65b395962369dfc7fae5cde14"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
