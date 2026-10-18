@@ -1,0 +1,42 @@
+{
+  "id": "music-looped-bugle-horn-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Hollow Looped Brass Bugle",
+  "description": "One original static stylized valveless brass bugle with a long hollow return tube, a gradually flared open bell, a separately editable hollow cup mouthpiece and two small fixed connecting stays. The entire curved tube and bell have continuous true inner and outer wall geometry; both end apertures and the assembled passage remain open. No black cavity disks or solid curved rods are used. The long U-return layout is an original authored instrument silhouette. It rests in one fixed low horizontal pose on finite flat facets of its main tube and bell, without a stand, case, player or spare components. Four closed editable meshes, constant solid PBR materials, metre scale, source Z up, front -Y and ground-centre origin. Static visual prop only: no sound, acoustic pitch, musical tuning, playability, real instrument scale, breath flow simulation, performance, ergonomic fit, manufacture, structural stability guarantee, certification or animation.",
+  "bounds": {
+    "x": 1.134424,
+    "y": 0.512618,
+    "z": 0.266774,
+    "unit": "m"
+  },
+  "triangles": 3224,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-looped-bugle-horn-01/v1.0.0/model.glb",
+      "size": 165964,
+      "sha256": "6c8f483026b1efe2175160310c8b9bf24364661149effe7e833985e20b75dc6c"
+    },
+    "blend": {
+      "path": "assets/music/music-looped-bugle-horn-01/v1.0.0/source.blend",
+      "size": 652660,
+      "sha256": "49db2a6699e8c1df278298aaf8d282dc63a2267c45528f280c21ad52d79ed40c"
+    },
+    "generator": {
+      "path": "assets/music/music-looped-bugle-horn-01/v1.0.0/generate.py",
+      "size": 24177,
+      "sha256": "d7b89f795d9d27c912d7dee247fba5873c24e57a4c693f3c3d8a57e70893bfab"
+    },
+    "render": {
+      "path": "assets/music/music-looped-bugle-horn-01/v1.0.0/thumbnail.png",
+      "size": 490259,
+      "sha256": "24fd4a359a747d642d37ae7b988ef413a43152317a0ac9fea66f0d63669f219d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
