@@ -924,9 +924,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "984b27f36bb0e59f2b7c4fbadb0184697b44741e"
+    },
+    "carpentry-mortise-tenon-sample-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "5f26470b7318310ce5b567ce9d0838479258362c"
     }
   },
-  "assetCount": 355,
+  "assetCount": 356,
   "shards": [
     {
       "theme": "camping",
@@ -1830,6 +1835,13 @@
       "path": "metadata/9249ddcb8a488f4f6b892a7b241d9602acb38e5c31c971d438b7cbbb6a210c45.json",
       "size": 2091,
       "sha256": "9249ddcb8a488f4f6b892a7b241d9602acb38e5c31c971d438b7cbbb6a210c45"
+    },
+    {
+      "theme": "carpentry",
+      "count": 1,
+      "path": "metadata/9b327527686cb9655e79c2dc5ee5739a8f4ee4fb7b4ea93fd88912c74b2a3159.json",
+      "size": 2336,
+      "sha256": "9b327527686cb9655e79c2dc5ee5739a8f4ee4fb7b4ea93fd88912c74b2a3159"
     }
   ]
 }
