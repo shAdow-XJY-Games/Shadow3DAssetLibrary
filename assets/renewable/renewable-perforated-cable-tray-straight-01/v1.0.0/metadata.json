@@ -1,0 +1,42 @@
+{
+  "id": "renewable-perforated-cable-tray-straight-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "renewable",
+  "style": "S01-clean-geometric",
+  "title": "Perforated Straight Cable Tray",
+  "description": "One original low-poly straight cable-tray visual module: one continuous thick U-channel with fourteen genuinely through-cut rectangular bottom slots and fourteen through-cut sidewall slots, two completely open U-shaped ends, and two inset flared low supports with finite ground patches. The full welded channel has real hole walls and a clear full-length open interior. Satin light silver channel and dark petrol supports use two constant opaque PBR materials. Exact 1.2 metre X repeat pitch for this same complete module only: opposing matching U-end faces make finite geometric contact, while every other surface stays in its own half-space and the inset supports remain separated. This does not establish joint strength or compatibility with other assets. One segment counts as one modular asset; a second translated validation instance is neither exported nor counted. Metres, Z up, front -Y, origin at ground under the segment center. Static empty visual geometry only. No cables, wires, windings, electrical equipment, power or communication system, electrical continuity, insulation, fire or water resistance, cooling, grounding, loads, span or structural strength, construction, engineering or electrical safety certification. No old turbine, solar rack or communications-device fit claim. No bends, corners, vertical joins, scenes, textures or branding.",
+  "bounds": {
+    "x": 1.2,
+    "y": 0.44,
+    "z": 0.27,
+    "unit": "m"
+  },
+  "triangles": 1060,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/renewable/renewable-perforated-cable-tray-straight-01/v1.0.0/model.glb",
+      "size": 37832,
+      "sha256": "e4fade15421898d5561d183372520db49932936bc16f8ac18bb5cdc371732c94"
+    },
+    "blend": {
+      "path": "assets/renewable/renewable-perforated-cable-tray-straight-01/v1.0.0/source.blend",
+      "size": 521736,
+      "sha256": "3082c0e88c5679cc053a4c3b021b714ee341a8a16940561b59f706ad3e03f0b9"
+    },
+    "generator": {
+      "path": "assets/renewable/renewable-perforated-cable-tray-straight-01/v1.0.0/generate.py",
+      "size": 22910,
+      "sha256": "85810d2c3f44233b11eda7437195bdcecabe824e7fefb6e444813e7bcdac157e"
+    },
+    "render": {
+      "path": "assets/renewable/renewable-perforated-cable-tray-straight-01/v1.0.0/thumbnail.png",
+      "size": 494893,
+      "sha256": "907e292f544a2fbfc35ec05d722d6291f07af090e4f8b767f95591dd3cf6d280"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
