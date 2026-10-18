@@ -1,0 +1,42 @@
+{
+  "id": "astronomy-slotted-observatory-dome-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "astronomy",
+  "style": "S01-clean-geometric",
+  "title": "Slotted Observatory Dome Module",
+  "description": "One original low-poly architectural module in one fixed assembled pose, counted as one modular asset. A continuous thick 36-sided circular wall has a real open front doorway, full wall reveals and an empty interior. Its finite bottom wall band rests at ground level. The complete upper wall crown bears a separate continuous annular seat. A connected thick faceted hemispherical shell bears on that seat over a complete finite open-annular eave patch. A true radial through-slit follows the front meridian over the crown to a closed thick rear end. Both slit sides and the rear termination have real thickness, with no dark aperture decal or hidden solid interior. Three named editable closed meshes and three fully opaque constant PBR colours: warm ivory wall, muted bronze annular seat and deep petrol roof. Metres, native Z up, front -Y and a ground-level origin on the circular axis. No textures, logos, shutter panels, door leaf, telescope, boxes, interior equipment, floor, surrounding scene or animation. Original geometry rather than a filled climbing frame, scaled parasol, lighthouse, or reused observing-corner scene. This completes only the static architectural subset of the original wall-and-rotating-roof candidate. Rotation and opening/closing remain unimplemented and unverified. Static visual geometry only: no rotation, tracking, shutter motion, optical performance, light exclusion, rain or wind resistance, load capacity, strength, stability, earthquake resistance, manufacture, construction, personnel access, passage compliance, building safety, assembly path or compatibility with any old telescope or scene. Finite geometric support does not establish functional or safe architecture.",
+  "bounds": {
+    "x": 3.74,
+    "y": 3.74,
+    "z": 3.322654,
+    "unit": "m"
+  },
+  "triangles": 1952,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/astronomy/astronomy-slotted-observatory-dome-01/v1.0.0/model.glb",
+      "size": 100784,
+      "sha256": "a268c9b5379f341806a60ae227e5d471a88bb7987ef054b9e2e3f079a817caa6"
+    },
+    "blend": {
+      "path": "assets/astronomy/astronomy-slotted-observatory-dome-01/v1.0.0/source.blend",
+      "size": 612680,
+      "sha256": "2b5c3e05dba87f2605e1979ad39be560ecb6f8492d6fc651f424318010836c62"
+    },
+    "generator": {
+      "path": "assets/astronomy/astronomy-slotted-observatory-dome-01/v1.0.0/generate.py",
+      "size": 23942,
+      "sha256": "189a3ed3a94fa014acf9fce8aa22215744d156b9f17440116e6c717fb359ddb6"
+    },
+    "render": {
+      "path": "assets/astronomy/astronomy-slotted-observatory-dome-01/v1.0.0/thumbnail.png",
+      "size": 566498,
+      "sha256": "745f4accdb372fbe904177ff973c5afacb73c7ac59a18235d22b17a78a1e382f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
