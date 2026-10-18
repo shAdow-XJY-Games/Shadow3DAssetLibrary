@@ -1,0 +1,42 @@
+{
+  "id": "music-compact-acoustic-drum-kit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Compact Acoustic Drum Kit",
+  "description": "One original static low-poly compact acoustic drum kit, counted as one prop: a horizontal bass drum with a genuinely perforated thick front head, a separate open-bottom snare drum, one open-bottom mounted tom, and one formed thick cymbal on an independent fixed tripod stand. Each drum has a real hollow thick shell, separate finite-thickness heads, two open hoops and restrained tension lugs. The snare has a fixed basket and tripod, the tom has an exterior fixed mount, and the bass has two short spurs plus a rear support foot. All components have documented finite fixed connections and ground paths. No solid cylinder substitutes for a drum cavity. Opaque constant PBR colours, no texture, animation, person, stool, stage, sticks, pedal or extra drums. Metres, native Z up, front -Y, ground-level origin. Static visual geometry only. No sound, acoustic response, musical performance, tuning, membrane physics, striking, moving pedal, human fit, load capacity, stability, manufacture, installation compatibility, certification or safety claim. No compatibility with earlier music scenes is implied.",
+  "bounds": {
+    "x": 1.653516,
+    "y": 0.595,
+    "z": 1.17,
+    "unit": "m"
+  },
+  "triangles": 4968,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-compact-acoustic-drum-kit-01/v1.0.0/model.glb",
+      "size": 248408,
+      "sha256": "205f8b8ecc7a9cb01d74c36a88c7dd295135e01e628fc31e4f9425e2026d74c3"
+    },
+    "blend": {
+      "path": "assets/music/music-compact-acoustic-drum-kit-01/v1.0.0/source.blend",
+      "size": 1003060,
+      "sha256": "babea4193aeab5530cfc73c23eea56419326f73ff2d10498c24c781ff2812b8f"
+    },
+    "generator": {
+      "path": "assets/music/music-compact-acoustic-drum-kit-01/v1.0.0/generate.py",
+      "size": 29927,
+      "sha256": "b59154c7f220a2fdf6fdf1ab106bdfa0d3d2f6c6fa25024b416757ff8aa3f610"
+    },
+    "render": {
+      "path": "assets/music/music-compact-acoustic-drum-kit-01/v1.0.0/thumbnail.png",
+      "size": 522256,
+      "sha256": "08fae674b256df06dbbf542e8bf428ddbe4522fb9db6c0e4d8428a65a66e87c5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
