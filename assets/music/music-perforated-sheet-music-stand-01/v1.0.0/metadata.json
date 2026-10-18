@@ -1,0 +1,42 @@
+{
+  "id": "music-perforated-sheet-music-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Perforated Sheet Music Stand",
+  "description": "One original low-poly independent sheet music stand in one fixed pose, counted as one prop. Three distinct splayed legs and three broad flat foot pads meet a complete central hub. A single continuous upright has an integral thick fixed height shoulder. The wide 18-degree tilted music board is one continuous thick mesh with six genuine through-windows, full borders and ribs, an integral forward projecting lower shelf and a short upturned retaining lip. It remains empty. Two board ears and one central upright ear have real complete through-bores around one continuous capped pin. Opposed finite annular ear and pin-cap faces meet, with a positive full-surface gap between the shaft and every bore wall. A separate fixed stop has a complete finite opposed patch against the board rear and a finite embedding in the upright. Fourteen named editable closed meshes and four fully opaque constant PBR colours. Metres, native Z up, front -Y and ground-level origin on the upright axis. No textures, logos, pages, book, instrument, scene or animation. Existing piano geometry already has a shallow attached music ledge; this independent tripod, central upright, perforated board and fixed tilt support are original narrower new coverage. No geometry is inherited from the old piano, easel, drum tripod, map table or chart console. Static visual geometry only: no adjustable height or tilt, folding, locking, clamp or page compatibility, music performance, human fit, carrying, paper retention, load capacity, strength, stability, wind resistance, tip resistance, manufacture, assembly path, installation compatibility or equipment-safety certification. Finite geometric connections do not establish functional or safe equipment.",
+  "bounds": {
+    "x": 0.664199,
+    "y": 0.575213,
+    "z": 1.430511,
+    "unit": "m"
+  },
+  "triangles": 1700,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-perforated-sheet-music-stand-01/v1.0.0/model.glb",
+      "size": 80004,
+      "sha256": "3b370c2ba4a25d71867c5e846136b3b54e7e3450da9c101831d2ae566422bc9c"
+    },
+    "blend": {
+      "path": "assets/music/music-perforated-sheet-music-stand-01/v1.0.0/source.blend",
+      "size": 677652,
+      "sha256": "d1917650110bd88ccba5c82c22be50a88677fcadb09199ae06981d6137f6353b"
+    },
+    "generator": {
+      "path": "assets/music/music-perforated-sheet-music-stand-01/v1.0.0/generate.py",
+      "size": 26576,
+      "sha256": "c7b4395056fb4984dd6dad19be69bb04dc139a2466476e2093b6d2fad7b34dad"
+    },
+    "render": {
+      "path": "assets/music/music-perforated-sheet-music-stand-01/v1.0.0/thumbnail.png",
+      "size": 464178,
+      "sha256": "4ed4f7948702c8e75c59ccdb43a73436499b4cb6c04ec4f4d09d3173e93ef320"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
