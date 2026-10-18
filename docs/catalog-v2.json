@@ -884,9 +884,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "bbdd1779d5dcaf8ab1ef5c14b64a3b4c019c350e"
+    },
+    "laundry-frame-hamper-cart-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "f8fae9df5d2b8c14ae81e2c73eac7bd8e97ba809"
     }
   },
-  "assetCount": 347,
+  "assetCount": 348,
   "shards": [
     {
       "theme": "camping",
@@ -1734,6 +1739,13 @@
       "path": "metadata/aa2b205117e8cd4b84393e61d339ec3e7c392dfcb072d72da0e031956ed2d200.json",
       "size": 2133,
       "sha256": "aa2b205117e8cd4b84393e61d339ec3e7c392dfcb072d72da0e031956ed2d200"
+    },
+    {
+      "theme": "laundry",
+      "count": 1,
+      "path": "metadata/a71dc0c273809c50e063187e3017876ac0aae900e6d2af57cc198319e05f4e38.json",
+      "size": 2192,
+      "sha256": "a71dc0c273809c50e063187e3017876ac0aae900e6d2af57cc198319e05f4e38"
     }
   ]
 }
