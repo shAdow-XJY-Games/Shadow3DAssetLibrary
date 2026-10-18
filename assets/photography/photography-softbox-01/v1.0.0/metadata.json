@@ -1,0 +1,42 @@
+{
+  "id": "photography-softbox-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "photography",
+  "style": "S01-clean-geometric",
+  "title": "Deep Rectangular Photography Softbox",
+  "description": "Original static photography softbox with a genuinely deep tapered hollow rectangular hood, closed inset front diffusion panel, rear lamp-head housing and a fixed U-shaped mounting yoke. The head has a real continuous support path through its pivot, yoke, mast, hub and three grounded feet. Five restrained solid PBR materials and separately named closed editable components; no external source dependencies. Metres, source Z up, front -Y, ground origin (0,0,0), mast axis Y=.19 m. Distinct from the existing thin octagonal reflector. One reusable static prop only; no emitted light, optical or electrical simulation, physical light power, animated tilt or folding, engineering, load-bearing, balance, stability or safety certification.",
+  "bounds": {
+    "x": 1.04,
+    "y": 1.1725,
+    "z": 2.05,
+    "unit": "m"
+  },
+  "triangles": 1012,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-softbox-01/v1.0.0/model.glb",
+      "size": 65052,
+      "sha256": "1e35eee700e673453efe3216bd611584c609fdc7dd8588f084c31d3d2e05293d"
+    },
+    "blend": {
+      "path": "assets/photography/photography-softbox-01/v1.0.0/source.blend",
+      "size": 678388,
+      "sha256": "cea4774c9dafe0eccd95f03ffbfac7422b5719a7ee9e541d003b84ecceda32db"
+    },
+    "generator": {
+      "path": "assets/photography/photography-softbox-01/v1.0.0/generate.py",
+      "size": 20359,
+      "sha256": "1275e9c0c84ed7d3fb95f56ef19528373d90c90ff4cbce5e4e303c92c68eb24a"
+    },
+    "render": {
+      "path": "assets/photography/photography-softbox-01/v1.0.0/thumbnail.png",
+      "size": 472086,
+      "sha256": "ded6d70aa7d38bd2a6c26fbddb1341564166ec9344a2831b6a2d13dea13414b7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
