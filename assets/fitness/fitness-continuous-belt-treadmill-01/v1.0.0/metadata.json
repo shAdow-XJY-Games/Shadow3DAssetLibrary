@@ -1,0 +1,42 @@
+{
+  "id": "fitness-continuous-belt-treadmill-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "S01-clean-geometric",
+  "title": "Continuous Belt Treadmill",
+  "description": "One original static low-poly treadmill appearance with a real full-width closed thick belt. The single connected hollow belt solid has two long straight spans and two curved return ends, a distinct internal deck, two fixed end rollers, continuous axles and four external bearing blocks. Separate side frames, independent raised step strips, four finite ground feet, a front motor-style cover, two upright posts, two cantilever handrails and a tilted plain control console make a complete supported standing-machine silhouette. The console has a blank screen and three unmarked controls. All parts are named editable closed solids. Six constant opaque PBR materials, no image or procedural textures, logos, displayed speed, people, extra equipment or scene. Metres, native Z up, front -Y. Origin at the ground on the X midline halfway between the belt end-roller axes. Fixed stylized visual only: geometric contacts, clear volumes and one display pose do not establish walking/running motion, continuous transmission, motor or electrical operation, speed/incline control, exercise benefit, human fit, load capacity, manufacturing or fitness-equipment safety certification.",
+  "bounds": {
+    "x": 0.86,
+    "y": 2.08,
+    "z": 1.263064,
+    "unit": "m"
+  },
+  "triangles": 1980,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-continuous-belt-treadmill-01/v1.0.0/model.glb",
+      "size": 107496,
+      "sha256": "0dec4eabf2072cbe7e535ec0d06dab59f41d4851fa26911b0bf8161a53b09517"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-continuous-belt-treadmill-01/v1.0.0/source.blend",
+      "size": 796612,
+      "sha256": "7dd1aebeeabafbf89002de6968e2e23eadb0a19ca1e9a59d1c3e95c308875d23"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-continuous-belt-treadmill-01/v1.0.0/generate.py",
+      "size": 28760,
+      "sha256": "406c580d5d8c28d10a004ba072bcb139d4e34897c837ea69e414d6fa56e3163b"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-continuous-belt-treadmill-01/v1.0.0/thumbnail.png",
+      "size": 498153,
+      "sha256": "fc74f74c22cdc894e9cac439aca0962e36bd4d6984402a1cded6f9cd2836b459"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
