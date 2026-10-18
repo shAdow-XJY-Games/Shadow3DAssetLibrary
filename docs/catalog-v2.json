@@ -1169,9 +1169,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "11e6f8b323d5eaa7d3a92706d9ac0cfb9177c8ff"
+    },
+    "museum-fixed-three-head-track-light-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "ca15203ede2263deef4cff09bace28f4bcc96c6e"
     }
   },
-  "assetCount": 404,
+  "assetCount": 405,
   "shards": [
     {
       "theme": "camping",
@@ -2418,6 +2423,13 @@
       "path": "metadata/619c9aa9e76fd19adb0a5aca9c629e5c9b6d494815a9bb12b2fab3c8c277d372.json",
       "size": 2299,
       "sha256": "619c9aa9e76fd19adb0a5aca9c629e5c9b6d494815a9bb12b2fab3c8c277d372"
+    },
+    {
+      "theme": "museum",
+      "count": 1,
+      "path": "metadata/b42f0bc5c102c9699afa7ad0314b31a6b3b254d9a47aee702ce945facad50b72.json",
+      "size": 3101,
+      "sha256": "b42f0bc5c102c9699afa7ad0314b31a6b3b254d9a47aee702ce945facad50b72"
     }
   ]
 }
