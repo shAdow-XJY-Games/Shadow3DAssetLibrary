@@ -834,9 +834,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "f65ca14d248fe7eb95a796060b50a3f8cba698f9"
+    },
+    "aviation-tailwheel-towbar-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "a55434e458464bb3a2bc59a977c3f9b8f6ee438d"
     }
   },
-  "assetCount": 337,
+  "assetCount": 338,
   "shards": [
     {
       "theme": "camping",
@@ -1614,6 +1619,13 @@
       "path": "metadata/6d0d769c079d454bad34532a9b49dfcc4ab3f03b33792dd46a45b96cdf046cc1.json",
       "size": 1938,
       "sha256": "6d0d769c079d454bad34532a9b49dfcc4ab3f03b33792dd46a45b96cdf046cc1"
+    },
+    {
+      "theme": "aviation",
+      "count": 1,
+      "path": "metadata/cdf1dcbab865cf695b81ee69e95937c88bd7a2b2dcb0e0150f02213a26fd99b7.json",
+      "size": 2044,
+      "sha256": "cdf1dcbab865cf695b81ee69e95937c88bd7a2b2dcb0e0150f02213a26fd99b7"
     }
   ]
 }
