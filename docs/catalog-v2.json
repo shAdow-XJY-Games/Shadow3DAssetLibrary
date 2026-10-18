@@ -904,9 +904,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "94f76685c572b1646c000387b04df54bfd3f5346"
+    },
+    "textile-hollow-boat-shuttle-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "c60278076ef368e27cc13ca991657e82b9ffc8b3"
     }
   },
-  "assetCount": 351,
+  "assetCount": 352,
   "shards": [
     {
       "theme": "camping",
@@ -1782,6 +1787,13 @@
       "path": "metadata/1c7ef27ac0e13fcf3f741cd88c7c650433bd5e0e3a36a6d50896a5dd9b5040db.json",
       "size": 2152,
       "sha256": "1c7ef27ac0e13fcf3f741cd88c7c650433bd5e0e3a36a6d50896a5dd9b5040db"
+    },
+    {
+      "theme": "textile",
+      "count": 1,
+      "path": "metadata/da4d5e6e273f4e5f46c78849ce5a045bb7d60a9138d5d9bce8ebf46f76f9a619.json",
+      "size": 2187,
+      "sha256": "da4d5e6e273f4e5f46c78849ce5a045bb7d60a9138d5d9bce8ebf46f76f9a619"
     }
   ]
 }
