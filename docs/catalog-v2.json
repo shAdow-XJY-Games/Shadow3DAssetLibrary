@@ -829,9 +829,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "bbd61888e0e14a8ca21edc5b4b0f6bdf6641611f"
+    },
+    "postal-divided-mail-satchel-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "f65ca14d248fe7eb95a796060b50a3f8cba698f9"
     }
   },
-  "assetCount": 336,
+  "assetCount": 337,
   "shards": [
     {
       "theme": "camping",
@@ -1602,6 +1607,13 @@
       "path": "metadata/f1414c23f4a8af0b7748b7f2721e40e08e9700d44eb4927f18d3b52f260d892d.json",
       "size": 2170,
       "sha256": "f1414c23f4a8af0b7748b7f2721e40e08e9700d44eb4927f18d3b52f260d892d"
+    },
+    {
+      "theme": "postal",
+      "count": 1,
+      "path": "metadata/6d0d769c079d454bad34532a9b49dfcc4ab3f03b33792dd46a45b96cdf046cc1.json",
+      "size": 1938,
+      "sha256": "6d0d769c079d454bad34532a9b49dfcc4ab3f03b33792dd46a45b96cdf046cc1"
     }
   ]
 }
