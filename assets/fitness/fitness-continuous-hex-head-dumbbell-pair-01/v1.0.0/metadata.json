@@ -1,0 +1,42 @@
+{
+  "id": "fitness-continuous-hex-head-dumbbell-pair-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "S01-clean-geometric",
+  "title": "Continuous Hex-head Dumbbell Pair",
+  "description": "One original fixed dumbbell form shown as a complete pair, counted together as one static prop. Each dumbbell is one connected closed boundary from the first thick hexagonal head through a chamfered shoulder, continuous neck, short gently swollen grip and second shoulder to the second thick hexagonal head. The six broad head facets retain actual clipped corner edges and axial shoulder bevels. The four heads have complete finite planar bottom faces at the ground datum. The full under-grip and under-neck air volumes stay empty, and the two dumbbells have positive separation across their entire surfaces. Two identical form instances are a single pair, never two separately counted props, weight variants or a completed structural family. Original numerical sections and contours, no shortened old barbell, plate swap, kettlebell conversion, imported meshes, texture nodes, linked material inputs, labels, logos, rack or ground fixture. Native metres, Z up, front -Y, horizontal pair bounds centred at ground Z=0. Fixed visual geometry only: no stated weight, mass, material suitability, grip fit or friction, exercise prescription, anti-roll, drop, strength, loading, stability, manufacture, installation, safety or compatibility with existing fitness equipment.",
+  "bounds": {
+    "x": 0.506,
+    "y": 0.507454,
+    "z": 0.18,
+    "unit": "m"
+  },
+  "triangles": 904,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-continuous-hex-head-dumbbell-pair-01/v1.0.0/model.glb",
+      "size": 49100,
+      "sha256": "5b65c7d36dd972e8dfe8b73c9754bac30b7bd3f757113c12379bcee8c348fcd3"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-continuous-hex-head-dumbbell-pair-01/v1.0.0/source.blend",
+      "size": 511560,
+      "sha256": "e775fc2ae0656f7f429861ad18103717c10bf8eba287080c5b1c0751d766d6c7"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-continuous-hex-head-dumbbell-pair-01/v1.0.0/generate.py",
+      "size": 26303,
+      "sha256": "e4d4e15fd502702b253ec6f37f185f09558f7a86ea5bc1b25aa386ed0051e23c"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-continuous-hex-head-dumbbell-pair-01/v1.0.0/thumbnail.png",
+      "size": 495011,
+      "sha256": "5b643788477d46a561ed7b8cf0995319a6f31e376902bc95c4a1e18dbb87234c"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
