@@ -1454,9 +1454,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "a24a9f887820cbae53e1c0dfae98743f9fb852ea"
+    },
+    "beekeeping-through-outlet-honey-tank-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "b2b4d7961e505b59aea90b8613a7a7743d0ed53c"
     }
   },
-  "assetCount": 461,
+  "assetCount": 462,
   "shards": [
     {
       "theme": "camping",
@@ -3102,6 +3107,13 @@
       "path": "metadata/de425d0d112a15fcf1bce4afdaf0c3c8b6d05ec72a964239da8da67026218b31.json",
       "size": 2407,
       "sha256": "de425d0d112a15fcf1bce4afdaf0c3c8b6d05ec72a964239da8da67026218b31"
+    },
+    {
+      "theme": "beekeeping",
+      "count": 1,
+      "path": "metadata/32d41a1898c1cbc2bea136df168b67cdf774ecf769e9efc9eff00adc8bd6edec.json",
+      "size": 2574,
+      "sha256": "32d41a1898c1cbc2bea136df168b67cdf774ecf769e9efc9eff00adc8bd6edec"
     }
   ]
 }
