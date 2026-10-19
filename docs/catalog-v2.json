@@ -1464,9 +1464,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "dae46aadeee2d3125321cd10eb04b0e9ba0da2fb"
+    },
+    "aviation-annular-apron-corner-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "89683d536af929b7cf287c0f19e2cd1611c784dc"
     }
   },
-  "assetCount": 463,
+  "assetCount": 464,
   "shards": [
     {
       "theme": "camping",
@@ -3126,6 +3131,13 @@
       "path": "metadata/41ab39f4e5a70074c9960c6e77900cc1993c83d91602584cc9b029bd6e35e46f.json",
       "size": 2470,
       "sha256": "41ab39f4e5a70074c9960c6e77900cc1993c83d91602584cc9b029bd6e35e46f"
+    },
+    {
+      "theme": "aviation",
+      "count": 1,
+      "path": "metadata/aa717ffe4e5d05d06517929e1d9a0606fefc57dcea3bf3a78a6c0b71093e6a02.json",
+      "size": 2451,
+      "sha256": "aa717ffe4e5d05d06517929e1d9a0606fefc57dcea3bf3a78a6c0b71093e6a02"
     }
   ]
 }
