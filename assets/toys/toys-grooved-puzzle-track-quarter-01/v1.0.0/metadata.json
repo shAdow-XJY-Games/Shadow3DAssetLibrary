@@ -1,0 +1,42 @@
+{
+  "id": "toys-grooved-puzzle-track-quarter-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "toys",
+  "style": "S01-clean-geometric",
+  "title": "Grooved Wooden Quarter-Turn Puzzle Track",
+  "description": "One original low-poly wooden-colour quarter-turn puzzle track, counted as one static modular asset. A single continuous thick arc board has an entire finite flat bottom, two genuine shallow blind wheel grooves retaining material underneath, a full-height central bridge and outer shoulders. One end has an integral short neck and rounded male puzzle head; the other has a genuine open-neck rounded female cutout through the full board thickness. Two instances of this same frozen source are checked only as evidence at a 90-degree rotation: finite opposed end shoulders, complete head and neck clearance, groove end cross-sections and the actual local join. Only one module is delivered. Original unbranded dimensions and interfaces; no metal railway rails, sleepers, track scene, extra train or QA pairing instance. No insertion process, snap lock, complete circle, rolling, steering, guidance, wheel gauge, old train or brand compatibility, age suitability, child or toy safety, swallowing, pinching, material performance, manufacture, strength or durability claim or certification.",
+  "bounds": {
+    "x": 0.5,
+    "y": 0.546,
+    "z": 0.022,
+    "unit": "m"
+  },
+  "triangles": 1928,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-grooved-puzzle-track-quarter-01/v1.0.0/model.glb",
+      "size": 73884,
+      "sha256": "28bbc871768cac8d540aef2d7e9928b30a34b9f5650cc7c18b0e38301a2544cb"
+    },
+    "blend": {
+      "path": "assets/toys/toys-grooved-puzzle-track-quarter-01/v1.0.0/source.blend",
+      "size": 578160,
+      "sha256": "11cda0f47b783cbd6a5b92db3937089906a75fda49588148b310098164a8135f"
+    },
+    "generator": {
+      "path": "assets/toys/toys-grooved-puzzle-track-quarter-01/v1.0.0/generate.py",
+      "size": 24643,
+      "sha256": "85c202127c4e0551e1170e75d520c9227aff6fa2bbbc3286f5a83e5a4f74e85b"
+    },
+    "render": {
+      "path": "assets/toys/toys-grooved-puzzle-track-quarter-01/v1.0.0/thumbnail.png",
+      "size": 471021,
+      "sha256": "60719d58e610bf4d238130cee58e47ac5eb8eab4449ffad9417e703fb6b341bb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
