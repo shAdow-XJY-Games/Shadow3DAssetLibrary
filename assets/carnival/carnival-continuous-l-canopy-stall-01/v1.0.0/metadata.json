@@ -1,0 +1,42 @@
+{
+  "id": "carnival-continuous-l-canopy-stall-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "S01-clean-geometric",
+  "title": "Continuous-L Canopy Corner Stall",
+  "description": "One original empty fixed corner stall with one continuous closed concave-L thick counter and one continuous closed concave-L thick canopy. A new open L bearer assembly connects both arms through one shared outer corner post and four arm-end posts, with five complete finite flat feet. Two orthogonal outside service openings face -Y and -X; the inner concave work corner and all under-counter spaces are genuinely open. Four constant opaque unlinked PBR materials. Metres, native Z up, horizontal envelope centred, complete ground soles at Z=0. One static prop, no goods, walls, doors, signs, writing, lights, old assets, adjacent stalls, scene or animations. Neither rotated old straight stalls nor an old corner cabinet/canopy/scaffold assembly. No human fit, accessibility, entry/exit, service operation, sales, loading, stability, tipping resistance, weather protection, drainage, food contact, structural/fire/event safety, manufacture, installation or old-module compatibility claim.",
+  "bounds": {
+    "x": 3.04,
+    "y": 3.04,
+    "z": 2.44,
+    "unit": "m"
+  },
+  "triangles": 348,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-continuous-l-canopy-stall-01/v1.0.0/model.glb",
+      "size": 30360,
+      "sha256": "49ebb64a741c1afad15329d69da4d03dc429617fce57327da6bb83cae1f8698c"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-continuous-l-canopy-stall-01/v1.0.0/source.blend",
+      "size": 636884,
+      "sha256": "89e9d45224ebc4f7d45c0b61c8bfabfdefe2b07c22e95deeea9dddf4b4fd9bd4"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-continuous-l-canopy-stall-01/v1.0.0/generate.py",
+      "size": 34031,
+      "sha256": "a3531118f96d65bcef65a639dd52a036d1214944a7fb00bf36a15752ea965dae"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-continuous-l-canopy-stall-01/v1.0.0/thumbnail.png",
+      "size": 559484,
+      "sha256": "729bad56b1b840c3a3f9818bbd51baddbed04e7f0cacfd99b39e5beb13c00026"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
