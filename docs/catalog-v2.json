@@ -1399,9 +1399,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "c787055a965037b14076f77d8e8b4922eff7142b"
+    },
+    "fitness-continuous-hex-head-dumbbell-pair-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "2bf2d72f1fd587e628dcfcc4b1e843a6497f4ca9"
     }
   },
-  "assetCount": 450,
+  "assetCount": 451,
   "shards": [
     {
       "theme": "camping",
@@ -2970,6 +2975,13 @@
       "path": "metadata/2c3781ef8b91d16012ec349defd6ba90ef279e95de8b2e29e36fb53312f5cbff.json",
       "size": 2493,
       "sha256": "2c3781ef8b91d16012ec349defd6ba90ef279e95de8b2e29e36fb53312f5cbff"
+    },
+    {
+      "theme": "fitness",
+      "count": 1,
+      "path": "metadata/16ffc6aea712cbc8746622eddc1812202eb4e94c2847fab6d81011b8589e1833.json",
+      "size": 2493,
+      "sha256": "16ffc6aea712cbc8746622eddc1812202eb4e94c2847fab6d81011b8589e1833"
     }
   ]
 }
