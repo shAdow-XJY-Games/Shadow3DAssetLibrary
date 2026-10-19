@@ -1384,9 +1384,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "6bdce4ea00bb2171b0c1552699f2de8290575233"
+    },
+    "firefighting-ribbed-dome-warning-beacon-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "1acd521f958d87bc274dadd06f034637daf65438"
     }
   },
-  "assetCount": 447,
+  "assetCount": 448,
   "shards": [
     {
       "theme": "camping",
@@ -2934,6 +2939,13 @@
       "path": "metadata/fb1b3c7d9e90d4c998a5ea44e0dd048212dff0d43c66b1abeeaae3fba1224bfd.json",
       "size": 2454,
       "sha256": "fb1b3c7d9e90d4c998a5ea44e0dd048212dff0d43c66b1abeeaae3fba1224bfd"
+    },
+    {
+      "theme": "firefighting",
+      "count": 1,
+      "path": "metadata/b7cf5e7c5d27f757aa07e8652331b1aac87776cb7aaa626871454424dd6f09c4.json",
+      "size": 2334,
+      "sha256": "b7cf5e7c5d27f757aa07e8652331b1aac87776cb7aaa626871454424dd6f09c4"
     }
   ]
 }
