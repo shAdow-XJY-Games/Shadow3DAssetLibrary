@@ -1224,9 +1224,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "d3f72be62038afda41dd04ed17f6e3f961a4766b"
+    },
+    "toys-bored-body-wooden-car-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "40541209cb11466d539c4097ab66fd75e510c757"
     }
   },
-  "assetCount": 415,
+  "assetCount": 416,
   "shards": [
     {
       "theme": "camping",
@@ -2550,6 +2555,13 @@
       "path": "metadata/5ea05a40d014557f6d381fe9663378d4a73a0b7766bb8f2f59b8881b53f1698c.json",
       "size": 2219,
       "sha256": "5ea05a40d014557f6d381fe9663378d4a73a0b7766bb8f2f59b8881b53f1698c"
+    },
+    {
+      "theme": "toys",
+      "count": 1,
+      "path": "metadata/3aa34af8e02186398e3223590f7cb052ec39bc07332adea9b90927d697d53599.json",
+      "size": 2496,
+      "sha256": "3aa34af8e02186398e3223590f7cb052ec39bc07332adea9b90927d697d53599"
     }
   ]
 }
