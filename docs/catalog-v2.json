@@ -1459,9 +1459,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "b2b4d7961e505b59aea90b8613a7a7743d0ed53c"
+    },
+    "beach-elevated-observation-seat-stand-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "dae46aadeee2d3125321cd10eb04b0e9ba0da2fb"
     }
   },
-  "assetCount": 462,
+  "assetCount": 463,
   "shards": [
     {
       "theme": "camping",
@@ -3114,6 +3119,13 @@
       "path": "metadata/32d41a1898c1cbc2bea136df168b67cdf774ecf769e9efc9eff00adc8bd6edec.json",
       "size": 2574,
       "sha256": "32d41a1898c1cbc2bea136df168b67cdf774ecf769e9efc9eff00adc8bd6edec"
+    },
+    {
+      "theme": "beach",
+      "count": 1,
+      "path": "metadata/41ab39f4e5a70074c9960c6e77900cc1993c83d91602584cc9b029bd6e35e46f.json",
+      "size": 2470,
+      "sha256": "41ab39f4e5a70074c9960c6e77900cc1993c83d91602584cc9b029bd6e35e46f"
     }
   ]
 }
