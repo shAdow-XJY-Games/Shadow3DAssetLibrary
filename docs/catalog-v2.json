@@ -1244,9 +1244,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "c5b594f325f3d4edfd4f82728d9ed82fee514c8d"
+    },
+    "winter-sloped-eave-snow-cap-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "824f02e22b63c41bceb792c308ceb5fc20782fc2"
     }
   },
-  "assetCount": 419,
+  "assetCount": 420,
   "shards": [
     {
       "theme": "camping",
@@ -2598,6 +2603,13 @@
       "path": "metadata/5a02e2f4987826c563438278f426ce045ad4a19bcc7b120ffb0042a30fa324b7.json",
       "size": 2427,
       "sha256": "5a02e2f4987826c563438278f426ce045ad4a19bcc7b120ffb0042a30fa324b7"
+    },
+    {
+      "theme": "winter",
+      "count": 1,
+      "path": "metadata/18acf05bab259bc0a5b88704ac2f5d7bcfa496fd05c500602874eaa314173f5e.json",
+      "size": 2496,
+      "sha256": "18acf05bab259bc0a5b88704ac2f5d7bcfa496fd05c500602874eaa314173f5e"
     }
   ]
 }
