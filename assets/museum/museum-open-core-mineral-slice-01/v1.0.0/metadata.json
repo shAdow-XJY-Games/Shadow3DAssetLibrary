@@ -1,0 +1,42 @@
+{
+  "id": "museum-open-core-mineral-slice-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "museum",
+  "style": "S01-clean-geometric",
+  "title": "Open-Core Mineral Slice",
+  "description": "One original upright irregular thick mineral slice. A continuous closed annular rock body surrounds an eccentric irregular aperture genuinely open through the full front-to-back thickness. Two planar cut faces share nonoverlapping face regions, broad inclined outer rock facets, and integral finite-thickness inner crystal folds around a narrower irregular middle throat. One complete horizontal cut sole is at Z=0. All contours are newly authored; no old crystal cluster, blind fossil cavity, solid scree or wood ring is imported, altered or extracted. Four constant opaque unlinked PBR materials, no textures or transmission. Native Z up, front -Y, metres, complete horizontal envelope centred. One static prop only; no plinth, plaque, writing, glass, light, other sample, animation or scene. No real mineral, crystallography, geological age/origin, scientific teaching accuracy, physical stability, load, conservation, safety, manufacture, installation, transport or old-display compatibility claim.",
+  "bounds": {
+    "x": 0.93,
+    "y": 0.28,
+    "z": 1.04,
+    "unit": "m"
+  },
+  "triangles": 440,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/museum/museum-open-core-mineral-slice-01/v1.0.0/model.glb",
+      "size": 21732,
+      "sha256": "ef04ba20dcea6409ea842a8d461e2ac481412da51bc3ce11aef7c653d52efdb3"
+    },
+    "blend": {
+      "path": "assets/museum/museum-open-core-mineral-slice-01/v1.0.0/source.blend",
+      "size": 544152,
+      "sha256": "4fec54879da83c3881c531b576b12ce9d7e2e00ccce63f7a59fc88a3677e9325"
+    },
+    "generator": {
+      "path": "assets/museum/museum-open-core-mineral-slice-01/v1.0.0/generate.py",
+      "size": 25847,
+      "sha256": "d0eb26dd0afbbbebb0602de2a8837111dd10ee07d74bd7b2d2a3441c5f748fd5"
+    },
+    "render": {
+      "path": "assets/museum/museum-open-core-mineral-slice-01/v1.0.0/thumbnail.png",
+      "size": 511638,
+      "sha256": "7b43b736cd1925b3e1ecc07745f0f09d78fcdbec9d0e37cd03e238c7680605d8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
