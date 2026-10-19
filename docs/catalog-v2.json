@@ -1444,9 +1444,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "024b786eca3d5e1f1793cedd356fd5b7ab370ebe"
+    },
+    "logistics-opposed-attached-lid-tote-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "b43a598b0664244dce7ff52679a4397ae2a84cfe"
     }
   },
-  "assetCount": 459,
+  "assetCount": 460,
   "shards": [
     {
       "theme": "camping",
@@ -3078,6 +3083,13 @@
       "path": "metadata/675cf279dec530ad03f40fb29d06b72982b96585a7d86778491c5bacbbe3f5aa.json",
       "size": 2480,
       "sha256": "675cf279dec530ad03f40fb29d06b72982b96585a7d86778491c5bacbbe3f5aa"
+    },
+    {
+      "theme": "logistics",
+      "count": 1,
+      "path": "metadata/11753f92e2aa41035ee2df97c29cf1d7bcabdba040a7dcbd53c81a6b67108bb3.json",
+      "size": 2650,
+      "sha256": "11753f92e2aa41035ee2df97c29cf1d7bcabdba040a7dcbd53c81a6b67108bb3"
     }
   ]
 }
