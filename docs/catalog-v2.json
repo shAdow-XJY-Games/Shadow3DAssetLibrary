@@ -1284,9 +1284,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "f07462bf8884e4cf19ac667ff8cb2c12d1ce65ed"
+    },
+    "laundry-vented-clothespin-basket-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "4cf902c7f4b3c3756562861b7af4131941cc077f"
     }
   },
-  "assetCount": 427,
+  "assetCount": 428,
   "shards": [
     {
       "theme": "camping",
@@ -2694,6 +2699,13 @@
       "path": "metadata/276a5ff0442b84ce3e27cf38e2afaef6fbf7cc4f82a7cd21bbf04aac73f85342.json",
       "size": 2309,
       "sha256": "276a5ff0442b84ce3e27cf38e2afaef6fbf7cc4f82a7cd21bbf04aac73f85342"
+    },
+    {
+      "theme": "laundry",
+      "count": 1,
+      "path": "metadata/a8bd3edd11f19fa372f4c7a2d48ae62d682f432e4aed3615d5ddcaef5116716f.json",
+      "size": 2562,
+      "sha256": "a8bd3edd11f19fa372f4c7a2d48ae62d682f432e4aed3615d5ddcaef5116716f"
     }
   ]
 }
