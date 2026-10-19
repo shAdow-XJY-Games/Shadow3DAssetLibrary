@@ -1434,9 +1434,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "721dc08d5b81c36ff30a124bf98c7f9fdf4469dd"
+    },
+    "logistics-cantilever-scan-workstation-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "b31fc36e9edaa29a7dac93c57c9c324185b82274"
     }
   },
-  "assetCount": 457,
+  "assetCount": 458,
   "shards": [
     {
       "theme": "camping",
@@ -3054,6 +3059,13 @@
       "path": "metadata/ab8d20ec0f0bd792cc0f68aa045ec60c400fe8ea8a5c068210b8b55d446b2c33.json",
       "size": 2709,
       "sha256": "ab8d20ec0f0bd792cc0f68aa045ec60c400fe8ea8a5c068210b8b55d446b2c33"
+    },
+    {
+      "theme": "logistics",
+      "count": 1,
+      "path": "metadata/669d0c8e037729580ea9dbac2b808f01a7d9c7ab27d8db866656e5426e9876e8.json",
+      "size": 2651,
+      "sha256": "669d0c8e037729580ea9dbac2b808f01a7d9c7ab27d8db866656e5426e9876e8"
     }
   ]
 }
