@@ -1254,9 +1254,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "a8cf2312de2dcfad6f46df733232dbab196643a9"
+    },
+    "baggage-fixed-y-branch-roller-junction-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "62ad16aa280ad33d38c751902121e89349f057b5"
     }
   },
-  "assetCount": 421,
+  "assetCount": 422,
   "shards": [
     {
       "theme": "camping",
@@ -2622,6 +2627,13 @@
       "path": "metadata/c4d07595af8d44d467d2127331c0b0f742660b35d14e36f2829c4aad7709cea1.json",
       "size": 2571,
       "sha256": "c4d07595af8d44d467d2127331c0b0f742660b35d14e36f2829c4aad7709cea1"
+    },
+    {
+      "theme": "baggage",
+      "count": 1,
+      "path": "metadata/ca6100390a8877d574a1a8e6f8db2154c97ec440447907e5327cf480203cc771.json",
+      "size": 2522,
+      "sha256": "ca6100390a8877d574a1a8e6f8db2154c97ec440447907e5327cf480203cc771"
     }
   ]
 }
