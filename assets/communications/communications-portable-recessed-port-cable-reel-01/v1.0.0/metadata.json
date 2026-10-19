@@ -1,0 +1,42 @@
+{
+  "id": "communications-portable-recessed-port-cable-reel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "communications",
+  "style": "S01-clean-geometric",
+  "title": "Portable Recessed-Port Cable Reel",
+  "description": "One original static visual prop: one whole rear carry frame on two long ground shoes, one fixed short horizontal axle, one integral double-flange drum whose thick front body forms a real recessed face and three original nonstandard blind cavities, one connected capped cable winding four separated axial turns with its inner end fixed on a distinct drum seat, and one solid no-pin tail head parked by a complete flat base on an independently open side tray. Metres, native Z up, front -Y, ground origin at horizontal envelope centre. Five opaque constant unlinked Principled PBR materials. All numerical geometry newly authored; no old model or shape-generation code imported. No electrical, communication, power, signal, grounding, insulation, ingress, compatibility, rotating, winding, plugging, handling, strength, stability, manufacturing or safety claim.",
+  "bounds": {
+    "x": 1.145,
+    "y": 0.72,
+    "z": 1.29,
+    "unit": "m"
+  },
+  "triangles": 8380,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/communications/communications-portable-recessed-port-cable-reel-01/v1.0.0/model.glb",
+      "size": 433004,
+      "sha256": "d853b50cc9fede2a6b5e67dff97d10505c183fcaf66effbd7e166289f3d59e93"
+    },
+    "blend": {
+      "path": "assets/communications/communications-portable-recessed-port-cable-reel-01/v1.0.0/source.blend",
+      "size": 1034124,
+      "sha256": "5cc6b8c06d28a8f89ff67432a68bad2aaa270a74ec04345c63b3a54c67c11fe8"
+    },
+    "generator": {
+      "path": "assets/communications/communications-portable-recessed-port-cable-reel-01/v1.0.0/generate.py",
+      "size": 42579,
+      "sha256": "6a5c5ccc8ae773df57a8cef3ff30b6386f9ce18e51356268c8165f35f2fb0003"
+    },
+    "render": {
+      "path": "assets/communications/communications-portable-recessed-port-cable-reel-01/v1.0.0/thumbnail.png",
+      "size": 549381,
+      "sha256": "69bad4bc94952c9753b55cbf58946d0b329505c674aa9bd2142482418a8856a8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
