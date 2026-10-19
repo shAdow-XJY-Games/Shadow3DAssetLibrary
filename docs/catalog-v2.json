@@ -1449,9 +1449,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "b43a598b0664244dce7ff52679a4397ae2a84cfe"
+    },
+    "textile-suspended-basket-dye-vat-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "a24a9f887820cbae53e1c0dfae98743f9fb852ea"
     }
   },
-  "assetCount": 460,
+  "assetCount": 461,
   "shards": [
     {
       "theme": "camping",
@@ -3090,6 +3095,13 @@
       "path": "metadata/11753f92e2aa41035ee2df97c29cf1d7bcabdba040a7dcbd53c81a6b67108bb3.json",
       "size": 2650,
       "sha256": "11753f92e2aa41035ee2df97c29cf1d7bcabdba040a7dcbd53c81a6b67108bb3"
+    },
+    {
+      "theme": "textile",
+      "count": 1,
+      "path": "metadata/de425d0d112a15fcf1bce4afdaf0c3c8b6d05ec72a964239da8da67026218b31.json",
+      "size": 2407,
+      "sha256": "de425d0d112a15fcf1bce4afdaf0c3c8b6d05ec72a964239da8da67026218b31"
     }
   ]
 }
