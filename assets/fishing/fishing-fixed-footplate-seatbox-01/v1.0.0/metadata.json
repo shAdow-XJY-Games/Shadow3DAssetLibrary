@@ -1,0 +1,42 @@
+{
+  "id": "fishing-fixed-footplate-seatbox-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fishing",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Footplate Fishing Seatbox",
+  "description": "One original fixed fishing seatbox appearance: a complete deep empty thick shell, one full thick lid with a complete cushion fixed at 100 degrees, two continuous stepped side bearers linking the elevated rear box and lower front footplate, three finite crossmembers and six short complete ground feet. Two true-bored three-ear hinges have continuous headed pins, full bearing faces and residual clearances; two complete fixed-angle stops carry the lid. All geometry is newly authored as one coherent static prop, not an old box placed on an old stool. Native Z up, front -Y, metres, horizontally bounds-centred ground origin. Five constant opaque unlinked PBR materials. No TEX_* nodes, texture, image, text, logo, animation, gear, scene or reused model. No seating, standing, load, stability, anti-tip, human fit, opening/closing path, hinge motion, locking, adjustability, waterproofing, food contact, fishing performance, manufacture or safety claim; no old equipment compatibility. One narrow seatbox form only, counted once.",
+  "bounds": {
+    "x": 0.64,
+    "y": 1.153731,
+    "z": 1.161438,
+    "unit": "m"
+  },
+  "triangles": 996,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/fishing/fishing-fixed-footplate-seatbox-01/v1.0.0/model.glb",
+      "size": 59216,
+      "sha256": "7d99449dabd95698952424ef03f3472a87c0e5e499a74d8c81395c325eb7d4a1"
+    },
+    "blend": {
+      "path": "assets/fishing/fishing-fixed-footplate-seatbox-01/v1.0.0/source.blend",
+      "size": 721980,
+      "sha256": "6a1eb65c10ff46de0624c9f597e144a0620b1d67c13610446d51e01c5f1f3fec"
+    },
+    "generator": {
+      "path": "assets/fishing/fishing-fixed-footplate-seatbox-01/v1.0.0/generate.py",
+      "size": 34642,
+      "sha256": "f259b2398bc8735a06d3c0df96ea0b42a0d95550c07b57d7d5f69ae68f0dce6a"
+    },
+    "render": {
+      "path": "assets/fishing/fishing-fixed-footplate-seatbox-01/v1.0.0/thumbnail.png",
+      "size": 514279,
+      "sha256": "68c8ac2451f283e5808ea2693c2ed7e51305c173b5d204e479d224e43edda944"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
