@@ -1269,9 +1269,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "40a91780697b18ffb06ae107a5778098223276b4"
+    },
+    "sports-fixed-sleeve-volleyball-post-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "47d4caecc6aca99ea105888b2b20c809c1642596"
     }
   },
-  "assetCount": 424,
+  "assetCount": 425,
   "shards": [
     {
       "theme": "camping",
@@ -2658,6 +2663,13 @@
       "path": "metadata/b2ef4e59399ae862e0cf55c2da3bcde5adee4045997c1fca93122aa951928341.json",
       "size": 2578,
       "sha256": "b2ef4e59399ae862e0cf55c2da3bcde5adee4045997c1fca93122aa951928341"
+    },
+    {
+      "theme": "sports",
+      "count": 1,
+      "path": "metadata/08462ed14005dda2680790f2249cdd4cb4b523db6555cc59ee1ec2254693c2fe.json",
+      "size": 2425,
+      "sha256": "08462ed14005dda2680790f2249cdd4cb4b523db6555cc59ee1ec2254693c2fe"
     }
   ]
 }
