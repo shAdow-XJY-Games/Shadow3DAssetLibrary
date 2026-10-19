@@ -1484,9 +1484,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "4fa112ad6f8edd896ce6a2935524b927dd8b5c2e"
+    },
+    "logistics-three-post-corner-shelf-rack-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "656d3d64797a3cfa3c142d3ad00d5fd101855848"
     }
   },
-  "assetCount": 467,
+  "assetCount": 468,
   "shards": [
     {
       "theme": "camping",
@@ -3174,6 +3179,13 @@
       "path": "metadata/9472fc011451693c9f99458c951fdc26122d66236cfac6a1a29f8ed04df6358d.json",
       "size": 2529,
       "sha256": "9472fc011451693c9f99458c951fdc26122d66236cfac6a1a29f8ed04df6358d"
+    },
+    {
+      "theme": "logistics",
+      "count": 1,
+      "path": "metadata/83b481e6d9bbe1fa837eba592579dd50a1ece13f61fbba0bca85d39c2549f80b.json",
+      "size": 2485,
+      "sha256": "83b481e6d9bbe1fa837eba592579dd50a1ece13f61fbba0bca85d39c2549f80b"
     }
   ]
 }
