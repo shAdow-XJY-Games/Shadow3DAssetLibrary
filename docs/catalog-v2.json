@@ -1249,9 +1249,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "824f02e22b63c41bceb792c308ceb5fc20782fc2"
+    },
+    "fitness-fixed-incline-press-bench-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "a8cf2312de2dcfad6f46df733232dbab196643a9"
     }
   },
-  "assetCount": 420,
+  "assetCount": 421,
   "shards": [
     {
       "theme": "camping",
@@ -2610,6 +2615,13 @@
       "path": "metadata/18acf05bab259bc0a5b88704ac2f5d7bcfa496fd05c500602874eaa314173f5e.json",
       "size": 2496,
       "sha256": "18acf05bab259bc0a5b88704ac2f5d7bcfa496fd05c500602874eaa314173f5e"
+    },
+    {
+      "theme": "fitness",
+      "count": 1,
+      "path": "metadata/c4d07595af8d44d467d2127331c0b0f742660b35d14e36f2829c4aad7709cea1.json",
+      "size": 2571,
+      "sha256": "c4d07595af8d44d467d2127331c0b0f742660b35d14e36f2829c4aad7709cea1"
     }
   ]
 }
