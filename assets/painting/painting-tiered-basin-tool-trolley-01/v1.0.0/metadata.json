@@ -1,0 +1,42 @@
+{
+  "id": "painting-tiered-basin-tool-trolley-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "painting",
+  "style": "S01-clean-geometric",
+  "title": "Two-Basin Painting Tool Cart",
+  "description": "One original empty painting tool trolley, counted as one static prop. Two horizontal continuous thick-shell basins have complete bottoms, four integral walls and different clear depths. Four uprights and four full horizontal transverse bearing rails support both basins. A separate thick three-through-slot tool holder rests on its own whole U-shaped side bracket. Every slot is genuinely open through the full holder thickness and the complete air below remains empty. One whole thick U-plan push handle meets two uprights. Four fixed twelve-facet wheels, each with a real bore, a whole twin-cheek bored fork and a shouldered solid axle, end on finite flat ground facets. All 25 closed editable components have full finite opposed-face connections, full material and empty domains, and explicit all-pair relations. Metres, native Z up, front -Y and horizontally bounds-centred ground origin. Five opaque constant unlinked Principled PBR materials, no textures, logo, text, tools, paint, cargo or scene. Original basin shells, independent pierced holder, side bracket, post frame and wheel layout are authored directly. No inclined book shelf, single laundry hamper, luggage deck, brush-wash bucket or old object is loaded or repurposed. Fixed empty visual appearance only: no rolling, steering, braking, brush-size compatibility, old-asset fit, load, stability, anti-tip, ergonomics, manufacture or safety-performance claim.",
+  "bounds": {
+    "x": 1.055,
+    "y": 0.65557,
+    "z": 0.985,
+    "unit": "m"
+  },
+  "triangles": 3416,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/painting/painting-tiered-basin-tool-trolley-01/v1.0.0/model.glb",
+      "size": 115412,
+      "sha256": "fc8c59227a720a010c315e3f73a40839a038848def693820a47461344945a001"
+    },
+    "blend": {
+      "path": "assets/painting/painting-tiered-basin-tool-trolley-01/v1.0.0/source.blend",
+      "size": 801492,
+      "sha256": "916312e65d0aef21ea948016b7e9c81db19498a18266b3578457d46aad246a55"
+    },
+    "generator": {
+      "path": "assets/painting/painting-tiered-basin-tool-trolley-01/v1.0.0/generate.py",
+      "size": 38222,
+      "sha256": "9907d7fdf093c81f76c5a60c5dc27e9c3e1b62e01acf577e6e6c10fe2788ae9f"
+    },
+    "render": {
+      "path": "assets/painting/painting-tiered-basin-tool-trolley-01/v1.0.0/thumbnail.png",
+      "size": 556773,
+      "sha256": "70b080956d28d50ba319dcea2eff746809984b30e4c21f111cd360c6c8bceaad"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
