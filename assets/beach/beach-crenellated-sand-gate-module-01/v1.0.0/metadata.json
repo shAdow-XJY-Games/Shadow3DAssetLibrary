@@ -1,0 +1,42 @@
+{
+  "id": "beach-crenellated-sand-gate-module-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "beach",
+  "style": "S01-clean-geometric",
+  "title": "Crenellated Sand Gate Module",
+  "description": "One original low-poly sandcastle gate module, counted as one modular asset. Two upward-tapering, softly faceted sand towers have broad finite flat bottoms, eight integral thick merlons each, eight actual open notches each, and genuine shallow top courts with continuous closed bottoms. A thick low sand wall joins their inward flat faces over complete opposed finite patches. Its real arched passage is continuously open from ground to crown, through the whole wall and its flared front/rear reveals. The wall has no threshold or hidden floor. The towers have shallow inward planar cuts solely for these two complete fixed joints; no external connector standard is claimed. Three separately editable closed connected meshes form one complete static module. Three opaque constant unlinked PBR sand tones, no textures. Metres, source Z up, front -Y; origin is the ground-level bounds centre. No flags, furniture, loose buckets, sand plane, landscape, full castle scene, animation or variants. Original tapered sand geometry, not a recoloured dining arch, stone well, low stone wall, cottage or stream bank. Static visual geometry only. No sand-grain, collapse, tide or weather simulation, strength, loads, child activity, human passage, structural/building safety, manufacture or installation certification. No seamless repetition, complete castle closure, old-wall compatibility, assembly motion or historical reconstruction is asserted.",
+  "bounds": {
+    "x": 3.16,
+    "y": 1.06,
+    "z": 1.48,
+    "unit": "m"
+  },
+  "triangles": 1540,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/beach/beach-crenellated-sand-gate-module-01/v1.0.0/model.glb",
+      "size": 80800,
+      "sha256": "992e94050df06baa20acf83ed16484b7530f0935555bf694993890ee75de6098"
+    },
+    "blend": {
+      "path": "assets/beach/beach-crenellated-sand-gate-module-01/v1.0.0/source.blend",
+      "size": 590648,
+      "sha256": "3b9fdc70236798dd95913845b77ceec582fe6646fbedb76c14bf4f7c26cfaabd"
+    },
+    "generator": {
+      "path": "assets/beach/beach-crenellated-sand-gate-module-01/v1.0.0/generate.py",
+      "size": 30728,
+      "sha256": "03d2f843d2b4e3de35a5db955efb15f3e6738d43f47549bb627fe8c5aff1928f"
+    },
+    "render": {
+      "path": "assets/beach/beach-crenellated-sand-gate-module-01/v1.0.0/thumbnail.png",
+      "size": 525329,
+      "sha256": "5f32ba8791a11183d0abaf654abbc8a650d5bf244d1723e6c142c11e1d0b41b4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
