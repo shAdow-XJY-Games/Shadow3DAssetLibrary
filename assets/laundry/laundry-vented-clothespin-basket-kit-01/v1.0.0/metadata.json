@@ -1,0 +1,42 @@
+{
+  "id": "laundry-vented-clothespin-basket-kit-01",
+  "version": "1.0.0",
+  "category": "prop",
+  "assetKind": "prop",
+  "theme": "laundry",
+  "style": "S01-clean-geometric",
+  "title": "Vented Clothespin Basket Kit",
+  "description": "One original low-poly static clothespin-basket kit, counted as one prop. A low subtly tapered chamfered rectangular basket has one continuous closed thick floor, twenty genuine through-windows and an integral thick continuous top rim. Three copies of one newly authored clothespin each comprise two opposed thick shaped wooden jaws and one continuous capped thick 1.5-turn fixed metal coil with two finite embedded ends. Each clip rests on the basket rim on two real recessed shoulder faces; friction or spring force is not assumed. The lower jaw mouths, central neck gaps, upper handle gaps, coil bores and inter-turn space remain actual geometry. All three clips are fixed upright on three distinct sides; no loose contents obscure the basket cavity. Ten separately editable closed meshes form the single static set. Four opaque unlinked constant PBR materials, no textures. Metres, source Z up, front -Y, origin at the complete basket floor ground centre. This is not a recoloured old clothesline block clip, solid harvest basket, hamper cart or shortened shoulder creel. No animation, alternate poses, simulation or independent clip assets. Visual geometry only; no gripping force, spring elasticity, movement, material hygiene, capacity, loads, pinch protection, child safety, laundry performance, human fit, manufacture or prior clothesline compatibility is asserted.",
+  "bounds": {
+    "x": 0.323,
+    "y": 0.21,
+    "z": 0.162,
+    "unit": "m"
+  },
+  "triangles": 4672,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/laundry/laundry-vented-clothespin-basket-kit-01/v1.0.0/model.glb",
+      "size": 311988,
+      "sha256": "0f29baa07034f08a19ad29314beecc7b028f772ce0c8a33be1fc5db9533557a8"
+    },
+    "blend": {
+      "path": "assets/laundry/laundry-vented-clothespin-basket-kit-01/v1.0.0/source.blend",
+      "size": 817928,
+      "sha256": "085f0933e6f9a8be5f7281222f897f5583c8b35c7effd78ff3cd82e33dc7a484"
+    },
+    "generator": {
+      "path": "assets/laundry/laundry-vented-clothespin-basket-kit-01/v1.0.0/generate.py",
+      "size": 31269,
+      "sha256": "887db3e51f805fc85d4658fe8eab03cb4c2929a4ad9ef709563b4af6b1ab2007"
+    },
+    "render": {
+      "path": "assets/laundry/laundry-vented-clothespin-basket-kit-01/v1.0.0/thumbnail.png",
+      "size": 506731,
+      "sha256": "e5de3bef3b30d68d4d7aad98c0bea0d4480eef3588eab805c79d34c20126df56"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
