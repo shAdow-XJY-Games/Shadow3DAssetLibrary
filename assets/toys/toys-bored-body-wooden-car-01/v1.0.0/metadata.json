@@ -1,0 +1,42 @@
+{
+  "id": "toys-bored-body-wooden-car-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "toys",
+  "style": "S01-clean-geometric",
+  "title": "Bored Body Wooden Toy Car",
+  "description": "One original static low-poly wooden toy car, counted as one prop. An uninterrupted thick maple-coloured body has a short blunt nose, a high chamfer-corner roof and one genuinely open side-to-side grip window with a complete thick frame. Two independent real transverse rectangular axle bores pass through the full body. Two continuous fixed wooden axles have integral shoulders and end caps. Four thick twelve-sided wooden wheels each have a true rectangular centre bore and a finite flat ground face. Complete opposed faces connect wheel bore floors to axle undersides, axle tops to body bore ceilings, and both wheel side faces to their integral axle shoulders and caps. The remaining bore air is explicitly open finite geometry; the body bottom stays clear of the ground. Seven closed connected mesh components, three constant opaque PBR materials, metres, native Z up, bounds-centred ground origin and front -Y. No glass, cabin, tyre, cargo bed, push handle, pull cord, track, figure, scene, spare wheel, animation or texture. Newly authored toy geometry, not a scaled van, recoloured railway trolley or trimmed handcart. Static illustrative geometry only: no rolling, steering, propulsion, pulling, child age suitability, bite or material safety, swallowing or pinch protection, human grip fit, durability, load, manufacture, toy safety certification or old-asset compatibility claim.",
+  "bounds": {
+    "x": 0.236,
+    "y": 0.39,
+    "z": 0.22,
+    "unit": "m"
+  },
+  "triangles": 1870,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-bored-body-wooden-car-01/v1.0.0/model.glb",
+      "size": 55752,
+      "sha256": "ed4258f5dd508288310acc8da25e8f97b8da70e18a1d9b2a2018dc42c20b9b8f"
+    },
+    "blend": {
+      "path": "assets/toys/toys-bored-body-wooden-car-01/v1.0.0/source.blend",
+      "size": 628844,
+      "sha256": "c58f24308bf1296ec915a35f13d0a84d3532034c64bd1867a28e06ee76a2eb69"
+    },
+    "generator": {
+      "path": "assets/toys/toys-bored-body-wooden-car-01/v1.0.0/generate.py",
+      "size": 27042,
+      "sha256": "a90d182561e5cb6450533f44f7f6e7a5e31c753b454232f29f8a026e9ee23f2a"
+    },
+    "render": {
+      "path": "assets/toys/toys-bored-body-wooden-car-01/v1.0.0/thumbnail.png",
+      "size": 529997,
+      "sha256": "138ae9e75b58f277d1d6ffad829f47310299bd8f18430cd98134db48df45d903"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
