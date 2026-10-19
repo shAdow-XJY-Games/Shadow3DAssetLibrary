@@ -1419,9 +1419,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "c348d82af3ff6bfd3458c08d02bb142a60a0fab4"
+    },
+    "toys-open-oven-play-kitchen-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "f6cee83980b1dea2b729830784e134bf49cd1e4b"
     }
   },
-  "assetCount": 454,
+  "assetCount": 455,
   "shards": [
     {
       "theme": "camping",
@@ -3018,6 +3023,13 @@
       "path": "metadata/3996757896d0979a5fd6f0ed95c739ffda2291b55ac800f3c58bba0e64afa444.json",
       "size": 2521,
       "sha256": "3996757896d0979a5fd6f0ed95c739ffda2291b55ac800f3c58bba0e64afa444"
+    },
+    {
+      "theme": "toys",
+      "count": 1,
+      "path": "metadata/e182e138c6a6c1189527d5a15b8f19d03f186c62e7e81aad6817bddec874c379.json",
+      "size": 2318,
+      "sha256": "e182e138c6a6c1189527d5a15b8f19d03f186c62e7e81aad6817bddec874c379"
     }
   ]
 }
