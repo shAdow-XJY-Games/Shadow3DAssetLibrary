@@ -1,0 +1,42 @@
+{
+  "id": "sports-two-tier-cradle-ball-trolley-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Two-Tier V-Cradle Ball Trolley",
+  "description": "One original empty two-tier ball-storage trolley, counted as one complete static prop. Each tier has two long thick inward-sloping cradle rails with a genuine full-length central opening, two finite V-profile end supports and two independent low end stops. Four continuous posts connect the two open tiers to a low open perimeter frame. One continuous raised U-shaped push handle is supported by two complete post-root faces. Four fixed wheel assemblies each contain an original twelve-sided thick wheel with a real through-bore, one continuous shouldered axle and one complete double-cheek U fork with true through-bores; every wheel has a complete finite flat ground facet. All intended joints are complete finite opposed faces, with positive noncontact gaps. No balls are included; original temporary faceted test balls are geometry evidence only and are not exported or separately counted. Metres, native Z up, front -Y, horizontally bounds-centred ground origin, five opaque unlinked constant PBR materials. Newly authored geometry: not a wheeled flat-shelf equipment rack, shortened delivery cage, cloth hamper or recolour. Fixed empty visual appearance only: no rolling, steering, brake, folding, usable ball fit, compatibility with existing balls, capacity, competition dimensions, human pushing fit, load, stability, anti-tip, pinch protection, material, manufacture, transport, installation, public-sports suitability or safety certification claim.",
+  "bounds": {
+    "x": 1.319,
+    "y": 0.674889,
+    "z": 1.16,
+    "unit": "m"
+  },
+  "triangles": 3276,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-two-tier-cradle-ball-trolley-01/v1.0.0/model.glb",
+      "size": 116716,
+      "sha256": "701e5be9295970e6385c6d0ef70a127b64ac3b37b41604eaf929e064350200ab"
+    },
+    "blend": {
+      "path": "assets/sports/sports-two-tier-cradle-ball-trolley-01/v1.0.0/source.blend",
+      "size": 821732,
+      "sha256": "623d55e4a280cac2e428d7cf0e7dbcaa5b0305bcf67cd86b0662be3bb6138b0d"
+    },
+    "generator": {
+      "path": "assets/sports/sports-two-tier-cradle-ball-trolley-01/v1.0.0/generate.py",
+      "size": 39560,
+      "sha256": "2f35d203d062434118f52dec955133eaefafa4d1519892f7f9c0c64fcee45b93"
+    },
+    "render": {
+      "path": "assets/sports/sports-two-tier-cradle-ball-trolley-01/v1.0.0/thumbnail.png",
+      "size": 600106,
+      "sha256": "7afefa42ea19fe7a86c59687ca22a19840c3c0aa2dc06ed5eb42b1c745a08497"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
