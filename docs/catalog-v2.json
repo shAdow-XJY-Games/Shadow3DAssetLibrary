@@ -1274,9 +1274,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "47d4caecc6aca99ea105888b2b20c809c1642596"
+    },
+    "beach-crenellated-sand-gate-module-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "6fa0c9b9c963dddbc0b09c752e1542f7ab019463"
     }
   },
-  "assetCount": 425,
+  "assetCount": 426,
   "shards": [
     {
       "theme": "camping",
@@ -2670,6 +2675,13 @@
       "path": "metadata/08462ed14005dda2680790f2249cdd4cb4b523db6555cc59ee1ec2254693c2fe.json",
       "size": 2425,
       "sha256": "08462ed14005dda2680790f2249cdd4cb4b523db6555cc59ee1ec2254693c2fe"
+    },
+    {
+      "theme": "beach",
+      "count": 1,
+      "path": "metadata/95a3f70b963f4a135e0bc98f842a1b0aef18c5c87714da7c953d327ea936d405.json",
+      "size": 2604,
+      "sha256": "95a3f70b963f4a135e0bc98f842a1b0aef18c5c87714da7c953d327ea936d405"
     }
   ]
 }
