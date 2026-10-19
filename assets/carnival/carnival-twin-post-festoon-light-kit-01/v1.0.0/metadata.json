@@ -1,0 +1,42 @@
+{
+  "id": "carnival-twin-post-festoon-light-kit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "S01-clean-geometric",
+  "title": "Twin Post Pear Festoon Lights",
+  "description": "One original twin-post festoon assembly, counted as exactly one static visual prop. Two tall slender octagonal posts have integral broad finite octagonal ground feet and stepped shoulders. Two brass-coloured thick terminal blocks rest on complete post-top faces. One continuous closed eight-sided line sags between their complete inward end faces. Seven short vertical branches have sloped upper caps fitted to actual complete lower line facets, full lower caps on independent shaped holders, and finite holder-to-neck seats for seven original opaque pear-shaped bulbs. The entire closed support chain reaches both finite ground feet. Twenty-six closed editable components and five unlinked solid PBR colors; metre scale, source Z up, front -Y, horizontally bounds-centred ground origin. Original post, terminal, branch, holder and pear surfaces; no imported old barrier, pennant arch or copied lantern, no texture, emission, transmission, animation, power source, stage, crowd or scene. Fixed illustrative geometry only: no electrical circuit, voltage, illumination, waterproofing, fire resistance, electrical/public-event safety, wind loading, line tension, anti-tip, stability, installation, loading, human passage, material/manufacturing, old-arch compatibility or dynamic cable behavior claim.",
+  "bounds": {
+    "x": 4.089656,
+    "y": 0.489656,
+    "z": 2.85,
+    "unit": "m"
+  },
+  "triangles": 3248,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-twin-post-festoon-light-kit-01/v1.0.0/model.glb",
+      "size": 174300,
+      "sha256": "bcd3d7bcf2dc7fcc64a955bd6ef804cdd576a940d0e4b7048e81df3ff23e2ea3"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-twin-post-festoon-light-kit-01/v1.0.0/source.blend",
+      "size": 784336,
+      "sha256": "398899944b075cdc525367378d521bf46b1f3d16413610aef09a5973b538d650"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-twin-post-festoon-light-kit-01/v1.0.0/generate.py",
+      "size": 28075,
+      "sha256": "19422572cdb944185822eec5734010bb77c10df5359690430045cdb55723dcfe"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-twin-post-festoon-light-kit-01/v1.0.0/thumbnail.png",
+      "size": 484159,
+      "sha256": "9dbfff52329951da419f5bd80358143b82497ccfc1dfecabfd6229c205f84972"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
