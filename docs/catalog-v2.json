@@ -1229,9 +1229,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "40541209cb11466d539c4097ab66fd75e510c757"
+    },
+    "fishing-latticed-shoulder-creel-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "84fbb58f6c1a3c4623bcad89d869dc458ee1def0"
     }
   },
-  "assetCount": 416,
+  "assetCount": 417,
   "shards": [
     {
       "theme": "camping",
@@ -2562,6 +2567,13 @@
       "path": "metadata/3aa34af8e02186398e3223590f7cb052ec39bc07332adea9b90927d697d53599.json",
       "size": 2496,
       "sha256": "3aa34af8e02186398e3223590f7cb052ec39bc07332adea9b90927d697d53599"
+    },
+    {
+      "theme": "fishing",
+      "count": 1,
+      "path": "metadata/ff1cb97cd5664b0eba6f5b6d122a40864787a11974f5f4d12ff56ea8a421d937.json",
+      "size": 2690,
+      "sha256": "ff1cb97cd5664b0eba6f5b6d122a40864787a11974f5f4d12ff56ea8a421d937"
     }
   ]
 }
