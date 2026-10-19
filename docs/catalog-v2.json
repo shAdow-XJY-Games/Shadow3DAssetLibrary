@@ -1304,9 +1304,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "5b399052920fea8adaeb359272b7cce880aae081"
+    },
+    "toys-six-wheel-steam-locomotive-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "7d447cca7731b72712282a19564ca8e46c36c9e8"
     }
   },
-  "assetCount": 431,
+  "assetCount": 432,
   "shards": [
     {
       "theme": "camping",
@@ -2742,6 +2747,13 @@
       "path": "metadata/f0d102751a0da06a87bca44fc55aaa0f36ec74f32dcac038a057ffd43d4d7158.json",
       "size": 2761,
       "sha256": "f0d102751a0da06a87bca44fc55aaa0f36ec74f32dcac038a057ffd43d4d7158"
+    },
+    {
+      "theme": "toys",
+      "count": 1,
+      "path": "metadata/2b0512d610f990bd3e800ee9643a6d8a1d4b0f213cff624c3ba0286c646c880b.json",
+      "size": 2664,
+      "sha256": "2b0512d610f990bd3e800ee9643a6d8a1d4b0f213cff624c3ba0286c646c880b"
     }
   ]
 }
