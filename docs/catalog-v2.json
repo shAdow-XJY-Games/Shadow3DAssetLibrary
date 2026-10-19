@@ -1299,9 +1299,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "263a561c6084b0932e0c1eb053e7e45705ef22b3"
+    },
+    "renewable-open-twin-battery-box-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "5b399052920fea8adaeb359272b7cce880aae081"
     }
   },
-  "assetCount": 430,
+  "assetCount": 431,
   "shards": [
     {
       "theme": "camping",
@@ -2730,6 +2735,13 @@
       "path": "metadata/7994af585794d4a2688291c87d9603c8a2fff67bc1cb64b4ec162e5f70d24e58.json",
       "size": 2492,
       "sha256": "7994af585794d4a2688291c87d9603c8a2fff67bc1cb64b4ec162e5f70d24e58"
+    },
+    {
+      "theme": "renewable",
+      "count": 1,
+      "path": "metadata/f0d102751a0da06a87bca44fc55aaa0f36ec74f32dcac038a057ffd43d4d7158.json",
+      "size": 2761,
+      "sha256": "f0d102751a0da06a87bca44fc55aaa0f36ec74f32dcac038a057ffd43d4d7158"
     }
   ]
 }
