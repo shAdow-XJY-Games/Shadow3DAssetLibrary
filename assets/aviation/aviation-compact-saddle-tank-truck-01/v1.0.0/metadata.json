@@ -1,0 +1,42 @@
+{
+  "id": "aviation-compact-saddle-tank-truck-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "aviation",
+  "style": "S01-clean-geometric",
+  "title": "Compact Saddle-Tank Truck Exterior",
+  "description": "One original compact aviation-themed ground vehicle exterior, counted as one static visual prop. A new short five-sided cab with genuinely recessed thick framed panes sits on two continuous chassis rails and four cross ties. Four flat-bottom polygonal wheels meet two fixed axles, four hangers and the rails through finite face patches. Four real open wheel arches remain clear of the tyres. The long solid exterior tank has a continuous elliptical section and original multi-ring rounded closed ends, supported by the complete curved upper surfaces of two independent saddles. A thick side service cabinet has a real open recess and two separate fixed blind sockets; these are disconnected visual shapes without fluid or working connections. Every mesh has a finite support path. No tank interior, airplane, hose, fuel, person, apron, animation, logos, hazard or official markings. This is not a copied van cab with a barrel, old pickup cargo bed, composter drum, minibus or three-wheeler. No fuel containment, pressure, sealing, pumping, dispensing, measurement, steering, wheel motion, speed, load, fire performance, aviation suitability, manufacture, installation, human fit or safety certification.",
+  "bounds": {
+    "x": 1.79,
+    "y": 4.04,
+    "z": 2.049432,
+    "unit": "m"
+  },
+  "triangles": 1472,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/aviation/aviation-compact-saddle-tank-truck-01/v1.0.0/model.glb",
+      "size": 100548,
+      "sha256": "e823842a63b8979f7c7d0e9a878c12bd4c64afff18856eeb22df5349fa5a4174"
+    },
+    "blend": {
+      "path": "assets/aviation/aviation-compact-saddle-tank-truck-01/v1.0.0/source.blend",
+      "size": 850508,
+      "sha256": "4adbb74ac044396cf58c2ddf82522ff8faab0db826c33d984e4a56dc99f7a3c8"
+    },
+    "generator": {
+      "path": "assets/aviation/aviation-compact-saddle-tank-truck-01/v1.0.0/generate.py",
+      "size": 36518,
+      "sha256": "6c01db26b68ba5d4417e6a451e37ee35d962be4235f73607068df2f4b0c270f9"
+    },
+    "render": {
+      "path": "assets/aviation/aviation-compact-saddle-tank-truck-01/v1.0.0/thumbnail.png",
+      "size": 549333,
+      "sha256": "f6b7acaa52767d4311827e14ce20a0e269ab006f52e5af1baa0d9df4196f201e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
