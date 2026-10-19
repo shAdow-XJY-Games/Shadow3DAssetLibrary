@@ -1,0 +1,42 @@
+{
+  "id": "laboratory-round-and-triangular-beaker-kit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "laboratory",
+  "style": "S01-clean-geometric",
+  "title": "Round and Triangular Beaker Kit",
+  "description": "One original static pair of opaque thick-walled beaker forms, counted as one prop: a low wide round straight-sided beaker with a broad V-shaped pouring notch and a taller tapered rounded-triangular beaker whose front corner extends into a pouring lip. Each mouth, lip, inner wall, thick complete bottom and outer wall belongs to one continuous connected closed shell. Three short solid illustrative ticks are finitely embedded in the round exterior. Both complete flat bases rest on ground, with full separation between the two beakers. Four opaque unlinked constant PBR materials; metres, native Z up, front -Y and horizontal bounds-centred ground origin. No separate foot ring, handle, lid, liquid, transparent surface, numbers, units, logos or scene. Both different cross sections are authored from new polygon geometry, not resized cylinders, pitchers without handles, old bowls or colour variants. Static visual appearance only: no volume value, calibrated graduation, measurement accuracy, glass or refraction, pouring or fluid simulation, chemical, temperature, laboratory procedure, material performance, hygiene, human fit, manufacture or laboratory safety certification claim.",
+  "bounds": {
+    "x": 0.507933,
+    "y": 0.233,
+    "z": 0.188,
+    "unit": "m"
+  },
+  "triangles": 2028,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/laboratory/laboratory-round-and-triangular-beaker-kit-01/v1.0.0/model.glb",
+      "size": 99960,
+      "sha256": "227683a40bb370e35f73b1b28549a8a0ed35364a9e93ed6e87c6ed6e22220e1d"
+    },
+    "blend": {
+      "path": "assets/laboratory/laboratory-round-and-triangular-beaker-kit-01/v1.0.0/source.blend",
+      "size": 650180,
+      "sha256": "7b971f8903cceaaeda52e4f84f1ccaf19839adf3f4c7ab9eb84888629d1a87ae"
+    },
+    "generator": {
+      "path": "assets/laboratory/laboratory-round-and-triangular-beaker-kit-01/v1.0.0/generate.py",
+      "size": 22284,
+      "sha256": "1cd234ad29489ce1bfd7ab29a78e562b1a181f4eb0bedefc47c947dc36e33e99"
+    },
+    "render": {
+      "path": "assets/laboratory/laboratory-round-and-triangular-beaker-kit-01/v1.0.0/thumbnail.png",
+      "size": 486421,
+      "sha256": "26f0c1f2a91611811a5a5255e4fde5981058b54ec543d55078056fe275e936c0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
