@@ -1,0 +1,42 @@
+{
+  "id": "logistics-cantilever-scan-workstation-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "logistics",
+  "style": "S01-clean-geometric",
+  "title": "Cantilever Scan Workstation",
+  "description": "One original static unpowered scan-workstation visual prop. A wide thick worktop has a real stepped through-opening and an independent shallow thick tray whose full flange rests on a finite perimeter shoulder. Four complete flat-footed legs and a three-member low H brace support the top. An offset rear column and one continuous L-shaped horizontal cantilever carry a thick downward-opening blind head shell. A separate dark opaque unlit inner plate rests on a full integral internal ledge, with real open cavity below and complete free chamber and perimeter air above. A small fixed side display has a finite mount and a flat dark unlit face, not an operational screen. The entire head-to-tray working space remains empty. Fifteen editable closed connected meshes, five opaque unlinked constant PBR materials, metre units, native Z up, front -Y, horizontal bounds-centred ground origin. No parcel, barcode, text, logo, cable, button interaction, computer operation or imported prior geometry. This newly authored stepped opening, tray, support frame and suspended downward head layout do not rename or recolour a scale, star-chart console, generic table or logistics scene. No barcode recognition, optical imaging, laser, reading distance, weighing, computing, networking, automation, parcel fit, loading, ergonomics, stability, material suitability, manufacture, installation, electrical/laser/workplace safety or functional certification claim.",
+  "bounds": {
+    "x": 1.36,
+    "y": 0.84,
+    "z": 1.63,
+    "unit": "m"
+  },
+  "triangles": 980,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/logistics/logistics-cantilever-scan-workstation-01/v1.0.0/model.glb",
+      "size": 44588,
+      "sha256": "c59e46c075044735ffbe0c9da261edea01c58f6692753e2ffe60783b9793f77e"
+    },
+    "blend": {
+      "path": "assets/logistics/logistics-cantilever-scan-workstation-01/v1.0.0/source.blend",
+      "size": 650712,
+      "sha256": "d55c655408bd6f8dae5ec04b8ebcf59d6471a7e065a99abde9b85ab97af439bd"
+    },
+    "generator": {
+      "path": "assets/logistics/logistics-cantilever-scan-workstation-01/v1.0.0/generate.py",
+      "size": 31615,
+      "sha256": "1c0c67f3168ea002a1bf77131401ee02a38687fd45eb1638ccf6f334c3f2d140"
+    },
+    "render": {
+      "path": "assets/logistics/logistics-cantilever-scan-workstation-01/v1.0.0/thumbnail.png",
+      "size": 524932,
+      "sha256": "58283ab6e8adf3af0ef3cd09946b66d5446f8e3ec1aa9dd003996d70274e42b3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
