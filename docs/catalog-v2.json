@@ -1389,9 +1389,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "1acd521f958d87bc274dadd06f034637daf65438"
+    },
+    "music-quarter-round-stage-corner-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "745abc6a11532e725dd526f26d37f1b7e3142ac2"
     }
   },
-  "assetCount": 448,
+  "assetCount": 449,
   "shards": [
     {
       "theme": "camping",
@@ -2946,6 +2951,13 @@
       "path": "metadata/b7cf5e7c5d27f757aa07e8652331b1aac87776cb7aaa626871454424dd6f09c4.json",
       "size": 2334,
       "sha256": "b7cf5e7c5d27f757aa07e8652331b1aac87776cb7aaa626871454424dd6f09c4"
+    },
+    {
+      "theme": "music",
+      "count": 1,
+      "path": "metadata/f36895b781c868f479c9eac2c16b01a95a15ba03fdd24014ee8247a10c3785f6.json",
+      "size": 2433,
+      "sha256": "f36895b781c868f479c9eac2c16b01a95a15ba03fdd24014ee8247a10c3785f6"
     }
   ]
 }
