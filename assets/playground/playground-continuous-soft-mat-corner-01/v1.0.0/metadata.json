@@ -1,0 +1,42 @@
+{
+  "id": "playground-continuous-soft-mat-corner-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "playground",
+  "style": "S01-clean-geometric",
+  "title": "Continuous Soft Mat Corner",
+  "description": "One original static visual corner mat: a single connected closed thick concave mesh with two short wide arms, five rounded convex turns, one rounded inward turn, an uninterrupted top, a complete flat finite sole and a six-station rounded perimeter thickness profile. Newly authored numerical outline and cross section, not two rectangular mats, a thinned scaffold platform, a recoloured curb or a flattened hanging mat. One opaque constant unlinked PBR material. Metres, source Z up, bounds-centred ground origin; the open notch faces +X/+Y. No texture, text, logo, accessory, child, equipment or scene is included. Soft mat describes visual appearance only. No softness, elasticity, cushioning, impact protection, slip resistance, child or adult suitability, hygiene, fire behaviour, safety certification, manufacturing, installation, interlocking, seamless tiling, old-equipment fit, collision or navigation claim.",
+  "bounds": {
+    "x": 1.24,
+    "y": 1.24,
+    "z": 0.048,
+    "unit": "m"
+  },
+  "triangles": 500,
+  "materials": 1,
+  "files": {
+    "glb": {
+      "path": "assets/playground/playground-continuous-soft-mat-corner-01/v1.0.0/model.glb",
+      "size": 26900,
+      "sha256": "fabbb052a4ed286dfe7787f58d1a988aa534a7264044302a03c38026541a0fe2"
+    },
+    "blend": {
+      "path": "assets/playground/playground-continuous-soft-mat-corner-01/v1.0.0/source.blend",
+      "size": 477788,
+      "sha256": "c58fc268afdeba86edd5762b0bf0ff6ec53df89bee9678683ace1db7ce0aa48c"
+    },
+    "generator": {
+      "path": "assets/playground/playground-continuous-soft-mat-corner-01/v1.0.0/generate.py",
+      "size": 23408,
+      "sha256": "0cf7dbad5f513cce65cf9eaab5b3c2bdb2e9d7c14c07e735974162ff5dd14709"
+    },
+    "render": {
+      "path": "assets/playground/playground-continuous-soft-mat-corner-01/v1.0.0/thumbnail.png",
+      "size": 455446,
+      "sha256": "cf00f85ae45333e0bb132509e27a65bb95b01585f8b8c43ed8da58acea6eec9f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
