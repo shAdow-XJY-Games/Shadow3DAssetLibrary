@@ -1479,9 +1479,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "2d7a06b456654f893f4a1cb4aeb33f438f0a805a"
+    },
+    "construction-concave-l-scaffold-corner-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "4fa112ad6f8edd896ce6a2935524b927dd8b5c2e"
     }
   },
-  "assetCount": 466,
+  "assetCount": 467,
   "shards": [
     {
       "theme": "camping",
@@ -3162,6 +3167,13 @@
       "path": "metadata/ab0ada26fe00ea826f5c8b16635019f5f70030e61613dcca4933f7f5c7b994d7.json",
       "size": 2604,
       "sha256": "ab0ada26fe00ea826f5c8b16635019f5f70030e61613dcca4933f7f5c7b994d7"
+    },
+    {
+      "theme": "construction",
+      "count": 1,
+      "path": "metadata/9472fc011451693c9f99458c951fdc26122d66236cfac6a1a29f8ed04df6358d.json",
+      "size": 2529,
+      "sha256": "9472fc011451693c9f99458c951fdc26122d66236cfac6a1a29f8ed04df6358d"
     }
   ]
 }
