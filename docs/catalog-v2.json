@@ -1489,9 +1489,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "656d3d64797a3cfa3c142d3ad00d5fd101855848"
+    },
+    "education-fixed-tray-projector-stand-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "eb72849ff101088354abc279eb6371416fcca348"
     }
   },
-  "assetCount": 468,
+  "assetCount": 469,
   "shards": [
     {
       "theme": "camping",
@@ -3186,6 +3191,13 @@
       "path": "metadata/83b481e6d9bbe1fa837eba592579dd50a1ece13f61fbba0bca85d39c2549f80b.json",
       "size": 2485,
       "sha256": "83b481e6d9bbe1fa837eba592579dd50a1ece13f61fbba0bca85d39c2549f80b"
+    },
+    {
+      "theme": "education",
+      "count": 1,
+      "path": "metadata/c66b97ba3fa163411864f02a1876a0553899ef816081bd14e92913f8e3a36aa1.json",
+      "size": 2410,
+      "sha256": "c66b97ba3fa163411864f02a1876a0553899ef816081bd14e92913f8e3a36aa1"
     }
   ]
 }
