@@ -1,0 +1,42 @@
+{
+  "id": "fitness-fixed-incline-press-bench-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "S01-clean-geometric",
+  "title": "Fixed-Incline Press Bench",
+  "description": "One original low-poly fixed-incline press bench, counted as one complete static prop. A separate short chamfered cushion and long 30-degree back cushion have complete thick closed bodies and independent flat underplates. A real visible seat-back gap remains. Two independent thick pierced hinge ears have genuine full-depth rectangular shaft openings; a continuous fixed sixteen-sided solid pin has integral end shoulders, finite lower seats in both holes and a finite upper face under the back tongue. A broad fixed rear wedge meets the back underplate across an entire finite inclined face. Four ground pads, two transverse feet, one low longitudinal beam and a front seat post form a connected support assembly. Eighteen closed editable meshes and four opaque unlinked constant PBR materials. Metres, native Z up, front -Y, horizontally bounds-centred ground origin. No barbell, rack, athlete, second angle, adjustment mechanism, animation, scene or textures. Newly authored short-seat/long-back geometry, not a recoloured public bench, bleacher row, rack or stretched rowing seat. Fixed static illustrative pose only: no adjustment, rotation, locking, friction, exercise suitability, body dimensions, comfort, load, strength, stability, injury prevention, manufacturing, installation, equipment standards or safety claim. No compatibility with historical barbell racks or other assets is asserted.",
+  "bounds": {
+    "x": 0.56,
+    "y": 1.58,
+    "z": 1.042201,
+    "unit": "m"
+  },
+  "triangles": 1008,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-fixed-incline-press-bench-01/v1.0.0/model.glb",
+      "size": 45760,
+      "sha256": "d50ea483bfb12ecfcc7bb34cd8af6d373346683684bbd651dd1647ee3ee50cde"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-fixed-incline-press-bench-01/v1.0.0/source.blend",
+      "size": 660888,
+      "sha256": "f946321250bcb229e0606efcecac18b1c4b5af03f5563c61ac05a565f35c01d6"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-fixed-incline-press-bench-01/v1.0.0/generate.py",
+      "size": 33232,
+      "sha256": "ff29fc23f519739d4f397445667eca3e38b5a5a469f84fb096a7e793b23dd33c"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-fixed-incline-press-bench-01/v1.0.0/thumbnail.png",
+      "size": 511434,
+      "sha256": "8996abedb2bd82da388cdedf0e0596170344fc1d74198464276aeb6e86c23296"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
