@@ -1404,9 +1404,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "2bf2d72f1fd587e628dcfcc4b1e843a6497f4ca9"
+    },
+    "communications-pierced-rail-equipment-cabinet-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "3a63890a68405dc01f5f22d509d8fc4c13fe48e9"
     }
   },
-  "assetCount": 451,
+  "assetCount": 452,
   "shards": [
     {
       "theme": "camping",
@@ -2982,6 +2987,13 @@
       "path": "metadata/16ffc6aea712cbc8746622eddc1812202eb4e94c2847fab6d81011b8589e1833.json",
       "size": 2493,
       "sha256": "16ffc6aea712cbc8746622eddc1812202eb4e94c2847fab6d81011b8589e1833"
+    },
+    {
+      "theme": "communications",
+      "count": 1,
+      "path": "metadata/651762339d7b3c0aac7e9430840ff4cc066f64b9ef67684d8975a93c9a23fcb8.json",
+      "size": 2715,
+      "sha256": "651762339d7b3c0aac7e9430840ff4cc066f64b9ef67684d8975a93c9a23fcb8"
     }
   ]
 }
