@@ -1,0 +1,42 @@
+{
+  "id": "arcade-double-sided-recessed-lightbox-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "arcade",
+  "style": "S01-clean-geometric",
+  "title": "Double-Sided Recessed Lightbox",
+  "description": "One original independent double-sided recessed opaque-panel lightbox appearance, counted as one static prop. One continuous thick rectangular frame has a genuine through aperture and two opposing integral inner shoulders. Two independent 18 mm thick opaque blank panels seat on those shoulders with complete finite annular contacts. Both faces are recessed by 57 mm, each panel retains 6 mm edge clearance, and a real complete stepped air chamber separates the panels. Two fixed short columns support the whole frame on two wide ground runners. Seven closed editable meshes and four opaque constant unlinked PBR materials. Metres, native Z up, front -Y and horizontally bounds-centred ground origin. Every shape is newly authored, without importing or copying old cabinet marquees, work lights or softboxes. No textures, text, logos, emission, circuitry, cables, animation or opening mechanism. Fixed unlit static appearance only: no lighting, reflectance/transmission optics, advertising/game functionality, electrical performance, panel replacement, installation, carrying capacity, stability or safety certification claim. Finite geometric support does not establish real-world safe use.",
+  "bounds": {
+    "x": 0.98,
+    "y": 0.58,
+    "z": 1.42,
+    "unit": "m"
+  },
+  "triangles": 168,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/arcade/arcade-double-sided-recessed-lightbox-01/v1.0.0/model.glb",
+      "size": 14256,
+      "sha256": "4064e5e74752f658af92ff462b40bc86230ca8018a9e30e0bf4c050b3fb22c0f"
+    },
+    "blend": {
+      "path": "assets/arcade/arcade-double-sided-recessed-lightbox-01/v1.0.0/source.blend",
+      "size": 557044,
+      "sha256": "e8693f364414e6950fe50c00d61a301c7a852a4caf1e9a44928da701a44c567a"
+    },
+    "generator": {
+      "path": "assets/arcade/arcade-double-sided-recessed-lightbox-01/v1.0.0/generate.py",
+      "size": 29832,
+      "sha256": "7df2d62fc46f64f155f928b6a744d9d75142f66f5581427ed3a146d39751c9b6"
+    },
+    "render": {
+      "path": "assets/arcade/arcade-double-sided-recessed-lightbox-01/v1.0.0/thumbnail.png",
+      "size": 519700,
+      "sha256": "73b884621f347f6ca341862d7f3bab8d455fdcc7ddcbab4988c592ac4287ca5a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
