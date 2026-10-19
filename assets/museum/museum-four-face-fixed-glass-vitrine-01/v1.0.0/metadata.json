@@ -1,0 +1,42 @@
+{
+  "id": "museum-four-face-fixed-glass-vitrine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "museum",
+  "style": "S01-clean-geometric",
+  "title": "Four-face Fixed Glass Vitrine",
+  "description": "One original freestanding square empty museum vitrine: a complete stepped ground plinth and bearing floor, four continuous grooved corner posts between complete lower and upper rings, three vertical thick glass panes, a full-height fixed closed grooved glass-frame door, a thick glass lid and one thick glass shelf on four actual finite corner brackets. Two entire display chambers remain empty. Two original bored fixed hinge pairs with continuous headed pins and a finite closing stop connect the closed door; no moving state is claimed. All geometry is newly authored, never imported from an old hood, plinth or opaque cabinet. One static prop in metres, native Z up, front -Y, horizontal bounds centred at its complete ground datum Z=0. Constant PBR materials only; one physical transmission glass, alpha 1, no TEX nodes or linked Principled inputs. No exhibits, labels, lights, text, brands, scene or animation. No opening/insertion/manufacturing behavior, optical accuracy, load, glass safety, stability, security, dust/climate control, museum standard or compatibility claim.",
+  "bounds": {
+    "x": 0.9,
+    "y": 0.76,
+    "z": 1.798,
+    "unit": "m"
+  },
+  "triangles": 1640,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/museum/museum-four-face-fixed-glass-vitrine-01/v1.0.0/model.glb",
+      "size": 75196,
+      "sha256": "ab17bb3ce028e1f3875e69ebdd2e6a81dbe5a030ecee0cb8765f88b77b846c24"
+    },
+    "blend": {
+      "path": "assets/museum/museum-four-face-fixed-glass-vitrine-01/v1.0.0/source.blend",
+      "size": 708880,
+      "sha256": "451d9375423699b107cd8b7d508309f5fbecd0cf3e23865a573493b5ec3b6d71"
+    },
+    "generator": {
+      "path": "assets/museum/museum-four-face-fixed-glass-vitrine-01/v1.0.0/generate.py",
+      "size": 42833,
+      "sha256": "a8250299e3ab9a6d4d2f14ab9c9a42c60b4c6cca34b07d9de7e0f7e38b41c1be"
+    },
+    "render": {
+      "path": "assets/museum/museum-four-face-fixed-glass-vitrine-01/v1.0.0/thumbnail.png",
+      "size": 607213,
+      "sha256": "2cf4368b42059bd07f5fb7bf92b2aa520937fdc425f45ad3d6d23b1d7e76c745"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
