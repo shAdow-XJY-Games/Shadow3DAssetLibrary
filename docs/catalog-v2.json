@@ -1339,9 +1339,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "983c0ce17e0a2ddfd521b8b7ae1c97b85c68895f"
+    },
+    "sports-vented-full-height-changing-locker-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "03c102553ab34a63b2f2d9bb1060f970bb089f33"
     }
   },
-  "assetCount": 438,
+  "assetCount": 439,
   "shards": [
     {
       "theme": "camping",
@@ -2826,6 +2831,13 @@
       "path": "metadata/beb44b9285db472829cba0d9a384522c3ef39fa4386b41b2e15d1af585dbc980.json",
       "size": 2670,
       "sha256": "beb44b9285db472829cba0d9a384522c3ef39fa4386b41b2e15d1af585dbc980"
+    },
+    {
+      "theme": "sports",
+      "count": 1,
+      "path": "metadata/410c7e3f8bb1558762e9677d307ed1e90f2ea0d084feff975a91fa17643fb5ee.json",
+      "size": 2640,
+      "sha256": "410c7e3f8bb1558762e9677d307ed1e90f2ea0d084feff975a91fa17643fb5ee"
     }
   ]
 }
