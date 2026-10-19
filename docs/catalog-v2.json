@@ -1394,9 +1394,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "745abc6a11532e725dd526f26d37f1b7e3142ac2"
+    },
+    "navigation-framed-contour-terrain-model-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "c787055a965037b14076f77d8e8b4922eff7142b"
     }
   },
-  "assetCount": 449,
+  "assetCount": 450,
   "shards": [
     {
       "theme": "camping",
@@ -2958,6 +2963,13 @@
       "path": "metadata/f36895b781c868f479c9eac2c16b01a95a15ba03fdd24014ee8247a10c3785f6.json",
       "size": 2433,
       "sha256": "f36895b781c868f479c9eac2c16b01a95a15ba03fdd24014ee8247a10c3785f6"
+    },
+    {
+      "theme": "navigation",
+      "count": 1,
+      "path": "metadata/2c3781ef8b91d16012ec349defd6ba90ef279e95de8b2e29e36fb53312f5cbff.json",
+      "size": 2493,
+      "sha256": "2c3781ef8b91d16012ec349defd6ba90ef279e95de8b2e29e36fb53312f5cbff"
     }
   ]
 }
