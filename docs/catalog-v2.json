@@ -1279,9 +1279,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "6fa0c9b9c963dddbc0b09c752e1542f7ab019463"
+    },
+    "playground-corner-seat-sandpit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "f07462bf8884e4cf19ac667ff8cb2c12d1ce65ed"
     }
   },
-  "assetCount": 426,
+  "assetCount": 427,
   "shards": [
     {
       "theme": "camping",
@@ -2682,6 +2687,13 @@
       "path": "metadata/95a3f70b963f4a135e0bc98f842a1b0aef18c5c87714da7c953d327ea936d405.json",
       "size": 2604,
       "sha256": "95a3f70b963f4a135e0bc98f842a1b0aef18c5c87714da7c953d327ea936d405"
+    },
+    {
+      "theme": "playground",
+      "count": 1,
+      "path": "metadata/276a5ff0442b84ce3e27cf38e2afaef6fbf7cc4f82a7cd21bbf04aac73f85342.json",
+      "size": 2309,
+      "sha256": "276a5ff0442b84ce3e27cf38e2afaef6fbf7cc4f82a7cd21bbf04aac73f85342"
     }
   ]
 }
