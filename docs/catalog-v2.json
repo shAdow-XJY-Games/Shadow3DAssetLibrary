@@ -1354,9 +1354,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "7770534170fb73069791852037bf0f0b073263d6"
+    },
+    "timekeeping-recess-front-watchmaker-bench-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "134b1a85046b9fd19ab8d31b6e13622a816efde0"
     }
   },
-  "assetCount": 441,
+  "assetCount": 442,
   "shards": [
     {
       "theme": "camping",
@@ -2862,6 +2867,13 @@
       "path": "metadata/cc7bbac38f1930f62ea2b8bced2fab0d950f75d12de59b47e9539136225b9fa3.json",
       "size": 2501,
       "sha256": "cc7bbac38f1930f62ea2b8bced2fab0d950f75d12de59b47e9539136225b9fa3"
+    },
+    {
+      "theme": "timekeeping",
+      "count": 1,
+      "path": "metadata/73e2857137d0ba9e18470a1716e02e924a78ed8d758f849675b7d0e467e5be2e.json",
+      "size": 2817,
+      "sha256": "73e2857137d0ba9e18470a1716e02e924a78ed8d758f849675b7d0e467e5be2e"
     }
   ]
 }
