@@ -1474,9 +1474,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "a1a71cd4d9378e7f9d03de111340f36240f91f98"
+    },
+    "laboratory-paired-slot-slide-specimen-case-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "2d7a06b456654f893f4a1cb4aeb33f438f0a805a"
     }
   },
-  "assetCount": 465,
+  "assetCount": 466,
   "shards": [
     {
       "theme": "camping",
@@ -3150,6 +3155,13 @@
       "path": "metadata/618e9a6a3c3e481c72b1701c6005fbf9d2dde96abeb152d30ad83135311b4705.json",
       "size": 2357,
       "sha256": "618e9a6a3c3e481c72b1701c6005fbf9d2dde96abeb152d30ad83135311b4705"
+    },
+    {
+      "theme": "laboratory",
+      "count": 1,
+      "path": "metadata/ab0ada26fe00ea826f5c8b16635019f5f70030e61613dcca4933f7f5c7b994d7.json",
+      "size": 2604,
+      "sha256": "ab0ada26fe00ea826f5c8b16635019f5f70030e61613dcca4933f7f5c7b994d7"
     }
   ]
 }
