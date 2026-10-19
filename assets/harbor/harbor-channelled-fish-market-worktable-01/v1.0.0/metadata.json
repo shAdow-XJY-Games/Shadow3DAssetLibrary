@@ -1,0 +1,42 @@
+{
+  "id": "harbor-channelled-fish-market-worktable-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "S01-clean-geometric",
+  "title": "Channelled Fish-market Worktable",
+  "description": "One original empty static fish-market worktable, counted as one prop. Four full ground legs and a continuous upper frame support a wide shallow inclined workface, an integral full-length front side channel, two thick end walls and a low back upstand. The main face leads through a low landing and sloped transition into the real channel floor without a raised barrier. A genuine rectangular opening passes through the channel floor near its right end into a short thick open rectangular outlet whose entire annular root meets the underside. One independent thick five-through-slot grate covers only the left portion of the channel, resting on its two entire finite shoulders; the rest remains open and empty. Two lower side ties and one rear tie join the four legs. All thirteen closed editable meshes have complete material domains, complete finite empty regions and finite opposed contacts. Metres, source Z up, front -Y, horizontally bounds-centred ground origin. Three opaque constant unlinked Principled PBR materials; no texture nodes, linked shader inputs, imported geometry, fish, knives, buckets, ice, water, labels, scene or animation. Original geometry is not a recoloured flat table, deep kitchen sink or market stall. Static visual appearance only: no water flow, drainage efficiency, clogging, leak prevention, sanitation, food-contact suitability, cutting, human operation, cleaning, old-bucket or pier fit, load, strength, material manufacture or safety certification.",
+  "bounds": {
+    "x": 1.8,
+    "y": 0.88,
+    "z": 1.02,
+    "unit": "m"
+  },
+  "triangles": 564,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-channelled-fish-market-worktable-01/v1.0.0/model.glb",
+      "size": 31768,
+      "sha256": "078acc322e740d462d15d5241638b6e4a9eae454df52de4e3a2c22ab24df91a2"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-channelled-fish-market-worktable-01/v1.0.0/source.blend",
+      "size": 578240,
+      "sha256": "1c998acfc70043578303477393807f5e509f79909c7c75f088a74fa3e6bd6659"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-channelled-fish-market-worktable-01/v1.0.0/generate.py",
+      "size": 36393,
+      "sha256": "5a84e002cdf334dc1a5b2d6a107f9afecd6ef4ee2b7c2ad811afd5c9f60fdf2a"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-channelled-fish-market-worktable-01/v1.0.0/thumbnail.png",
+      "size": 518085,
+      "sha256": "e67543b6373a44ab54218b85f88b19b6f8e95d8cb30f44718ae8b035d77746e0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
