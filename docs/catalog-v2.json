@@ -1424,9 +1424,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "f6cee83980b1dea2b729830784e134bf49cd1e4b"
+    },
+    "tailoring-hollow-sleeveless-sample-display-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "d66064d0aa26125eb51191d0a9c5c1b9ca34e958"
     }
   },
-  "assetCount": 455,
+  "assetCount": 456,
   "shards": [
     {
       "theme": "camping",
@@ -3030,6 +3035,13 @@
       "path": "metadata/e182e138c6a6c1189527d5a15b8f19d03f186c62e7e81aad6817bddec874c379.json",
       "size": 2318,
       "sha256": "e182e138c6a6c1189527d5a15b8f19d03f186c62e7e81aad6817bddec874c379"
+    },
+    {
+      "theme": "tailoring",
+      "count": 1,
+      "path": "metadata/7b44155c1a289c9f41279d46658a5d77252ebc96308d6566206b5efeb04f80f6.json",
+      "size": 2555,
+      "sha256": "7b44155c1a289c9f41279d46658a5d77252ebc96308d6566206b5efeb04f80f6"
     }
   ]
 }
