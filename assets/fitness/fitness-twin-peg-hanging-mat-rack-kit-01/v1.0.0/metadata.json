@@ -1,0 +1,42 @@
+{
+  "id": "fitness-twin-peg-hanging-mat-rack-kit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "S01-clean-geometric",
+  "title": "Twin-peg Hanging Mat Rack",
+  "description": "One original static H-foot hanging mat rack with two rear uprights, a full upper crossbeam, two parallel long chamfer-section pegs, two finite root braces and two fixed end stops. Two identical original thick mats hang at separate positions along both pegs. Every mat is one continuous gently bowed closed mesh with two true reinforced through-holes; the complete top inner-wall bearing patches rest finitely on both peg tops while all other hole walls remain clear. The entire mats are mutually separated and their whole lower edges remain above ground. Fourteen closed editable meshes, four opaque constant PBR materials, metres, source Z up, front -Y and horizontally bounds-centred ground origin. No texture nodes, linked Principled inputs or imported geometry. Both mats are internal same-source instances, not additional assets. Original geometry, not a shelf, coat hook, spool rack recolour or reused scene mat. Only fixed visual geometry: no yoga training, human suitability, fitting to an earlier mat, insertion/removal trajectory, motion, elastic deformation, gravity sag, loading, strength, anti-tip, material durability, manufacture or safety certification.",
+  "bounds": {
+    "x": 0.9,
+    "y": 0.84,
+    "z": 2.05,
+    "unit": "m"
+  },
+  "triangles": 808,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-twin-peg-hanging-mat-rack-kit-01/v1.0.0/model.glb",
+      "size": 40796,
+      "sha256": "fd7b2b7d822df03c4769b67822e3f40d55f411fd11704385b96fc1e342cb1640"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-twin-peg-hanging-mat-rack-kit-01/v1.0.0/source.blend",
+      "size": 616252,
+      "sha256": "6b62af9c8dce397d0a2e9949cf9ff34a8d1a6400315ce788e7727d949cc3fc03"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-twin-peg-hanging-mat-rack-kit-01/v1.0.0/generate.py",
+      "size": 32302,
+      "sha256": "5f10bf03af9f6c30531281da9775244170ca3a846d24492a290407931f59c62a"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-twin-peg-hanging-mat-rack-kit-01/v1.0.0/thumbnail.png",
+      "size": 495092,
+      "sha256": "4c7b300b91c4f789176176cdd80b01aaec8731f1a22db29430cad6f0bd567917"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
