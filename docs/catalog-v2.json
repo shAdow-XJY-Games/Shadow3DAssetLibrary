@@ -1234,9 +1234,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "84fbb58f6c1a3c4623bcad89d869dc458ee1def0"
+    },
+    "communications-open-terminal-distribution-box-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "9d343e8ed2901645e854802951ec3453df6c5878"
     }
   },
-  "assetCount": 417,
+  "assetCount": 418,
   "shards": [
     {
       "theme": "camping",
@@ -2574,6 +2579,13 @@
       "path": "metadata/ff1cb97cd5664b0eba6f5b6d122a40864787a11974f5f4d12ff56ea8a421d937.json",
       "size": 2690,
       "sha256": "ff1cb97cd5664b0eba6f5b6d122a40864787a11974f5f4d12ff56ea8a421d937"
+    },
+    {
+      "theme": "communications",
+      "count": 1,
+      "path": "metadata/faa697bd89acba3c5c400846a16c97a244dec6ffc3a2f017a989b6d362ee8ec0.json",
+      "size": 2534,
+      "sha256": "faa697bd89acba3c5c400846a16c97a244dec6ffc3a2f017a989b6d362ee8ec0"
     }
   ]
 }
