@@ -1264,9 +1264,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "5e1c1534af70386c4f4b3d9c4ea2c4b46bf24101"
+    },
+    "construction-caged-floor-work-light-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "40a91780697b18ffb06ae107a5778098223276b4"
     }
   },
-  "assetCount": 423,
+  "assetCount": 424,
   "shards": [
     {
       "theme": "camping",
@@ -2646,6 +2651,13 @@
       "path": "metadata/492740da589b2e3c44d845e521e3125e06969543de75b06ceae6ffd8080f5a96.json",
       "size": 2613,
       "sha256": "492740da589b2e3c44d845e521e3125e06969543de75b06ceae6ffd8080f5a96"
+    },
+    {
+      "theme": "construction",
+      "count": 1,
+      "path": "metadata/b2ef4e59399ae862e0cf55c2da3bcde5adee4045997c1fca93122aa951928341.json",
+      "size": 2578,
+      "sha256": "b2ef4e59399ae862e0cf55c2da3bcde5adee4045997c1fca93122aa951928341"
     }
   ]
 }
