@@ -1,0 +1,42 @@
+{
+  "id": "tailoring-hollow-sleeveless-sample-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "tailoring",
+  "style": "S01-clean-geometric",
+  "title": "Hollow Sleeveless Sample Display",
+  "description": "One original square-neck sleeveless sample garment, with a gently narrowed waist, flared open hem and convex front/back surfaces, on its own thin central post and finite base. The garment is one continuous closed material shell with complete inner and outer surfaces and four genuine openings: neck, both armholes, and the entire hem. A narrow connected yoke has two short broad internal shoulder pads, each contacting a complete finite shoulder underside patch. The isolated garment cavity is empty; the assembled cavity is partitioned around the declared thin post and yoke, and the post passes through the otherwise open hem. No mannequin torso or hidden filler. All fixed pieces together are one prop, and this one form leaves other original sample-garment forms partial/unreviewed. Metres, native Z up, front -Y, horizontally bounds-centred ground origin. Constant opaque PBR only: no TEX_* nodes, linked Principled inputs, image/procedural textures, text, branding or animation. Entire geometry newly authored, neither an extruded clothesline T-shirt nor a converted hat veil or hamper. Static visual appearance only; no body, size, gender or age fit, wearable/dressing action, cloth dynamics, sewing/cutting/manufacturing, comfort, protection, material/load/stability/safety or old-hanger compatibility claim.",
+  "bounds": {
+    "x": 0.5,
+    "y": 0.29,
+    "z": 1.396,
+    "unit": "m"
+  },
+  "triangles": 1396,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/tailoring/tailoring-hollow-sleeveless-sample-display-01/v1.0.0/model.glb",
+      "size": 86036,
+      "sha256": "81ffc7d60d42c7ca7af06f95a3d714361a6c0b3cb54cd14fd7a0461553fc352b"
+    },
+    "blend": {
+      "path": "assets/tailoring/tailoring-hollow-sleeveless-sample-display-01/v1.0.0/source.blend",
+      "size": 587820,
+      "sha256": "c5d9452a8181f721cbdef8d015355344d555ea59ace99b183234b2c19f83408a"
+    },
+    "generator": {
+      "path": "assets/tailoring/tailoring-hollow-sleeveless-sample-display-01/v1.0.0/generate.py",
+      "size": 29644,
+      "sha256": "52a4d4a04e4583fe63d515aeb353ab75a107b8bb1b8dd835bcd591ab9daf0e63"
+    },
+    "render": {
+      "path": "assets/tailoring/tailoring-hollow-sleeveless-sample-display-01/v1.0.0/thumbnail.png",
+      "size": 469026,
+      "sha256": "ac6793ee81b2677534591ca02a43ae5acaad0398a3cd9b3a05ca08bf8a871ba7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
