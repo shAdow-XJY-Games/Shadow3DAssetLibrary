@@ -1,0 +1,42 @@
+{
+  "id": "beach-elevated-observation-seat-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "beach",
+  "style": "S01-clean-geometric",
+  "title": "Elevated Observation Seat Stand",
+  "description": "One original fixed high observation-seat visual prop. Four complete outward-splayed posts carry an upper open U-shaped seat cradle and separate rear crossmember; the two continuous rear posts rise to three thick open-spaced back slats and both finite-rooted armrests. The complete thick seat top is 1.80 m high. A separate lower full foot platform has a 1.42 m top and a complete three-member underframe. Two independent inclined ladder side beams have full flat ground soles and support four thick horizontal treads across both complete finite ends. Three clipped diagonal braces join the two side bays and rear bay. Six complete flat soles, all finite structural interfaces, full material bodies and complete empty bays are explicitly described. All geometry is newly authored, without removing a slide chute, stretching a dining chair or barstool, or assembling earlier ladder/platform assets. One static prop with no person, umbrella, lifebuoy, sand, textures, text, logos or animation. Metres, native Z up, front -Y and horizontally bounds-centred ground origin. Only visual form: no real rescue performance, observation coverage, human suitability, climbability, loading, stability, wind resistance, outdoor durability, manufacture, public safety or rescue-equipment certification.",
+  "bounds": {
+    "x": 1.38,
+    "y": 2.36,
+    "z": 2.58,
+    "unit": "m"
+  },
+  "triangles": 348,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/beach/beach-elevated-observation-seat-stand-01/v1.0.0/model.glb",
+      "size": 42232,
+      "sha256": "64d96f5e5bdb8a8f5f721c4708f53b2b11e74862a41b30dc9a634512b09d8e10"
+    },
+    "blend": {
+      "path": "assets/beach/beach-elevated-observation-seat-stand-01/v1.0.0/source.blend",
+      "size": 671904,
+      "sha256": "382bcabf92452c15ba09fbf7cb08e95b0946ed3a07c83f79705b777825f0becd"
+    },
+    "generator": {
+      "path": "assets/beach/beach-elevated-observation-seat-stand-01/v1.0.0/generate.py",
+      "size": 34666,
+      "sha256": "dc1e6b1ebc036d0f1839cc0a918666f8883a1a54ad270257e2ffc1727a2c6b64"
+    },
+    "render": {
+      "path": "assets/beach/beach-elevated-observation-seat-stand-01/v1.0.0/thumbnail.png",
+      "size": 577265,
+      "sha256": "34740e35028c56ef9fd96e3826248cee27d4d53a0c1161e8b958dbc0863e04b3"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
