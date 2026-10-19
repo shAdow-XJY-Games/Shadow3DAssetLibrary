@@ -1,0 +1,42 @@
+{
+  "id": "logistics-wall-mounted-laminated-dock-bumper-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "logistics",
+  "style": "S01-clean-geometric",
+  "title": "Wall-mounted Laminated Dock Bumper",
+  "description": "One original static wall-mounted loading-dock bumper appearance, counted as one prop. Eight thick closed chamfer-cornered lamellae are separated by real full-depth gaps. Every lamella has two complete through holes, carried on two continuous fixed octagonal cross-rods by finite upper internal seats. Two separately bored side brackets support the rods on finite lower seats and meet a complete thick backplate. Four thick end caps meet the rod ends with full finite faces and remain clear of the brackets. Four actual backplate mounting holes pierce its complete thickness. The entire rear mounting face is planar at Y=0.130 m, with every component in the front halfspace; temporary QA wall and mounting bolts are not delivered. All positions fixed, no rotation or elastic operation. Metres, native Z up, front -Y, fixed wall datum; no self-standing or ground-support claim. No textures, labels, vehicle, quay, warehouse scene or reused wheel-chock geometry. Static visual appearance only: no shock absorption, impact resistance, rubber elasticity, vehicle guidance, dock/platform/ship compatibility, anchoring, installation, load capacity, wear, service life, material, manufacture or workplace/port safety certification claim.",
+  "bounds": {
+    "x": 0.88,
+    "y": 0.37,
+    "z": 0.64,
+    "unit": "m"
+  },
+  "triangles": 1724,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/logistics/logistics-wall-mounted-laminated-dock-bumper-01/v1.0.0/model.glb",
+      "size": 72860,
+      "sha256": "1089c7e21e2530ce222666259964476022c2d78b438c784474a87d96531bddf5"
+    },
+    "blend": {
+      "path": "assets/logistics/logistics-wall-mounted-laminated-dock-bumper-01/v1.0.0/source.blend",
+      "size": 679552,
+      "sha256": "21198563631774910100b42bc6c24fccb86bcfc8aebb9d4d29c2094420c2f0b7"
+    },
+    "generator": {
+      "path": "assets/logistics/logistics-wall-mounted-laminated-dock-bumper-01/v1.0.0/generate.py",
+      "size": 31318,
+      "sha256": "db12d5aa7667a33fe052546c4065374d4fb341fe4a1a3a48635d07d01e9ba32c"
+    },
+    "render": {
+      "path": "assets/logistics/logistics-wall-mounted-laminated-dock-bumper-01/v1.0.0/thumbnail.png",
+      "size": 368294,
+      "sha256": "e5d9bde8d7915363b44a4c896ad5ebf3fac24ac96afdd66e5d64c3dd82162935"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
