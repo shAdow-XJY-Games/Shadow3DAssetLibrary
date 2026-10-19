@@ -1359,9 +1359,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "134b1a85046b9fd19ab8d31b6e13622a816efde0"
+    },
+    "baggage-open-clamshell-wheeled-case-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "735f66137c0183b3dfc598205a00e6e1863bd25d"
     }
   },
-  "assetCount": 442,
+  "assetCount": 443,
   "shards": [
     {
       "theme": "camping",
@@ -2874,6 +2879,13 @@
       "path": "metadata/73e2857137d0ba9e18470a1716e02e924a78ed8d758f849675b7d0e467e5be2e.json",
       "size": 2817,
       "sha256": "73e2857137d0ba9e18470a1716e02e924a78ed8d758f849675b7d0e467e5be2e"
+    },
+    {
+      "theme": "baggage",
+      "count": 1,
+      "path": "metadata/1016fc60b124890e6ef8c6196d2b51c748dcc2ce85fab607f7290c7b6ef92b6b.json",
+      "size": 2783,
+      "sha256": "1016fc60b124890e6ef8c6196d2b51c748dcc2ce85fab607f7290c7b6ef92b6b"
     }
   ]
 }
