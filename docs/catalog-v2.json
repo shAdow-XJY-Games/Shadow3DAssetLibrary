@@ -1469,9 +1469,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "89683d536af929b7cf287c0f19e2cd1611c784dc"
+    },
+    "fitness-twin-peg-hanging-mat-rack-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "a1a71cd4d9378e7f9d03de111340f36240f91f98"
     }
   },
-  "assetCount": 464,
+  "assetCount": 465,
   "shards": [
     {
       "theme": "camping",
@@ -3138,6 +3143,13 @@
       "path": "metadata/aa717ffe4e5d05d06517929e1d9a0606fefc57dcea3bf3a78a6c0b71093e6a02.json",
       "size": 2451,
       "sha256": "aa717ffe4e5d05d06517929e1d9a0606fefc57dcea3bf3a78a6c0b71093e6a02"
+    },
+    {
+      "theme": "fitness",
+      "count": 1,
+      "path": "metadata/618e9a6a3c3e481c72b1701c6005fbf9d2dde96abeb152d30ad83135311b4705.json",
+      "size": 2357,
+      "sha256": "618e9a6a3c3e481c72b1701c6005fbf9d2dde96abeb152d30ad83135311b4705"
     }
   ]
 }
