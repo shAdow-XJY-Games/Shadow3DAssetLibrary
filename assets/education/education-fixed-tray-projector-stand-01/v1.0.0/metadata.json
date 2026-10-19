@@ -1,0 +1,42 @@
+{
+  "id": "education-fixed-tray-projector-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "S01-clean-geometric",
+  "title": "Fixed-Tray Projector Stand",
+  "description": "One original empty fixed-height projector-stand appearance, counted as one static prop. One continuous shallow horizontal tray has a full 22 mm bottom, four continuous 25 mm low walls and a true open interior. Four separate complete 90 mm square pads seat its underside on all four arms of one broad continuous cruciform bearer. One full straight fixed square column joins that bearer to one continuous low H-shaped base. Four thick flat feet support the two complete runners. Twelve closed editable meshes and four opaque constant unlinked PBR materials. Metres, native Z up, front -Y and horizontally bounds-centred ground origin. No imported geometry, textures, text, logos, projector, screen, cable or animation. All shapes are newly authored; no old camera removal, rotated music board, filled accessory fork, attached boot tray or stripped scan table. Fixed empty static visual only: no projection, electricity, universal or device compatibility, height or angle adjustment, insertion path, human or teaching suitability, load rating, strength, anti-tip stability, material durability, manufacturing, installation or safety certification claim. Finite geometric support does not establish safe equipment use.",
+  "bounds": {
+    "x": 0.76,
+    "y": 0.68,
+    "z": 1.22,
+    "unit": "m"
+  },
+  "triangles": 224,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-fixed-tray-projector-stand-01/v1.0.0/model.glb",
+      "size": 21028,
+      "sha256": "66baf9d215df67621f1a2517c0f726dbf0a1701a97640c4c0e4a8f68e228e7a0"
+    },
+    "blend": {
+      "path": "assets/education/education-fixed-tray-projector-stand-01/v1.0.0/source.blend",
+      "size": 585332,
+      "sha256": "2cc89a98a74acf58934d38ea79354443c5e098b13e76b661f714d5a42cb54a33"
+    },
+    "generator": {
+      "path": "assets/education/education-fixed-tray-projector-stand-01/v1.0.0/generate.py",
+      "size": 29142,
+      "sha256": "35f29e5385d761d618447c5b226e0757b74737faea1e4a6381804343c02731dd"
+    },
+    "render": {
+      "path": "assets/education/education-fixed-tray-projector-stand-01/v1.0.0/thumbnail.png",
+      "size": 493036,
+      "sha256": "7a083c51bbb3f43ca4f8822b48856905dfa04acd4abe93155e6628f95e79e4d8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
