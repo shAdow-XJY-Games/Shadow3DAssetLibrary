@@ -1309,9 +1309,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "7d447cca7731b72712282a19564ca8e46c36c9e8"
+    },
+    "museum-stylized-fish-skeleton-mount-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "50108bd43a0a945ab8bbb59ccbe44ddfc388d762"
     }
   },
-  "assetCount": 432,
+  "assetCount": 433,
   "shards": [
     {
       "theme": "camping",
@@ -2754,6 +2759,13 @@
       "path": "metadata/2b0512d610f990bd3e800ee9643a6d8a1d4b0f213cff624c3ba0286c646c880b.json",
       "size": 2664,
       "sha256": "2b0512d610f990bd3e800ee9643a6d8a1d4b0f213cff624c3ba0286c646c880b"
+    },
+    {
+      "theme": "museum",
+      "count": 1,
+      "path": "metadata/25d7a89f2c42ee4d687ed2da981369a1717e17979c56a094c8e5db562a7accd5.json",
+      "size": 2239,
+      "sha256": "25d7a89f2c42ee4d687ed2da981369a1717e17979c56a094c8e5db562a7accd5"
     }
   ]
 }
