@@ -1334,9 +1334,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "a9f9dd4ea27131a8437643682bc228489e446c28"
+    },
+    "communications-desktop-handmic-transceiver-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "983c0ce17e0a2ddfd521b8b7ae1c97b85c68895f"
     }
   },
-  "assetCount": 437,
+  "assetCount": 438,
   "shards": [
     {
       "theme": "camping",
@@ -2814,6 +2819,13 @@
       "path": "metadata/13648b26f83fb24b15c4d9ad686230d2f250bfa2c7daaa25cd368080ef393a34.json",
       "size": 2377,
       "sha256": "13648b26f83fb24b15c4d9ad686230d2f250bfa2c7daaa25cd368080ef393a34"
+    },
+    {
+      "theme": "communications",
+      "count": 1,
+      "path": "metadata/beb44b9285db472829cba0d9a384522c3ef39fa4386b41b2e15d1af585dbc980.json",
+      "size": 2670,
+      "sha256": "beb44b9285db472829cba0d9a384522c3ef39fa4386b41b2e15d1af585dbc980"
     }
   ]
 }
