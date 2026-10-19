@@ -1314,9 +1314,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "50108bd43a0a945ab8bbb59ccbe44ddfc388d762"
+    },
+    "arcade-tripod-ring-footrest-barstool-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "a400a5277810f21bb1b33d1ee6d681cfe1003a4d"
     }
   },
-  "assetCount": 433,
+  "assetCount": 434,
   "shards": [
     {
       "theme": "camping",
@@ -2766,6 +2771,13 @@
       "path": "metadata/25d7a89f2c42ee4d687ed2da981369a1717e17979c56a094c8e5db562a7accd5.json",
       "size": 2239,
       "sha256": "25d7a89f2c42ee4d687ed2da981369a1717e17979c56a094c8e5db562a7accd5"
+    },
+    {
+      "theme": "arcade",
+      "count": 1,
+      "path": "metadata/0c4725b2b9da203335a9887023b03fdd73b3d460effe5e3ec709d2785dfdd726.json",
+      "size": 2309,
+      "sha256": "0c4725b2b9da203335a9887023b03fdd73b3d460effe5e3ec709d2785dfdd726"
     }
   ]
 }
