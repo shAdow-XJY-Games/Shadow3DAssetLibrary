@@ -1,0 +1,42 @@
+{
+  "id": "beekeeping-socketed-tuft-bee-brush-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "beekeeping",
+  "style": "S01-clean-geometric",
+  "title": "Socketed Tuft Bee Brush",
+  "description": "One original static long-backed bee brush, counted as one prop. One continuous thick honey-brown wooden-looking silhouette joins a broad elongated brush back to a narrowed handle and a true polygonal hanging hole. Three distinct rows of eight cream-coloured closed tuft bundles rise from 24 actual blind seats in the long face. Every tuft has a finite flat root supported on the full seat floor; finite annular root clearance remains inside every pocket. Gently flared, slightly swept and bevel-crowned bundles remain separated by complete real row and column air corridors. The broad continuous back rests flat at ground with bristles pointing upward. Twenty-five closed editable mesh components and three opaque constant PBR materials, metres, native Z up, front -Y and horizontally bounds-centred ground origin. No reused paintbrush, end ferrule, loose bristles, particles, textures, bees, hive, person, stand or scene. Static illustrative geometry only: no sweeping or cleaning performance, softness, hair physics, animal or human use or safety, bee behavior, material suitability, manufacturing, durability, loading, ergonomics, certification or old hive/frame compatibility claim.",
+  "bounds": {
+    "x": 0.42,
+    "y": 0.068,
+    "z": 0.084,
+    "unit": "m"
+  },
+  "triangles": 3020,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/beekeeping/beekeeping-socketed-tuft-bee-brush-01/v1.0.0/model.glb",
+      "size": 149060,
+      "sha256": "7c87a336130b074798665808d845eb90881805c5ecdf848f8b5e7c6b81a65962"
+    },
+    "blend": {
+      "path": "assets/beekeeping/beekeeping-socketed-tuft-bee-brush-01/v1.0.0/source.blend",
+      "size": 738196,
+      "sha256": "04ffdbceaa6f820cae3e22cf07706f0cf2cf9cf54306f7431bacd02806c21f89"
+    },
+    "generator": {
+      "path": "assets/beekeeping/beekeeping-socketed-tuft-bee-brush-01/v1.0.0/generate.py",
+      "size": 28313,
+      "sha256": "11cbc0e0c66d3a2bb071fdd44709a4ccbaafdda154c803b90fb1a0df8744a678"
+    },
+    "render": {
+      "path": "assets/beekeeping/beekeeping-socketed-tuft-bee-brush-01/v1.0.0/thumbnail.png",
+      "size": 489488,
+      "sha256": "61d8b3afd5358a8c01a4ae58441a4393c0fd9e99d78f06230f92fcd6fc0f7f16"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
