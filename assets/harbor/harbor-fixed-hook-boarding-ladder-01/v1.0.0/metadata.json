@@ -1,0 +1,42 @@
+{
+  "id": "harbor-fixed-hook-boarding-ladder-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "S01-clean-geometric",
+  "title": "Twin Return-Hook Boarding Ladder",
+  "description": "One original static visual prop: two whole closed continuous angled side rails with integral polygonal return hooks, four independent 50 mm thick horizontal treads and two complete flat ground pads. Three opaque unlinked constant Principled PBR materials. Metres, native Z up, front -Y, origin at the midpoint of the two ground pads. The one QA-only placement translates this ladder by (0,-1.47,0) metres beside the unchanged pinned harbor-dock-module-01. Two complete 80 by 80 mm hook terminal underside faces rest at Z=0.75 on two whole original deck planks at X=-0.30 and +0.30. Every original 12 mm bevel, plank gap, stringer, piling and collar remains. The old dock is not exported or included in this prop. Newly dimensioned geometry, not a reduced A-frame, detached slide ladder or copied high-seat ladder. No boat, generic vessel or dock compatibility, traversability, climbing, folding, swinging, load, human suitability, anti-slip, construction, rescue, maritime or safety claim.",
+  "bounds": {
+    "x": 0.74,
+    "y": 0.74,
+    "z": 1.1,
+    "unit": "m"
+  },
+  "triangles": 448,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-fixed-hook-boarding-ladder-01/v1.0.0/model.glb",
+      "size": 20232,
+      "sha256": "8ba5b81112e23cb77248655514c1907d45cc9254319d6f84121554a7b6ffab20"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-fixed-hook-boarding-ladder-01/v1.0.0/source.blend",
+      "size": 556688,
+      "sha256": "ea9d03b75bc9d28688e07cb36d57452b55d31973a142e994e4655cb380ce0d67"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-fixed-hook-boarding-ladder-01/v1.0.0/generate.py",
+      "size": 31980,
+      "sha256": "69ab8e1453c399f947ee976b9711fd2810d2d2b4f8dc98c5fc72c4aafd4ede7f"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-fixed-hook-boarding-ladder-01/v1.0.0/thumbnail.png",
+      "size": 528766,
+      "sha256": "40bacf041b2df61e573060510ab9829350b3d227e9337c8b497a7209620989e2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
