@@ -1,0 +1,42 @@
+{
+  "id": "toys-six-wheel-steam-locomotive-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "toys",
+  "style": "S01-clean-geometric",
+  "title": "Six-Wheel Steam-Shaped Toy Locomotive",
+  "description": "One original short six-wheel steam-shaped toy locomotive, counted as one static prop. A new low thick three-bore chassis supports a blunt closed horizontal boiler and a truly empty rear cab with two side windows, an open rear doorway, integral floor, four continuous window posts and one thick overhanging roof. Three continuous square shoulder axles pass through three real chassis bores and six independently bored twelve-sided wheels; every wheel rests on a finite flat ground face. Each wheel bore floor supports its fixed axle, axle tops support the chassis bore ceilings, and integral inner shoulders and outer caps restrain the complete wheel side faces. A short flared capped chimney rests on the complete horizontal boiler crown facet. A low front buffer and a thick rear coupling ear with a genuine vertical through-hole have finite root faces seated on the chassis ends. All fifteen closed connected components belong to this one fixed pose. Five unlinked constant opaque PBR colours; metres, Z up, front -Y and bounds-centred ground origin. No track, carriages, figure, connecting rod, rope, smoke, animation, external texture, rolling, steering, steam, drive, sound, traction, operative coupling, track compatibility, child age suitability, swallowing or pinch protection, material safety, human fit, load, durability, manufacture or toy safety certification claim. Geometry is newly authored; it is not a recoloured four-wheel wooden car, a scaled railway wagon or an airport tanker with a chimney.",
+  "bounds": {
+    "x": 0.292,
+    "y": 0.6,
+    "z": 0.34923,
+    "unit": "m"
+  },
+  "triangles": 3976,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-six-wheel-steam-locomotive-01/v1.0.0/model.glb",
+      "size": 116032,
+      "sha256": "ebd5c7672782f5f34a30d8149f75ab0e94fecf29423d20dba8b67812d565991d"
+    },
+    "blend": {
+      "path": "assets/toys/toys-six-wheel-steam-locomotive-01/v1.0.0/source.blend",
+      "size": 829992,
+      "sha256": "3189881532c775207bc6fb694044475233e815f85e5aeb6ad7878605b31ef2c3"
+    },
+    "generator": {
+      "path": "assets/toys/toys-six-wheel-steam-locomotive-01/v1.0.0/generate.py",
+      "size": 33855,
+      "sha256": "6b139a040fddaa21d3879cfac6064e7433b58d04a86fe705572f5b1db2bac9e1"
+    },
+    "render": {
+      "path": "assets/toys/toys-six-wheel-steam-locomotive-01/v1.0.0/thumbnail.png",
+      "size": 570450,
+      "sha256": "04c9f42487ba37239712a2ba93b02de1a210b0e2dcb014073823932a58a0f270"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
