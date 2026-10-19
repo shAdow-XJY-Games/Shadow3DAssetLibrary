@@ -1364,9 +1364,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "735f66137c0183b3dfc598205a00e6e1863bd25d"
+    },
+    "logistics-wall-mounted-laminated-dock-bumper-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "33e6522c1a108a8345e4598a83c1b60f79321996"
     }
   },
-  "assetCount": 443,
+  "assetCount": 444,
   "shards": [
     {
       "theme": "camping",
@@ -2886,6 +2891,13 @@
       "path": "metadata/1016fc60b124890e6ef8c6196d2b51c748dcc2ce85fab607f7290c7b6ef92b6b.json",
       "size": 2783,
       "sha256": "1016fc60b124890e6ef8c6196d2b51c748dcc2ce85fab607f7290c7b6ef92b6b"
+    },
+    {
+      "theme": "logistics",
+      "count": 1,
+      "path": "metadata/2545c84a9912e364d067cd9dc8b3e58eae3ffa5738b06f6a1c1d1c168093b9f1.json",
+      "size": 2482,
+      "sha256": "2545c84a9912e364d067cd9dc8b3e58eae3ffa5738b06f6a1c1d1c168093b9f1"
     }
   ]
 }
