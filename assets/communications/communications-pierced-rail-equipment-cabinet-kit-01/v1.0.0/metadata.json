@@ -1,0 +1,42 @@
+{
+  "id": "communications-pierced-rail-equipment-cabinet-kit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "communications",
+  "style": "S01-clean-geometric",
+  "title": "Pierced-rail Equipment Cabinet",
+  "description": "One original static open-front equipment cabinet: a continuous thick floor/roof/side/back shell on four full feet, two vertical rails with eleven genuine square through-holes each, and two fixed hollow original chassis. Each chassis has integral pierced front ears, five actual shallow front ventilation slots entering its empty thick-walled cavity, and two short thick open handles. Eight continuous headed square pins pass through aligned ear and rail holes; full lower shaft faces bear on the hole floors and head back faces meet the ears. Four integral front rail shoulders also meet the complete ear-bottom faces. An entire tall middle equipment bay is empty, with real gaps between chassis, behind both chassis and beside the rails. All fixed parts count together as one prop. Metres, native Z up, front -Y, horizontally bounds-centred ground origin. Constant opaque PBR only: no TEX_* nodes, linked Principled inputs, image/procedural textures, text, branding, cables, network, door or animation. Entire geometry newly authored; no old radio deletion/copy, drawer conversion or closed-cabinet recoloring. Static visual geometry only. No 19-inch or other standard-interface compatibility, insertion/pulling action, computing/storage/network/RF/power function, airflow/cooling/fire/electromagnetic/electrical/installation safety, load, anti-tip, stability, manufacturing or material-performance claim.",
+  "bounds": {
+    "x": 0.8,
+    "y": 0.72,
+    "z": 1.62,
+    "unit": "m"
+  },
+  "triangles": 4676,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/communications/communications-pierced-rail-equipment-cabinet-kit-01/v1.0.0/model.glb",
+      "size": 137348,
+      "sha256": "47511b072147285f78fc849771bcfba86f6af6f534a2277f6facd52f0bd1412a"
+    },
+    "blend": {
+      "path": "assets/communications/communications-pierced-rail-equipment-cabinet-kit-01/v1.0.0/source.blend",
+      "size": 816308,
+      "sha256": "36ccdb7d0b1e3186933f49d175902c20899e36558f99fc79eff40db01493d22b"
+    },
+    "generator": {
+      "path": "assets/communications/communications-pierced-rail-equipment-cabinet-kit-01/v1.0.0/generate.py",
+      "size": 34241,
+      "sha256": "d2031372e50dad274aa39b35cd59483951638edd930468ce300e14db952f635d"
+    },
+    "render": {
+      "path": "assets/communications/communications-pierced-rail-equipment-cabinet-kit-01/v1.0.0/thumbnail.png",
+      "size": 537166,
+      "sha256": "c858672faa2d28b892da4b6a2eb8cf1cbc6249ca20d2a6bb5c7d9f752489304f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
