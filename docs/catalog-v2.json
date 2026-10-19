@@ -1369,9 +1369,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "33e6522c1a108a8345e4598a83c1b60f79321996"
+    },
+    "sports-two-tier-cradle-ball-trolley-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "970655f562116c046935db568c919a454dcd20c5"
     }
   },
-  "assetCount": 444,
+  "assetCount": 445,
   "shards": [
     {
       "theme": "camping",
@@ -2898,6 +2903,13 @@
       "path": "metadata/2545c84a9912e364d067cd9dc8b3e58eae3ffa5738b06f6a1c1d1c168093b9f1.json",
       "size": 2482,
       "sha256": "2545c84a9912e364d067cd9dc8b3e58eae3ffa5738b06f6a1c1d1c168093b9f1"
+    },
+    {
+      "theme": "sports",
+      "count": 1,
+      "path": "metadata/123e399b7837edfa4702ae4d9053ed078cea1b7c72719e76244db9ef6445de4d.json",
+      "size": 2641,
+      "sha256": "123e399b7837edfa4702ae4d9053ed078cea1b7c72719e76244db9ef6445de4d"
     }
   ]
 }
