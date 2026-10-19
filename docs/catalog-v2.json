@@ -1429,9 +1429,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "d66064d0aa26125eb51191d0a9c5c1b9ca34e958"
+    },
+    "baggage-arched-platform-luggage-trolley-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "721dc08d5b81c36ff30a124bf98c7f9fdf4469dd"
     }
   },
-  "assetCount": 456,
+  "assetCount": 457,
   "shards": [
     {
       "theme": "camping",
@@ -3042,6 +3047,13 @@
       "path": "metadata/7b44155c1a289c9f41279d46658a5d77252ebc96308d6566206b5efeb04f80f6.json",
       "size": 2555,
       "sha256": "7b44155c1a289c9f41279d46658a5d77252ebc96308d6566206b5efeb04f80f6"
+    },
+    {
+      "theme": "baggage",
+      "count": 1,
+      "path": "metadata/ab8d20ec0f0bd792cc0f68aa045ec60c400fe8ea8a5c068210b8b55d446b2c33.json",
+      "size": 2709,
+      "sha256": "ab8d20ec0f0bd792cc0f68aa045ec60c400fe8ea8a5c068210b8b55d446b2c33"
     }
   ]
 }
