@@ -1294,9 +1294,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "87d9d93d5924290b7caa0f27e975aa5946028d86"
+    },
+    "timekeeping-four-face-arch-clock-tower-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "263a561c6084b0932e0c1eb053e7e45705ef22b3"
     }
   },
-  "assetCount": 429,
+  "assetCount": 430,
   "shards": [
     {
       "theme": "camping",
@@ -2718,6 +2723,13 @@
       "path": "metadata/c9917a81bd061f602afb196c40e389ae92f3558bf558643f2796023da5afa5f8.json",
       "size": 2395,
       "sha256": "c9917a81bd061f602afb196c40e389ae92f3558bf558643f2796023da5afa5f8"
+    },
+    {
+      "theme": "timekeeping",
+      "count": 1,
+      "path": "metadata/7994af585794d4a2688291c87d9603c8a2fff67bc1cb64b4ec162e5f70d24e58.json",
+      "size": 2492,
+      "sha256": "7994af585794d4a2688291c87d9603c8a2fff67bc1cb64b4ec162e5f70d24e58"
     }
   ]
 }
