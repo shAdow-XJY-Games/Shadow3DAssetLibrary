@@ -1,0 +1,42 @@
+{
+  "id": "communications-open-terminal-distribution-box-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "communications",
+  "style": "S01-clean-geometric",
+  "title": "Open Terminal Distribution Box",
+  "description": "One original static low-poly wall-mounted open distribution box, counted as one prop. A continuous thick back, side, roof and floor form a real open cavity. A thick door is fixed ninety degrees open, carried by two pairs of genuinely bored hinge knuckles, two complete headed fixed pins and one finite stop. A broad rear mounting face remains unobstructed. One rear support rail carries two original terminal blocks with real bottom-entry blind bores. Two separate thick closed polygonal wire bodies pass through genuine bottom sleeve openings and finish with finite embedded ends in the two terminal caps. All component positions are fixed. Sixteen closed connected editable meshes and five opaque unlinked constant PBR materials. Metres, native Z up, front -Y; fixed wall-mount datum, rear mounting plane Y=0.160 m, no ground support. No wall, other device, loose cables, brand, standard mark, texture or animation. Static visible geometry only; no electrical continuity, grounding, insulation, voltage/current rating, cooling, waterproofing, dust resistance, radio/signal function, installation standard, load, fire resistance, manufacture, safety certification, practical wiring instruction or compatibility with earlier equipment is asserted.",
+  "bounds": {
+    "x": 0.693,
+    "y": 0.87,
+    "z": 0.84,
+    "unit": "m"
+  },
+  "triangles": 2728,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/communications/communications-open-terminal-distribution-box-01/v1.0.0/model.glb",
+      "size": 102412,
+      "sha256": "a14bef1d87b1975b42443ce2e81ceabfe1ce0da290232170fbdebc26ff82fa71"
+    },
+    "blend": {
+      "path": "assets/communications/communications-open-terminal-distribution-box-01/v1.0.0/source.blend",
+      "size": 767460,
+      "sha256": "86c09bc957350c5e2f04dccb8a5cc0081c5612118e30e7215be0e947400df111"
+    },
+    "generator": {
+      "path": "assets/communications/communications-open-terminal-distribution-box-01/v1.0.0/generate.py",
+      "size": 28138,
+      "sha256": "7e22fcfac50eb3549409b9d02080a9e44dc7cb009335170273b953886f59a01b"
+    },
+    "render": {
+      "path": "assets/communications/communications-open-terminal-distribution-box-01/v1.0.0/thumbnail.png",
+      "size": 429544,
+      "sha256": "6722320e94856042bd8415ca3259608b79e1a72c5fd296561dee4fd4a3c3df34"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
