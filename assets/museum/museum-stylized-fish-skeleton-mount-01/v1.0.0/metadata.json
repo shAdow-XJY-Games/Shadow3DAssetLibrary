@@ -1,0 +1,42 @@
+{
+  "id": "museum-stylized-fish-skeleton-mount-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "museum",
+  "style": "S01-clean-geometric",
+  "title": "Fictional Fish Skeleton Display Mount",
+  "description": "One original complete fictional fish-shaped skeleton on its dedicated two-post long base, counted together as one fixed static visual prop. A continuous thick backbone has six integrated vertebral bulges, twelve thick curved ribs with finite root faces, a broad thick skull with an actual full-through orbital aperture, a fixed lower jaw with real open mouth space, and a tapered three-ray tail. Two narrow fixed metal posts meet two finite saddles beneath the backbone; the continuous long base has an entire flat ground face. All bone and mount pieces have finite traceable material or face connections and closed thick boundaries. No real species, labels, lettering, glass cover, old plinth, fossil slab, room, people, animation or additional specimen. This is original geometry, not a recoloured fossil, thin old horse, reshaped bear or assembly of reused fragments. No biological, anatomical, paleontological, educational, age, restoration, bone-material, motion, load, stability, manufacture, installation or exhibit-safety accuracy or certification.",
+  "bounds": {
+    "x": 0.82,
+    "y": 3.18,
+    "z": 1.76,
+    "unit": "m"
+  },
+  "triangles": 948,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/museum/museum-stylized-fish-skeleton-mount-01/v1.0.0/model.glb",
+      "size": 56808,
+      "sha256": "c264d99eb7c2718f02bb014bd1595d66683f991118a824848be22e7403c92cff"
+    },
+    "blend": {
+      "path": "assets/museum/museum-stylized-fish-skeleton-mount-01/v1.0.0/source.blend",
+      "size": 628592,
+      "sha256": "707d5c7f5d3797069a416c37bc342ee9d22c763588befc1639e4b9ffc66512b6"
+    },
+    "generator": {
+      "path": "assets/museum/museum-stylized-fish-skeleton-mount-01/v1.0.0/generate.py",
+      "size": 29311,
+      "sha256": "b8cd3a3984db1fefecdd00c19d3f197fba7c3c965695107ce250fc7eaa705a43"
+    },
+    "render": {
+      "path": "assets/museum/museum-stylized-fish-skeleton-mount-01/v1.0.0/thumbnail.png",
+      "size": 519428,
+      "sha256": "8d532789e305e0a07b38b7342c1d0449ac4f8ded7e22431e52a3a9e4ef84f68e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
