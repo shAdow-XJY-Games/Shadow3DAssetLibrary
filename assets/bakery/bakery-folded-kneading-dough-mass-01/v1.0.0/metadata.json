@@ -1,0 +1,42 @@
+{
+  "id": "bakery-folded-kneading-dough-mass-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "bakery",
+  "style": "S01-clean-geometric",
+  "title": "Folded Kneading Dough Mass",
+  "description": "One original irregular broad thick folded dough mass, counted as one fixed static prop. A single closed continuous body has a plump asymmetric broad base, a thick returning lip, a true deep open fold slit and one complete solid rear root bridge. The entire finite bottom is flat at ground level. The fold is actual empty volume bounded by continuous dough surfaces, not an applied line, intersecting capsules, floating strip, scored round loaf or stripped crescent pastry. One editable closed mesh and one opaque constant unlinked pale dough PBR material. Metres, native Z up, front -Y, horizontally bounds-centred ground origin. No plate, bowl, rolling pin, flour, text, texture, scene, imported historical shape or animation. Only a fixed static visual shape: no eating, recipe, allergens, nutrition, kneading deformation, fermentation, baking process, hygiene, food-contact safety, manufacturing or compatibility with prior utensils is represented.",
+  "bounds": {
+    "x": 0.57,
+    "y": 0.51331,
+    "z": 0.22134,
+    "unit": "m"
+  },
+  "triangles": 764,
+  "materials": 1,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-folded-kneading-dough-mass-01/v1.0.0/model.glb",
+      "size": 55244,
+      "sha256": "a702e24d5d46b5beddcd0b971ecb34a664648416d93f7ac5aa51d979c1259511"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-folded-kneading-dough-mass-01/v1.0.0/source.blend",
+      "size": 492240,
+      "sha256": "686fae0903a5503f9b556c9460b266b7475eedde08dc2693d29dddad6f5b5c15"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-folded-kneading-dough-mass-01/v1.0.0/generate.py",
+      "size": 26070,
+      "sha256": "dd8b13eef89e6182eaffdfae21ba91be8f414a21b79c720e5f7437332b8383ff"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-folded-kneading-dough-mass-01/v1.0.0/thumbnail.png",
+      "size": 489580,
+      "sha256": "3018d7c4d1648dff2953c2dee76450f2ad180a2b038260549da9c14aeda14ba2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
