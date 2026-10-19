@@ -1259,9 +1259,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "62ad16aa280ad33d38c751902121e89349f057b5"
+    },
+    "painting-fixed-tilt-drafting-desk-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "5e1c1534af70386c4f4b3d9c4ea2c4b46bf24101"
     }
   },
-  "assetCount": 422,
+  "assetCount": 423,
   "shards": [
     {
       "theme": "camping",
@@ -2634,6 +2639,13 @@
       "path": "metadata/ca6100390a8877d574a1a8e6f8db2154c97ec440447907e5327cf480203cc771.json",
       "size": 2522,
       "sha256": "ca6100390a8877d574a1a8e6f8db2154c97ec440447907e5327cf480203cc771"
+    },
+    {
+      "theme": "painting",
+      "count": 1,
+      "path": "metadata/492740da589b2e3c44d845e521e3125e06969543de75b06ceae6ffd8080f5a96.json",
+      "size": 2613,
+      "sha256": "492740da589b2e3c44d845e521e3125e06969543de75b06ceae6ffd8080f5a96"
     }
   ]
 }
