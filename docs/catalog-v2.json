@@ -1439,9 +1439,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "b31fc36e9edaa29a7dac93c57c9c324185b82274"
+    },
+    "photography-fixed-wing-flag-panel-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "024b786eca3d5e1f1793cedd356fd5b7ab370ebe"
     }
   },
-  "assetCount": 458,
+  "assetCount": 459,
   "shards": [
     {
       "theme": "camping",
@@ -3066,6 +3071,13 @@
       "path": "metadata/669d0c8e037729580ea9dbac2b808f01a7d9c7ab27d8db866656e5426e9876e8.json",
       "size": 2651,
       "sha256": "669d0c8e037729580ea9dbac2b808f01a7d9c7ab27d8db866656e5426e9876e8"
+    },
+    {
+      "theme": "photography",
+      "count": 1,
+      "path": "metadata/675cf279dec530ad03f40fb29d06b72982b96585a7d86778491c5bacbbe3f5aa.json",
+      "size": 2480,
+      "sha256": "675cf279dec530ad03f40fb29d06b72982b96585a7d86778491c5bacbbe3f5aa"
     }
   ]
 }
