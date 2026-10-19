@@ -181,8 +181,11 @@ export async function fetchPagedCatalogEntry({signal,fetcher=fetch,timeoutMs=V3.
 
 // Self-contained v3 transport: compatible with cached, unmodified v2 runtimes.
 async function readMetadataBytes(response,{limit,exactSize,signal}){
- const encoding=(response.headers.get('content-encoding')||'identity').trim().toLowerCase(),declared=response.headers.get('content-length');
- if(encoding==='identity'&&declared!==null&&(Number(declared)>limit||(exactSize!==undefined&&Number(declared)!==exactSize)))throw Error('Metadata length mismatch');
+ // CORS exposes Content-Length but may hide Content-Encoding. Fetch has already
+ // decoded the body, so an absent cross-origin encoding header is not identity.
+ const encoding=response.headers.get('content-encoding'),declared=response.headers.get('content-length');
+ const identity=encoding?.trim().toLowerCase()==='identity'||(encoding===null&&response.type!=='cors');
+ if(identity&&declared!==null&&(Number(declared)>limit||(exactSize!==undefined&&Number(declared)!==exactSize)))throw Error('Metadata length mismatch');
  if(!response.body)throw Error('Metadata body unavailable');const reader=response.body.getReader(),chunks=[];let length=0;
  const cancel=()=>{reader.cancel(signal.reason).catch(()=>{});};signal.addEventListener('abort',cancel,{once:true});
  try{while(true){signal.throwIfAborted();const {done,value}=await reader.read();signal.throwIfAborted();if(done)break;length+=value.byteLength;if(length>limit)throw Error('Metadata exceeds expected size');chunks.push(value);}}catch(error){await reader.cancel().catch(()=>{});throw error;}finally{signal.removeEventListener('abort',cancel);reader.releaseLock();}

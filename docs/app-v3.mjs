@@ -1,6 +1,6 @@
 import {rawURL,filterAssets,formatBytes,validateCatalog,assetSource} from './core.mjs';
 import {createCatalogStore} from './core-catalog-v2.mjs';
-import {createPagedCatalogStore,fetchPagedCatalogEntry,FACETS} from './core-catalog-v3.mjs';
+import {createPagedCatalogStore,fetchPagedCatalogEntry,FACETS} from './core-catalog-v3.mjs?v=20261019-cors1';
 const $=s=>document.querySelector(s), statuses={prototype:'试产样品',review:'待审阅',verified:'已验证'};
 let catalog, selected, selectedCatalog, mode='render', viewer, pendingLoad, sequence=0;
 let pagedStore, browseReady=false, browseAbort, browseSequence=0, currentCursor=null, nextCursor=null, previousCursors=[], requestedCursor=null, requestedNavigation, queryTimer;
