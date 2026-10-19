@@ -1239,9 +1239,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "9d343e8ed2901645e854802951ec3453df6c5878"
+    },
+    "carpentry-a-frame-sheet-storage-rack-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "c5b594f325f3d4edfd4f82728d9ed82fee514c8d"
     }
   },
-  "assetCount": 418,
+  "assetCount": 419,
   "shards": [
     {
       "theme": "camping",
@@ -2586,6 +2591,13 @@
       "path": "metadata/faa697bd89acba3c5c400846a16c97a244dec6ffc3a2f017a989b6d362ee8ec0.json",
       "size": 2534,
       "sha256": "faa697bd89acba3c5c400846a16c97a244dec6ffc3a2f017a989b6d362ee8ec0"
+    },
+    {
+      "theme": "carpentry",
+      "count": 1,
+      "path": "metadata/5a02e2f4987826c563438278f426ce045ad4a19bcc7b120ffb0042a30fa324b7.json",
+      "size": 2427,
+      "sha256": "5a02e2f4987826c563438278f426ce045ad4a19bcc7b120ffb0042a30fa324b7"
     }
   ]
 }
