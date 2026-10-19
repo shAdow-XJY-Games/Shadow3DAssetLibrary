@@ -1,0 +1,42 @@
+{
+  "id": "navigation-horizontal-baseline-rangefinder-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "navigation",
+  "style": "S01-clean-geometric",
+  "title": "Horizontal Baseline Rangefinder Stand",
+  "description": "One original fixed visual prop with a single continuous horizontal faceted instrument housing, two full folded end heads carrying thick genuinely recessed forward objective mouths, one central rear ocular, a full saddle and a grounded four-foot braced pedestal. Original numerical geometry, not a widened binocular or two telescope instances. Four opaque unlinked constant Principled materials; no texture or procedural texture nodes. Metres, native Z up, front -Y, origin on ground below the central column. Fixed appearance only: no optical path, ranging, readout, distance scale, baseline calibration, accuracy, magnification, imaging, navigation, surveying, historical reproduction or teaching reliability. No pitch, yaw, focus or measurement motion; no old-mount compatibility, load, stability, wind, manufacture, safety or certification claim.",
+  "bounds": {
+    "x": 2.12,
+    "y": 0.78,
+    "z": 1.42,
+    "unit": "m"
+  },
+  "triangles": 1860,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/navigation/navigation-horizontal-baseline-rangefinder-01/v1.0.0/model.glb",
+      "size": 78648,
+      "sha256": "dec1d3b8c6562fe054217fad9213a7aff156d41696037b63d534654897a76c09"
+    },
+    "blend": {
+      "path": "assets/navigation/navigation-horizontal-baseline-rangefinder-01/v1.0.0/source.blend",
+      "size": 712248,
+      "sha256": "b9a05b7bad403def9f30ec0c5715ea99cacb7fc17435fb349c1b987bfedc7601"
+    },
+    "generator": {
+      "path": "assets/navigation/navigation-horizontal-baseline-rangefinder-01/v1.0.0/generate.py",
+      "size": 34877,
+      "sha256": "5190239120ef4e9b68e047a1730c26bed6cb0258d3d2977e944d800c4d935dfb"
+    },
+    "render": {
+      "path": "assets/navigation/navigation-horizontal-baseline-rangefinder-01/v1.0.0/thumbnail.png",
+      "size": 504913,
+      "sha256": "bfedf92a2b2b4a185c5def2908b4e6928b4a794e1212c9eed4795981fddb1cf0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
