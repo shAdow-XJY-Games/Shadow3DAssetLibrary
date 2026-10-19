@@ -1,0 +1,42 @@
+{
+  "id": "beekeeping-through-outlet-honey-tank-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "beekeeping",
+  "style": "S01-clean-geometric",
+  "title": "Through-Outlet Honey Tank",
+  "description": "One original fixed open honey-tank visual form: an upright continuous thick octagonal bucket with complete bottom, deep empty cavity, full top rim and a low true wall-through short outlet. One continuous full-thickness open domain joins the entire bucket cavity to both nozzle mouths. A thick round gate with integral real pierced ear sits fixed to the side, clear of the outlet, captured by a solid stepped pin with two complete finite collar faces and carried on a complete finite bottom stop. Two closed short side lifting ears have entire finite bucket roots. Three short feet have complete top seats and flat ground soles. Ten closed connected editable meshes and five opaque constant unlinked PBR materials. Metres, native Z up, front -Y and horizontal bounds-centred ground origin. All shape geometry newly dimensioned, without importing or modifying a prior extractor, jar or barrel. The old extractor already has a separate hollow nozzle; its bucket wall lacks the corresponding opening. This asset adds a genuinely continuous through-wall outlet and fixed pierced side gate. One static empty prop: no shaft, rotor basket, sieve, liquid, receiving vessel, lid, texture, text, logo or animation. No opening trajectory, sealing, leak prevention, flow, food contact, hygiene, pressure, heating, load, handling, manufacturing, equipment safety or old-asset fit claim.",
+  "bounds": {
+    "x": 1.4,
+    "y": 1.295,
+    "z": 1.18,
+    "unit": "m"
+  },
+  "triangles": 1136,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/beekeeping/beekeeping-through-outlet-honey-tank-01/v1.0.0/model.glb",
+      "size": 55892,
+      "sha256": "87d63e1a6a4a93b6a7479df10f64be361f1050396da523819c7d0f6ef9215d15"
+    },
+    "blend": {
+      "path": "assets/beekeeping/beekeeping-through-outlet-honey-tank-01/v1.0.0/source.blend",
+      "size": 629192,
+      "sha256": "c7be535784d093b849f78055a1c4b0d0766683e7c5dd10791a5c63b6f74debb5"
+    },
+    "generator": {
+      "path": "assets/beekeeping/beekeeping-through-outlet-honey-tank-01/v1.0.0/generate.py",
+      "size": 34781,
+      "sha256": "5f0d9ac8075e36a20f8f9fd45a7bacd3202d0e82a102c13daf33d20f5143ff6a"
+    },
+    "render": {
+      "path": "assets/beekeeping/beekeeping-through-outlet-honey-tank-01/v1.0.0/thumbnail.png",
+      "size": 535981,
+      "sha256": "e4ea9737696280bb7805f509cb178f678d215c4d13420941e9b64f5ba13c3ae0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
