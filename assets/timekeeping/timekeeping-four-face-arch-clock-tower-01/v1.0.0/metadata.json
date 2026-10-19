@@ -1,0 +1,42 @@
+{
+  "id": "timekeeping-four-face-arch-clock-tower-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "timekeeping",
+  "style": "S01-clean-geometric",
+  "title": "Four-Face Arch Clock Tower",
+  "description": "One original low-poly square clock tower, counted as one modular asset. A continuous thick square tower has a genuine front-to-back arched opening from ground to crown, two full finite strip feet and no floor or hidden blockage. A stepped square shoulder supports a thick four-face clock box. All four faces have actual blind circular recesses, complete supported ivory dial plates with twelve integral raised indices each, two independently layered fixed pointers and two real short central axles. Fixed illustrative display only. A thick four-hip roof with broad stepped eaves bears on the complete clock-box top. The tower, box and roof use square geometry distinct from prior tapering octagonal lighthouse, small tabletop clock, alarm clock or cottage meshes. Metres, source Z up and front -Y, origin at exact ground-level bounds centre. Constant opaque unlinked PBR colours, no textures, external fonts or external models. No scene, interior floors, stairs, animation, sound or moving mechanism. No timekeeping, accuracy, calibration, chiming, passage or climbing function, interior occupation, structural strength, stability, manufacture, installation, public-building safety, seamless repetition, historic reconstruction or prior wall compatibility is claimed.",
+  "bounds": {
+    "x": 2.3,
+    "y": 2.3,
+    "z": 6.13,
+    "unit": "m"
+  },
+  "triangles": 4796,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/timekeeping/timekeeping-four-face-arch-clock-tower-01/v1.0.0/model.glb",
+      "size": 218012,
+      "sha256": "fc87d526fc026accf00c73e21f974325c92bcecbc2d7c66bbddd07746e400275"
+    },
+    "blend": {
+      "path": "assets/timekeeping/timekeeping-four-face-arch-clock-tower-01/v1.0.0/source.blend",
+      "size": 919092,
+      "sha256": "cbea216a2fbaef1cb516f52dea23a733f7480f3de18ce2b3e8ff74cb05d8f289"
+    },
+    "generator": {
+      "path": "assets/timekeeping/timekeeping-four-face-arch-clock-tower-01/v1.0.0/generate.py",
+      "size": 32797,
+      "sha256": "bc49c2a3300d4f6763669ae5667cdc2241ba1cda3bcc3ee4f06942e696d18da1"
+    },
+    "render": {
+      "path": "assets/timekeeping/timekeeping-four-face-arch-clock-tower-01/v1.0.0/thumbnail.png",
+      "size": 498024,
+      "sha256": "851a371e8fb5b74a26ecc3917a6fc4e1f32d52bfaba7ef40b8109ef4097dc573"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
