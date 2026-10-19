@@ -1,0 +1,42 @@
+{
+  "id": "construction-concave-l-scaffold-corner-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Concave-L Scaffold Corner",
+  "description": "One newly authored continuous concave-L thick deck, complete L open underframe, six finite flat feet and posts, two fully cut-end diagonal braces and a separate original outer L railing. One static modular visual asset, metres and native Z up, ground corner origin (0,0,0). The 60 mm continuous L deck has two orthogonal 0.90 m ports at X=1.39 and Y=1.39, and a 1.02 m top. All internal support/root joints are full finite opposed faces, never hidden penetration. Three opaque unlinked constant Principled PBR materials. The only neighboring placements in scope use the untouched pinned construction-scaffold-01 at centres (2.095,0.45,0), rotation 0, and (0.45,2.095,0), rotation 90 degrees, simultaneously, with a nominal 10 mm deck joint. Every original old end guard, post, brace and foot remains; those guards obstruct passage. These are separated independently railed units in a corner arrangement, never a connected walkway or seamless platform. Old copies exist only for QA and are not exported. Neither two overlapping straight decks nor rotated/coloured copies of an old stage. No connected passage, pedestrian route, scaffold installation standard, load, stability, tipping resistance, fall protection, construction use, human suitability, manufacture, navigation, collision or safety claim.",
+  "bounds": {
+    "x": 1.39,
+    "y": 1.39,
+    "z": 1.83,
+    "unit": "m"
+  },
+  "triangles": 484,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-concave-l-scaffold-corner-01/v1.0.0/model.glb",
+      "size": 34980,
+      "sha256": "6314317953461d03ff7776edb320125aad0c0e5de11f3f5045b3c5429b4e6781"
+    },
+    "blend": {
+      "path": "assets/construction/construction-concave-l-scaffold-corner-01/v1.0.0/source.blend",
+      "size": 625500,
+      "sha256": "fd4c2adb225cbcde61934fac493b998a6964f1dc7ce4377f1d1431c4589abc83"
+    },
+    "generator": {
+      "path": "assets/construction/construction-concave-l-scaffold-corner-01/v1.0.0/generate.py",
+      "size": 36125,
+      "sha256": "10e0ad3eaecea59fc6d65c5a8dfd494bb3ba37deb076670acaebfe24a96c1306"
+    },
+    "render": {
+      "path": "assets/construction/construction-concave-l-scaffold-corner-01/v1.0.0/thumbnail.png",
+      "size": 553570,
+      "sha256": "6166df0ea929a1cbbf5b66d00edd7bddf0e42d0f18bc2bf11af421c52a6afa84"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
