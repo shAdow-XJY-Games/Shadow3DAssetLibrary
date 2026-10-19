@@ -1319,9 +1319,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "a400a5277810f21bb1b33d1ee6d681cfe1003a4d"
+    },
+    "aviation-open-truss-hangar-portal-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "287580a00b3fb80a3c4e1fdbdceca59d89ce3666"
     }
   },
-  "assetCount": 434,
+  "assetCount": 435,
   "shards": [
     {
       "theme": "camping",
@@ -2778,6 +2783,13 @@
       "path": "metadata/0c4725b2b9da203335a9887023b03fdd73b3d460effe5e3ec709d2785dfdd726.json",
       "size": 2309,
       "sha256": "0c4725b2b9da203335a9887023b03fdd73b3d460effe5e3ec709d2785dfdd726"
+    },
+    {
+      "theme": "aviation",
+      "count": 1,
+      "path": "metadata/f9143f9176131d202c7308e96f16d9168d44e98d30e8a32f0c1fe0155c926586.json",
+      "size": 2342,
+      "sha256": "f9143f9176131d202c7308e96f16d9168d44e98d30e8a32f0c1fe0155c926586"
     }
   ]
 }
