@@ -1374,9 +1374,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "970655f562116c046935db568c919a454dcd20c5"
+    },
+    "toys-grooved-puzzle-track-quarter-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "48b13963059c99547a8e68e5cebf66c525b0273f"
     }
   },
-  "assetCount": 445,
+  "assetCount": 446,
   "shards": [
     {
       "theme": "camping",
@@ -2910,6 +2915,13 @@
       "path": "metadata/123e399b7837edfa4702ae4d9053ed078cea1b7c72719e76244db9ef6445de4d.json",
       "size": 2641,
       "sha256": "123e399b7837edfa4702ae4d9053ed078cea1b7c72719e76244db9ef6445de4d"
+    },
+    {
+      "theme": "toys",
+      "count": 1,
+      "path": "metadata/55fb0bb59ad3d48e159b8c329e45f2c8018870516f4e3a9f5dffb5890ef4d450.json",
+      "size": 2253,
+      "sha256": "55fb0bb59ad3d48e159b8c329e45f2c8018870516f4e3a9f5dffb5890ef4d450"
     }
   ]
 }
