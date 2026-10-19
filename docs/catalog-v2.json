@@ -1379,9 +1379,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "48b13963059c99547a8e68e5cebf66c525b0273f"
+    },
+    "fishing-draped-mesh-drying-rack-kit-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "6bdce4ea00bb2171b0c1552699f2de8290575233"
     }
   },
-  "assetCount": 446,
+  "assetCount": 447,
   "shards": [
     {
       "theme": "camping",
@@ -2922,6 +2927,13 @@
       "path": "metadata/55fb0bb59ad3d48e159b8c329e45f2c8018870516f4e3a9f5dffb5890ef4d450.json",
       "size": 2253,
       "sha256": "55fb0bb59ad3d48e159b8c329e45f2c8018870516f4e3a9f5dffb5890ef4d450"
+    },
+    {
+      "theme": "fishing",
+      "count": 1,
+      "path": "metadata/fb1b3c7d9e90d4c998a5ea44e0dd048212dff0d43c66b1abeeaae3fba1224bfd.json",
+      "size": 2454,
+      "sha256": "fb1b3c7d9e90d4c998a5ea44e0dd048212dff0d43c66b1abeeaae3fba1224bfd"
     }
   ]
 }
