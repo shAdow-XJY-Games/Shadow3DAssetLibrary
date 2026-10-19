@@ -1414,9 +1414,14 @@
       "owner": "shAdow-XJY-Games",
       "repo": "Shadow3DAssetLibrary",
       "commit": "27ab7ec44e785149820c2746cf17660188395b57"
+    },
+    "painting-recessed-floating-panel-frame-v1": {
+      "owner": "shAdow-XJY-Games",
+      "repo": "Shadow3DAssetLibrary",
+      "commit": "c348d82af3ff6bfd3458c08d02bb142a60a0fab4"
     }
   },
-  "assetCount": 453,
+  "assetCount": 454,
   "shards": [
     {
       "theme": "camping",
@@ -3006,6 +3011,13 @@
       "path": "metadata/3e419a69e239f6661099067df32b798769b2df39cb3f689eabc3a05dc681f872.json",
       "size": 2503,
       "sha256": "3e419a69e239f6661099067df32b798769b2df39cb3f689eabc3a05dc681f872"
+    },
+    {
+      "theme": "painting",
+      "count": 1,
+      "path": "metadata/3996757896d0979a5fd6f0ed95c739ffda2291b55ac800f3c58bba0e64afa444.json",
+      "size": 2521,
+      "sha256": "3996757896d0979a5fd6f0ed95c739ffda2291b55ac800f3c58bba0e64afa444"
     }
   ]
 }
