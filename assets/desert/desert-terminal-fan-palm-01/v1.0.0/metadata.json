@@ -1,0 +1,42 @@
+{
+  "id": "desert-terminal-fan-palm-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "desert",
+  "style": "hard-edge-faceted-nature",
+  "title": "Single-Trunk Pleated Fan Palm",
+  "description": "One original static stylised palm with a mildly bent unbranched trunk and seven unequal terminal petioles, each continuously joined to one broad fused fan leaf with seven radial pleated fingers and six real open V clefts. Eight closed editable positive-volume meshes, five low-contrast constant opaque PBR tones, no textures. Metres, native Z up, front -Y, origin at the complete trunk ground sole. One complete prop, zero scenes; leaves, fingers and variants are not separate new assets. Original reserved desert oasis palm topic. Visual form only; no species accuracy, botany, ecology, cultivation, growth, fruit, animation, wind, physics, collision, navigation, load, shade or thermal-performance claim. No soil island, pot, scenery or other plant.",
+  "bounds": {
+    "x": 2.623078,
+    "y": 2.601073,
+    "z": 2.943388,
+    "unit": "m"
+  },
+  "triangles": 1116,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/desert/desert-terminal-fan-palm-01/v1.0.0/model.glb",
+      "size": 84548,
+      "sha256": "cac2d568b200ffe40b433ce15c1b5805eaca0a89308e6f12103a0d7754491662"
+    },
+    "blend": {
+      "path": "assets/desert/desert-terminal-fan-palm-01/v1.0.0/source.blend",
+      "size": 639812,
+      "sha256": "77440b623bfb7d151c0959004ada8c9609153e21023c3fd1ca7112a359893d82"
+    },
+    "generator": {
+      "path": "assets/desert/desert-terminal-fan-palm-01/v1.0.0/generate.py",
+      "size": 30032,
+      "sha256": "409b005fead7423400376e9830a54a92ac6e774d70435d96b6d60655c3b281b7"
+    },
+    "render": {
+      "path": "assets/desert/desert-terminal-fan-palm-01/v1.0.0/thumbnail.png",
+      "size": 491715,
+      "sha256": "d65e4c8440c5b5dc178e573c8bc8147ac3885eb81b38d585ffc65a9d77a58ec6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
