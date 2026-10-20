@@ -1,0 +1,42 @@
+{
+  "id": "desert-open-yoke-caravan-pack-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "desert",
+  "style": "S01-clean-geometric",
+  "title": "Open-Yoke Caravan Pack Frame",
+  "description": "One original empty static caravan pack-frame visual prop. Two complete thick angular arch yokes stand front and rear, joined by a pair of low longitudinal rails. Two outboard horizontal cargo ledges project from the rails and four fixed raised end horns mark their outer corners. A full open central underside channel passes beneath both yokes; the crown-to-crown gap and both ledge spaces remain genuinely empty. Ten individually editable closed connected solids and four constant opaque untextured PBR materials, including separate end-grain face regions. Four whole flat yoke sole patches establish the unloaded display pose. One complete prop and zero scenes. Newly authored numeric geometry, not a recoloured shelf, A-frame rack, luggage trolley, sled, backpack or old cart. Metres, native Z up, front -Y, horizontally centred ground origin. No animal, person, cargo, rope, harness, cloth pad, scene, texture, text or animation. Stylised static appearance only: no fit to any live animal or human, animal welfare assessment, saddle or harness compatibility, carrying or load safety, structural performance, balancing, stability, tying or packing method, manufacture, transport, installation or safety certification. No real working pack-saddle specification or instructions are supplied.",
+  "bounds": {
+    "x": 1.92,
+    "y": 1.0,
+    "z": 0.8,
+    "unit": "m"
+  },
+  "triangles": 184,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/desert/desert-open-yoke-caravan-pack-frame-01/v1.0.0/model.glb",
+      "size": 21416,
+      "sha256": "e2794e831ecc4dc1962712dbd5235a0c67c0f73f19aef8cbcf45ecd49fa2014d"
+    },
+    "blend": {
+      "path": "assets/desert/desert-open-yoke-caravan-pack-frame-01/v1.0.0/source.blend",
+      "size": 575908,
+      "sha256": "7fd88e1269364e11eb2a22bb5ff5faa04cdbe80be269154b9f3b0cdecbfd9dd7"
+    },
+    "generator": {
+      "path": "assets/desert/desert-open-yoke-caravan-pack-frame-01/v1.0.0/generate.py",
+      "size": 30810,
+      "sha256": "232b0c46972b0cfb0ac67da1dbbfe7816675d7c0812f88c07d1fb679f113552c"
+    },
+    "render": {
+      "path": "assets/desert/desert-open-yoke-caravan-pack-frame-01/v1.0.0/thumbnail.png",
+      "size": 516646,
+      "sha256": "b9bd91cc6d465855d5bea402f6b48511f58fcc937dc527772e547108ecee9287"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

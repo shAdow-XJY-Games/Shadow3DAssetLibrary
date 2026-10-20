@@ -1,0 +1,42 @@
+{
+  "id": "cave-mine-fixed-ridge-ore-splitter-chute-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cave-mine",
+  "style": "S01-clean-geometric",
+  "title": "Fixed-Ridge Twin-Outlet Ore Chute",
+  "description": "One original static mine-processing visual prop: a broad open upper inlet declines into two adjacent lower outlet valleys as a fixed central ridge grows from the continuous thick floor. Both thick sidewalls, the inclined floor and the triangular centre ridge form one closed connected sheet-like solid with a genuinely empty open top, full common inlet and both lower outlets. Two separate full-width sloped-top saddle pedestals meet the entire finite underside seats and rest on one grounded plinth. Four editable closed connected material meshes and four constant opaque untextured PBR materials. One prop and zero scenes. No rollers, belt, grizzly bars, screening holes, storage hopper, moving flap, rocks or surrounding mine scene. New numeric whole geometry; not the previous Y roller junction, ore screen, wagon, silo or sluice recoloured or renamed. Native Z up, front/low outlet -Y, footprint-centred ground origin; metres describe game-space only. Static visual appearance only: no actual ore diversion, flow trajectory, screening, processing capacity, movement, powered equipment, manufacture, engineering, structural load, stability, installation, compatibility or safety claim. Not real equipment construction or operating guidance. No textures, text, animation or separately counted component kit.",
+  "bounds": {
+    "x": 1.7,
+    "y": 2.1,
+    "z": 1.518,
+    "unit": "m"
+  },
+  "triangles": 120,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/cave-mine/cave-mine-fixed-ridge-ore-splitter-chute-01/v1.0.0/model.glb",
+      "size": 11036,
+      "sha256": "d5a90e87279f101e0ef933b48837be5559380e87dfad013de0f84983d19e4495"
+    },
+    "blend": {
+      "path": "assets/cave-mine/cave-mine-fixed-ridge-ore-splitter-chute-01/v1.0.0/source.blend",
+      "size": 542016,
+      "sha256": "a5398b01b9d5d8f2a98cc89b1b909afa83a2f502e27bf215218a2cede0a1db98"
+    },
+    "generator": {
+      "path": "assets/cave-mine/cave-mine-fixed-ridge-ore-splitter-chute-01/v1.0.0/generate.py",
+      "size": 30764,
+      "sha256": "44825fcd990a2f20e17de8686da7b921c2c330de13cc0383cbdc10ee9b9da950"
+    },
+    "render": {
+      "path": "assets/cave-mine/cave-mine-fixed-ridge-ore-splitter-chute-01/v1.0.0/thumbnail.png",
+      "size": 543211,
+      "sha256": "2d69d24ad82cebd2c030a4c72d01697fe15784ef8cfe487c16b00c36c420614f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

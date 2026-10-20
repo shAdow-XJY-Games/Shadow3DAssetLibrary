@@ -1,0 +1,42 @@
+{
+  "id": "coral-reef-twin-cylinder-storage-backframe-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "coral-reef",
+  "style": "S01-clean-geometric",
+  "title": "Twin-Cylinder Storage Backframe Display",
+  "description": "One original static diving-themed storage backframe display. Two long faceted closed cylinder exteriors with stepped shoulders, short integral metal-coloured necks and fixed dark top knobs stand together on one broad footplate. Two separate rear spacer bars meet the full finite rear facets of both cylinders and the thick backplate. The backplate has one complete rectangular through-handle above the cylinders. The full central inter-cylinder channel, through-handle and bounded open front approach remain empty. Eight editable closed connected meshes and five constant opaque untextured PBR materials, including cream bands assigned to existing full cylinder wall faces. One whole prop and zero scenes. Metres are game-space coordinates, native Z up, front -Y, centred ground origin. All geometry is newly authored numerically; no existing vessel, rack, backpack, hose, cylinder or scene is imported. Static exterior visual only: no gas contents, internal pressure vessel, regulator, breathing circuit, hose, wearable harness, live user, animation or operating mechanism. No breathing, life-support, gas delivery, pressure, leak-tightness, underwater suitability, buoyancy, dive readiness, carrying fit, load rating, stability, installation, manufacturing, engineering or diving-safety capability is claimed. This is not real equipment construction or use guidance.",
+  "bounds": {
+    "x": 0.76,
+    "y": 0.6,
+    "z": 1.36,
+    "unit": "m"
+  },
+  "triangles": 348,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/coral-reef/coral-reef-twin-cylinder-storage-backframe-01/v1.0.0/model.glb",
+      "size": 26400,
+      "sha256": "4977174b7cb134aea0ad954c767579ce4aff93024ed13d34cc40b0bff5f152dd"
+    },
+    "blend": {
+      "path": "assets/coral-reef/coral-reef-twin-cylinder-storage-backframe-01/v1.0.0/source.blend",
+      "size": 597980,
+      "sha256": "635945df2040cad9b195f8d5b5847b33c3caa74e7dd7e1146e921eb3b7035546"
+    },
+    "generator": {
+      "path": "assets/coral-reef/coral-reef-twin-cylinder-storage-backframe-01/v1.0.0/generate.py",
+      "size": 32328,
+      "sha256": "aee1cd92cfa497f1b2aec7cef31029d73842f76e37da052c2874f9b6b45ca19e"
+    },
+    "render": {
+      "path": "assets/coral-reef/coral-reef-twin-cylinder-storage-backframe-01/v1.0.0/thumbnail.png",
+      "size": 522478,
+      "sha256": "75171c1869c4f6974aaddc4578c65a96e6a0ff3f1ee97ef5755ae4d643520272"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
