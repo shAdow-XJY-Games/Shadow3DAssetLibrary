@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-cutaway-piston-cylinder-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Cutaway Piston Cylinder Display",
+  "description": "One original complete static steam-workshop piston-cylinder visual prop: a horizontal thick twenty-four-sided cylinder with a continuous 105-degree upper cutaway, a separate complete closed rear cap, a separate genuinely through-bored round front cap, an independent visible stepped piston disk inside the real chamber, and a continuous round outward rod with an integral annular stop collar. The collar seats against the entire finite front-cap annulus, and the rod terminal face seats against the piston. Two broad finite pedestals support the complete cylinder bottom facet on a single flat grounded base. Eight closed connected editable meshes, four ordinary opaque constant unlinked PBR materials, metres, native Z up, front -Y, cylinder axis along X at Z0.55, base-centre ground origin. One prop and zero scenes. Original new numeric geometry; no prior excavator, pump, roller, winch, boiler or gear geometry imported, resized or renamed. The upper section is deliberately open and the piston and shaft have real radial visual clearance. One frozen display pose only; no motion, stroke, rigging, steam, pressure, sealing, airtightness, fluid or heat simulation, force transmission, bearing operation, loads, stability, manufacture, real equipment compatibility, installation or safety certification is claimed. No flywheel, crank, valve, pipe, motor, animation, texture, text or surrounding scene is included.",
+  "bounds": {
+    "x": 2.34,
+    "y": 0.86,
+    "z": 0.887091,
+    "unit": "m"
+  },
+  "triangles": 1040,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-cutaway-piston-cylinder-01/v1.0.0/model.glb",
+      "size": 50784,
+      "sha256": "7a9e6bd12717ce9870620eb04bd5759070a84249cece8127466dbfcf87190d10"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-cutaway-piston-cylinder-01/v1.0.0/source.blend",
+      "size": 611972,
+      "sha256": "eda9a82953cf1b695b05d6d7603cb23c1273d8387d634a9cf53fd742e062755f"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-cutaway-piston-cylinder-01/v1.0.0/generate.py",
+      "size": 31416,
+      "sha256": "d532a946da3067b63c45dd3a3d73e695417db8538fe1e4e6344b82ed976f1c57"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-cutaway-piston-cylinder-01/v1.0.0/thumbnail.png",
+      "size": 492800,
+      "sha256": "54d0cf72e7e4c41ead52f44294ae5346f28de200da7706db88f46dafcebdde63"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
