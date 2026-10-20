@@ -1,0 +1,42 @@
+{
+  "id": "nature-continuous-y-forked-fallen-log-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "hard-edge-faceted-nature",
+  "title": "Continuous Y-Fork Fallen Log",
+  "description": "One original static stylised fallen log with a thick gently uneven trunk and two substantial unequal terminal limbs diverging through one continuous Y junction. One closed shared-vertex editable wood body, three visible pale exposed wood end sections inside thick bark rims and three complete finite underside ground patches. Five restrained constant opaque matte PBR tones, no texture. Metres, native Z up, front -Y, horizontal envelope-centred ground origin. One whole prop, zero scenes; branches, colors and formats are not separate assets. No old log, tree or coral mesh imported. Artistic visual wood only; no species, ecology, age, annual-ring or wood-anatomy science, growth, animation, collision, navigation, physics, anti-roll, real support capacity or stability claim. No leaves, roots, soil island, stones, water or scenery.",
+  "bounds": {
+    "x": 3.308188,
+    "y": 2.52331,
+    "z": 0.543009,
+    "unit": "m"
+  },
+  "triangles": 356,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-continuous-y-forked-fallen-log-01/v1.0.0/model.glb",
+      "size": 23524,
+      "sha256": "935000a028a54f517b94c7a03d28e8231517f755546da8b687204b439887f084"
+    },
+    "blend": {
+      "path": "assets/nature/nature-continuous-y-forked-fallen-log-01/v1.0.0/source.blend",
+      "size": 562860,
+      "sha256": "1141a8d547ab515250890f4a1d0bfb72d94d37eee0abab8388634cacd9e23b0f"
+    },
+    "generator": {
+      "path": "assets/nature/nature-continuous-y-forked-fallen-log-01/v1.0.0/generate.py",
+      "size": 28020,
+      "sha256": "eb7b466a7710f0f3ca2a2ee668467fa06e8146038fdd9c3f2b486dccdc86abd5"
+    },
+    "render": {
+      "path": "assets/nature/nature-continuous-y-forked-fallen-log-01/v1.0.0/thumbnail.png",
+      "size": 482559,
+      "sha256": "a9fe9248b73ef1c3d15ff04d72a74f63f01effdf6574238921f06a331ace45f6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
