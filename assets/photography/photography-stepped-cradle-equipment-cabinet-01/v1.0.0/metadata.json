@@ -1,0 +1,42 @@
+{
+  "id": "photography-stepped-cradle-equipment-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "photography",
+  "style": "S01-clean-geometric",
+  "title": "Stepped Cradle Equipment Cabinet",
+  "description": "One original static open-front photographic equipment cabinet with a complete thick back, side walls, floor, roof and ground plinth. A fixed full-height divider separates a tall empty right-hand bay from three left-hand shelves. Each shelf supports a matched front/rear pair of thick continuous cradle boards with two genuinely open semicircular top notches, for six empty notched positions across three levels. All twelve notches are real finite concave geometry with full thickness and open top/axial air, not painted marks or circular blind wells. Sixteen closed editable meshes, four opaque constant untextured PBR materials, metre units, native Z up, front -Y and bounds-centred ground origin. Every profile and dimension is newly authored; no earlier cabinet, bag, lens, camera, light stand or other complete model is imported. One complete static prop, zero scenes. No equipment is included. No lens size, fit, compatibility, insertion action, storage or protection performance, optical function, loading, anti-tip stability, strength, manufacturing, installation or safety certification claim.",
+  "bounds": {
+    "x": 0.96,
+    "y": 0.56,
+    "z": 1.05,
+    "unit": "m"
+  },
+  "triangles": 816,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-stepped-cradle-equipment-cabinet-01/v1.0.0/model.glb",
+      "size": 43892,
+      "sha256": "fc4eb2d3ab251b407def64a78ec7ba179e411e5b695788ff6d462790a6671dc3"
+    },
+    "blend": {
+      "path": "assets/photography/photography-stepped-cradle-equipment-cabinet-01/v1.0.0/source.blend",
+      "size": 639720,
+      "sha256": "c6312014705e936ef37f138eb2de0f68ae327e05d488dfc34080820a0d4e8fc1"
+    },
+    "generator": {
+      "path": "assets/photography/photography-stepped-cradle-equipment-cabinet-01/v1.0.0/generate.py",
+      "size": 32114,
+      "sha256": "ddd5ab0c0fc1e48f2a3f498fa204b0572a4b7de1bbd488e49b27cfc64f0e298e"
+    },
+    "render": {
+      "path": "assets/photography/photography-stepped-cradle-equipment-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 600977,
+      "sha256": "566aca9afbe7af6b9d60a7d8690b9ff30729c2cf89ae5b85a6bf3bd294466249"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

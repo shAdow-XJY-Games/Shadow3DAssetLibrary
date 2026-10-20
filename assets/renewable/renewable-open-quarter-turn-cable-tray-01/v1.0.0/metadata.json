@@ -1,0 +1,42 @@
+{
+  "id": "renewable-open-quarter-turn-cable-tray-01",
+  "version": "1.0.0",
+  "category": "modular",
+  "assetKind": "modular",
+  "theme": "renewable",
+  "style": "S01-clean-geometric",
+  "title": "Open Quarter-Turn Cable Tray",
+  "description": "One original continuous ninety-degree cable-tray visual module with a complete thick floor, two raised integral curved sidewalls, two genuinely open U-shaped end mouths and an entirely open top. The twelve-facet bend changes the horizontal route through a quarter turn; it is newly authored curved geometry, not a recoloured or rescaled straight tray. Two inset rectangular feet finitely seat the full curved shell above the ground. Three closed connected editable meshes, two constant opaque untextured PBR materials. Metres are game-space coordinates, source Z up, front -Y, horizontal bounds-centred ground origin. One modular asset, zero scenes and zero separately counted feet or segments. No old geometry imported. Static empty visual form only: no cables, wiring, power, electrical continuity, insulation, grounding, drainage, ventilation, loading, span, strength, stability, manufacture, installation standard, connection fit, seamless tiling, compatibility with the earlier straight tray or safety certification. No perforations, fasteners, moving parts, textures, text, branding or scene.",
+  "bounds": {
+    "x": 0.76,
+    "y": 0.76,
+    "z": 0.32,
+    "unit": "m"
+  },
+  "triangles": 228,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/renewable/renewable-open-quarter-turn-cable-tray-01/v1.0.0/model.glb",
+      "size": 13328,
+      "sha256": "0b0032d9a0815a3c3569509e2b5c745dd0ec899a032849d8f4422a090e7cdf02"
+    },
+    "blend": {
+      "path": "assets/renewable/renewable-open-quarter-turn-cable-tray-01/v1.0.0/source.blend",
+      "size": 496368,
+      "sha256": "30b6051f4a356c07e7e14ec55deb8ede1bf6d324121fbbba47a3661cd7f747cf"
+    },
+    "generator": {
+      "path": "assets/renewable/renewable-open-quarter-turn-cable-tray-01/v1.0.0/generate.py",
+      "size": 29284,
+      "sha256": "15fb6d9defd4aa97c15516d26c6539a551e0b9bf1e725599430fc9ab001e8b88"
+    },
+    "render": {
+      "path": "assets/renewable/renewable-open-quarter-turn-cable-tray-01/v1.0.0/thumbnail.png",
+      "size": 488607,
+      "sha256": "7158844d0929bc4075849adf4ff625826ad8aa0c3ad29ced96dca0d364373a92"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

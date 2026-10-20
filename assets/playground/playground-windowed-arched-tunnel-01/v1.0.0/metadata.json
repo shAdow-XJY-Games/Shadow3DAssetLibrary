@@ -1,0 +1,42 @@
+{
+  "id": "playground-windowed-arched-tunnel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "playground",
+  "style": "S01-clean-geometric",
+  "title": "Windowed Low Arched Play Tunnel",
+  "description": "One original static low arched playground tunnel appearance with two genuinely open ends and two large true side-wall windows. One continuous thick faceted shell integrates both warm ochre broad portal bands and the sage curved canopy; complete window returns expose the pale thickness. Two separate broad dark ground runners carry the entire finite lower shell seats. The full longitudinal tunnel and both lateral window egresses are real empty geometry. Three editable closed connected meshes and four constant opaque untextured PBR colours. One whole prop, zero scenes. Metres are game-space coordinates, native Z up, front -Y, ground-centred origin. Newly authored shell, window topology, portal profile and runners; no geometry reused from a slide, rod climbing dome, bench, toy or industrial elbow pipe. Static visual geometry only: no real crawling or climbing suitability, body clearance, child age guidance, load capacity, structural performance, fall or entrapment protection, installation, manufacture, cushioning, playground safety certification or physical equipment guidance. No people, ground scene, textures, logos, animation, collision model or old-equipment compatibility claim.",
+  "bounds": {
+    "x": 1.48,
+    "y": 1.76,
+    "z": 0.77,
+    "unit": "m"
+  },
+  "triangles": 444,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/playground/playground-windowed-arched-tunnel-01/v1.0.0/model.glb",
+      "size": 24672,
+      "sha256": "db8397763be5218ce748e3ac5c0288277d6ed527b44d06c03d8ec76f1bedc855"
+    },
+    "blend": {
+      "path": "assets/playground/playground-windowed-arched-tunnel-01/v1.0.0/source.blend",
+      "size": 554480,
+      "sha256": "e8af76d7e1a697205d3d981a3524a4d6962632372cb873ddc23da453a6f7df87"
+    },
+    "generator": {
+      "path": "assets/playground/playground-windowed-arched-tunnel-01/v1.0.0/generate.py",
+      "size": 30048,
+      "sha256": "9e2ae48823028f982c4d08a9baf2a504f2055f21d46b66307154ac4debd73d6e"
+    },
+    "render": {
+      "path": "assets/playground/playground-windowed-arched-tunnel-01/v1.0.0/thumbnail.png",
+      "size": 529282,
+      "sha256": "d4bb520bdc40529e71234987c89e800c5f81e86375f06064f9950a6e4c8668fb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
