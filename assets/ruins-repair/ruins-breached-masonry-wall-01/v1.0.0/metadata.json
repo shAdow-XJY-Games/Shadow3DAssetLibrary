@@ -1,0 +1,42 @@
+{
+  "id": "ruins-breached-masonry-wall-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "ruins-repair",
+  "style": "restrained-faceted-masonry",
+  "title": "Deep-Breached Masonry Wall",
+  "description": "One original static ruined masonry-wall module with a broad complete ground sole, real full thickness, irregular unequal broken crests and one deep open-top central breach. One continuous closed editable shared-vertex mesh includes both complete staggered masonry faces, physically recessed joints with bevel shoulders, whole exposed broken upper sections and complete end and bottom sections. The masonry pattern is integral surface relief, never painted seam strips or overlapping decorative boxes. Four restrained constant opaque matte PBR tones, no texture. Metres, native Z up, front -Y, horizontally centred ground origin. One modular model, zero scenes and no separately counted stones. All visible geometry is newly authored; no old intact wall is shortened, recoloured, rescaled or imported. No debris, ground slab, scaffolding, timber supports, building, animation or alternate state. Static illustrative visual geometry only: no structural capacity, load, physical fracture, destruction simulation, reconstruction function, real repair guidance, archaeological accuracy, collision, navigation, manufacture, installation, safety or compatibility with earlier module grids is claimed.",
+  "bounds": {
+    "x": 3.3,
+    "y": 0.48,
+    "z": 2.13,
+    "unit": "m"
+  },
+  "triangles": 2432,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/ruins-repair/ruins-breached-masonry-wall-01/v1.0.0/model.glb",
+      "size": 97432,
+      "sha256": "b546ae9468f65f0bc3a3c882b2461d8e54a829b691b1ae131f1c4227f4739974"
+    },
+    "blend": {
+      "path": "assets/ruins-repair/ruins-breached-masonry-wall-01/v1.0.0/source.blend",
+      "size": 651692,
+      "sha256": "859ec5086b92cfd696bf5c7b70740178b43bc3a880a3f057c7631c670420adf0"
+    },
+    "generator": {
+      "path": "assets/ruins-repair/ruins-breached-masonry-wall-01/v1.0.0/generate.py",
+      "size": 27469,
+      "sha256": "bdefb99139117bb110d2e3f692dea12f3070234d7a6ec1c2859e374c564abc2b"
+    },
+    "render": {
+      "path": "assets/ruins-repair/ruins-breached-masonry-wall-01/v1.0.0/thumbnail.png",
+      "size": 499518,
+      "sha256": "a6ec6b23a18450c6c841b2977779f149027598d29e91c39cd775fbd934b65882"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
