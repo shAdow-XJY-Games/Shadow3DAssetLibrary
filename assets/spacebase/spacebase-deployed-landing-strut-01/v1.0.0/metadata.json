@@ -1,0 +1,42 @@
+{
+  "id": "spacebase-deployed-landing-strut-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "spacebase",
+  "style": "S01-clean-geometric",
+  "title": "Deployed Landing Strut and Footpad",
+  "description": "One original fixed deployed spacebase landing-strut visual assembly: a broad stepped octagonal grounded footpad, a continuous sloping lower shoe, one inclined sixteen-sided stepped strut with an integral thick upper barrel, collars and exposed narrow lower rod, a complete upper mounting block, paired long chamfer-ended side links and four complete transverse connector pins. Ten separately editable closed connected meshes form one complete prop, with four constant opaque PBR materials. The two long side links flank the central strut with real open space between them. The static game-space dimensions, native Z up, front -Y and ground origin describe this single visual pose. One prop and zero scenes. All product geometry is newly authored; no earlier landing platform, solar base, tripod, towbar, raking shore or piston geometry is imported, resized or renamed. No deployment animation, folding poses, textures, text, terrain, craft body or attachment compatibility is included.",
+  "bounds": {
+    "x": 1.799462,
+    "y": 0.886924,
+    "z": 2.004,
+    "unit": "m"
+  },
+  "triangles": 672,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/spacebase/spacebase-deployed-landing-strut-01/v1.0.0/model.glb",
+      "size": 38504,
+      "sha256": "fefd3af0bf9ac142c491ca0d605c3a5aa47e2a36dffd8c03f50cbc1e6a7ed03c"
+    },
+    "blend": {
+      "path": "assets/spacebase/spacebase-deployed-landing-strut-01/v1.0.0/source.blend",
+      "size": 601820,
+      "sha256": "8e772eb075f4cf8a0e945be0539c7219b3b6745f5c01d7714b0318987a9658cd"
+    },
+    "generator": {
+      "path": "assets/spacebase/spacebase-deployed-landing-strut-01/v1.0.0/generate.py",
+      "size": 32020,
+      "sha256": "db333c776b6bbd6402e746bb145518645b4f6061cd5ca113f42418efe92a8385"
+    },
+    "render": {
+      "path": "assets/spacebase/spacebase-deployed-landing-strut-01/v1.0.0/thumbnail.png",
+      "size": 509503,
+      "sha256": "d9cf0dde71feae23a20df229a52d791e3cfd99cbc26c35bfd142d56b9dcfcd03"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

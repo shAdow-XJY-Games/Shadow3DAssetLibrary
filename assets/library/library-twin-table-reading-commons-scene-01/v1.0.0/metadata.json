@@ -1,0 +1,42 @@
+{
+  "id": "library-twin-table-reading-commons-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "library",
+  "style": "source-preserved-S01-clean-geometric",
+  "title": "Twin-Table Library Reading Commons",
+  "description": "A quiet library reading commons with two separate round reading tables, each carrying one whole closed three-book kit between two opposed complete chairs. A central access spine and connected south, outer and north browsing passages link both reading bays to a complete empty collection shelf. Nine unit-scale rigid instances preserve four verified original model IDs, every original mesh, hierarchy, oriented triangle and full solid PBR. One new scene-only floor supports every furniture bottom; all six book-cover undersides are fully supported on the actual finite circular table tops. Six complete empty approach domains have fully supported footprints and finite connected overlaps. One scene and zero new independent models. This is a multi-bay public reading and collection-browsing layout, not a return/sorting service counter, cafe booth or sofa living room. Books remain closed and the shelf remains empty. Static appearance only: no page opening, readable text, reading illumination, human fit, seating performance, shelf compatibility, borrowing software, continuous navigation, ergonomics, accessibility, load, stability, manufacture or safety certification.",
+  "bounds": {
+    "x": 4.4,
+    "y": 4.4,
+    "z": 1.86,
+    "unit": "m"
+  },
+  "triangles": 5032,
+  "materials": 30,
+  "files": {
+    "glb": {
+      "path": "assets/library/library-twin-table-reading-commons-scene-01/v1.0.0/model.glb",
+      "size": 378056,
+      "sha256": "58b01ea5ce8f6d3654e46d907f3e6933c05831e9257971289ec54fcd597c6206"
+    },
+    "blend": {
+      "path": "assets/library/library-twin-table-reading-commons-scene-01/v1.0.0/source.blend",
+      "size": 1891540,
+      "sha256": "23078cfcaa081d851fdfbb44a7969435cff087470e97a3cbaf795300a9e226a9"
+    },
+    "generator": {
+      "path": "assets/library/library-twin-table-reading-commons-scene-01/v1.0.0/generate.py",
+      "size": 90024,
+      "sha256": "bf87cd1b46ace0bb3a717d630f6fd7f071c2ecd7706bee0744d705d9a0058439"
+    },
+    "render": {
+      "path": "assets/library/library-twin-table-reading-commons-scene-01/v1.0.0/thumbnail.png",
+      "size": 518880,
+      "sha256": "90cee2eb7b662bff687f33faa7d38cef3b410112354cc4a3bd6c3e734e932871"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

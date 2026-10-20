@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-magic-swan-neck-alembic-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy-magic",
+  "style": "S01-clean-geometric",
+  "title": "Swan-Neck Alchemy Vessel and Receiver",
+  "description": "One original static fantasy alchemy vessel set on one grounded chamfered plinth: a large faceted pear-shaped retort has a single continuous thick hollow body and high curved swan neck ending in a downward open spout; a smaller thick open receiver stands below the spout with an intentionally visible air gap. Two low polygonal pedestals seat the complete vessel bottoms. Five closed connected editable meshes, four opaque constant untextured PBR materials, one overall prop and zero scenes. Broad bronze regions are face materials on continuous shell geometry rather than duplicate skins. The retort has a genuine continuous empty geometric cavity from its inner floor through the bent neck to the downward mouth; the receiver has a real inner floor, inner wall and open rim. Every shape is newly numerically authored, not a recoloured laboratory beaker, amphora, serving pitcher or boiler. Metres are game-space coordinates, native Z up, front -Y and plinth-centred ground origin. Opaque stylized surfaces, no transparent glass, liquid, flame, smoke, text, labels, textures, animation or imported asset. Static fictional appearance only: no distillation process, chemical use, fluid flow, transfer, heating, pressure, capacity, temperature, sealing, material compatibility, manufacture, stability, load or real equipment safety claim. Not chemical apparatus design or construction guidance.",
+  "bounds": {
+    "x": 1.96,
+    "y": 0.98,
+    "z": 1.728439,
+    "unit": "m"
+  },
+  "triangles": 1748,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy-magic/fantasy-magic-swan-neck-alembic-01/v1.0.0/model.glb",
+      "size": 104984,
+      "sha256": "a4d0f239e252dac9c8c3d30fe99725b922d84dfe1385f90b33f2997fef1fde4a"
+    },
+    "blend": {
+      "path": "assets/fantasy-magic/fantasy-magic-swan-neck-alembic-01/v1.0.0/source.blend",
+      "size": 634852,
+      "sha256": "4bf2516f91eb4015c2b8ebf4fdc7374f5cb4ae0464b5b672094f79310711373a"
+    },
+    "generator": {
+      "path": "assets/fantasy-magic/fantasy-magic-swan-neck-alembic-01/v1.0.0/generate.py",
+      "size": 32503,
+      "sha256": "3e702a88a528c6348b5c3e80936d435651ec1b9d38a0564e24f0aae1fbad282c"
+    },
+    "render": {
+      "path": "assets/fantasy-magic/fantasy-magic-swan-neck-alembic-01/v1.0.0/thumbnail.png",
+      "size": 527366,
+      "sha256": "ed416e9a9f1afd9e80b7fa5ab8627bbb6ce48c75b23ca9cc3270d83789e3ee07"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
