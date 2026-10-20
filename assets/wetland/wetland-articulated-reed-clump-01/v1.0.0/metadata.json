@@ -1,0 +1,42 @@
+{
+  "id": "wetland-articulated-reed-clump-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "wetland",
+  "style": "hard-edge-faceted-nature",
+  "title": "Alternating-Sheath Reed Clump",
+  "description": "One original static stylised wetland reed clump: four unequal jointed upright culms, each with three alternating stem-borne long folded sheathing leaves and an open terminal panicle of four primary branches with actual secondary forks. Four fully continuous closed editable shoot meshes with shared leaf and branch junction boundaries, four finite ground soles, and five constant opaque matte PBR tones. Metres, native Z up, front -Y, common clump ground origin. One whole prop, zero scenes; stems, branches, colors and formats are not separate assets. No old grass or fern geometry, texture, water, soil island or scenery. Artistic visual form only; no species accuracy, botanical, habitat, ecology, planting, growth, wind, animation, collision, navigation, physics or strength claim.",
+  "bounds": {
+    "x": 1.262346,
+    "y": 0.48,
+    "z": 2.15965,
+    "unit": "m"
+  },
+  "triangles": 3504,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/wetland/wetland-articulated-reed-clump-01/v1.0.0/model.glb",
+      "size": 215628,
+      "sha256": "5cfdda51eb6e181da61163454868047c7faf2f3e22df2a073ec3b93a93bf1d27"
+    },
+    "blend": {
+      "path": "assets/wetland/wetland-articulated-reed-clump-01/v1.0.0/source.blend",
+      "size": 748292,
+      "sha256": "55c4be671346d4fc6100325b94a00f602fc78314f16b92e59178de08fce5d862"
+    },
+    "generator": {
+      "path": "assets/wetland/wetland-articulated-reed-clump-01/v1.0.0/generate.py",
+      "size": 29513,
+      "sha256": "c00f9971439a60ab4e6fee5aa3d99ff89a39c7d9f49df3b988c32e973287d5f8"
+    },
+    "render": {
+      "path": "assets/wetland/wetland-articulated-reed-clump-01/v1.0.0/thumbnail.png",
+      "size": 493486,
+      "sha256": "78b4351159ab1b56c82e5ab17896cda198965b5662b50a986d17fa665a961750"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
