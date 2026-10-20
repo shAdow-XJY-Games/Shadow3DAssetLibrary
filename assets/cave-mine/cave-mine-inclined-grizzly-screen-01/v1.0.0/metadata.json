@@ -1,0 +1,42 @@
+{
+  "id": "cave-mine-inclined-grizzly-screen-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cave-mine",
+  "style": "S01-clean-geometric",
+  "title": "Inclined Grizzly Ore Screen",
+  "description": "One original static low-poly inclined ore-screen prop: seven solid longitudinal grizzly bars and six genuine long slots, a separate continuous thick-walled open collector with a through discharge neck, and a low-end open U-shaped coarse-material lip. Four flat feet and finite grounded support chains. Three opaque constant PBR materials; no textures. Metres, source Z up, low end -Y, horizontal bounds-centred origin at ground. One complete prop, no scene or separately counted components. A fixed stylised visual design only: no real screening, particle size, throughput, granular flow, vibration, powered drive, motion, rigging, physics, collision, load, stability, manufacturing, equipment compatibility or safety certification.",
+  "bounds": {
+    "x": 1.51,
+    "y": 2.0,
+    "z": 1.509,
+    "unit": "m"
+  },
+  "triangles": 560,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/cave-mine/cave-mine-inclined-grizzly-screen-01/v1.0.0/model.glb",
+      "size": 46100,
+      "sha256": "e175d2678e4cdcc9910d96f35b2c031e4d70151a37c55c37e7cfb0bca24e06e3"
+    },
+    "blend": {
+      "path": "assets/cave-mine/cave-mine-inclined-grizzly-screen-01/v1.0.0/source.blend",
+      "size": 668212,
+      "sha256": "59cb8f7e59d2cd99eeabaa781940d3dd29171572a3be83c49eced18b9a75b6dc"
+    },
+    "generator": {
+      "path": "assets/cave-mine/cave-mine-inclined-grizzly-screen-01/v1.0.0/generate.py",
+      "size": 21812,
+      "sha256": "f458a0a837f65410c09294b24888f8ddc5855949069799c55417467ba4c466e6"
+    },
+    "render": {
+      "path": "assets/cave-mine/cave-mine-inclined-grizzly-screen-01/v1.0.0/thumbnail.png",
+      "size": 630070,
+      "sha256": "cb07f91ca29d92f939998834d14c2b63019c0c47e2c077528c45638aaf086a81"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
