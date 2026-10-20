@@ -1,0 +1,42 @@
+{
+  "id": "robotics-linear-cargo-transfer-workzone-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "robotics",
+  "style": "source-preserved-S01-clean-geometric",
+  "title": "Linear Cargo Transfer Workzone",
+  "description": "One static cargo-transfer themed scene using six complete unit-scale instances of four unchanged published models. A side-on low-deck transport platform faces east and carries one whole ventilated crate on its actual finite deck. A whole worktable north of the platform carries a second crate; a complete braced pallet rack stands beside the worktable with a third separate crate resting on the scene floor under its intact empty bearing beams. A full-width northern handoff aisle and a distinct parallel southern through passage connect around both platform ends. Six finite empty reference volumes and their entire supported footprints are checked against every old mesh; all fifteen cross-instance pairs and both complete cargo bottom contacts are checked. Every original mesh, hierarchy, oriented triangle and solid PBR is retained, with no cropping, recoloring or replacement. One closed scene-only floor, one scene and zero new independent models. The robot and crates remain fixed; the 60mm outer floor step needs external placement. No real cargo movement, automation, autonomous navigation, sensing, charging, driving, transfer sequence, generic cargo fit, rack shelf loading, load capacity, stability, ergonomics, accessibility, industrial safety or operation is claimed.",
+  "bounds": {
+    "x": 6.4,
+    "y": 5.0,
+    "z": 2.27,
+    "unit": "m"
+  },
+  "triangles": 4358,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/robotics/robotics-linear-cargo-transfer-workzone-scene-01/v1.0.0/model.glb",
+      "size": 269296,
+      "sha256": "48c2c8e0319a98734566159c98a51461b647122cfac6f3e0ad4efe96443cfe75"
+    },
+    "blend": {
+      "path": "assets/robotics/robotics-linear-cargo-transfer-workzone-scene-01/v1.0.0/source.blend",
+      "size": 1542948,
+      "sha256": "4ced232dcff6aad6a55482978b59d49cf9abe4dbacc285995e879e70b65db426"
+    },
+    "generator": {
+      "path": "assets/robotics/robotics-linear-cargo-transfer-workzone-scene-01/v1.0.0/generate.py",
+      "size": 110220,
+      "sha256": "61183186b620a800a16b7b5c89bd7a64ceb4eaea2e40a20f656496511ba9090c"
+    },
+    "render": {
+      "path": "assets/robotics/robotics-linear-cargo-transfer-workzone-scene-01/v1.0.0/thumbnail.png",
+      "size": 505654,
+      "sha256": "d5601c71f4fca0cdb11c48404800d70c6f1681de8290b13b1da940b1491f2b32"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

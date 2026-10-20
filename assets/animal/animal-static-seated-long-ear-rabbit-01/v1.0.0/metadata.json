@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-seated-long-ear-rabbit-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S01-clean-geometric",
+  "title": "Static Seated Long-Ear Rabbit",
+  "description": "One original complete static stylized seated rabbit with a tapered upright torso, distinct cheeked head with two integral dark eyes, a short full muzzle with integral pink nose face, two long thick splayed ears with integral pink inner faces, two broad external seated haunches, two long forward hind paws, two slender continuous front legs ending in flat resting paws, and one short faceted tail. Twelve closed editable meshes meet only at eleven full finite opposed planar joints. Four complete finite ground soles, whole inset material and empty-space domains are checked on actual geometry. Five ordinary opaque matte constant PBR colors. Metres, native Z up, front -Y and horizontal bounds-centred ground origin. One prop, zero scenes. Entire animal geometry newly authored, not the earlier seated plush bear with replacement ears or a recolour. No fabric seams, clothing, separate eyes, textures, fur, props, pedestal, vegetation, enclosure, variant, rig, skeleton or animation. Artistic fixed appearance only; no precise species identification, anatomical or biological accuracy, ecological fidelity, living animal behaviour, locomotion, physical stability, manufacturing, safety or old-asset compatibility claim.",
+  "bounds": {
+    "x": 0.86,
+    "y": 0.84,
+    "z": 1.53,
+    "unit": "m"
+  },
+  "triangles": 736,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-seated-long-ear-rabbit-01/v1.0.0/model.glb",
+      "size": 53180,
+      "sha256": "a285c6f7d41fb16d699d6c4876fd45f53d541b3edda873cdfda3e783829e9c61"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-seated-long-ear-rabbit-01/v1.0.0/source.blend",
+      "size": 639380,
+      "sha256": "27ebb15a469b02c017c419aabcbdca80687a084747c6e94ef62b4d5b64d0691f"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-seated-long-ear-rabbit-01/v1.0.0/generate.py",
+      "size": 32256,
+      "sha256": "c69f2aa833e7f172e5c89329aa33cc67430ff54dee04333f68e1bcb557479ab5"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-seated-long-ear-rabbit-01/v1.0.0/thumbnail.png",
+      "size": 490535,
+      "sha256": "190681ea4d2a0b37968e74ad38b4f46f28ea6734c496e3c5d9eed2e260f635a2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

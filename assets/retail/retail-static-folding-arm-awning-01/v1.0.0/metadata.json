@@ -1,0 +1,42 @@
+{
+  "id": "retail-static-folding-arm-awning-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "retail",
+  "style": "S01-clean-geometric",
+  "title": "Static Folding-Arm Shopfront Awning",
+  "description": "One complete original shopfront awning module in one fixed open pose. A continuous 30 mm-thick striped canopy joins a rear cassette and front bar. Two mirrored pairs of visibly angled arm segments meet thick elbow blocks beneath the canopy; separate wall-end plates connect the arm roots and cassette. A continuous thick striped valance hangs from the front bar. Twelve editable closed connected meshes, four opaque constant untextured PBR materials. One modular asset and zero scenes. Metres, Z up, front -Y; wall-side plate lower edges define Z=0, not a ground or installed position. Newly authored geometry, no old parasol, tent, four-post shelter, stall, carousel or shop-house parts reused. Fixed stylised display only: no retraction, hinges in motion, crank, spring, motor, fabric simulation, attachment fasteners, wall substrate, installation instructions, load, weather performance, manufacture or structural safety claim. No host building, wall, shop contents, sign, text, texture or animation.",
+  "bounds": {
+    "x": 2.8,
+    "y": 1.71,
+    "z": 0.54,
+    "unit": "m"
+  },
+  "triangles": 240,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-static-folding-arm-awning-01/v1.0.0/model.glb",
+      "size": 22856,
+      "sha256": "6dcf9a8022991a5517bc27874ce93589b8ca11b3c0cab20d4537702a2a55e6c6"
+    },
+    "blend": {
+      "path": "assets/retail/retail-static-folding-arm-awning-01/v1.0.0/source.blend",
+      "size": 589024,
+      "sha256": "27abb8b0cfc956e652b919e29b273506a74427a620a27e54be70437e71fcc207"
+    },
+    "generator": {
+      "path": "assets/retail/retail-static-folding-arm-awning-01/v1.0.0/generate.py",
+      "size": 31997,
+      "sha256": "413e431897fa65a9773d8b4d8a783b7b1ea193e9354a38c5e4fb3463f877d881"
+    },
+    "render": {
+      "path": "assets/retail/retail-static-folding-arm-awning-01/v1.0.0/thumbnail.png",
+      "size": 490657,
+      "sha256": "74fd46dcbcbbffd546a2cdf70e08f3f6362b0f98ccc58b7038d3736d37418db9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
