@@ -1,0 +1,42 @@
+{
+  "id": "farming-mature-short-awn-wheat-plant-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "restrained-faceted-farming",
+  "title": "Mature Short-Awn Wheat Plant",
+  "description": "One original complete static wheat-like crop plant: one slender jointed culm with three flared leaf sheaths and three narrow thick folded blades supports a continuous terminal rachis. Fourteen plump faceted grain bodies form two opposed staggered ranks, each tapering into its own short solid awn. All sheath, blade, rachis, grain and awn surfaces belong to one continuously connected closed editable mesh through complete shared uncapped boundaries. A small flat basal stem sole meets Z=0 without a pot, soil block or stand. Four restrained constant opaque matte PBR tones, no textures or alpha cards. Metres, native Z up, front -Y, horizontal envelope-centred ground origin. Exactly one whole reusable prop and zero scenes; organs and repeated grains are not separately counted assets. All numeric plant geometry newly authored, with no imported maize, pumpkin, harvested sheaf, reed or crop-patch geometry. Fixed stylised wheat-like appearance only: no cultivar identification, botanical precision, actual growth stage, maturity, planting, food, yield, ecology, wind, growth animation, collision, physical stability or safety claim. No harvested bundle, rope, scenery, rigging or variants.",
+  "bounds": {
+    "x": 0.689564,
+    "y": 0.058,
+    "z": 1.37,
+    "unit": "m"
+  },
+  "triangles": 2506,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-mature-short-awn-wheat-plant-01/v1.0.0/model.glb",
+      "size": 113116,
+      "sha256": "6415b0eca375a75b8e6b6851fc5c5910b441313247c7c6153497e9e48da5e15d"
+    },
+    "blend": {
+      "path": "assets/farming/farming-mature-short-awn-wheat-plant-01/v1.0.0/source.blend",
+      "size": 655672,
+      "sha256": "0219efd9b43802f565331961393b6b1a410486dbd48e92aabe641273e6c83fdc"
+    },
+    "generator": {
+      "path": "assets/farming/farming-mature-short-awn-wheat-plant-01/v1.0.0/generate.py",
+      "size": 30712,
+      "sha256": "73b84f0c2e5500afbc97c828eead6f70f4cd4173148a02048cd2c83e4ff95b60"
+    },
+    "render": {
+      "path": "assets/farming/farming-mature-short-awn-wheat-plant-01/v1.0.0/thumbnail.png",
+      "size": 464018,
+      "sha256": "2fda088a0295a1b90e798fd6e0bf8df3f72fc59c2fe3f209f6d92c90629bea3d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "robotics-fixed-dogleg-quadruped-inspector-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "robotics",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Dogleg Quadruped Inspection Robot",
+  "description": "One original complete static quadruped inspection-robot game prop. A chamfered closed torso carries a raised narrow dorsal housing and a separate forward sensor block with two dark octagonal lens faces. Four continuous thick bent dogleg side profiles connect through real finite side seats to the torso and terminate on four separate broad flat ground pads. The lower belly and the complete front/rear inter-leg passages remain genuinely empty. Thirteen independently editable closed connected meshes and three constant opaque untextured PBR materials. Every part is connected to the four complete finite ground soles through twelve declared opposed face seats. One whole prop, zero scenes. Metres are game-space dimensions, native Z up, front -Y, horizontal envelope centred at the ground origin. New numeric geometry throughout; no wheeled rover, transport chassis, mechanical arm, animal, or reused model geometry. A fixed visual pose only, without wheels, animation, rigging, control, sensing software, logo, texture or real mechanism. No movement, remote control, detection capability, stability, load, mechanical operation, installation, manufacture, engineering or safety performance is claimed. Not real robot construction or operating instructions.",
+  "bounds": {
+    "x": 0.97,
+    "y": 1.175,
+    "z": 0.96,
+    "unit": "m"
+  },
+  "triangles": 268,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/robotics/robotics-fixed-dogleg-quadruped-inspector-01/v1.0.0/model.glb",
+      "size": 22868,
+      "sha256": "f09929b6d6a9202a448141e09d4e0f66c75b6004ba20843e85cb725d52c163b4"
+    },
+    "blend": {
+      "path": "assets/robotics/robotics-fixed-dogleg-quadruped-inspector-01/v1.0.0/source.blend",
+      "size": 572212,
+      "sha256": "18900632667ee76bebcc3feb23d9119aa98b72de02459be6de488d394740f3d8"
+    },
+    "generator": {
+      "path": "assets/robotics/robotics-fixed-dogleg-quadruped-inspector-01/v1.0.0/generate.py",
+      "size": 31854,
+      "sha256": "28a089ea1ed266dc344c1fa8212ea0371a54ed2f6fb05ceeadc1377e043be140"
+    },
+    "render": {
+      "path": "assets/robotics/robotics-fixed-dogleg-quadruped-inspector-01/v1.0.0/thumbnail.png",
+      "size": 557714,
+      "sha256": "0abaa928da50a680c2e3c175f2455ee52e2cfb37052388d2dfb4e8bc10136825"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

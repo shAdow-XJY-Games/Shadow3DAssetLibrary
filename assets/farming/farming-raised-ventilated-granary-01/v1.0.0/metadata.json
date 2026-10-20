@@ -1,0 +1,42 @@
+{
+  "id": "farming-raised-ventilated-granary-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "S01-clean-geometric",
+  "title": "Raised Slatted Granary",
+  "description": "One original complete freestanding raised slatted grain-store structure. Four tall grounded square posts carry two full transverse bearing beams and a thick raised floor. Four full-height corner stiles connect twenty individual thick horizontal wall slats, creating sixteen genuine through ventilation slots. The continuous thick double-pitched roof has full underside horizontal bearing shelves and open triangular gable ventilation. An entirely unfilled underfloor bay and open side approaches distinguish its form from a cylinder silo, hopper, ore chute, tower or cabinet. Thirty-two closed connected editable meshes, four opaque constant untextured PBR materials, metres, native Z up, front -Y, horizontal bounds-centred ground origin. One static game prop and zero scenes; no imported old geometry, grain contents, ladder, terrain, texture, text, logo, animation or alternate set. Visual geometry only: no real food-storage, ventilation performance, weather or pest protection, access operation, load, structural stability, manufacture, installation, food contact, hygiene or safety certification claim.",
+  "bounds": {
+    "x": 2.1,
+    "y": 1.68,
+    "z": 3.1,
+    "unit": "m"
+  },
+  "triangles": 416,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-raised-ventilated-granary-01/v1.0.0/model.glb",
+      "size": 43020,
+      "sha256": "0077e0c83c5fc453daff1e1c6b31a730fe564d45b5b41d1e4bf1d34074272e2e"
+    },
+    "blend": {
+      "path": "assets/farming/farming-raised-ventilated-granary-01/v1.0.0/source.blend",
+      "size": 700032,
+      "sha256": "d708faeb3fe243e20fd5db20a9036fc4b60ceb560e4c0c7767d53535045e1133"
+    },
+    "generator": {
+      "path": "assets/farming/farming-raised-ventilated-granary-01/v1.0.0/generate.py",
+      "size": 32605,
+      "sha256": "8889537f4d1613c8e7be4282930732aced07ead02f0c95e3cb1d839558e4e025"
+    },
+    "render": {
+      "path": "assets/farming/farming-raised-ventilated-granary-01/v1.0.0/thumbnail.png",
+      "size": 563454,
+      "sha256": "c58d24539c0ce743f21704eff56f743035d4d206e2c5ff51be5d8fdfdd45ee0a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

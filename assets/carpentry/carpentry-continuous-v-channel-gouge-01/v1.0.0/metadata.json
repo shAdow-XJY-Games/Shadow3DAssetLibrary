@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-continuous-v-channel-gouge-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "S01-clean-geometric",
+  "title": "Continuous V-Channel Carving Gouge",
+  "description": "One original static V-channel carving-gouge game prop. Two planar sloped inner wings meet at a sharp longitudinal valley; the complete steel-style shell includes a finite blunt V front lip, outer bevel, raised closed rear root, narrow neck and tang. A new twelve-facet wood-style handle has a real blind insertion cavity with a closed end and full tang seat. A complete thick through-bored ferrule meets a finite rear handle shoulder. Three separately editable closed connected meshes, three constant opaque PBR materials, no textures. Metres; native Z up, front -Y; two finite ground soles and centred horizontal envelope. Exactly one prop, zero scenes. Generic closed-mesh and export utilities are shared; all visible V-section, transition, grip and collar numerical profiles are newly authored. No cutting, sharpness, processing, load, ergonomic, manufacturing, real-world fit or safety claim. No workpiece, chips, blade set, animation or functional mechanism. Original chisel-form set remains partial.",
+  "bounds": {
+    "x": 0.056024,
+    "y": 0.33,
+    "z": 0.056024,
+    "unit": "m"
+  },
+  "triangles": 430,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-continuous-v-channel-gouge-01/v1.0.0/model.glb",
+      "size": 23740,
+      "sha256": "d80fda9e5ed3774b664d2009c433f6a19ccd33d7723ff6b4af1992c72998329f"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-continuous-v-channel-gouge-01/v1.0.0/source.blend",
+      "size": 530536,
+      "sha256": "e13058def6ed18f0f9909a0a646a7fa8cd5730fe24e2ec355c005782dcd529cb"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-continuous-v-channel-gouge-01/v1.0.0/generate.py",
+      "size": 33721,
+      "sha256": "9b582a761c32e0c2a1f2eb4e7f78bf9f5a634896bf4a4d68d21915c66da828d8"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-continuous-v-channel-gouge-01/v1.0.0/thumbnail.png",
+      "size": 475958,
+      "sha256": "6a757c09f1e06c1723c28504d06fec7539642a33b8691f9181c0ccdfb262e886"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
