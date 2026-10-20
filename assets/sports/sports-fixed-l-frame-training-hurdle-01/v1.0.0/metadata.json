@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-l-frame-training-hurdle-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed L-Frame Training Hurdle",
+  "description": "One original fixed-height athletics training hurdle visual prop. Two complete one-piece L-shaped side frames combine tall uprights, sloped elbow transitions, long rearward runners and raised distal tails. A continuous full-thickness striped top crossbar meets two finite upright caps; four broad ground pads support both runners. Seven closed connected editable meshes, four opaque constant untextured PBR materials, one whole prop and zero scenes. Metres, Z up, front -Y, ground Z=0. Entirely new geometry; no old goal, net, barrier, board or furniture models. Fixed stylised display only: no height adjustment, detachable mechanism, tipping resistance, real training suitability, event regulation, athletics certification, load, manufacture, installation or safety claim. No athlete, track, ball, text, logo, texture or animation.",
+  "bounds": {
+    "x": 1.32,
+    "y": 0.755,
+    "z": 0.8,
+    "unit": "m"
+  },
+  "triangles": 172,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-l-frame-training-hurdle-01/v1.0.0/model.glb",
+      "size": 15480,
+      "sha256": "b297ce25addd6977993d0a7e42b1d4fba2f803f249645ef026b6eec3a5461cc1"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-l-frame-training-hurdle-01/v1.0.0/source.blend",
+      "size": 560024,
+      "sha256": "764e4a655b3fb8e97b9e9b1f534934ed08c9c320995f29ce84a287d3bf0f6352"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-l-frame-training-hurdle-01/v1.0.0/generate.py",
+      "size": 30744,
+      "sha256": "bec26b6beee49706fd45f7b42cdcc3d2f5300b44be30b3644ae416211aee6142"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-l-frame-training-hurdle-01/v1.0.0/thumbnail.png",
+      "size": 462472,
+      "sha256": "7c19cde5e5492e73ab395223be6087aaaf29edbdb9bcbc0b2699d9e3b4a59c8b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

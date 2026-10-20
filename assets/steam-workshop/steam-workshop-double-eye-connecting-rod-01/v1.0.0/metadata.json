@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-double-eye-connecting-rod-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Double-Eye Connecting Rod Display",
+  "description": "One original complete static steam-workshop connecting-rod display. A single continuous thick metal rod joins a large open circular end to a smaller open circular end through a tapered shank. Both twenty-sided apertures have complete through-walls, with warm-brass inner-wall material accents and genuine empty passages. The large and small ends have independent full finite lower seats on two differently raised pedestal blocks, supported by one broad flat ground base. Four separately editable closed connected meshes and three opaque constant untextured PBR materials. One prop and zero scenes. Metres are game-space coordinates, native Z up, front -Y, grounded base-centre origin. The entire two-eye rod is newly authored as one welded geometry with two genuine holes; no earlier piston, wheel, winch, strut, toy or sheave components imported, rescaled, recoloured or renamed. This fills the connecting-rod visual branch of the original piston theme. The two holes are empty, with no pins or moving mating parts. One fixed stylised display only: no rotation, stroke, force transmission, working bearing, mechanical fit, load, manufacture, installation, engineering precision, structural stability or safety certification. No cylinder, crankshaft, flywheel, animation, texture, text or surrounding scene.",
+  "bounds": {
+    "x": 2.2,
+    "y": 0.64,
+    "z": 0.975568,
+    "unit": "m"
+  },
+  "triangles": 360,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-double-eye-connecting-rod-01/v1.0.0/model.glb",
+      "size": 20052,
+      "sha256": "919638b8a0cc1b977f69ed3a4525d49297333a0042439348f9f80e860dd76618"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-double-eye-connecting-rod-01/v1.0.0/source.blend",
+      "size": 531576,
+      "sha256": "6a03d0e4e5e4da30dd69295b30c2406c33a101dd7b43e7ec1241df8a4941bae2"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-double-eye-connecting-rod-01/v1.0.0/generate.py",
+      "size": 30644,
+      "sha256": "44b8fabd46842d8e17bb6c5c3735647c010683a14d295bdbf3a96bdb2d54b9a2"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-double-eye-connecting-rod-01/v1.0.0/thumbnail.png",
+      "size": 482971,
+      "sha256": "1fc335d348c63fe05095ad599d400f63b7f4c48012144cc47e4ac61b1aa95a16"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

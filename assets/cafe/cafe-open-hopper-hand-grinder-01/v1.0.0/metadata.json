@@ -1,0 +1,42 @@
+{
+  "id": "cafe-open-hopper-hand-grinder-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "cafe",
+  "style": "S01-clean-geometric",
+  "title": "Open Hopper Hand Coffee Grinder",
+  "description": "One original static hand-coffee-grinder visual prop with a complete blind-bottom grounds cup, a separate fixed barrel, a genuinely open thick flared hopper, a central fixed spindle, one elevated offset crank arm and a faceted wooden knob. The hopper has continuous inner and outer walls and a closed floor; the central spindle leaves a real annular opening. The complete empty grounds-cup cavity is enclosed beneath the fixed barrel and is checked geometrically, not visible as a functioning dispensing path. Six closed connected editable meshes, three constant opaque untextured PBR materials, metres, native Z up, front -Y, shaft-centred ground origin. One assembled prop, zero scenes. All numeric geometry is newly authored; no existing machine, grinder, bowl or silo imported, rescaled, recoloured or renamed. No beans, grinding burrs, screw, gearing, removable cup, animation, textures, text, logo or variants. Fixed game appearance only; no actual grinding, rotation, bean flow, capacity, cleanliness, food-contact suitability, manufacture, structural capacity, operation or safety certification.",
+  "bounds": {
+    "x": 0.257,
+    "y": 0.19,
+    "z": 0.452,
+    "unit": "m"
+  },
+  "triangles": 636,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/cafe/cafe-open-hopper-hand-grinder-01/v1.0.0/model.glb",
+      "size": 35960,
+      "sha256": "ce7653230ca3b9f6bd81418c4a5ac9ab985ef767a659eb76f351fea3afcf6bd5"
+    },
+    "blend": {
+      "path": "assets/cafe/cafe-open-hopper-hand-grinder-01/v1.0.0/source.blend",
+      "size": 556792,
+      "sha256": "0a53b1d908e70bbde96a21ffb37ec082a46858510ddfac87925689cb7182027d"
+    },
+    "generator": {
+      "path": "assets/cafe/cafe-open-hopper-hand-grinder-01/v1.0.0/generate.py",
+      "size": 31459,
+      "sha256": "6b83a2e4d253ad4ca2ff5bf165947b009170c9a84dd9de9152f17630f85a7d2b"
+    },
+    "render": {
+      "path": "assets/cafe/cafe-open-hopper-hand-grinder-01/v1.0.0/thumbnail.png",
+      "size": 499006,
+      "sha256": "8aaf29a6f0bd2fbae229bbb6a26f5b7312824bf5b0b0801f42b78ee1fc22028f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

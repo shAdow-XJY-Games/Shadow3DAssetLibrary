@@ -1,0 +1,42 @@
+{
+  "id": "public-continuous-ring-tree-bench-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "public",
+  "style": "S01-clean-geometric",
+  "title": "Continuous Ring Tree Bench",
+  "description": "One original complete static park ring-bench visual prop: one thick continuous twelve-sided wooden annular seat surrounds a genuine full-height open central space. Four independently editable radial open trestles each have a continuous upper bridge, two short legs and two complete flat ground soles. Each whole upper bearing rectangle lies on the seat underside, with all supports outside the centre opening. Five closed connected meshes and three constant opaque untextured PBR materials. One prop, zero scenes; metres, native Z up, front -Y, horizontally bounds-centred ground origin. All seat and trestle geometry is newly authored; no old bench, picnic table, sandpit, sink or drinking-station model reused. No tree, plant, ground, backrest, separate seat variants, joints, screws, texture, logo or animation. The ring is one continuous solid seat, not movable sectors. The centre space suggests placement around planting only; no compatibility with any tree or planter, living-tree clearance, growth allowance, assembly access, human fit, ergonomics, seating performance, load, strength, stability, installation, manufacture, accessibility or public-safety certification. Not real furniture design or use guidance.",
+  "bounds": {
+    "x": 2.6,
+    "y": 2.6,
+    "z": 0.56,
+    "unit": "m"
+  },
+  "triangles": 208,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/public/public-continuous-ring-tree-bench-01/v1.0.0/model.glb",
+      "size": 14604,
+      "sha256": "ba45b714588ac1033eaeec9b4da2527b4cefd1a7de70c5cbfa13298dd5fdf4a9"
+    },
+    "blend": {
+      "path": "assets/public/public-continuous-ring-tree-bench-01/v1.0.0/source.blend",
+      "size": 528560,
+      "sha256": "3c30ac7837b2b6ac0bb6c46f33a9330cd5058ca5f1d0dc2b44b35a3c2af309f9"
+    },
+    "generator": {
+      "path": "assets/public/public-continuous-ring-tree-bench-01/v1.0.0/generate.py",
+      "size": 30237,
+      "sha256": "0ac9a79baa2cd78c382d68208af4a44c91e49c90425a35505e353affbe1c66aa"
+    },
+    "render": {
+      "path": "assets/public/public-continuous-ring-tree-bench-01/v1.0.0/thumbnail.png",
+      "size": 507933,
+      "sha256": "4eac96f470af45c42eded6408b70127fe9d85d7423937108f401e1a072c9e2d6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "retail-side-rack-newsstand-kiosk-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "retail",
+  "style": "warm-geometric-retail",
+  "title": "Side-Rack Newsstand Kiosk",
+  "description": "One newly authored freestanding static newsstand kiosk: an offset broad open front service window and thick handover counter alongside a narrower integrated right-facing three-level periodical rack. A real empty operator chamber is enclosed by thick side, rear and dividing walls beneath a thick single-slope overhanging roof. The magazine rack has an integral partition back, two full cheeks and three thick shelves; every shelf has complete finite edge seats and an outward-open entire bounded bay. Eleven complete closed connected editable material meshes, four constant opaque matte PBR face materials, no textures or external geometry. The service aperture is a true through opening in one continuous thick frame, not a dark front patch. Full chamber air, full service-window egress, all three rack bays, full inset material bodies, complete geometric contacts and sole are checked on actual exported geometry. Native Z up, front -Y, ground-level origin, metre-based game space. One complete reusable prop and zero scenes, with constituent walls and shelf levels not counted separately. No newspapers, text, brands, people, animated shutter, rear doorway, purchase interface, navigation, collision or prior-asset fitting promise. The rear wall remains closed. Static stylized visual architecture only; no material composition, weather performance, loading, real structural support, manufacture, installation, building-code compliance, accessibility or safety certification claim.",
+  "bounds": {
+    "x": 2.6,
+    "y": 1.88,
+    "z": 2.7,
+    "unit": "m"
+  },
+  "triangles": 152,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/retail/retail-side-rack-newsstand-kiosk-01/v1.0.0/model.glb",
+      "size": 15900,
+      "sha256": "596553bbc0e72f8db576a9c09c285c83e817981d7e21c41728b8e05a94f95176"
+    },
+    "blend": {
+      "path": "assets/retail/retail-side-rack-newsstand-kiosk-01/v1.0.0/source.blend",
+      "size": 578756,
+      "sha256": "27bc1d35539901dff59850840751a8d051902639b8a54ad223611d1c76e63af0"
+    },
+    "generator": {
+      "path": "assets/retail/retail-side-rack-newsstand-kiosk-01/v1.0.0/generate.py",
+      "size": 32572,
+      "sha256": "1f556622dfe14aa0a6781fed0ee5f96515d0d910310221dd73e9b93dfe4b58e2"
+    },
+    "render": {
+      "path": "assets/retail/retail-side-rack-newsstand-kiosk-01/v1.0.0/thumbnail.png",
+      "size": 560639,
+      "sha256": "c6fe47355725f646504803b41da81660e6047ea5493b5f8786918c52f1d47ac9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
