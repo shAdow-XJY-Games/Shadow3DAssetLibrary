@@ -1,0 +1,42 @@
+{
+  "id": "classical-complete-fluted-column-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "classical",
+  "style": "soft-low-poly-stone",
+  "title": "Complete Fluted Stone Column",
+  "description": "One original complete stylised classical stone-column appearance, counted as one static prop. A broad chamfered square plinth supports one continuous turned base, gently tapering shaft with sixteen true longitudinal concave flutes, rounded-off flute ends, a clear neck and annulet, and a thick outward-flaring echinus. A separate thick chamfered square abacus completes the capital. Three closed editable meshes meet at two entire finite opposed planar seats. Flute valleys and shaft ridges share one uniform material: the recesses are geometry, never painted strips. Three constant opaque matte ordinary PBR stone tones, no textures. Metres, native Z up, front -Y, ground-level column-axis origin. All geometry newly authored; no imported plinth, lighthouse, support post, fluted tool or old column. No scene, debris, vegetation, building, carving set, lettering or variants. Static visual appearance only: no archaeological precision, canonical historic order, real material properties, structural capacity, load, stability, manufacture, installation, building safety, collision/navigation, or interface compatibility with previous buildings or modules is claimed.",
+  "bounds": {
+    "x": 0.86,
+    "y": 0.86,
+    "z": 3.02,
+    "unit": "m"
+  },
+  "triangles": 4096,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/classical/classical-complete-fluted-column-01/v1.0.0/model.glb",
+      "size": 220608,
+      "sha256": "a160c10bdab2dc5d9ca2629f09c0fdc9a3f9b94ad147ccedcd246346574f7667"
+    },
+    "blend": {
+      "path": "assets/classical/classical-complete-fluted-column-01/v1.0.0/source.blend",
+      "size": 728560,
+      "sha256": "eedda85aa14c549c768b00a7d1ade6da80b6a8420041c84791bbd3de4dd3744f"
+    },
+    "generator": {
+      "path": "assets/classical/classical-complete-fluted-column-01/v1.0.0/generate.py",
+      "size": 27104,
+      "sha256": "6ee5cbac6bd9058f1b4022945e02f20e5c2d581f4df02a37ec2ed475e07d04ba"
+    },
+    "render": {
+      "path": "assets/classical/classical-complete-fluted-column-01/v1.0.0/thumbnail.png",
+      "size": 475746,
+      "sha256": "033380597ddc680e5aa0fd4e3fb27b3c406e639bdd1051e2dce91199bd3fd5e5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
