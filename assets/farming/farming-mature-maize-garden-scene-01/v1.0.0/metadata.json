@@ -1,0 +1,42 @@
+{
+  "id": "farming-mature-maize-garden-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "farming",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Mature Maize Garden",
+  "description": "One static small maize-garden scene with eight complete unchanged mature maize plants in two regular four-plant rows. Each original plant retains its broad folded leaves, terminal tassel and thick lateral husked ear at unit scale. A clear central aisle connects an east-side passage, front entry apron and rear row access; a separate empty parked wheelbarrow has a connected front standing space. Two complete rear timber fence panels retain both original terminal posts and a real separation gap. Eleven full rigid instances of three verified assets stand on one closed scene-only earth slab. Every original oriented triangle, hierarchy and full solid PBR is preserved. One scene and zero new independent models; repeating the same mature plant does not create new growth stages. No seedlings, trays, water, irrigation system, harvested crop, additional tools or new plant geometry. Static visual composition only; no planting recommendation, botany, growth, maturity measurement, yield, productivity, irrigation operation, tool motion, continuous navigation, accessibility/code compliance, structure, load, stability, manufacture or safety certification.",
+  "bounds": {
+    "x": 6.0,
+    "y": 5.4,
+    "z": 2.52654,
+    "unit": "m"
+  },
+  "triangles": 14352,
+  "materials": 48,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-mature-maize-garden-scene-01/v1.0.0/model.glb",
+      "size": 832308,
+      "sha256": "8eb8bc3367ae6d64115e5037e5c07b6197c4f2485d939c91caaed763852d6a70"
+    },
+    "blend": {
+      "path": "assets/farming/farming-mature-maize-garden-scene-01/v1.0.0/source.blend",
+      "size": 3078492,
+      "sha256": "ae33f35f812355f0b1c91aa65e8782ee0246e477a69a71124a1a1302d22a6dcf"
+    },
+    "generator": {
+      "path": "assets/farming/farming-mature-maize-garden-scene-01/v1.0.0/generate.py",
+      "size": 106918,
+      "sha256": "6d73f17c105b50336fd05172adb38d817bd0b03e2092bfa7293857354b8c9db5"
+    },
+    "render": {
+      "path": "assets/farming/farming-mature-maize-garden-scene-01/v1.0.0/thumbnail.png",
+      "size": 549776,
+      "sha256": "991d2d04f20e3d2b5a0a650bd2e95730ec37815b173e071f4180bdb853a9ce69"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
