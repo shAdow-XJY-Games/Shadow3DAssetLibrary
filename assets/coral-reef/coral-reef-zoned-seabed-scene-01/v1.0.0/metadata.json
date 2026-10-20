@@ -1,0 +1,42 @@
+{
+  "id": "coral-reef-zoned-seabed-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "coral-reef",
+  "style": "source-preserved-hard-edge-faceted-nature",
+  "title": "Low Reef and Tall Ribbon Seaweed Seabed",
+  "description": "One static stylized underwater seabed composition with a clearly separated low western coral-and-rubble group and tall eastern ribbon-seaweed group. Three complete asymmetric branching corals, one complete three-piece angular scree source assembly and two complete broad ribbon seaweed clumps preserve their original scale, geometry, hierarchy, oriented triangles and complete solid PBR. All original finite underside patches rest on one bounded scene-only sandy seabed. A central bare-sand gap, open foreground and clear water-reference volume above the low reef make the height and spatial separation explicit. Six whole instances from three source IDs; one scene and zero new independent models. Coral bases stand beside the rocks on the seabed; no coral attachment to inclined stone is claimed. No leaves, coral branches or rocks are cut or counted separately. No water-surface sheet, shore, bank, boardwalk, log, road, fish, wreck or equipment. Static game visual only; no species, biological or ecological accuracy, growth, current animation, fluid or optical simulation, buoyancy, diving gameplay, collision, navigation, physical attachment, stability, load capacity or safety certification.",
+  "bounds": {
+    "x": 4.0,
+    "y": 3.1,
+    "z": 1.877667,
+    "unit": "m"
+  },
+  "triangles": 2572,
+  "materials": 23,
+  "files": {
+    "glb": {
+      "path": "assets/coral-reef/coral-reef-zoned-seabed-scene-01/v1.0.0/model.glb",
+      "size": 189212,
+      "sha256": "b4238967d013a87f9d878b64c6890f6a30a09ca5b96b53dfa716862605008dea"
+    },
+    "blend": {
+      "path": "assets/coral-reef/coral-reef-zoned-seabed-scene-01/v1.0.0/source.blend",
+      "size": 1279440,
+      "sha256": "0bedc95ce3faff9a2e1fb3a627bbba08264653db0b2b9cac190abc87d6ef34fa"
+    },
+    "generator": {
+      "path": "assets/coral-reef/coral-reef-zoned-seabed-scene-01/v1.0.0/generate.py",
+      "size": 102318,
+      "sha256": "0848de2b07f88737cd6ebe7e3849262fb955694541b037087901056964976fda"
+    },
+    "render": {
+      "path": "assets/coral-reef/coral-reef-zoned-seabed-scene-01/v1.0.0/thumbnail.png",
+      "size": 503894,
+      "sha256": "4459be3308e5e4279c09078bfe7d1f4057e85124b1c2a226b1390d9373dc7b14"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
