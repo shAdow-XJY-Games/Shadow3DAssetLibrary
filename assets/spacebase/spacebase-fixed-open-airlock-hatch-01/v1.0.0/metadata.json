@@ -1,0 +1,42 @@
+{
+  "id": "spacebase-fixed-open-airlock-hatch-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "spacebase",
+  "style": "S01-clean-geometric",
+  "title": "Fixed-Open Airlock Hatch Module",
+  "description": "One original independent fixed-open airlock-style visual module. A continuous thick eight-corner rectangular perimeter frame includes a short open-through throat, clear raised threshold, front and rear chamfers, and a broad complete ground sole. A separate thick chamfer-corner door plate stays fixed ninety degrees to the frame, with an integral continuous stepped outer rim and raised central face. Two short solid octagonal static hinge-bearing blocks join complete finite faces on the frame and door. Four closed connected editable meshes, four ordinary opaque unlinked constant PBR materials, no textures. Metres, native Z up, front -Y; origin is the centre of the frame ground projection. Independent rear installation datum Y=0.28 m. The nominal narrow throat is 1.64 m wide and 2.22 m high above the 0.22 m threshold, with 0.18 m clipped corners; the complete finite passage remains unobstructed. One modular architecture asset, zero props or scenes. No old door, appliance, chamber, watch or luggage mesh imported, enlarged or recoloured. No complete airlock room, station, corridor, wall, astronaut, console, handwheel, actuator, animation or variants. Static visual geometry only: no dynamic opening, closure fit, hinge operation, pressure seal, airtightness, pressure differential, decompression, spaceflight readiness, structural load, manufacture, installation, accessibility, navigation/collision, real material properties, safety or compatibility with any earlier building/module is claimed.",
+  "bounds": {
+    "x": 2.64,
+    "y": 2.36,
+    "z": 2.72,
+    "unit": "m"
+  },
+  "triangles": 272,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/spacebase/spacebase-fixed-open-airlock-hatch-01/v1.0.0/model.glb",
+      "size": 19272,
+      "sha256": "34896befc5b2caba859bbfb599ca1acb813b900dff40419850a5a9fb606e0e43"
+    },
+    "blend": {
+      "path": "assets/spacebase/spacebase-fixed-open-airlock-hatch-01/v1.0.0/source.blend",
+      "size": 550332,
+      "sha256": "22e2e6a9c4cc5ecb40f4c6e57ea0923a5e90fa44c9893b28a09e264372001591"
+    },
+    "generator": {
+      "path": "assets/spacebase/spacebase-fixed-open-airlock-hatch-01/v1.0.0/generate.py",
+      "size": 28249,
+      "sha256": "5bb11307c86c6c8971e6089dda7d986b3b5d340c2c78bd21c67b0fd6b1bed7d3"
+    },
+    "render": {
+      "path": "assets/spacebase/spacebase-fixed-open-airlock-hatch-01/v1.0.0/thumbnail.png",
+      "size": 526315,
+      "sha256": "7ffd1ac80509317078c3380af52ba55cdfc4794283bcb18479f898eb1fe591ea"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
