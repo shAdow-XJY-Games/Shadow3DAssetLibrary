@@ -1,0 +1,42 @@
+{
+  "id": "farming-ribbed-hopper-grain-silo-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "S01-clean-geometric",
+  "title": "Ribbed Hopper Grain Silo",
+  "description": "One original complete static farm grain-silo visual prop: a tall continuous thick twenty-four-sided cylinder with six integral circumferential wall ribs, a separate complete thick conical closed roof, and a genuinely empty lower hopper continuously narrowing to a true downward open outlet neck. Four square legs seat on the whole finite underside bearing ledge and on four broad ground plates. Ten closed connected editable meshes, four ordinary opaque constant unlinked PBR materials, metres, native Z up, front -Y, centred silo axis and full ground soles at Z0. One prop and zero scenes; no ladders, access platform, grain, auger, pipe, valve, terrain, texture, text, logo, animation or alternate set. No previous barrel, tank, greenhouse or storehouse geometry imported, rescaled or renamed. The full cavity and outlet are visual geometry only; no storage capacity, grain flow, sealing, pest or weather resistance, load, structure, manufacture, installation, explosion protection, food contact, hygiene or safety certification claim.",
+  "bounds": {
+    "x": 2.6,
+    "y": 2.6,
+    "z": 4.36,
+    "unit": "m"
+  },
+  "triangles": 2016,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-ribbed-hopper-grain-silo-01/v1.0.0/model.glb",
+      "size": 112076,
+      "sha256": "7a5dd13e57ebdec076930aeff3c37ee0a3adf75681960cac52646463c49b87fa"
+    },
+    "blend": {
+      "path": "assets/farming/farming-ribbed-hopper-grain-silo-01/v1.0.0/source.blend",
+      "size": 674748,
+      "sha256": "e3e279d67a0d1d7c0c7a2c7e147593ed7f0ba420ba064423632e15f3d6f3d09e"
+    },
+    "generator": {
+      "path": "assets/farming/farming-ribbed-hopper-grain-silo-01/v1.0.0/generate.py",
+      "size": 28013,
+      "sha256": "2b24cbc6fdda059d84732646588052a7208e95be34a54e39c4dbf12c68a6521f"
+    },
+    "render": {
+      "path": "assets/farming/farming-ribbed-hopper-grain-silo-01/v1.0.0/thumbnail.png",
+      "size": 512703,
+      "sha256": "41490bd3965921365bc1f51ed951efc8117f274196b1e2d5b18e0ec65f0608ac"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
