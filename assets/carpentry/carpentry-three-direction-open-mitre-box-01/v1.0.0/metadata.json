@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-three-direction-open-mitre-box-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "S01-clean-geometric",
+  "title": "Three-Direction Open Mitre Box",
+  "description": "One original fixed wooden-style mitre box visual prop. A complete rectangular bottom and two continuous thick sidewalls form an open-ended and open-top trough. Each sidewall has three real full-thickness deep slots, paired across the central empty trough along one transverse and two opposed diagonal directions. Each wall remains one connected closed solid through its continuous lower bridge. The two complete sidewall underside faces seat on the complete finite base top; the entire base sole rests on ground. Three individually editable closed meshes and four constant opaque untextured wood-tone PBR materials. New numerical geometry; no old saw, mallet, rack, vise, band saw, workbench or joinery sample is extracted or scaled. One prop and zero scenes. No saw, workpiece, clamps, text, textures, animation or hardware is included. Native Z up, front -Y, horizontal footprint-centred origin at ground. Metres and guide directions describe game geometry only. Fixed visual appearance only: no sawing, cut angle accuracy, blade or stock fit, guidance performance, operation, woodworking technique, strength, load capacity, stability, manufacturing, installation, compatibility or safety claim. Not real equipment construction or operating guidance.",
+  "bounds": {
+    "x": 0.56,
+    "y": 0.21,
+    "z": 0.145,
+    "unit": "m"
+  },
+  "triangles": 132,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-three-direction-open-mitre-box-01/v1.0.0/model.glb",
+      "size": 11460,
+      "sha256": "c90e7007117b9051cf2e2d9659ce87e848715efec7a9e5c156d093c56f58bebf"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-three-direction-open-mitre-box-01/v1.0.0/source.blend",
+      "size": 537636,
+      "sha256": "7dd1009e3b625c576991ee0778a9b8379a026d63774b5485847e7aed5bc1472b"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-three-direction-open-mitre-box-01/v1.0.0/generate.py",
+      "size": 30087,
+      "sha256": "467c0d3014db9f6939403a1ee415ab92c80dd290633b146cc9cbd14d7426fb4f"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-three-direction-open-mitre-box-01/v1.0.0/thumbnail.png",
+      "size": 506884,
+      "sha256": "e20c95bd944187b2d9b58fe5b98a3c3c037d0eeec6d1454e65566b637d439213"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "communications-coaxial-collar-mast-service-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "communications",
+  "style": "S01-clean-geometric",
+  "title": "Coaxial-Collar Mast Service Stand",
+  "description": "One original empty mast service stand visual prop. A single continuous H-foot base supports a narrow rear upright, two short forward cantilever arms and two thick octagonal closed collars at separated heights. Both genuine eight-sided through-bores share one empty vertical axis; the entire bore corridor continues clear from above both collars through the open front of the H base to below its ground plane. The broad inter-collar approach and the rear base recess are also genuinely open. Six independently editable closed connected meshes, three constant opaque untextured PBR materials. Every arm has full finite opposed seats on the rear upright and collar; the upright has a full bottom seat and the H-foot has a complete planar ground sole. One whole prop and zero scenes. Metres are game-space coordinates, native Z up, front -Y, ground-level horizontal-envelope-centred origin. All shape profiles and dimensions newly authored; no earlier mast, clamp, fishing rack, telescope, camera or scene geometry is imported or transformed. No mast, antenna, device, cable, wall, operating clamp, screw, animation, branding or texture is supplied. Static visual geometry only; no radio communication, electrical function, fitting or compatibility, clamping, insertion motion, lifting, load capacity, stability, anchorage, installation, manufacture, engineering or safety performance is claimed. Not real equipment construction or operating guidance.",
+  "bounds": {
+    "x": 0.68,
+    "y": 0.72,
+    "z": 1.16,
+    "unit": "m"
+  },
+  "triangles": 208,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/communications/communications-coaxial-collar-mast-service-stand-01/v1.0.0/model.glb",
+      "size": 14536,
+      "sha256": "d89750441b98da6f17475b396b7ea837b45b91c3db207b2ad1e8202fd33daff9"
+    },
+    "blend": {
+      "path": "assets/communications/communications-coaxial-collar-mast-service-stand-01/v1.0.0/source.blend",
+      "size": 533632,
+      "sha256": "272ab53a86cea753ce725c77cb545086a2dd541023533e7aa4ed9aae189143ac"
+    },
+    "generator": {
+      "path": "assets/communications/communications-coaxial-collar-mast-service-stand-01/v1.0.0/generate.py",
+      "size": 31054,
+      "sha256": "c75127b642f8fc9dfa3fa68162c1fbf48d305a47b87c7b7eb042e6f219fb5c11"
+    },
+    "render": {
+      "path": "assets/communications/communications-coaxial-collar-mast-service-stand-01/v1.0.0/thumbnail.png",
+      "size": 501552,
+      "sha256": "fddfa8caff593072c094dc54ec882936098afb81787b07b680fe122585da32b0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

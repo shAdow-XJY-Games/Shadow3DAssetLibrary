@@ -1,0 +1,42 @@
+{
+  "id": "bakery-laminated-custard-slice-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "bakery",
+  "style": "S01-clean-geometric",
+  "title": "Laminated Custard Pastry Slice",
+  "description": "One original low-poly laminated custard pastry slice, counted as one complete static food prop. Three broad flat golden baked sheets each have a continuous closed body and four real thin stepped perimeter ridges. Two narrower continuous scalloped cream bands sit between them. Four complete opposed planar contact patches form one grounded support chain; two genuine continuous open peripheral gaps expose the cream and undersides of the pastry overhangs. The top is a whole lightly domed chamfered crust face rather than a label or floating icing card. Five separately editable closed meshes and three opaque constant untextured PBR materials. Metres, native Z up, front -Y and horizontally bounds-centred ground origin. All geometry newly authored, not a recoloured croissant, bread slice, folded dough, repeated scene prop or imported food model. No plate, fork, wrapper, garnish, text, texture, crumbs, animation or scene. Static stylized food appearance only: no recipe, ingredient, nutrition, allergen, taste, edible product, food safety, hygiene, baking, handling, softness, deformation, manufacture or compatibility claim. Dimensions describe visual game geometry only.",
+  "bounds": {
+    "x": 0.274,
+    "y": 0.13,
+    "z": 0.107,
+    "unit": "m"
+  },
+  "triangles": 1516,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/bakery/bakery-laminated-custard-slice-01/v1.0.0/model.glb",
+      "size": 83920,
+      "sha256": "98ddb38e82a9bc6e6970335ce56c2c6bef3c9f7ea6c8f7ad9d2f83a5ad4199f0"
+    },
+    "blend": {
+      "path": "assets/bakery/bakery-laminated-custard-slice-01/v1.0.0/source.blend",
+      "size": 599360,
+      "sha256": "c5e05860c2d161f8fa21e87010d9403c8df4078285513582c840ded8e4e3de81"
+    },
+    "generator": {
+      "path": "assets/bakery/bakery-laminated-custard-slice-01/v1.0.0/generate.py",
+      "size": 31094,
+      "sha256": "f59575158fe73b5fc735cb1fe91b86c28ec5528ef00bce182080678ffa64b18a"
+    },
+    "render": {
+      "path": "assets/bakery/bakery-laminated-custard-slice-01/v1.0.0/thumbnail.png",
+      "size": 547141,
+      "sha256": "52ea59a0628f619ff1d569426177d272a1b9540b080f5aa499673d0624b59c8e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
