@@ -1,0 +1,42 @@
+{
+  "id": "spacebase-twin-wing-solar-array-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "spacebase",
+  "style": "S01-clean-geometric",
+  "title": "Twin-Wing Solar Array",
+  "description": "One original static spacebase solar-array visual prop: a single central thick mast and full transverse rear spar carry two widely separated inclined three-bay continuous ladder frames and six complete thick panel bodies. Each panel has an integral two-by-five colour-cell surface pattern, real edges and rear surface, with complete finite underside support on its real frame. Six true frame windows remain open underneath; a broad central split separates the wings. A chamfer-corner full grounded base supports the mast. Eleven closed connected editable meshes and four ordinary opaque constant unlinked PBR materials, metres, native Z up, front -Y and base-centre ground origin. One fixed28-degree pose only, one prop and zero scenes. Original newly authored dimensions and geometry; no old solar rack, lamp, flag, lightbox, platform or cabinet geometry imported, resized or recoloured. No texture, transparency, light emission, labels, cable, battery, actuator, terrain, animation or variants. Only illustrative model appearance: no power generation, electrical connections, solar exposure or efficiency, tracking, unfolding, mechanical operation, load, stability, spaceflight performance, manufacture, structural or electrical safety, installation or compatibility with earlier spacebase modules is asserted.",
+  "bounds": {
+    "x": 3.6,
+    "y": 1.309002,
+    "z": 1.712793,
+    "unit": "m"
+  },
+  "triangles": 2032,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/spacebase/spacebase-twin-wing-solar-array-01/v1.0.0/model.glb",
+      "size": 86188,
+      "sha256": "32440a9a0788869a19d051954b59bcee8d23c43bc324c3cffff1addb7a7ec458"
+    },
+    "blend": {
+      "path": "assets/spacebase/spacebase-twin-wing-solar-array-01/v1.0.0/source.blend",
+      "size": 680656,
+      "sha256": "866586283cf84797d72a5ea42af70c46d4c701fd6557805e0c2a0c775d619fab"
+    },
+    "generator": {
+      "path": "assets/spacebase/spacebase-twin-wing-solar-array-01/v1.0.0/generate.py",
+      "size": 29817,
+      "sha256": "5b22651af92040c871b3c8147819d13b534cfa543b5f6bdc23d6a023498eaf22"
+    },
+    "render": {
+      "path": "assets/spacebase/spacebase-twin-wing-solar-array-01/v1.0.0/thumbnail.png",
+      "size": 540618,
+      "sha256": "7020efc847fce06aab8bafd84476b3eafc26c882c54d2b63fbdf78016d4a57fd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
