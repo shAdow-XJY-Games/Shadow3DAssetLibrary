@@ -1,0 +1,42 @@
+{
+  "id": "wetland-notched-waterlily-plant-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "wetland",
+  "style": "restrained-faceted-wetland",
+  "title": "Stylised Three-Pad Waterlily Planting Module",
+  "description": "One original static stylised shallow-water planting module with three broad individually notched thick leaf pads, three unequal bent slender petioles, and one deliberately rectangular block-shaped shared basal root mass. Every leaf-to-petiole and petiole-to-rhizome junction shares the entire real mesh boundary: no capped overlapping pieces, floating pads or unconnected internal solids. Each pad has a true open radial cleft, faceted upper relief and a continuous finite-thickness perimeter and underside. All geometry belongs to one closed connected editable mesh and one whole prop; leaves, stalks, colour zones and formats are not separate assets. Four constant opaque matte PBR tones with no texture. Native metres and Z up, front -Y, horizontally centred ground origin at the complete rhizome sole. No old mangrove, reed, sedge, fern, palm, produce, seaweed or flower-box geometry reused, recoloured, rescaled or imported. An illustrative waterlily-like form, without a flower or scientific species, botany, habitat, ecology, planting, buoyancy, growth, wind, animation, collision, navigation, load, safety or physical-performance claim. The block-shaped basal form is an intentionally simplified planting-module base; it is not a naturalistic botanical root reconstruction. No water plane, ground island, soil, pot, other plant, variant or scene.",
+  "bounds": {
+    "x": 1.442613,
+    "y": 1.272859,
+    "z": 0.843,
+    "unit": "m"
+  },
+  "triangles": 1122,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/wetland/wetland-notched-waterlily-plant-01/v1.0.0/model.glb",
+      "size": 73132,
+      "sha256": "aba5673bb49a4fe36a46a8bb9abf51afbb8f3003e87bdb677f7f011ff322d37d"
+    },
+    "blend": {
+      "path": "assets/wetland/wetland-notched-waterlily-plant-01/v1.0.0/source.blend",
+      "size": 580984,
+      "sha256": "f31a0c5007f46437104b13da56f9be4a77715d9c12880743f874de8ae6c7be8c"
+    },
+    "generator": {
+      "path": "assets/wetland/wetland-notched-waterlily-plant-01/v1.0.0/generate.py",
+      "size": 31267,
+      "sha256": "e5ba8bfd54a04b906c83506476b6ca5faada28a5ebe90aac35e8400051d7f1c7"
+    },
+    "render": {
+      "path": "assets/wetland/wetland-notched-waterlily-plant-01/v1.0.0/thumbnail.png",
+      "size": 499753,
+      "sha256": "d51f4235be4fa536a48e143e9be7f8994f47766e4514cbda307d9c100f4958e5"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

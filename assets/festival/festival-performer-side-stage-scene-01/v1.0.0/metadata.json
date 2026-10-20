@@ -1,0 +1,42 @@
+{
+  "id": "festival-performer-side-stage-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "festival",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Festival Performer Side-Stage Preparation",
+  "description": "One static festival performer side-stage scene with a western empty low platform, complete fixed opaque wing screen dividing the stage from eastern ground-level instrument preparation, a separate southern holding bench and eastern empty fabric-cart service pocket. Seven unchanged published asset IDs appear as seven full unit-scale rigid instances with every original mesh, hierarchy, oriented triangle and solid PBR retained. A complete twin-post festoon marks the rear edge. One closed scene-only floor supports every entire original grounded bottom patch. Ten connected finite empty standing reference volumes link the south entrance, screen-end bypass, platform ground approach, guitar and score preparation, holding aisle and cart approach. One scene and zero new independent models. Static appearance only: no stage access or step traversal, sound, performance animation, rehearsal or event operations, electrical connection, fabric contents, wardrobe workflow, navigation, ergonomics, accessibility, building code, structural load, stability, installation or safety certification.",
+  "bounds": {
+    "x": 6.8,
+    "y": 5.2,
+    "z": 2.91,
+    "unit": "m"
+  },
+  "triangles": 9524,
+  "materials": 31,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-performer-side-stage-scene-01/v1.0.0/model.glb",
+      "size": 616076,
+      "sha256": "5a0b31512330ef602134e6de5670a99b9c1d1a6fd849a1ac895907a520a68db0"
+    },
+    "blend": {
+      "path": "assets/festival/festival-performer-side-stage-scene-01/v1.0.0/source.blend",
+      "size": 2676832,
+      "sha256": "d143cffba731d0c8d32dfca7c9c383e06299c49fa02aee0e4a31d123f920b804"
+    },
+    "generator": {
+      "path": "assets/festival/festival-performer-side-stage-scene-01/v1.0.0/generate.py",
+      "size": 230822,
+      "sha256": "7ab288d77225258ceae1c467ce7096fa31415cbc77d85ba1a13151e10e697b79"
+    },
+    "render": {
+      "path": "assets/festival/festival-performer-side-stage-scene-01/v1.0.0/thumbnail.png",
+      "size": 525002,
+      "sha256": "b02b81bb153d6322770ef946561a043b0cbe4a0808b5f87afb4f2dacf82fc33e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

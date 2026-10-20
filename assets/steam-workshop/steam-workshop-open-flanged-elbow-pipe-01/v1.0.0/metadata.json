@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-open-flanged-elbow-pipe-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Open Flanged Elbow Pipe Display",
+  "description": "One original static steam-workshop pipe display: a single continuous thick-walled octagonal elbow turns through ninety degrees from a horizontal open flange to an upward open flange, held on two separate rectangular pedestals and a grounded base. Both mouths have complete integral broad flange lips and the entire bent bore is genuinely empty, including both external egresses. The flange and body surfaces form one connected closed material shell; flanges are solid rings without bolt holes, fasteners or a mating-pipe claim. Four editable closed connected material meshes, four constant opaque untextured PBR materials. One prop and zero scenes. Metres are game-space coordinates, native Z up, front -Y, footprint-centred ground origin. All product geometry is original numeric construction. No reuse, recolour or renaming of the prior gear study kit, boiler, piston, hydrant, vessel outlet or appliance wand. Fixed visual form only: no fluid flow, steam, pressure, heat, sealing, flange standard, installation fit, manufacture, structural load, stability, motion or safety capability. Not real equipment construction or operating guidance. No valve, external pipe system, texture, text, animation or scene.",
+  "bounds": {
+    "x": 1.2,
+    "y": 0.64,
+    "z": 1.42,
+    "unit": "m"
+  },
+  "triangles": 452,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-open-flanged-elbow-pipe-01/v1.0.0/model.glb",
+      "size": 26068,
+      "sha256": "601b687b0ca7b79387d361c7aeae2b91387233edec2942f356228748b72b80c0"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-open-flanged-elbow-pipe-01/v1.0.0/source.blend",
+      "size": 559888,
+      "sha256": "05137531d73a649babb83fd247798796322622b3fff1934d8fcd5e07d5c19b84"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-open-flanged-elbow-pipe-01/v1.0.0/generate.py",
+      "size": 31056,
+      "sha256": "74d2a7a94607bb371b3273daf2848b442db95f868b76600a73646abed1ebe935"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-open-flanged-elbow-pipe-01/v1.0.0/thumbnail.png",
+      "size": 520223,
+      "sha256": "5db946188554b7f8bd52515fffba8807a5a38663d8757496b6eafeffe5e49cd2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
