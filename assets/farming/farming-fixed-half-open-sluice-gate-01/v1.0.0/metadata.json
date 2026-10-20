@@ -1,0 +1,42 @@
+{
+  "id": "farming-fixed-half-open-sluice-gate-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "farming",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Half-Open Irrigation Sluice Gate",
+  "description": "One original static irrigation sluice architectural module with one continuous grounded U-shaped concrete-look channel, two true inward-open C-section guide rails, a thick fixed half-open gate, a vertical visibly helical spindle, a through-bored crosshead and one four-aperture handwheel. The complete under-gate passage is genuinely empty; no water surface is included. Seven independently editable closed meshes, four opaque constant PBR materials, metres, native Z up, front -Y and horizontal envelope centred at ground. Half-open describes this fixed displayed pose only. One modular asset with its own finite channel ends, no compatibility with older modules asserted. No flow, water retention, seal, hydrology, thread mating, motion, rigging, collision, physics, load, stability, civil engineering, manufacture, installation, operation or waterworks safety guarantee. No irrigation network, terrain scene, variants or separately counted components.",
+  "bounds": {
+    "x": 1.5,
+    "y": 1.3,
+    "z": 1.99,
+    "unit": "m"
+  },
+  "triangles": 1908,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-fixed-half-open-sluice-gate-01/v1.0.0/model.glb",
+      "size": 114828,
+      "sha256": "b88f10cdd75cf2bba372631bf8b2dfeb500df8ae0ffcf42856f5f08e9ba5e623"
+    },
+    "blend": {
+      "path": "assets/farming/farming-fixed-half-open-sluice-gate-01/v1.0.0/source.blend",
+      "size": 653704,
+      "sha256": "a91665a3ced8deaa5457b8655964cc448519049851ad8403803bc0ef15c8d23c"
+    },
+    "generator": {
+      "path": "assets/farming/farming-fixed-half-open-sluice-gate-01/v1.0.0/generate.py",
+      "size": 24649,
+      "sha256": "5422f031d4dfa34d0225bdb5d207e9f525561c2ac5e875013f25de3aa682b2bf"
+    },
+    "render": {
+      "path": "assets/farming/farming-fixed-half-open-sluice-gate-01/v1.0.0/thumbnail.png",
+      "size": 518454,
+      "sha256": "056dc1a92bdb9ddc5c1ff546404bb69cca96b6f346042e6a4cfd2b8aa2ac1e87"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
