@@ -1,0 +1,42 @@
+{
+  "id": "painting-fixed-h-frame-studio-easel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "painting",
+  "style": "S01-clean-geometric",
+  "title": "Fixed H-frame Studio Easel",
+  "description": "One original fixed H-frame studio easel with two complete long ground runners, two parallel thick upright guide rails with integral fixed shoulders, lower and upper full cross ties, one continuous twin-through-slot carriage with integral lower board ledge and stop lip, and one upper fixed cap/back-support head bearing a newly authored thick blank board. The complete slots have real closed walls and full-length rail clearance. All geometry is newly authored; no old A-frame easel, blackboard, mirror or sheet rack components are imported. One static prop only; one fixed vertical pose. Metres, native Z up, front -Y, full horizontal bounds centred on its ground datum Z=0. Constant opaque PBR, alpha 1, no texture or linked Principled inputs. No sliding, adjustment, clamping operation, tilt, folding, assembly, arbitrary board compatibility, structural load, stability, anti-tip, manufacturing or safety claim. Original easel structure family and tilt/fold motion remain partial.",
+  "bounds": {
+    "x": 0.76,
+    "y": 0.72,
+    "z": 1.82,
+    "unit": "m"
+  },
+  "triangles": 1068,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/painting/painting-fixed-h-frame-studio-easel-01/v1.0.0/model.glb",
+      "size": 41208,
+      "sha256": "888fe03c0894f78e6d53720ae1e48418442b32f68d6800d3bbd21d3d591ec540"
+    },
+    "blend": {
+      "path": "assets/painting/painting-fixed-h-frame-studio-easel-01/v1.0.0/source.blend",
+      "size": 576872,
+      "sha256": "5bd7d2e299f293e80bfef94a1c3a9f3470fc37a5996c5bf797f8a1f71e7f1562"
+    },
+    "generator": {
+      "path": "assets/painting/painting-fixed-h-frame-studio-easel-01/v1.0.0/generate.py",
+      "size": 35896,
+      "sha256": "fa76107fb5e3821b0953cb80f389bfc57ab2cdc20ac04d849ba1eb0015c04151"
+    },
+    "render": {
+      "path": "assets/painting/painting-fixed-h-frame-studio-easel-01/v1.0.0/thumbnail.png",
+      "size": 495396,
+      "sha256": "ed2e3b90939a8bbb10f3ba37a7424ec3505496fff211a2a2f9b6ae586dae7a05"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
