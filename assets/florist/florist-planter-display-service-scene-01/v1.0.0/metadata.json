@@ -1,0 +1,42 @@
+{
+  "id": "florist-planter-display-service-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "florist",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Flowering-Planter Display and Service Corner",
+  "description": "A small flowering-planter display and service corner assembled from four unchanged verified asset IDs: two complete planted wooden flower boxes form a perpendicular browsing edge, one complete service counter carries original near-closed floral snips, and one complete empty ceramic amphora is displayed separately beside the entrance. Five unit-scale rigid instances retain every original mesh, hierarchy, fixed pose and full solid PBR. One closed scene-only floor supports all furniture, both flower boxes and the complete amphora sole; the full two bottom contact patches of the snips rest on the actual finite counter top. Six connected empty browsing, counter-front, entry, vessel-approach and service-side reference volumes remain separate from all display geometry. One scene and zero new independent models. The visible plants remain rooted in their original boxes; no cut flowers, bouquets, flower insertion or flower-arranging station is claimed. Static appearance only: no cutting, planting, sales, payments, animation, continuous navigation, ergonomics, accessibility/code compliance, load, stability, manufacture or safety certification.",
+  "bounds": {
+    "x": 3.8,
+    "y": 3.7,
+    "z": 1.155,
+    "unit": "m"
+  },
+  "triangles": 8008,
+  "materials": 18,
+  "files": {
+    "glb": {
+      "path": "assets/florist/florist-planter-display-service-scene-01/v1.0.0/model.glb",
+      "size": 675304,
+      "sha256": "3e9eff65f5b4ce5cf39fd7e15175843789003990b21f69a690233d40ed0c7626"
+    },
+    "blend": {
+      "path": "assets/florist/florist-planter-display-service-scene-01/v1.0.0/source.blend",
+      "size": 1915940,
+      "sha256": "5de0ec62307a6909a03f7bb4587be288a038271379c2c5612e1a649e225f42de"
+    },
+    "generator": {
+      "path": "assets/florist/florist-planter-display-service-scene-01/v1.0.0/generate.py",
+      "size": 145788,
+      "sha256": "eabd1dd6b9ee3b57dbbb5ba20ab83f1e39dbda7734bace3323f467f5a1f0b826"
+    },
+    "render": {
+      "path": "assets/florist/florist-planter-display-service-scene-01/v1.0.0/thumbnail.png",
+      "size": 499099,
+      "sha256": "34c661ba64a0f79026545107774f4adb7588834321bde89ea93ea041ff94d231"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
