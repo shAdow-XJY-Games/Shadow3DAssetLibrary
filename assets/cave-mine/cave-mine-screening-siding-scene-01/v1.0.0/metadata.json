@@ -1,0 +1,42 @@
+{
+  "id": "cave-mine-screening-siding-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "cave-mine",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Ore Screening and Hopper Siding",
+  "description": "One static mine-processing yard composition with a complete inclined grizzly screen and a separate empty compact hopper wagon parked on one complete short straight track. Three unchanged original asset IDs at unit scale preserve every original mesh, node hierarchy, fixed pose and full solid PBR. One scene-only closed quarry-earth-look support floor carries the screen feet and track sleepers; the four original wagon tread facets bear on the finite original rail-head flats. The central pedestrian reference passage, front apron and outer wagon standing strip remain empty and connected. A separate low receiving-clearance volume below the screen and a low front approach remain empty; they are not pedestrian passages. The wagon is beside the screen, never under its low outlet. One scene, zero new independent models. No ore, bin, mine tunnel, loader, conveyor, connection to a rail network or moving part is added. Static visual composition only; no screening, loading, discharge, bulk flow, real mining workflow, continuous passage, vehicle motion, navigation, accessibility, load, stability, manufacture, installation or safety certification.",
+  "bounds": {
+    "x": 6.0,
+    "y": 4.4,
+    "z": 1.73,
+    "unit": "m"
+  },
+  "triangles": 2720,
+  "materials": 10,
+  "files": {
+    "glb": {
+      "path": "assets/cave-mine/cave-mine-screening-siding-scene-01/v1.0.0/model.glb",
+      "size": 212512,
+      "sha256": "98af6a483e96e0fefa20f578ed7918f1eafe9d8726ec94d1e41ed1d626ca61f2"
+    },
+    "blend": {
+      "path": "assets/cave-mine/cave-mine-screening-siding-scene-01/v1.0.0/source.blend",
+      "size": 1319612,
+      "sha256": "e2cde52e638dafba10991666bf68f63be45f0c1143538d85053a24c7505add22"
+    },
+    "generator": {
+      "path": "assets/cave-mine/cave-mine-screening-siding-scene-01/v1.0.0/generate.py",
+      "size": 91453,
+      "sha256": "6bd6c9668e41b34e71ceb42eb2444b46d7eb4542a7c785a8bded94fc80cb82e1"
+    },
+    "render": {
+      "path": "assets/cave-mine/cave-mine-screening-siding-scene-01/v1.0.0/thumbnail.png",
+      "size": 535922,
+      "sha256": "158d9c23e555746083f96de1f1067ac2949bc86c2e79f94dc1efd9f1c9bf720b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
