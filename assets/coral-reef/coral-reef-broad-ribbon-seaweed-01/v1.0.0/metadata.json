@@ -1,0 +1,42 @@
+{
+  "id": "coral-reef-broad-ribbon-seaweed-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "coral-reef",
+  "style": "hard-edge-faceted-nature",
+  "title": "Broad Ribbon Seaweed Clump",
+  "description": "One original static stylised broad ribbon seaweed clump: five unequal short basal stipes support five wide thick continuous undulating blades around one compact attachment hub. One closed connected editable body, with shared complete open-port boundaries between holdfast-shaped base, stipes and laminae. Five coherent constant opaque matte olive-brown PBR tones; no textures or alpha cards. Metres, native Z up, front -Y, attachment-centre origin and complete finite basal sole at Z=0. One reusable prop, zero scenes; blades, tones and formats are not separate assets. No prior plant geometry imported. Artistic seaweed-like form only; no exact species, botanical science, marine ecology, habitat, growth, fluid/current/wind simulation, animation, collision, navigation, physics or stability claim. No rock, seabed, water or scenery.",
+  "bounds": {
+    "x": 1.108022,
+    "y": 1.158352,
+    "z": 1.807667,
+    "unit": "m"
+  },
+  "triangles": 516,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/coral-reef/coral-reef-broad-ribbon-seaweed-01/v1.0.0/model.glb",
+      "size": 37520,
+      "sha256": "0823c9b2c5d2a921149fa0a77ded088b9434a30093014fe754ff71a2a8baabc5"
+    },
+    "blend": {
+      "path": "assets/coral-reef/coral-reef-broad-ribbon-seaweed-01/v1.0.0/source.blend",
+      "size": 571444,
+      "sha256": "1e563aa138f782d23902f7ad2068c4c14c32490ec619e6fdd89d5d24395e4392"
+    },
+    "generator": {
+      "path": "assets/coral-reef/coral-reef-broad-ribbon-seaweed-01/v1.0.0/generate.py",
+      "size": 26963,
+      "sha256": "b070509cc0420e8e270ee15b027c7579d530589a0c4e0c2ac9877435a88c6dba"
+    },
+    "render": {
+      "path": "assets/coral-reef/coral-reef-broad-ribbon-seaweed-01/v1.0.0/thumbnail.png",
+      "size": 492848,
+      "sha256": "279a96787ffbe5035ef70120fd23a5d73faaaf08f46a65040a7d0a4f70b33073"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
