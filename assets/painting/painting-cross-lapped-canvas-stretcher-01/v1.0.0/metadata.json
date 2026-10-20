@@ -1,0 +1,42 @@
+{
+  "id": "painting-cross-lapped-canvas-stretcher-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "painting",
+  "style": "S01-clean-geometric",
+  "title": "Cross-Lapped Canvas Stretcher",
+  "description": "One original empty low-poly canvas stretcher lying flat. Four complete miter-ended perimeter rails have outward-rising sloped top faces and broad flat grounded undersides. Two perpendicular complete cross braces have complementary real central half-lap cuts: a lower centre tongue on one brace and an upper centre bridge on the other. Their whole horizontal seat and four complete vertical shoulders form a fixed five-plane joint. Four genuinely open rectangular bays pass through the full assembly. Six closed editable meshes, two constant opaque untextured PBR materials, one prop and zero scenes. Metres, native Z up, front -Y, ground-centred footprint. Every perimeter miter, brace end, central joint and ground sole is a complete finite opposed surface. All geometry is original; no canvas, artwork, backing panel, glass, display leg, movable keys, hardware, old frame conversion or duplicated variant count. Static appearance only: no canvas tension, stretching, keying, dimensional compatibility, assembly path, joinery strength, load, conservation, manufacture, installation or safety certification claim. The original frame-form family remains partial.",
+  "bounds": {
+    "x": 0.96,
+    "y": 0.72,
+    "z": 0.055,
+    "unit": "m"
+  },
+  "triangles": 104,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/painting/painting-cross-lapped-canvas-stretcher-01/v1.0.0/model.glb",
+      "size": 11032,
+      "sha256": "bc334db456fd97d857d654111c674a8833cf8b794ae184594f0628f58d8f47ee"
+    },
+    "blend": {
+      "path": "assets/painting/painting-cross-lapped-canvas-stretcher-01/v1.0.0/source.blend",
+      "size": 504736,
+      "sha256": "ca2cf85d5600df7de9951e32ce57a46323a4cc2b539ba416bc417d615c10f69c"
+    },
+    "generator": {
+      "path": "assets/painting/painting-cross-lapped-canvas-stretcher-01/v1.0.0/generate.py",
+      "size": 31831,
+      "sha256": "e98ff79de7f8a466a13d8e580ca9383135a7da02aad732bafcb0c76fa0cc55cf"
+    },
+    "render": {
+      "path": "assets/painting/painting-cross-lapped-canvas-stretcher-01/v1.0.0/thumbnail.png",
+      "size": 482581,
+      "sha256": "884cc264ee72d2cb3da93bfd86f701e45a916b2cc4c6feca6f09e11ba03ec151"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

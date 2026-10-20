@@ -1,0 +1,42 @@
+{
+  "id": "timekeeping-grooved-tool-parts-tray-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "timekeeping",
+  "style": "S01-clean-geometric",
+  "title": "Grooved Watchmaker Tool and Parts Tray",
+  "description": "One original empty watchmaker tool-and-parts tray, counted as one whole prop. A single continuous thick rectangular body has three real blind front sorting pockets and one broad rear basin, divided by integral material. Two separate full transverse brass-coloured cradles each have three genuine V-shaped upper notches, aligned in three pairs across the open rear basin. Both complete cradle undersides sit on the actual flat basin floor. All pockets have sloped continuous walls and full 18 mm bottoms; all three tool paths and both inter-cradle and end spaces remain actual open finite volumes. Three named editable closed meshes and three opaque constant PBR materials. Metres, native Z up, front -Y and footprint-centred bottom datum. No watch, tool, moving part, label, texture, external model, furniture or scene. The one-piece three-pocket body and paired notched cradles are newly authored, not a recoloured baking tray, ribbed boot tray, postal letter tray or detached bench catch tray. Fixed visual appearance only; no precision tool fit, parts retention, antistatic property, protective cushioning, carrying, capacity, liquid containment, manufacturing, stability, occupational safety or compatibility with earlier watches, tools or benches is claimed.",
+  "bounds": {
+    "x": 0.44,
+    "y": 0.3,
+    "z": 0.065,
+    "unit": "m"
+  },
+  "triangles": 764,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/timekeeping/timekeeping-grooved-tool-parts-tray-01/v1.0.0/model.glb",
+      "size": 26180,
+      "sha256": "c37c715e35b2a599480ba691fb484b10e6b370539269dd22b67a38d65df6b429"
+    },
+    "blend": {
+      "path": "assets/timekeeping/timekeeping-grooved-tool-parts-tray-01/v1.0.0/source.blend",
+      "size": 548460,
+      "sha256": "efaaa8ea5b8d510f9e3c0fd48c5470a76952b8242eb88a231f429f96967be84e"
+    },
+    "generator": {
+      "path": "assets/timekeeping/timekeeping-grooved-tool-parts-tray-01/v1.0.0/generate.py",
+      "size": 31271,
+      "sha256": "1690fcd47055f98ab81b89dbdb8c2983cfb3b294df8f939af60cfc689a00f339"
+    },
+    "render": {
+      "path": "assets/timekeeping/timekeeping-grooved-tool-parts-tray-01/v1.0.0/thumbnail.png",
+      "size": 517207,
+      "sha256": "d020fac212e3b9c34d5565b37199b057fa43ddecceb940ed572aec392af537a7"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "navigation-fixed-twin-vane-alidade-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "navigation",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Twin-Vane Sighting Alidade",
+  "description": "One original static surveying-themed alidade visual prop: a long thick chamfer-ended ungraduated straightedge carries two complete upright thick sighting vanes, one with a narrow vertical through slot and the other with a broad rectangular through window. Each vane is a single continuous closed material ring with full front, back, outer and inner walls, seated on the entire finite bottom contact on the base. A connected finite empty corridor passes through both openings, and the full two aperture volumes and the open space between vanes remain clear. Three closed editable meshes and three constant opaque untextured PBR materials. Metres, native Z up, front -Y, horizontal bounds-centred full-sole ground origin. Entire geometry is newly authored; no compass, telescope, sextant, rangefinder, map stand, sign or tailoring ruler geometry imported, recoloured or rescaled. One prop, zero scenes. Fixed illustrative appearance only: no real optical sightline performance, surveying, aiming, distance or angular measurement, accuracy, calibration, readable scale, folding or adjustment mechanism, historical reproduction, educational reliability, material, manufacture, load, stability, safety or existing-asset mounting compatibility claim. No lenses, crosshair wire, pivot, tripod, map, text, numerals, texture, animation or alternative state.",
+  "bounds": {
+    "x": 0.12,
+    "y": 0.52,
+    "z": 0.18,
+    "unit": "m"
+  },
+  "triangles": 96,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/navigation/navigation-fixed-twin-vane-alidade-01/v1.0.0/model.glb",
+      "size": 8640,
+      "sha256": "171426b1b36794d43194761a3f689ecc7b8d945b9034889f4e329463f747cdd5"
+    },
+    "blend": {
+      "path": "assets/navigation/navigation-fixed-twin-vane-alidade-01/v1.0.0/source.blend",
+      "size": 512444,
+      "sha256": "a55e8d482879c034be1d316ec137c37a34dba130923175ac40943487e1a54efa"
+    },
+    "generator": {
+      "path": "assets/navigation/navigation-fixed-twin-vane-alidade-01/v1.0.0/generate.py",
+      "size": 28318,
+      "sha256": "c0a6a5419aaf5682ccb99e6072c203cb293b63658fa6a1d9d28f87ad0ef2f2f3"
+    },
+    "render": {
+      "path": "assets/navigation/navigation-fixed-twin-vane-alidade-01/v1.0.0/thumbnail.png",
+      "size": 479424,
+      "sha256": "8d71534fe9cc9aa69be4b8d983e769f92bad85b525e1040528085f1f8d8e69f4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "winter-fractured-undercut-ice-edge-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "winter",
+  "style": "S01-clean-geometric",
+  "title": "Fractured Undercut Ice Edge",
+  "description": "One original thick horizontal ice-edge visual prop with a broad planar upper shelf, an asymmetric genuinely open V-shaped front fracture, a continuous lower recessed body and a projecting angular upper lip. The concave fracture cuts the full thickness; the low front undercut and surrounding space are empty. One editable closed connected monolithic mesh with one complete flat irregular sole at Z=0. Four opaque constant untextured ice-look PBR face materials; no transparent shell or coincident colour skins. Native Z up, front -Y, metres, ground-level horizontal envelope centre. Newly authored numeric geometry, not a recoloured snowbank, sloped roof snow, hanging icicle, riverbank or cliff. One static prop and zero scenes. No water, snow, terrain, separate broken shard, animation or variants. Static stylised appearance only: no real ice morphology, thickness assessment, melting, freezing, buoyancy, water flow, weather simulation, walkability, load, slip resistance, structural stability, cold-region construction or human safety claim. No seamless repetition, river-module, snowbank, roof or other existing asset compatibility is asserted.",
+  "bounds": {
+    "x": 2.2,
+    "y": 1.4,
+    "z": 0.43,
+    "unit": "m"
+  },
+  "triangles": 84,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/winter/winter-fractured-undercut-ice-edge-01/v1.0.0/model.glb",
+      "size": 8792,
+      "sha256": "46560a28933ed6a9b85e816d0a264412d84a720df0312bbe6443704f501757e7"
+    },
+    "blend": {
+      "path": "assets/winter/winter-fractured-undercut-ice-edge-01/v1.0.0/source.blend",
+      "size": 524928,
+      "sha256": "7425c2a9d23f590cd7429bb55874e6fbe2762834aff022555b2524b1ed25e221"
+    },
+    "generator": {
+      "path": "assets/winter/winter-fractured-undercut-ice-edge-01/v1.0.0/generate.py",
+      "size": 29356,
+      "sha256": "d4d2a393b7f36a3efb75ffcc05882b07c2c08ca70670427b190fa79de81ae670"
+    },
+    "render": {
+      "path": "assets/winter/winter-fractured-undercut-ice-edge-01/v1.0.0/thumbnail.png",
+      "size": 479317,
+      "sha256": "f8eb6e129dd4bebc9b296e1d3a3b25e99634a8a69955d77dd9de1160c234c01b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

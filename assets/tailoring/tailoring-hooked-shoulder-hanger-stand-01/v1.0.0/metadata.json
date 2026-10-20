@@ -1,0 +1,42 @@
+{
+  "id": "tailoring-hooked-shoulder-hanger-stand-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "tailoring",
+  "style": "S01-clean-geometric",
+  "title": "Hooked Shoulder Hanger on Open Garment Stand",
+  "description": "One original complete fixed garment-hanging display prop. A broad open rail rests on two straight uprights with two full grounded crossfeet. One thick triangular shoulder hanger has a genuine full-width through window and a flat apex seat. A separate continuous open J-shaped hook rises from that apex, wraps around the rail with real side clearances, and rests on its top by a complete finite inner saddle face. Seven closed connected editable meshes and three opaque constant untextured PBR materials. The hook, shoulder frame, rail and whole support arrangement are newly authored, with no imported peg rail, luggage trolley, garment, clothesline, spool rack or cloth bolt geometry. Metres, native Z up, front -Y, horizontally bounds-centred ground origin. The whole display counts as one prop and zero scenes. No garment, repeated hanger variants, scene, texture, text, logo or animation. Fixed visual appearance only: no removal or assembly path, moving hook, garment fit, body sizing, hanging capacity, rail loading, stability, ergonomics, real material properties, manufacture, installation, safety certification or compatibility with existing assets.",
+  "bounds": {
+    "x": 1.28,
+    "y": 0.6,
+    "z": 1.65,
+    "unit": "m"
+  },
+  "triangles": 152,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/tailoring/tailoring-hooked-shoulder-hanger-stand-01/v1.0.0/model.glb",
+      "size": 13236,
+      "sha256": "e22d9ab922bcb1d308c7ae2ed0b646ce52e962ef4a4505bdcd6f90d4e8127c3f"
+    },
+    "blend": {
+      "path": "assets/tailoring/tailoring-hooked-shoulder-hanger-stand-01/v1.0.0/source.blend",
+      "size": 535568,
+      "sha256": "2781058ef633b2f081d0fc7aed10844891a0b69ca73aab076d8e02b80ad658d2"
+    },
+    "generator": {
+      "path": "assets/tailoring/tailoring-hooked-shoulder-hanger-stand-01/v1.0.0/generate.py",
+      "size": 31352,
+      "sha256": "9368ba19443dda65a3594ac1c1ee2aa5a4fe48718f18480ee5a51ed6ea5c2f65"
+    },
+    "render": {
+      "path": "assets/tailoring/tailoring-hooked-shoulder-hanger-stand-01/v1.0.0/thumbnail.png",
+      "size": 490688,
+      "sha256": "75aadc41f926e9affffeaf3a432dbe62473535ff9ab945c72743a9d8d723777d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

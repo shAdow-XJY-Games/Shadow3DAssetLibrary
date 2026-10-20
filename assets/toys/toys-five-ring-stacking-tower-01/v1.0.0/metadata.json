@@ -1,0 +1,42 @@
+{
+  "id": "toys-five-ring-stacking-tower-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "toys",
+  "style": "S01-clean-geometric",
+  "title": "Five-Ring Stacking Tower",
+  "description": "One original static five-ring stacking toy, counted together as one prop. Five progressively smaller thick sixteen-sided chamfered rings form a stepped tower on a broad chamfered disc base. Every ring is a complete continuous annular solid with a true full-depth central bore, not a solid disc or a painted hole. A separate tall straight fixed peg passes through all five bores with a complete positively separated annular air corridor; its chamfered tip remains exposed. The base supports the full bottom annulus, each ring supports the complete smaller bearing annulus above it, and the peg has its own full base seat. Seven individually editable closed connected meshes, six constant opaque matte PBR colors, metres, native Z up, ground-centre origin. Five rings are component parts of this single toy, never five separate model counts. All geometry newly authored. No external assets, textures, logos, loose accessory, extra ring, scene, rig or animation. One fixed visual assembly only; no insertion/removal sequence, interaction, rotation, motion, human fit, learning outcome, age suitability, child or toy safety, swallowing or pinch protection, physical stability, load, material performance, manufacture, durability, certification or old-asset compatibility claim.",
+  "bounds": {
+    "x": 0.3,
+    "y": 0.3,
+    "z": 0.282,
+    "unit": "m"
+  },
+  "triangles": 1504,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/toys/toys-five-ring-stacking-tower-01/v1.0.0/model.glb",
+      "size": 73408,
+      "sha256": "0bc41e0b7c7e92ae9f432dec19a699eaf989a505faa04d172056d01282dbcba0"
+    },
+    "blend": {
+      "path": "assets/toys/toys-five-ring-stacking-tower-01/v1.0.0/source.blend",
+      "size": 678712,
+      "sha256": "68ecbad66df459aa16abb895a9cbf0380711f25df88bac14f914dbe79676cd02"
+    },
+    "generator": {
+      "path": "assets/toys/toys-five-ring-stacking-tower-01/v1.0.0/generate.py",
+      "size": 29269,
+      "sha256": "7678ca7e7c1ba44c587a4bbf9e06bc6b309b56f086fbb603e2558ae9e974c0e1"
+    },
+    "render": {
+      "path": "assets/toys/toys-five-ring-stacking-tower-01/v1.0.0/thumbnail.png",
+      "size": 532246,
+      "sha256": "34979d6ba8fe59cf4fa30dedcc13c8f2cb6e925f10a36d7e86ffccb50415a5fc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
