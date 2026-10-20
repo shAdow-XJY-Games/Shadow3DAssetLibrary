@@ -1,0 +1,42 @@
+{
+  "id": "characters-original-apron-worker-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "characters",
+  "style": "S01-clean-geometric",
+  "title": "Original Apron Workshop Worker",
+  "description": "One original generic adult worker in a fixed relaxed standing pose, wearing a plain short-sleeve shirt, long work trousers, a thick continuous bib apron and complete low work shoes. A faceted shaped head has an integral angular nose, readable eyes and mouth formed by material regions on the same closed surface, cropped hair and a complete neck. Both full arms terminate in thumb-shaped closed hands; both separated full legs terminate in independent flat grounded shoes. All body joints meet on finite opposed surfaces without penetrating ellipsoids. The apron has a continuous full-width waist and low hem with two integrated front shoulder-strap color regions on the shirt. All clothing is fixed visual geometry, with no hidden body or replaceable garment system. Native Z up, front -Y, metres as game-space scale and origin between the two soles. Entire geometry newly authored, not an existing toy, tabletop player, mannequin, real person or established character. One prop, zero scenes. Six opaque untextured constant PBR materials. No rig, bones, skinning, animation, locomotion, behavior, dressing or interchangeable outfit, demographic likeness, anatomical/ergonomic accuracy, physical stability, manufacturability or safety certification is claimed. No tools, held objects, logo, text, textures, floor or background are exported.",
+  "bounds": {
+    "x": 0.8,
+    "y": 0.325,
+    "z": 1.78,
+    "unit": "m"
+  },
+  "triangles": 1198,
+  "materials": 6,
+  "files": {
+    "glb": {
+      "path": "assets/characters/characters-original-apron-worker-01/v1.0.0/model.glb",
+      "size": 78664,
+      "sha256": "8154b70491b987704125adf4c7c9d1bf1aa5d020522bd087568a8101fe9f8894"
+    },
+    "blend": {
+      "path": "assets/characters/characters-original-apron-worker-01/v1.0.0/source.blend",
+      "size": 703004,
+      "sha256": "6b4c8f69ce183013637400f92032ec32e04d3657b99c00c41e2a654787e64c96"
+    },
+    "generator": {
+      "path": "assets/characters/characters-original-apron-worker-01/v1.0.0/generate.py",
+      "size": 33883,
+      "sha256": "670b4fb884d725606c69db59bded6a7782adc0b7df37a2f34c7dc9c58d9f6622"
+    },
+    "render": {
+      "path": "assets/characters/characters-original-apron-worker-01/v1.0.0/thumbnail.png",
+      "size": 482164,
+      "sha256": "4a50c46d72e83e814652a96097dbdc482087880cb197cb1c5ff9c7d158ae9bbd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
