@@ -1,0 +1,42 @@
+{
+  "id": "classical-baffled-twin-arch-path-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "classical",
+  "style": "source-preserved-S01-clean-geometric",
+  "title": "Baffled Twin-Arch Ruin Path",
+  "description": "Two complete perpendicular offset portals are connected by a finite supported dogleg route around the west end of a complete breached wall. A single complete column marks a northern side viewing pocket. The breach retains its full lower wall and is not treated as an entrance. One scene, zero independent models, no old geometry alterations; static finite empty volumes only, no continuous navigation, accessibility, archaeology, structural, stability or safety claim. Four unit-scale rigid placements retain every original mesh, hierarchy, full oriented triangle, and opaque solid PBR: two intact thirteen-voussoir stone arches, one complete deep-breached masonry wall, and one whole fluted column. Six connected whole empty route and viewing volumes are checked against all actual old meshes and are entirely supported by one scene-only ground slab. The wall creates a south approach, west bypass and north return before the east-facing exit; neither arch is a variant or new model. The .06m outer base step needs external placement. No props, doors, rubble, vegetation, new standalone model or historical reconstruction.",
+  "bounds": {
+    "x": 6.8,
+    "y": 6.8,
+    "z": 3.09,
+    "unit": "m"
+  },
+  "triangles": 7860,
+  "materials": 16,
+  "files": {
+    "glb": {
+      "path": "assets/classical/classical-baffled-twin-arch-path-scene-01/v1.0.0/model.glb",
+      "size": 405468,
+      "sha256": "db9197fbdc7074de0cdd818527774cd3575af5f70bd37bc29e1f4b2cba412c13"
+    },
+    "blend": {
+      "path": "assets/classical/classical-baffled-twin-arch-path-scene-01/v1.0.0/source.blend",
+      "size": 1559212,
+      "sha256": "4e3f1d3f3bbd2e9fdf73f8076edf66ef657f0403bd94fd7eb509a6d7b26cbfea"
+    },
+    "generator": {
+      "path": "assets/classical/classical-baffled-twin-arch-path-scene-01/v1.0.0/generate.py",
+      "size": 163984,
+      "sha256": "04a105a78c0e340aee948f95d3f60a7d19798b69101e5dad69faaed8a39c3dd9"
+    },
+    "render": {
+      "path": "assets/classical/classical-baffled-twin-arch-path-scene-01/v1.0.0/thumbnail.png",
+      "size": 534104,
+      "sha256": "a378271c1635508b9430cc602692e209f8dbbb67d7fe7c1d98b83cb5e5689e4f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
