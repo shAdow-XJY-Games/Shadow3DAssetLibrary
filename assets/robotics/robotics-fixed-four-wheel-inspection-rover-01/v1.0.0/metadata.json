@@ -1,0 +1,42 @@
+{
+  "id": "robotics-fixed-four-wheel-inspection-rover-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "robotics",
+  "style": "S01-clean-geometric",
+  "title": "Four-Wheel Mast Inspection Rover",
+  "description": "One original compact fixed inspection-robot visual prop. Four separate flat-facet polygonal wheels and four outer hub plates meet two continuous transverse axle bars below a chamfered low chassis. An independently editable continuous electronics housing has a broad lower shoulder and a tapered upper roof. A separate round mast seat, hexagonal upright and chamfered horizontal camera head form a clear elevated sensor silhouette. Two thick truly bored forward lens hoods surround separate fully backed recessed opaque lens discs. All nineteen meshes are closed, individually named and statically connected through complete finite opposed face patches. Five constant opaque unlinked PBR materials; no textures. Metres, native Z up, front -Y, ground origin centered between the wheel soles. Every profile and dimension is newly authored; no earlier vehicle, robot arm, trolley, camera, wheel or other geometry is imported, transformed or reused. One fixed static presentation only. No autonomy, operation, real sensing, optical imaging, communications, navigation, driving, steering, suspension, wheel motion, animation, rigging, power, controls, load capacity, stability, terrain suitability, manufacturing, safety or compatibility with prior mechanical assets is claimed.",
+  "bounds": {
+    "x": 1.008,
+    "y": 0.98,
+    "z": 1.1,
+    "unit": "m"
+  },
+  "triangles": 1060,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/robotics/robotics-fixed-four-wheel-inspection-rover-01/v1.0.0/model.glb",
+      "size": 58568,
+      "sha256": "f085f9b3fbfc1c8d9b09a8aa5c7b42478eb604d5e97ca2c70f26d9c050205794"
+    },
+    "blend": {
+      "path": "assets/robotics/robotics-fixed-four-wheel-inspection-rover-01/v1.0.0/source.blend",
+      "size": 691728,
+      "sha256": "0973ac72f16ca4c6b64e4265d6502cd89ccb955f4bc5748513ffb407bccfa413"
+    },
+    "generator": {
+      "path": "assets/robotics/robotics-fixed-four-wheel-inspection-rover-01/v1.0.0/generate.py",
+      "size": 24109,
+      "sha256": "737e1203e3aff2c010b7fa4350555671f0576a5253458a9938d5db75913f453f"
+    },
+    "render": {
+      "path": "assets/robotics/robotics-fixed-four-wheel-inspection-rover-01/v1.0.0/thumbnail.png",
+      "size": 511603,
+      "sha256": "80e7e4e0161c091316403ee5b3d2dcd6ae09cc599559852e3ef467385e98909e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
