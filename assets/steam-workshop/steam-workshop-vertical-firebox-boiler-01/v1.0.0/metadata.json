@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-vertical-firebox-boiler-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Vertical Firebox Boiler Exterior",
+  "description": "One original static steam-workshop vertical boiler exterior with four complete low feet, a distinct closed rectangular firebox casing, a tall stepped twenty-four-sided upper barrel with integral raised bands and a sloped shoulder, a complete thick-wall open-top short flue with a real recessed closed floor, and a clearly closed octagonal front inspection-door appearance with a solid latch. Nine individually editable closed connected meshes, four constant opaque untextured PBR materials. Metres are game-space coordinates only, native Z up, front -Y, grounded centred origin. One prop and zero scenes. All product geometry is newly authored; no prior tank, coffee appliance, kiln, stove, toy locomotive or silo is resized, renamed or fitted with a chimney. The barrel and firebox are closed exterior solids; the flue is a visibly recessed blind opening with full thickness and floor, and is not connected to a functional pipe system. The front door is fixed closed exterior detailing, with no hinge or opening pose. No steam generation, combustion, pressure containment, heat, flow, plumbing, motion, manufacture, real equipment dimensions or standards, installation, load-bearing, stability or safety capability is claimed. Not a real boiler construction guide. No flame, smoke effect, gauge markings, valve, texture, text, animation or scene is included.",
+  "bounds": {
+    "x": 1.12,
+    "y": 1.12,
+    "z": 2.42,
+    "unit": "m"
+  },
+  "triangles": 916,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-vertical-firebox-boiler-01/v1.0.0/model.glb",
+      "size": 48284,
+      "sha256": "c0b488ca68569edb169a061333e69af9ff7b239428c2d45cc8a1fb78d0a2dd97"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-vertical-firebox-boiler-01/v1.0.0/source.blend",
+      "size": 610300,
+      "sha256": "0758867aefcbede140a70a51335c1c80b5ae84ef0894221a79e42c191d0b4a21"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-vertical-firebox-boiler-01/v1.0.0/generate.py",
+      "size": 29128,
+      "sha256": "ddb8c4c44a4f4896aafd0f3da03c838a23f2a98ca2568a293f06d60184ac9d81"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-vertical-firebox-boiler-01/v1.0.0/thumbnail.png",
+      "size": 515404,
+      "sha256": "d3a0d452b8d6f2a257a4c4d7d79210c375d9c45de91aae500defda58de8c7116"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
