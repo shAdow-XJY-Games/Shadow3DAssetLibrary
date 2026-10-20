@@ -1,0 +1,42 @@
+{
+  "id": "wetland-arched-prop-root-mangrove-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "wetland",
+  "style": "hard-edge-faceted-nature",
+  "title": "Four-Arch Prop-Root Mangrove",
+  "description": "One original static stylised mangrove tree with four unequal outward-bowing descending prop roots, four distinct finite ground feet, a raised basal trunk with true open air beneath and between roots, a short leaning forked stem and two unequal compact opaque crowns. Wood roots, hub, stem and two branches share continuous surface vertices without internal caps. Three independently editable closed meshes, five restrained constant opaque PBR tones, no textures. Metres, native Z up, front -Y, origin at the ground projection of the basal trunk. One complete prop only, not separate roots, crowns or variants. Original reserved wetland mangrove topic. Stylised visual form only: no biological species, ecology, planting, growth, wind, collision, navigation, physical strength, support, tide, buoyancy or water simulation claim. No water, soil island, rocks, reeds, other trees or scene.",
+  "bounds": {
+    "x": 2.1184,
+    "y": 1.319,
+    "z": 2.42,
+    "unit": "m"
+  },
+  "triangles": 628,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/wetland/wetland-arched-prop-root-mangrove-01/v1.0.0/model.glb",
+      "size": 51464,
+      "sha256": "1330d91ecb31e36ba6a62f9c0b66a4ba86a3033525978f2efcf5c160cf775c96"
+    },
+    "blend": {
+      "path": "assets/wetland/wetland-arched-prop-root-mangrove-01/v1.0.0/source.blend",
+      "size": 587772,
+      "sha256": "ee27169a6887d9ebae770a2cbb62c3b65aa324ce516f9e1c50bbe3428791a470"
+    },
+    "generator": {
+      "path": "assets/wetland/wetland-arched-prop-root-mangrove-01/v1.0.0/generate.py",
+      "size": 30500,
+      "sha256": "f450259b1871d19c48b7a101055070c55db16c4afd17b21ced782105b815f476"
+    },
+    "render": {
+      "path": "assets/wetland/wetland-arched-prop-root-mangrove-01/v1.0.0/thumbnail.png",
+      "size": 503281,
+      "sha256": "84711455471025a579bab1e44d805e206678788d5818ed7ad8d6947bd027f554"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
