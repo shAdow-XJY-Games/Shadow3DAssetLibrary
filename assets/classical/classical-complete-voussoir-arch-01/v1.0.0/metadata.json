@@ -1,0 +1,42 @@
+{
+  "id": "classical-complete-voussoir-arch-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "classical",
+  "style": "restrained-faceted-masonry",
+  "title": "Complete Thirteen-Voussoir Stone Arch",
+  "description": "One original complete freestanding stone arch module. Thirteen radial voussoir faces, including a central keystone, follow an exposed semicircular extrados and a complete deep curved soffit. Radial geometric recessed joints wrap both faces and inner/outer edges without detached stones. Two coursed jambs widen into stepped imposts and broad stepped pedestals with two complete finite ground soles. The whole arch is one continuous closed editable shared-vertex mesh, with an entirely open ground-to-crown passage through its full depth and no threshold or hidden rear fill. Four restrained constant opaque matte stone PBR tones, no texture. Native metres and Z up, front -Y, ground-level horizontally centred origin. One modular model, zero scenes, no separately counted stones. All visible geometry is newly authored; no old wall, sand gate, oven, well or column is recoloured, rescaled, trimmed or imported. Integral seams represent visual stone segmentation in a fixed whole model, not a simulated assembly. No landscape, doors, debris, animation or alternate states. Static illustrative geometry only: no structural capacity, thrust, loads, masonry stability, engineering accuracy, historical reconstruction, manufacture, installation, safety, accessibility, controller navigation, or compatibility with earlier module grids is claimed.",
+  "bounds": {
+    "x": 2.84,
+    "y": 0.78,
+    "z": 3.03,
+    "unit": "m"
+  },
+  "triangles": 660,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/classical/classical-complete-voussoir-arch-01/v1.0.0/model.glb",
+      "size": 41332,
+      "sha256": "8db64d9e9b8a754108ab6b0441685616019fbb235059168e8a65df888591d27f"
+    },
+    "blend": {
+      "path": "assets/classical/classical-complete-voussoir-arch-01/v1.0.0/source.blend",
+      "size": 556028,
+      "sha256": "2e19c7fd6856a7559d7d8198e28cce589d5b3c617bef21eb6e4c54ebb8b08b5d"
+    },
+    "generator": {
+      "path": "assets/classical/classical-complete-voussoir-arch-01/v1.0.0/generate.py",
+      "size": 27157,
+      "sha256": "d8c98214ce17ba01637eccdc0183371572c19b99d9756af94ec6fc9023c04fd4"
+    },
+    "render": {
+      "path": "assets/classical/classical-complete-voussoir-arch-01/v1.0.0/thumbnail.png",
+      "size": 514614,
+      "sha256": "6b64d2c38cbb718f6444312c83d404822496aa2096a58605f22d4f31ed80b04e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
