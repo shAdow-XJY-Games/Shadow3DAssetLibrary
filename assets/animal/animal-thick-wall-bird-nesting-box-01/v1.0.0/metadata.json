@@ -1,0 +1,42 @@
+{
+  "id": "animal-thick-wall-bird-nesting-box-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "restrained-faceted-wood",
+  "title": "Thick-Wall Gable Nesting Box",
+  "description": "One original static wooden bird nesting-box visual prop. A single continuous closed shared-vertex shell forms a complete thick floor, side/back/front walls, a real 24-sided round front through opening, a complete enclosed chamber open through that entry, and an integral full-thickness pitched roof with clear eave overhangs on all four sides. The roof has true underside, fascia and upper surfaces. Four restrained constant opaque matte PBR tones distinguish light front wood, side/back wood, interior end grain and dark roof. Metres, native Z up, front -Y, centred full-bottom ground datum. One prop, zero scenes, no separate model count for roof or parts. Newly authored visible geometry; no hive, mailbox or toy-house model is renamed, resized or imported. No perch, pole, fasteners, tree, contents, animal, scene, animation or alternative state. Illustrative static visual geometry only. No species suitability, animal-care or ecological result, real installation or mounting safety, weatherproofing, structural capacity, manufacture, physics, collision or navigation claim.",
+  "bounds": {
+    "x": 0.28,
+    "y": 0.24,
+    "z": 0.43,
+    "unit": "m"
+  },
+  "triangles": 288,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-thick-wall-bird-nesting-box-01/v1.0.0/model.glb",
+      "size": 14356,
+      "sha256": "4a1377df18481ac51c1f95f0906a2d3ec29e7a82d171c0f3aeebe0c5c70195a3"
+    },
+    "blend": {
+      "path": "assets/animal/animal-thick-wall-bird-nesting-box-01/v1.0.0/source.blend",
+      "size": 535940,
+      "sha256": "c916a624f176956520992a58d160681f3b0f205b3153bc7b5cb701532f0c19c4"
+    },
+    "generator": {
+      "path": "assets/animal/animal-thick-wall-bird-nesting-box-01/v1.0.0/generate.py",
+      "size": 27814,
+      "sha256": "5ce2a1c51e82e5c92300a876b6d81019fbc73c156520790dbb7af3897c06f53d"
+    },
+    "render": {
+      "path": "assets/animal/animal-thick-wall-bird-nesting-box-01/v1.0.0/thumbnail.png",
+      "size": 505466,
+      "sha256": "222de39488c972292167d360cb366d37732f8466d24224f3bb3a4d831189e9dd"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
