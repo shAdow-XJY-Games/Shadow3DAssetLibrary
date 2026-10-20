@@ -1,0 +1,42 @@
+{
+  "id": "laundry-four-panel-folding-table-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "laundry",
+  "style": "S01-clean-geometric",
+  "title": "Four-Panel Garment-Folding Table",
+  "description": "One original complete freestanding garment-folding table in a fixed fully spread pose. Four separately editable thick chamfer-corner surface panels comprise one central board, two long side wings and one short front flap. Each wing and the front flap has a genuine full-thickness chamfered hand slot. Six narrow closed connector webs cross the real panel seams; their complete end faces meet the corresponding panel edges. Two transverse beams support the central and side panels, while two forward prongs support the front flap without blocking its slot. Four full grounded legs and two side rails complete the open supporting frame. Twenty closed connected meshes and four opaque constant untextured PBR materials. Metres, native Z up, front -Y, horizontal bounds-centred ground origin. One complete prop and zero scenes. All dimensions and panel construction are newly authored; no worktable, ironing kit, watchmaker bench, fish-processing bench or laundry-model geometry imported. No garments, iron, basket, scene, texture, text, logo or animation. Static game-art appearance only: no folding motion, hinge kinematics, flexible-web simulation, garment sizing, folding effectiveness, textile care, human or hand fit, load, ergonomics, stability, manufacture, assembly, installation, safety certification or old-asset compatibility claim.",
+  "bounds": {
+    "x": 1.3,
+    "y": 1.1,
+    "z": 0.89,
+    "unit": "m"
+  },
+  "triangles": 412,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/laundry/laundry-four-panel-folding-table-01/v1.0.0/model.glb",
+      "size": 32860,
+      "sha256": "f1ab49341d83ab094df1f481a1a0c93c8737847b2ce936fc0f86b1c3d8e93eec"
+    },
+    "blend": {
+      "path": "assets/laundry/laundry-four-panel-folding-table-01/v1.0.0/source.blend",
+      "size": 638720,
+      "sha256": "92e0db1995454638362e496906374c92540cd072d8879784241b05a61d1cc49b"
+    },
+    "generator": {
+      "path": "assets/laundry/laundry-four-panel-folding-table-01/v1.0.0/generate.py",
+      "size": 33660,
+      "sha256": "4ebd531957dc91f491a6889463fc2f7261cf39d5b7907989af8e1843c28e8b23"
+    },
+    "render": {
+      "path": "assets/laundry/laundry-four-panel-folding-table-01/v1.0.0/thumbnail.png",
+      "size": 518100,
+      "sha256": "61aca41f6096096a2e941865879675a89587bc2c27ad038fcc8b47f43700c878"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

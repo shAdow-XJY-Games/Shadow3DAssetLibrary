@@ -1,0 +1,42 @@
+{
+  "id": "firefighting-twin-channel-hose-bridge-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "firefighting",
+  "style": "S01-clean-geometric",
+  "title": "Twin-Channel Hose Crossing Bridge",
+  "description": "One original low firefighting hose-crossing bridge appearance: a single continuous closed thick body with two separate faceted arched underside channels open at both ends, three full flat ground strips, broad opposed sloping approaches and three integral shallow crown ribs. The front and rear cross sections expose the actual continuous material surrounding both channels. A single connected editable mesh uses two constant opaque untextured PBR materials assigned to its top and body faces. One fixed reusable prop, zero scenes. Metres, native Z up, front -Y, horizontal envelope centred with the three complete ground soles at Z=0. All geometry is newly authored, without an imported old ramp, curb, footbridge, hose reel, wheel chock or cable tray. No hose, road, vehicle, fastener, texture, logo, animation or scene. Static visual geometry only: no actual hose fit, cable accommodation, load capacity, vehicle clearance, traffic use, anti-slip grip, hose protection, drainage, material or manufacturing specification, installation, firefighting capability or safety certification is claimed.",
+  "bounds": {
+    "x": 1.44,
+    "y": 0.6,
+    "z": 0.247,
+    "unit": "m"
+  },
+  "triangles": 156,
+  "materials": 2,
+  "files": {
+    "glb": {
+      "path": "assets/firefighting/firefighting-twin-channel-hose-bridge-01/v1.0.0/model.glb",
+      "size": 9192,
+      "sha256": "9fed52ca08cd4d19ea2d31af24ae0716295b694123a0205533c7bad8a54bba44"
+    },
+    "blend": {
+      "path": "assets/firefighting/firefighting-twin-channel-hose-bridge-01/v1.0.0/source.blend",
+      "size": 482380,
+      "sha256": "787982ce8c0563b56759f3d3cb27046e4c167e099d741f2872b2460cd217ac26"
+    },
+    "generator": {
+      "path": "assets/firefighting/firefighting-twin-channel-hose-bridge-01/v1.0.0/generate.py",
+      "size": 28260,
+      "sha256": "1ac4e196d20ff9c5f0ea7c031f242ee8aa844728d0858bc43b7a71e9b445e5ad"
+    },
+    "render": {
+      "path": "assets/firefighting/firefighting-twin-channel-hose-bridge-01/v1.0.0/thumbnail.png",
+      "size": 468900,
+      "sha256": "5d898b0374414e4413d947c5bfbf038a1d96d36f9bfb38049c488d2af937c68a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

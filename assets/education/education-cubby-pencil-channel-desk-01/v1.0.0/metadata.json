@@ -1,0 +1,42 @@
+{
+  "id": "education-cubby-pencil-channel-desk-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "S01-clean-geometric",
+  "title": "Pencil-Channel Classroom Bookwell Desk",
+  "description": "One original static single-place classroom desk, counted as one complete prop. Its continuous thick worktop has a real blind rectangular pencil channel with a full floor and four closed end/side walls. A separate thick closed-bottom bookwell has one full front opening, a ceiling, back and side walls, with its entire upper face seated against the worktop underside. Two newly authored continuous C-profile side frames have broad grounded runners, rising rear uprights and forward upper arms, leaving a full open knee space beneath the bookwell. Four closed editable meshes and four opaque constant untextured PBR materials; metres, native Z up, front -Y and ground-centred origin. No chair, books, pencil, school scene, existing desk fragments, imported geometry, images, text or logo. A distinct newly authored desk form, not a resized generic table, tilted drafting desk, map stand or emptied scan station. Fixed visual geometry only: no age or pupil suitability, ergonomics, accessibility, educational effectiveness, child safety, load rating, stability, manufacture tolerance, adjustment, installation or safety certification. Dimensions describe static game-space geometry only.",
+  "bounds": {
+    "x": 0.76,
+    "y": 0.6,
+    "z": 0.76,
+    "unit": "m"
+  },
+  "triangles": 240,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-cubby-pencil-channel-desk-01/v1.0.0/model.glb",
+      "size": 13532,
+      "sha256": "383098bec73fb96715e65ae50bede74bf467e78cbef22d852625b8f3f3419762"
+    },
+    "blend": {
+      "path": "assets/education/education-cubby-pencil-channel-desk-01/v1.0.0/source.blend",
+      "size": 548536,
+      "sha256": "27ee03ba5890ffab6c027c7da4336500bbd0630f6eff777cb3749599dd3fd28c"
+    },
+    "generator": {
+      "path": "assets/education/education-cubby-pencil-channel-desk-01/v1.0.0/generate.py",
+      "size": 31465,
+      "sha256": "3fd3a918572c0fa48ead871d4afda7a8757bcb14e36d090679a331cffc9ebc28"
+    },
+    "render": {
+      "path": "assets/education/education-cubby-pencil-channel-desk-01/v1.0.0/thumbnail.png",
+      "size": 534465,
+      "sha256": "b6a2e678242e68bc02774326c30bc42a1055fc4239e2d4786fe41031262acfa2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

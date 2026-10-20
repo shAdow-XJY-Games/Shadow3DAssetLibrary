@@ -1,0 +1,42 @@
+{
+  "id": "fishing-open-ended-ribbed-feeder-cage-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fishing",
+  "style": "S01-clean-geometric",
+  "title": "Open-Ended Ribbed Fishing Feeder Cage",
+  "description": "One original static fishing-feeder cage appearance: a short horizontal sixteen-sided tube with two complete annular end bands and four integral longitudinal ribs enclosing four genuine long through-windows. Both axial mouths and the entire connected central bore remain open. One narrow complete ground weight shape contacts the whole lower rib underside, and one thick rectangular tether tab with a genuine through-eye contacts the weight end. Three editable closed connected meshes and three constant opaque solid PBR materials. One complete prop, zero scenes. All geometry newly authored as numeric boundaries; no borrowed basket, landing net, drying rack, fishing reel or bait box geometry. Metres are game-space coordinates, native Z up, front -Y, horizontally bounds-centred ground origin. Fixed dry-display visual only. No line, hook, bait, contents, water, fish, texture, label, animation or scene. No casting, bait retention, release rate, sinking, hydrodynamics, fish capture, mechanical operation, towing or attachment load, physical fit, stability, manufacture, installation, real equipment dimensions or safety capability is claimed. Not real fishing-equipment design or use guidance.",
+  "bounds": {
+    "x": 0.5,
+    "y": 0.27462,
+    "z": 0.33731,
+    "unit": "m"
+  },
+  "triangles": 316,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fishing/fishing-open-ended-ribbed-feeder-cage-01/v1.0.0/model.glb",
+      "size": 17268,
+      "sha256": "4d52dfea4f18d299514c2036876b8e09d71b8c23e1e0661b7f0a1de01a70ce79"
+    },
+    "blend": {
+      "path": "assets/fishing/fishing-open-ended-ribbed-feeder-cage-01/v1.0.0/source.blend",
+      "size": 524112,
+      "sha256": "af3a4180933b3b8359285fc3fc4d4d3b5bb57bb176352547452dddba655f2e54"
+    },
+    "generator": {
+      "path": "assets/fishing/fishing-open-ended-ribbed-feeder-cage-01/v1.0.0/generate.py",
+      "size": 30409,
+      "sha256": "b2a199c9339696a785e6777b0ebfed4633f32e72a6d6a9e2bb9f8d500c916eb8"
+    },
+    "render": {
+      "path": "assets/fishing/fishing-open-ended-ribbed-feeder-cage-01/v1.0.0/thumbnail.png",
+      "size": 546821,
+      "sha256": "79ed0e178445d7f15adfe494e3f1c6e2ea9e056c0ccc33644214368ea77a0bbb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

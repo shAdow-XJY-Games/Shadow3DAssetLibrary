@@ -1,0 +1,42 @@
+{
+  "id": "fitness-pierced-fixed-slant-board-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "S01-clean-geometric",
+  "title": "Pierced Fixed Slant Board",
+  "description": "One original complete fixed slant-board visual prop: a single thick inclined deck with one genuine chamfer-corner through-handle aperture, two continuous arched side cheeks, one separate transverse rear brace and five distinct raised tread strips. Nine named editable closed connected meshes, four opaque constant untextured PBR materials. Both cheeks retain two broad finite ground soles, uninterrupted top bearing faces and real open arches. The complete handle aperture and under-deck clearance regions are finite empty volumes. One whole prop, zero scenes; metres, native Z up, front -Y. Newly authored numeric geometry with no imported bench, ramp, stool, rack or mat geometry. Fixed illustrative pose only. No exercise benefit, body fit, grip or friction, adjustable angle, weight, loading, stability, strength, anti-tip, manufacture, installation, medical use, equipment-standard, safety or historical-asset compatibility claim. No texture nodes, linked material inputs, text, logo, person or animation.",
+  "bounds": {
+    "x": 0.48,
+    "y": 0.638621,
+    "z": 0.378093,
+    "unit": "m"
+  },
+  "triangles": 388,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-pierced-fixed-slant-board-01/v1.0.0/model.glb",
+      "size": 20776,
+      "sha256": "b7c332106aa9de65e20ff79890b7adcc3fbecb035e453fba73bacb258caeff53"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-pierced-fixed-slant-board-01/v1.0.0/source.blend",
+      "size": 581828,
+      "sha256": "222950e9b6c80b3085ab808a1f8e9fcfabc187f56845b0ef04ab0717d7873134"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-pierced-fixed-slant-board-01/v1.0.0/generate.py",
+      "size": 33119,
+      "sha256": "7dfd284030566996aeaf4ad50283fe5d74a9ce6e2b4ea3d8b2e479bb5be6acd1"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-pierced-fixed-slant-board-01/v1.0.0/thumbnail.png",
+      "size": 510118,
+      "sha256": "f4df560086325e52df6399a21c16ce5b603ace83229151d45ad1d511449966ff"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

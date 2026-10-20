@@ -1,0 +1,42 @@
+{
+  "id": "construction-notched-plastering-trowel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "construction",
+  "style": "S01-clean-geometric",
+  "title": "Notched Plastering Trowel",
+  "description": "One original static construction hand-tool prop with a continuous thin steel plate, eight true rectangular open edge notches, one continuous inverted-U metal handle bridge and one chamfered wooden grip. The entire thick notched plate is a closed connected solid, including every tooth and notch end wall. Both bridge feet have full finite seats on the plate; the wooden grip has a complete underside seat across the bridge crown. A genuinely empty finite finger passage runs beneath the handle and all eight edge notches are physically empty geometry. Three editable closed connected meshes and four constant opaque untextured PBR materials, with end grain assigned to existing grip end faces. One whole prop and zero scenes. New numeric geometry, not a recoloured cutting board, handsaw, rack or cabinet. Native Z up, front/notched edge -Y, plate-centred ground origin. Metres describe stylized game-space only. No paste, plaster, wall, person, surrounding worksite, text, textures or animation is included. Static visual only: no actual plastering, adhesive spreading, notch specification, ergonomics, tool strength, cutting capability, manufacture, installation, compatibility or safety claim. Not real tool construction or operating guidance.",
+  "bounds": {
+    "x": 0.5,
+    "y": 0.28,
+    "z": 0.158,
+    "unit": "m"
+  },
+  "triangles": 196,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/construction/construction-notched-plastering-trowel-01/v1.0.0/model.glb",
+      "size": 13180,
+      "sha256": "dd6768126a8489ef921aca766f10534af9f9b0feb62c10caec1ee08f368accea"
+    },
+    "blend": {
+      "path": "assets/construction/construction-notched-plastering-trowel-01/v1.0.0/source.blend",
+      "size": 541048,
+      "sha256": "fe90cd1f259bc622ce1ef94d14c96cc75e1bedab00b15c5d8f4780c93aaf073c"
+    },
+    "generator": {
+      "path": "assets/construction/construction-notched-plastering-trowel-01/v1.0.0/generate.py",
+      "size": 29855,
+      "sha256": "7a754cbf3c0003c7f3ffcaf0f2cad08266e54c7aa7859a09cc70adeb44bda550"
+    },
+    "render": {
+      "path": "assets/construction/construction-notched-plastering-trowel-01/v1.0.0/thumbnail.png",
+      "size": 476112,
+      "sha256": "0f6952c4e25b4504ef9e774e42fde9c28108236c3ef06871e47e180153f044cb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
