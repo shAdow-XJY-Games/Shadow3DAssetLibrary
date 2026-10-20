@@ -1,0 +1,42 @@
+{
+  "id": "farming-static-hand-roller-seeder-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "S01-clean-geometric",
+  "title": "Static Hand-Push Roller Seeder",
+  "description": "One original complete static hand-push roller-seeder visual prop: one broad transverse faceted drum with integral short axial hubs, two continuous rising side-frame plates, one rear bearing crossbar, a real empty rectangular through-hopper tapering to a small open lower throat, a single warm wooden cross-grip and one broad grounded parking support. Seven independently editable closed connected meshes and four opaque constant untextured PBR materials. The drum and parking foot have full finite flat ground soles. The whole hopper chamber, throat and upper/lower egress are truly empty. One prop and zero scenes, native metres/Z up/front -Y. Original numeric geometry; no old barrow, cart, silo, wagon, roller table or trolley geometry reused. Fixed stylised parked pose only, with no seed-metering parts, mechanism, gate, seed contents or working transmission included. No rolling, sowing, seed spacing, delivery rate, planting depth, soil contact, agriculture performance, ergonomics, balance, load, manufacture, assembly guidance, operation, structural or safety certification. No soil, crop, scene, texture, text, logo or animation.",
+  "bounds": {
+    "x": 0.64,
+    "y": 1.555388,
+    "z": 1.21,
+    "unit": "m"
+  },
+  "triangles": 340,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-static-hand-roller-seeder-01/v1.0.0/model.glb",
+      "size": 22100,
+      "sha256": "a135d71e418f83475ac9344e1e7b9435be8eec9a8c7bccc1f2b8e50989ecea95"
+    },
+    "blend": {
+      "path": "assets/farming/farming-static-hand-roller-seeder-01/v1.0.0/source.blend",
+      "size": 569080,
+      "sha256": "3215e78e4dcef1f1cd064912d41ee87db05e539b0fd2743ed21266ad92c04fc9"
+    },
+    "generator": {
+      "path": "assets/farming/farming-static-hand-roller-seeder-01/v1.0.0/generate.py",
+      "size": 32434,
+      "sha256": "645e2dba71a0f462ad06b739ad5c7eeb3191973853dd8ecb4d0d9870edf3c8fd"
+    },
+    "render": {
+      "path": "assets/farming/farming-static-hand-roller-seeder-01/v1.0.0/thumbnail.png",
+      "size": 536225,
+      "sha256": "571d40c6381ddab7781708803cdb3e63131f86795d422421b4fbc8d393c50b70"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

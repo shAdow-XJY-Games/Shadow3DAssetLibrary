@@ -1,0 +1,42 @@
+{
+  "id": "ruins-breached-wall-repair-workzone-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "ruins-repair",
+  "style": "source-preserved-S01-clean-geometric",
+  "title": "Breached-Wall Repair Preparation Workzone",
+  "description": "A static repair-preparation workzone centered on one complete breached masonry wall. Two whole timber raking-shore frames flank the breach-facing work strip, with their complete projecting soles stopping80mm before the wall and wall plates140mm before it. They are deliberately staged and do not contact or bear against the wall. A complete inward-facing hammer, mallet and chisel rack supplies the west working access; a complete barrow faces the wall from the east with a connected handle-side apron. Two complete front fence sections interrupt direct frontage and leave one centered entry into the supported transverse aisle. Seven unit-scale rigid instances of five published originals retain every original mesh, hierarchy, oriented triangle and full solid PBR. One scene-only60mm ground slab supports all complete soles and five connected whole finite entry, work and handling volumes. One scene, zero new independent models. No old pieces are clipped, recolored or rescaled. This is a distinct wall-focused work preparation composition, not a ruin walkway or reconstruction state. Static illustrative game geometry only: no real repair instructions, installed shoring, bearing-contact, structural/load, engineering, physical stability, continuous navigation, accessibility or safety claim. Raised outer ground edge needs external placement.",
+  "bounds": {
+    "x": 6.8,
+    "y": 6.4,
+    "z": 2.51,
+    "unit": "m"
+  },
+  "triangles": 4860,
+  "materials": 24,
+  "files": {
+    "glb": {
+      "path": "assets/ruins-repair/ruins-breached-wall-repair-workzone-scene-01/v1.0.0/model.glb",
+      "size": 306976,
+      "sha256": "1d6de98c2515e4adcb51546a9eacf0e99a208160c772ca8b62afc89876087fbc"
+    },
+    "blend": {
+      "path": "assets/ruins-repair/ruins-breached-wall-repair-workzone-scene-01/v1.0.0/source.blend",
+      "size": 1603340,
+      "sha256": "1a9aebe99551beb7fa745c865e82e8674a133eda282263bad1a9b632e63706fa"
+    },
+    "generator": {
+      "path": "assets/ruins-repair/ruins-breached-wall-repair-workzone-scene-01/v1.0.0/generate.py",
+      "size": 142295,
+      "sha256": "92f530952c894ff0805306422f254dd8167a9b94cc60d645a9b3beae614cf03d"
+    },
+    "render": {
+      "path": "assets/ruins-repair/ruins-breached-wall-repair-workzone-scene-01/v1.0.0/thumbnail.png",
+      "size": 548768,
+      "sha256": "c19b0f15aee27c8e817b6fd51a7b0f7eddea6d6e90d7c59b61cafb8829c7ac72"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

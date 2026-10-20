@@ -1,0 +1,42 @@
+{
+  "id": "carnival-hexagonal-wood-frame-lantern-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carnival",
+  "style": "S01-clean-geometric",
+  "title": "Hexagonal Wood-frame Festival Lantern",
+  "description": "One original complete static six-sided festival lantern appearance. A broad stepped hexagonal wooden base supports six full-height timber corner columns and six separately thick inset opaque parchment-coloured panels. A complete upper hexagonal wooden ring carries one overhanging six-facet jade roof, a small brass top seat and one solid thick octagonal hanging loop with a genuine through opening. The assembled interior remains an empty hexagonal chamber, with real small panel-edge gaps and a clear complete upper ring interior. Seventeen closed editable connected meshes, four ordinary constant opaque unlinked PBR materials, no textures or emission. Metres, native Z up, front -Y and base-centre ground origin. One complete prop and zero scenes. Newly authored numeric construction, without importing, recolouring or renaming a camping cage lamp, square dock lantern, festoon bulbs or lighthouse. No candle, flame, fuel, bulb, cable, writing, branding, animation or scene. Stylized fixed visual form only: no historical reconstruction, real timber or paper properties, electric or lighting operation, optical transmission, suspension or carrying load, weatherproofing, manufacture, installation, structural stability, fire resistance or safety performance is claimed.",
+  "bounds": {
+    "x": 0.61,
+    "y": 0.528275,
+    "z": 0.936298,
+    "unit": "m"
+  },
+  "triangles": 364,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/carnival/carnival-hexagonal-wood-frame-lantern-01/v1.0.0/model.glb",
+      "size": 32768,
+      "sha256": "d7917ca11545917b4913bee28edb34efc3bcb77028918f16b44749c8b3906a9e"
+    },
+    "blend": {
+      "path": "assets/carnival/carnival-hexagonal-wood-frame-lantern-01/v1.0.0/source.blend",
+      "size": 621344,
+      "sha256": "f40e7af7b675a6243027854f9e1777fee9652878b217a4da7fba92d430e0297c"
+    },
+    "generator": {
+      "path": "assets/carnival/carnival-hexagonal-wood-frame-lantern-01/v1.0.0/generate.py",
+      "size": 33781,
+      "sha256": "bc9187def7ea5fc462dc83bdb3a4754e60716903ec8dc3b2b8706eff6aaeb3bc"
+    },
+    "render": {
+      "path": "assets/carnival/carnival-hexagonal-wood-frame-lantern-01/v1.0.0/thumbnail.png",
+      "size": 518640,
+      "sha256": "a5387491e6646a76785d6d1e8c3a6a7fcbc9a3cd440650b69b19af48a1250b73"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
