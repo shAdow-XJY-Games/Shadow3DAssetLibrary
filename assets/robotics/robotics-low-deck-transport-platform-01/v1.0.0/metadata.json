@@ -1,0 +1,42 @@
+{
+  "id": "robotics-low-deck-transport-platform-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "robotics",
+  "style": "S01-clean-geometric",
+  "title": "Low-Deck Transport Robot Platform",
+  "description": "One original empty low transport-robot platform. A broad independently editable chamfered loading deck rests on four short complete pedestals above a closed low electronics chassis. Four newly dimensioned twelve-facet wheels, four thin outer hubs and two complete transverse axle bars form a fixed wheelbase. Four separate thick external guard strips define the lower chassis boundary; two low side stops and one rear stop border the broad open-front loading deck. A fully backed front plaque is an opaque visual panel. Twenty-four closed independently named meshes, five constant opaque unlinked PBR materials, no textures. Metres, native Z up, front -Y, ground origin centered between all four wheel soles. All numerical profiles, dimensions and component layout are newly authored. No old inspection rover, handcart, pallet jack, railway wagon or other geometry is imported, removed, transformed, recoloured or reused. One empty fixed static visual prop only. No real load capacity, autonomy, navigation, sensing, charging, powered operation, driving, steering, wheel motion, suspension, controls, animation, rigging, stability, collision protection, manufacture, transport suitability, safety certification or compatibility with old cargo assets is claimed.",
+  "bounds": {
+    "x": 1.44,
+    "y": 1.8,
+    "z": 0.53,
+    "unit": "m"
+  },
+  "triangles": 576,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/robotics/robotics-low-deck-transport-platform-01/v1.0.0/model.glb",
+      "size": 42192,
+      "sha256": "073d82d0590829bcc3a0fe186569c150f21d9060d02e66d027d8ac36d25cccc7"
+    },
+    "blend": {
+      "path": "assets/robotics/robotics-low-deck-transport-platform-01/v1.0.0/source.blend",
+      "size": 691292,
+      "sha256": "b07d869a50c00d65a1e2433b64ea402234b2f528f220a015d58688230be846ea"
+    },
+    "generator": {
+      "path": "assets/robotics/robotics-low-deck-transport-platform-01/v1.0.0/generate.py",
+      "size": 22676,
+      "sha256": "134d5a225044187720dd7acc6f0fefae40020f83df32b63d12bab404db448f8d"
+    },
+    "render": {
+      "path": "assets/robotics/robotics-low-deck-transport-platform-01/v1.0.0/thumbnail.png",
+      "size": 506501,
+      "sha256": "2b66f070547ae06b63ee8995d48aaf6015c3868d7adf4b079ac36501c5c4575d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
