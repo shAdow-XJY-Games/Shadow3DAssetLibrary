@@ -1,0 +1,42 @@
+{
+  "id": "library-return-sorting-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "library",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Library Return and Sorting Corner",
+  "description": "Static library return-and-sorting corner with three distinct visual work zones: a public-facing return counter with a complete closed three-book kit, a perpendicular sorting counter with another complete three-book kit beside an empty holding bookcase, and a complete empty book cart parked by the transfer exit. Six unit-scale rigid instances preserve four original verified asset IDs, every original mesh, hierarchy and full solid PBR. One scene-only closed floor supports the furniture; each complete book kit has all three cover undersides supported by its counter. Eight finite public/staff/shelf/transfer reference volumes remain empty. One scene and zero new independent models. The empty cart and bookcase deliberately make no loaded cart or general book-fit claim. Static appearance only: no borrowing/returning software, animation, insertion, cart motion, continuous navigation, ergonomics, actual accessibility/code compliance, load, stability, manufacture or safety certification.",
+  "bounds": {
+    "x": 3.6,
+    "y": 3.8,
+    "z": 1.86,
+    "unit": "m"
+  },
+  "triangles": 3300,
+  "materials": 21,
+  "files": {
+    "glb": {
+      "path": "assets/library/library-return-sorting-corner-scene-01/v1.0.0/model.glb",
+      "size": 289768,
+      "sha256": "195c1178406ded3282963f9d25affa0f6dff3ca6cf81fe8d303e8ad4d1200224"
+    },
+    "blend": {
+      "path": "assets/library/library-return-sorting-corner-scene-01/v1.0.0/source.blend",
+      "size": 1666884,
+      "sha256": "cebeac5682504193576532cd880a73080eea85327618b1acb256922e04382b78"
+    },
+    "generator": {
+      "path": "assets/library/library-return-sorting-corner-scene-01/v1.0.0/generate.py",
+      "size": 107666,
+      "sha256": "ed1b252904ae0662a464f4592f7caf4ff03876846b3b39970445bc280b8a6a79"
+    },
+    "render": {
+      "path": "assets/library/library-return-sorting-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 521292,
+      "sha256": "3ab4b579e48dc8180f4533c0a0dc99a8c1c7c140960e4d3e4bcc82cfc4a6ddc9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
