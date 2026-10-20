@@ -1,0 +1,42 @@
+{
+  "id": "coral-reef-branching-coral-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "coral-reef",
+  "style": "hard-edge-faceted-nature",
+  "title": "Asymmetric Branching Coral",
+  "description": "One original static stylised branching coral, approximately .60 m wide, with a low integral attachment base, three unequal main branches and six progressively tapered blunt-ended secondary branches. Every junction and branch is one continuous closed editable mesh with shared surface vertices and real open negative spaces; there are no separate capped overlapping pipes, leaves, rocks or copied vegetation. Three constant opaque unlinked PBR tones, no textures. Metres, native Z up, front -Y, ground-level horizontal bounds centre. One complete prop only, not multiple branch or colour assets. Stylised visual form only; no species accuracy, living tissue, polyps, biological or ecological fidelity, growth, animation, underwater simulation, real attachment, load, safety, manufacturing or physical-performance claim. No water, seabed, reef rock, pot, label, other organism or scene.",
+  "bounds": {
+    "x": 0.595917,
+    "y": 0.185104,
+    "z": 0.493797,
+    "unit": "m"
+  },
+  "triangles": 492,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/coral-reef/coral-reef-branching-coral-01/v1.0.0/model.glb",
+      "size": 36872,
+      "sha256": "aa95ac7834462df1a317dd763b928bcf5b7add22c18db2e3b59c6e6d135d0dc3"
+    },
+    "blend": {
+      "path": "assets/coral-reef/coral-reef-branching-coral-01/v1.0.0/source.blend",
+      "size": 523796,
+      "sha256": "0868a40a3cefe5611fb114051d5735fd26720282c6a1bae6c563bafcd25c6b3a"
+    },
+    "generator": {
+      "path": "assets/coral-reef/coral-reef-branching-coral-01/v1.0.0/generate.py",
+      "size": 29748,
+      "sha256": "1583b5745a7511330892666542b627105ffbfda5b07b967e6cb5f9c1a7587477"
+    },
+    "render": {
+      "path": "assets/coral-reef/coral-reef-branching-coral-01/v1.0.0/thumbnail.png",
+      "size": 500730,
+      "sha256": "dcd60ef1a40fff0d2513965d4cbdca291b9b5ce2082f114f9e9e1f482bb75f32"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
