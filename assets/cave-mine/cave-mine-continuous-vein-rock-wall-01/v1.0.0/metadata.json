@@ -1,0 +1,42 @@
+{
+  "id": "cave-mine-continuous-vein-rock-wall-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "cave-mine",
+  "style": "hard-edge-faceted-nature",
+  "title": "Continuous Mineral Vein Rock Wall Module",
+  "description": "One original static thick faceted cave-wall module with a single continuous irregular mineral vein physically filling the entire rising and falling interface between lower and upper rock bodies. The vein has a genuine outward faceted ridge, varying finite height, and full front-to-back depth; it is not a painted stripe, floating crystal row or overlay. Three closed connected editable meshes form one complete wall, with twelve entire opposed sloped interface patches and one complete flat ground sole. Four constant opaque matte untextured PBR materials. Exact left and right finite end profiles and their material partitions repeat by a 2.4 m X translation with this same module only; positional and material continuity, not tangent smoothness or any old-module compatibility. Native Z up, front -Y, origin at the ground projection of the X midpoint and rear/front reference centre; metres describe game space. One reusable modular model and zero scenes, not three independent models or a material variant. Newly authored whole geometry, no imported rock, mineral specimen, cliff or masonry. No loose ore, crystals, plants, mine equipment or scene. Stylised visual appearance only; no mineral identification, ore composition, geological formation, crystallography, scientific accuracy, excavation, terrain simulation, real structural support, load, stability, manufacturing, installation, collision, navigation or safety claim.",
+  "bounds": {
+    "x": 2.4,
+    "y": 0.82,
+    "z": 1.96,
+    "unit": "m"
+  },
+  "triangles": 198,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/cave-mine/cave-mine-continuous-vein-rock-wall-01/v1.0.0/model.glb",
+      "size": 15968,
+      "sha256": "c201828362c4456a16579be58bccd10648c3afe577a52f33296c1bfa4f1f6fea"
+    },
+    "blend": {
+      "path": "assets/cave-mine/cave-mine-continuous-vein-rock-wall-01/v1.0.0/source.blend",
+      "size": 541284,
+      "sha256": "0b31044c1b96d0684ccb6a751525802ef75d4450bd087a19f91893a1cfea978e"
+    },
+    "generator": {
+      "path": "assets/cave-mine/cave-mine-continuous-vein-rock-wall-01/v1.0.0/generate.py",
+      "size": 30023,
+      "sha256": "2afabdae82b6f49988731a3499dd60a0c1ef74cf1da620e722087864ec6480c0"
+    },
+    "render": {
+      "path": "assets/cave-mine/cave-mine-continuous-vein-rock-wall-01/v1.0.0/thumbnail.png",
+      "size": 507667,
+      "sha256": "3d1edbec6778f443459e37715809e4d6a6ac079266691b47858cfd1f3fc9a273"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "harbor-flared-through-chock-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "harbor",
+  "style": "S01-clean-geometric",
+  "title": "Flared Through-Chock Deck Fitting",
+  "description": "One original low static harbor fairlead-shaped deck fitting with a continuous thick octagonal horizontal through-eye, a visibly flared entrance at both mouths, a broad chamfer-cornered base and four separate hexagonal seated head details. The elongated opening is real and remains empty through the full depth and beyond both ends. The cast-shaped ring is one closed connected mesh with continuous walls around the entire opening, resting by its whole finite lower face on the base. Six closed editable meshes, three opaque constant untextured PBR materials, metres, native Z up, opening axis Y, front -Y and bounds-centred ground origin. One complete prop, zero scenes. Original numeric geometry; no imported models, ropes, chain, vessel, dock, textures, labels, animation or alternate sizes. Fixed visual appearance only: no line-guiding operation, mooring, pull strength, friction, rope or vessel compatibility, anchoring, real installation, load capacity, stability, manufacturing, corrosion resistance or maritime/equipment safety certification.",
+  "bounds": {
+    "x": 1.14,
+    "y": 0.46,
+    "z": 0.6,
+    "unit": "m"
+  },
+  "triangles": 236,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/harbor/harbor-flared-through-chock-01/v1.0.0/model.glb",
+      "size": 16684,
+      "sha256": "08c15fc7aecfbaa135fc50b9ae1a700cdad8ee67e8a63332cab40e0be19f0487"
+    },
+    "blend": {
+      "path": "assets/harbor/harbor-flared-through-chock-01/v1.0.0/source.blend",
+      "size": 535248,
+      "sha256": "689964d9e20063e461aed5dae4c5f1cda7e12f504ed01fbcc7ea6250c2da8c51"
+    },
+    "generator": {
+      "path": "assets/harbor/harbor-flared-through-chock-01/v1.0.0/generate.py",
+      "size": 29904,
+      "sha256": "c34190debbeed0f028f5d50d113dc451c517cdfcd0b9bb41175fb336aa49dbcc"
+    },
+    "render": {
+      "path": "assets/harbor/harbor-flared-through-chock-01/v1.0.0/thumbnail.png",
+      "size": 506861,
+      "sha256": "0a2fce5e64476f5563dca080e586da8803188c063db8d46ef17c2a401dfa90df"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

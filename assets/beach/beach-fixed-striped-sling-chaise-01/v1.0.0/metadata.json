@@ -1,0 +1,42 @@
+{
+  "id": "beach-fixed-striped-sling-chaise-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "beach",
+  "style": "S01-clean-geometric",
+  "title": "Long Striped Beach Sling Chaise",
+  "description": "One complete original static beach chaise longue with an extended horizontal leg deck rising continuously into an inclined back. The thick striped sling is one closed connected shared-edge mesh; seven longitudinal ivory and marine-teal bands are true face materials, with no duplicate skins. Two full shaped timber side frames integrate the long rails, raised back rails and four broad flat feet. Two independent transverse low stretchers join both frames. Five editable closed connected meshes and three opaque constant matte untextured PBR materials form one prop, zero scenes. Newly authored geometry, not a renamed or stretched camping chair, observing stool or high rescue seat. Native Z up, front -Y, metre-based game space, centred footprint and full-foot ground datum. One fixed display pose only: no folding, adjustment, joints in motion, cloth simulation, sitting animation, comfort, human suitability, load, stability, weather resistance, manufacture, installation or safety certification. No person, pillow, towel, umbrella, sand, textures, text or exported backdrop.",
+  "bounds": {
+    "x": 0.7,
+    "y": 2.0,
+    "z": 0.96,
+    "unit": "m"
+  },
+  "triangles": 220,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/beach/beach-fixed-striped-sling-chaise-01/v1.0.0/model.glb",
+      "size": 16244,
+      "sha256": "d881975ccbc809700e870440fd6abd19aa4bbe856d79ab8ebeb365dadcdc9704"
+    },
+    "blend": {
+      "path": "assets/beach/beach-fixed-striped-sling-chaise-01/v1.0.0/source.blend",
+      "size": 529496,
+      "sha256": "43e2c348c2d01d15ce4ae2bc060ad711f697ada5c823abb37ba777e9f8a73ace"
+    },
+    "generator": {
+      "path": "assets/beach/beach-fixed-striped-sling-chaise-01/v1.0.0/generate.py",
+      "size": 31782,
+      "sha256": "236b501072bcca77d373e0f3a34ea5317b49813de6b0dcb77c712f60f2f02281"
+    },
+    "render": {
+      "path": "assets/beach/beach-fixed-striped-sling-chaise-01/v1.0.0/thumbnail.png",
+      "size": 499053,
+      "sha256": "01451753ed1df57d96a1fd1524f8cbaa143a183db34c9b1442bb8017f971d51f"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

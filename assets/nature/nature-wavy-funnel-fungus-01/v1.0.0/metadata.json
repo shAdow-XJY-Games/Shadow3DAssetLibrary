@@ -1,0 +1,42 @@
+{
+  "id": "nature-wavy-funnel-fungus-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "nature",
+  "style": "S02-hard-edge-faceted",
+  "title": "Wavy-Rim Continuous Funnel Fungus",
+  "description": "One original stylised woodland fungus prop with an integral gently bent stem, broad asymmetric funnel cap, real depressed open upper bowl, thick undulating rim and coherent lighter underside. The cap and grounded stem are one continuous shared-vertex closed editable mesh, not intersecting separate pieces. Five restrained opaque constant untextured matte PBR tones follow whole cap, edge and underside bands. The complete inset material, open funnel air and finite flat sole are geometrically checked. Metres, native Z up, front -Y, horizontal envelope-centred ground origin. One whole prop and zero scenes; no old mushroom geometry imported. A structural fungus variation from the original nature expansion plan, distinct from the existing nine convex cap-and-stem mushrooms. Stylised game-art only; no botanical species identification, scientific anatomy, edible/poisonous classification, ecology, growth, harvesting, food use, simulation, animation, collision, navigation or physical stability claim. No log, soil island, other mushrooms or scenery included.",
+  "bounds": {
+    "x": 0.655251,
+    "y": 0.580594,
+    "z": 0.468628,
+    "unit": "m"
+  },
+  "triangles": 960,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/nature/nature-wavy-funnel-fungus-01/v1.0.0/model.glb",
+      "size": 73724,
+      "sha256": "9194cc4f013c5a9b48785b628c691363dd825164e414b040edb32b04205dac1f"
+    },
+    "blend": {
+      "path": "assets/nature/nature-wavy-funnel-fungus-01/v1.0.0/source.blend",
+      "size": 595388,
+      "sha256": "43d1fd99722c120746f4c87bd528a89c8491d7f8a75bafd69742d50ec6b5e12f"
+    },
+    "generator": {
+      "path": "assets/nature/nature-wavy-funnel-fungus-01/v1.0.0/generate.py",
+      "size": 30554,
+      "sha256": "fb691b5ac7f5ea450ed6f24a8012d0918b5a544386d822d57371e41573cefcfb"
+    },
+    "render": {
+      "path": "assets/nature/nature-wavy-funnel-fungus-01/v1.0.0/thumbnail.png",
+      "size": 513282,
+      "sha256": "04f1ebdf538e62fa7e73a1f43ba24a7b59e5829c913883767d5bff3ad0d488cf"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

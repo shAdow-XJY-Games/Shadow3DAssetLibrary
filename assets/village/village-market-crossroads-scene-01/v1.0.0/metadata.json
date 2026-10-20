@@ -1,0 +1,42 @@
+{
+  "id": "village-market-crossroads-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "village",
+  "style": "source-preserved-S01-clean-geometric",
+  "title": "Village Market Crossroads",
+  "description": "Four-direction village market crossroad with a clear central turning court, two orthogonal complete produce-stall frontages, separate southwest delivery pocket and northeast notice forecourt. Four unit-scale rigid complete original placements of three original IDs on one scene-only support slab. Static finite empty volumes only; no continuous navigation, accessibility, vehicle turning, functional trade, load or safety certification. The intact canopy, counter, trays and produce remain in both stalls. No recolor, deleted part or rescaled original; the external slab edge is 0.06m high and requires site placement.",
+  "bounds": {
+    "x": 8.0,
+    "y": 7.6,
+    "z": 2.41,
+    "unit": "m"
+  },
+  "triangles": 7576,
+  "materials": 19,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-market-crossroads-scene-01/v1.0.0/model.glb",
+      "size": 626840,
+      "sha256": "a6f1c150968857fb79de30dc2ad7f1dab9890fd34ba2b6a3c5e8129b28702de3"
+    },
+    "blend": {
+      "path": "assets/village/village-market-crossroads-scene-01/v1.0.0/source.blend",
+      "size": 1829352,
+      "sha256": "becd49b2380e8a8ffce5789bc103fa8f87dda6139c440ccfab48b814b5a527e9"
+    },
+    "generator": {
+      "path": "assets/village/village-market-crossroads-scene-01/v1.0.0/generate.py",
+      "size": 114969,
+      "sha256": "45e15770f165b4ffec60eddc5dc3a125b39935d0cfe55dd73855356039e26bc7"
+    },
+    "render": {
+      "path": "assets/village/village-market-crossroads-scene-01/v1.0.0/thumbnail.png",
+      "size": 541177,
+      "sha256": "dfe5065bf13fa248a3d7d6523dc1da80453d27e5f6f34bbf6aab39bf52db48a0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

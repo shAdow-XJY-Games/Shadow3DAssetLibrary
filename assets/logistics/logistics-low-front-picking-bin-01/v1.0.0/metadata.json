@@ -1,0 +1,42 @@
+{
+  "id": "logistics-low-front-picking-bin-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "logistics",
+  "style": "S01-clean-geometric",
+  "title": "Low-Front Picking Bin",
+  "description": "One original static low-front picking bin with a continuous thick floor and wall shell, a high back, two rising sloped side-wall mouths and a low front retaining wall. The complete deep interior opens upward and through a genuinely low front access mouth. Two separate longitudinal flat skids support the full floor. A small separate thick front label frame has a real empty recessed rectangular aperture backed by the solid front wall; no label or text is included. Four closed connected editable meshes, three constant opaque untextured PBR materials, metres, native Z up, front -Y and ground origin. One bin form and one prop, zero scenes. Newly authored shell and low-front silhouette, not a recolored attached-lid tote, produce crate, bait box, postal cubby, boot tray or cart. No lid, hinge, contents, stacking keys, assembly scene, texture or animation. Static visual geometry only: no capacity, loading, stacking, nesting, hanging, automated picking, transport, material suitability, manufacturing, hygiene, ergonomics, installation, equipment compatibility or safety certification claim.",
+  "bounds": {
+    "x": 0.52,
+    "y": 0.74,
+    "z": 0.38,
+    "unit": "m"
+  },
+  "triangles": 104,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/logistics/logistics-low-front-picking-bin-01/v1.0.0/model.glb",
+      "size": 8916,
+      "sha256": "6b24c565d6f3571b34d597fa0b70e3bc32744ff3ccaf675d346210e5a6148087"
+    },
+    "blend": {
+      "path": "assets/logistics/logistics-low-front-picking-bin-01/v1.0.0/source.blend",
+      "size": 517908,
+      "sha256": "fd59496c2ff7f579410f47c7d12d6684247adef6f1fbe14d2d53805d3e6a87ac"
+    },
+    "generator": {
+      "path": "assets/logistics/logistics-low-front-picking-bin-01/v1.0.0/generate.py",
+      "size": 30656,
+      "sha256": "22952f50e443ea89086c4172620f8ca09039e1145daeaa6f08a914bc3cd50474"
+    },
+    "render": {
+      "path": "assets/logistics/logistics-low-front-picking-bin-01/v1.0.0/thumbnail.png",
+      "size": 540297,
+      "sha256": "6cc1842334fbfa802cf1dc5be887523e9798513932c0d28a3efa29bf8ebe2d62"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
