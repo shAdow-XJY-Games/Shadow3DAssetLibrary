@@ -1,0 +1,42 @@
+{
+  "id": "farming-grain-silo-service-yard-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "farming",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Grain Silo Service Yard",
+  "description": "One static grain-silo service-yard scene with a complete tall ribbed hopper silo, a separate parked empty wheelbarrow, a complete workshop tool rack and an empty harvest basket. Four unchanged original assets at unit scale stand on one scene-only closed compacted-earth-look slab. A broad empty front work apron connects the separate pedestrian standing references; a low under-hopper domain and the downward outlet zone remain empty. Every original mesh, hierarchy, oriented triangle and full solid PBR is preserved. One scene and zero new independent models. No stored grain, filling auger, receiving pipe, valve, unloading system, tool motion or terrain network is added. Static visual composition only; no storage capacity, grain flow, food contact, handling, continuous navigation, ergonomics, accessibility/code compliance, structure, load, stability, manufacture, installation or safety certification.",
+  "bounds": {
+    "x": 6.6,
+    "y": 5.4,
+    "z": 4.42,
+    "unit": "m"
+  },
+  "triangles": 5040,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-grain-silo-service-yard-scene-01/v1.0.0/model.glb",
+      "size": 358560,
+      "sha256": "9553669e79fad847dbafc050fad0e709a4bb58d9d48e15f64fd35a212957ff85"
+    },
+    "blend": {
+      "path": "assets/farming/farming-grain-silo-service-yard-scene-01/v1.0.0/source.blend",
+      "size": 1363688,
+      "sha256": "6d64b554ef57a1175e9b39d1b7cf893bd9ca6d4aaa84a8e2c83b9843047668c7"
+    },
+    "generator": {
+      "path": "assets/farming/farming-grain-silo-service-yard-scene-01/v1.0.0/generate.py",
+      "size": 180155,
+      "sha256": "3f82d38edd96d77548ca89f7d5871764084635d6ad75597c65315d4e09512993"
+    },
+    "render": {
+      "path": "assets/farming/farming-grain-silo-service-yard-scene-01/v1.0.0/thumbnail.png",
+      "size": 537807,
+      "sha256": "84e3e3ac97bcd4902425216d621db60d7ac4cd61e14dfbd3fccd9b7a81ad1340"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
