@@ -1,0 +1,42 @@
+{
+  "id": "robotics-fixed-open-gripper-work-arm-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "robotics",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Open-Gripper Work Robot Arm",
+  "description": "One original single static work robot arm with a broad round grounded base, a separate round turntable seat, a bored shoulder pedestal, two continuous thick bored arm links, a bored wrist carrier, three continuous collared pins, a palm block and two separate thick inward-stepped fingers with a genuinely open empty jaw. Each complete finite annular collar face is seated against its corresponding joint face; the smaller shafts have full circumferential clearance inside the true bores. Twelve independently editable closed meshes, four opaque constant unlinked PBR materials, metres, native Z up, origin at the base axis on ground, arm toward +X. All dimensions and shapes are original author design values. No old excavator, clamp, grabber, linkage, industrial scene or other geometry is imported or transformed. Only this fixed display pose is supplied. No rotation, motion range, animation, rigging, controls, programming, dynamics, grip force, torque, arbitrary-object compatibility, holding, lifting, loading, stability, anchoring, manufacturing, installation or industrial-equipment safety certification is claimed. The empty opening is visual geometry, not a certified gripper specification.",
+  "bounds": {
+    "x": 1.42,
+    "y": 0.86,
+    "z": 1.309946389,
+    "unit": "m"
+  },
+  "triangles": 1824,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/robotics/robotics-fixed-open-gripper-work-arm-01/v1.0.0/model.glb",
+      "size": 81180,
+      "sha256": "fe2ec4850998898f4ac13b7f8a11e9b9bf68ca49a0571e3860f1d1fe2ed1e700"
+    },
+    "blend": {
+      "path": "assets/robotics/robotics-fixed-open-gripper-work-arm-01/v1.0.0/source.blend",
+      "size": 674296,
+      "sha256": "07e73181c91133820d035931b078445f057a72be1f31561727e984aecc7f250d"
+    },
+    "generator": {
+      "path": "assets/robotics/robotics-fixed-open-gripper-work-arm-01/v1.0.0/generate.py",
+      "size": 24575,
+      "sha256": "6c9d58f06414d767c7687073c907fe695c93325822246db2a3ff79d91cc44e15"
+    },
+    "render": {
+      "path": "assets/robotics/robotics-fixed-open-gripper-work-arm-01/v1.0.0/thumbnail.png",
+      "size": 544945,
+      "sha256": "53bbe95d41ba947ece48b6f8945a54706a1572be5c0b287c13913c5178f013a4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
