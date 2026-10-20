@@ -1,0 +1,42 @@
+{
+  "id": "farming-grounded-y-distributor-channel-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "farming",
+  "style": "S01-clean-geometric",
+  "title": "Grounded Three-Port Y Distributor Channel",
+  "description": "One original static irrigation architectural module: three open rectangular channel arms meet at120-degree directions in one continuous grounded Y-shaped body. A complete flat thick bottom, three continuous bent thick sidewall bands, three true terminal U-section mouths and a real connected central junction are modeled as one closed connected editable material mesh. Three recessed waterway branches have real floors and continuous empty top and end passages; the pointed junction noses are genuine boundaries of the bent walls. Four ordinary opaque constant untextured PBR materials distinguish stone-look exterior, darker channel floor, light broad rim and terminal wall cuts. Native Z up, front inlet -Y, metres, horizontal envelope centred at ground Z0. One modular asset, zero scenes, no separately counted parts. All geometry is newly authored. No prior trough, sluice, pump, inclined ore splitter, roller conveyor or village water point is imported, resized or recoloured. No gate, mechanism, water, grate, pipe, texture, animation, terrain or surrounding network. Three finite ends belong only to this module; no fit with earlier modules is asserted. Static visual form only: no real flow, hydraulic distribution, water retention, sealing, pressure, drainage, irrigation performance, movement, loading, stability, civil engineering, manufacture, installation or waterworks safety claim.",
+  "bounds": {
+    "x": 3.088076,
+    "y": 2.674352,
+    "z": 0.58,
+    "unit": "m"
+  },
+  "triangles": 68,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-grounded-y-distributor-channel-01/v1.0.0/model.glb",
+      "size": 7116,
+      "sha256": "3aa67c1012b9dbaa30560d2510a664e49f936e3ed5ea031134e4993619243072"
+    },
+    "blend": {
+      "path": "assets/farming/farming-grounded-y-distributor-channel-01/v1.0.0/source.blend",
+      "size": 524060,
+      "sha256": "753222dbf8fb2dd5796f6a12cb560caaa93d857c2c29ee9b144072d2236439b2"
+    },
+    "generator": {
+      "path": "assets/farming/farming-grounded-y-distributor-channel-01/v1.0.0/generate.py",
+      "size": 29894,
+      "sha256": "ffe7709b3ff20c0b63f260c1678b74ee86513f019016c23c3ffba80d9288753a"
+    },
+    "render": {
+      "path": "assets/farming/farming-grounded-y-distributor-channel-01/v1.0.0/thumbnail.png",
+      "size": 497389,
+      "sha256": "85af1a3cb35625690f3437845c9388ed49f81ac2f8fa42459e1a251b8c1f8071"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

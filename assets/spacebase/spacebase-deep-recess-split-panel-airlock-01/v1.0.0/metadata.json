@@ -1,0 +1,42 @@
+{
+  "id": "spacebase-deep-recess-split-panel-airlock-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "spacebase",
+  "style": "S01-clean-geometric",
+  "title": "Deep-Recess Split-Panel Airlock Bulkhead",
+  "description": "One original static airlock-style architectural module with a full thick chamfer-corner outer frame, a flared front lip, a deep four-sided entrance recess and a fully closed rear bulkhead. Two integral raised chamfer-corner panel fields on the recessed back have real perpendicular rims and sloped inner bevels, separated by a broad recessed central seam. The split panels, backing, entrance lining, threshold and outer frame are one continuous closed connected editable mesh, not overlapping boxes or a changed pose of an earlier hatch. Four opaque untextured constant PBR materials distinguish the muted blue body, pale entrance lining, amber front rim and dark recessed door field. One modular model, zero props and zero scenes. Metres, native Z up, front -Y and ground-level footprint-centred origin. Newly authored geometry; no previous corridor, kiln, door, hatch or wall model is imported, resized, recoloured or reposed. The entrance is a blind recess terminating at the closed static double-panel relief, not a through-passage. No door motion, separate moving leaves, hinges, handwheel, actuator, controls, animation, alternate states, scene or texture. Game-space visual form only: no airtightness, pressure containment, pressure difference, sealing, decompression, mechanical operation, spaceflight, structural performance, manufacture, installation, accessibility, navigation, collision or compatibility with earlier modules is claimed.",
+  "bounds": {
+    "x": 3.1,
+    "y": 1.4,
+    "z": 3.1,
+    "unit": "m"
+  },
+  "triangles": 168,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/spacebase/spacebase-deep-recess-split-panel-airlock-01/v1.0.0/model.glb",
+      "size": 11664,
+      "sha256": "b97c1acb7cc9267e97959c047a6b5d0d9a77564e87971175f01487bff29462f9"
+    },
+    "blend": {
+      "path": "assets/spacebase/spacebase-deep-recess-split-panel-airlock-01/v1.0.0/source.blend",
+      "size": 529504,
+      "sha256": "10701c018d4d7bb9e91f81f9151301fbd9dac8461ba5c57adaa80f9892aafcff"
+    },
+    "generator": {
+      "path": "assets/spacebase/spacebase-deep-recess-split-panel-airlock-01/v1.0.0/generate.py",
+      "size": 32858,
+      "sha256": "c197c871239efb432e3ace6b7f016122302e10359a0e5f016bd74113d674d858"
+    },
+    "render": {
+      "path": "assets/spacebase/spacebase-deep-recess-split-panel-airlock-01/v1.0.0/thumbnail.png",
+      "size": 565149,
+      "sha256": "3e3d2bad4e15a52bd14f62216d745e314090af0b84730fcfc3dfb09a31eaffb8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

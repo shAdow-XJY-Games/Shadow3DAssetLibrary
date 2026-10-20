@@ -1,0 +1,42 @@
+{
+  "id": "fitness-open-cage-block-dumbbell-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fitness",
+  "style": "S01-clean-geometric",
+  "title": "Open-Cage Block Dumbbell",
+  "description": "One original complete static block-shaped dumbbell: two thick chamfer-corner rectangular end weights are connected by four separate corner weight rails and one independent short gently swollen central grip. Ten complete opposed axial end-face contacts connect all seven closed editable parts. The grip sits inside a genuinely open rectangular cage, with a continuous finite clearance chamber around its full changing profile and four broad top, bottom, front and rear entry mouths. Both whole lower end-block soles rest at the ground datum. Three opaque constant untextured PBR materials; metres, native Z up, grip axis X, front -Y and ground-centred origin. One prop, zero scenes. All numeric geometry is newly authored. This is not a shortened circular-plate barbell, extra copies of existing weights, resized hex heads or a kettlebell conversion. No adjustable nested stack, selector pin, collar mechanism, removable plate, animation, texture, text or person is included. Fixed visual form only: no mass, exercise benefit, human fit, grip friction, lifting, movement, disassembly path, load, strength, stability, manufacture, installation, compatibility or fitness-equipment safety claim.",
+  "bounds": {
+    "x": 0.4,
+    "y": 0.32,
+    "z": 0.3,
+    "unit": "m"
+  },
+  "triangles": 344,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fitness/fitness-open-cage-block-dumbbell-01/v1.0.0/model.glb",
+      "size": 24064,
+      "sha256": "f84c54f2ded7ac6c2738a82e1c3537ca9f4be61786b8ff9e4f6d136fc7918550"
+    },
+    "blend": {
+      "path": "assets/fitness/fitness-open-cage-block-dumbbell-01/v1.0.0/source.blend",
+      "size": 546120,
+      "sha256": "a63ca08c5509fe05545dc55e5f41f1a5054aee6c76e77fbe19bc4ac109b962c7"
+    },
+    "generator": {
+      "path": "assets/fitness/fitness-open-cage-block-dumbbell-01/v1.0.0/generate.py",
+      "size": 31360,
+      "sha256": "e56f1633f0300cdde3ebaa205e47001415da25a45ed96ec12903c107fd9f7f3a"
+    },
+    "render": {
+      "path": "assets/fitness/fitness-open-cage-block-dumbbell-01/v1.0.0/thumbnail.png",
+      "size": 556667,
+      "sha256": "5def8c3c34736add2771f162d5a25388203be761e9c050a18ac2211c701a2f9e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

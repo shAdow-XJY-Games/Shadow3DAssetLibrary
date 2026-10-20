@@ -1,0 +1,42 @@
+{
+  "id": "camping-fixed-notched-u-windscreen-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "camping",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Notched U-Shaped Camping Windscreen",
+  "description": "One original complete static camping windscreen visual prop. A single closed connected thick U-shaped metal-coloured screen has two full-height integral right-angle returns, one uninterrupted upper edge and three genuine bottom-open ventilation notches, one on each side. The screen stands directly on its complete finite lower sole patches and leaves the full front approach, inner cooking bay and upper opening empty. One editable manifold mesh and three opaque constant untextured PBR surface colours. Newly authored three-dimensional orthogonal cell boundary; no existing scroll, backdrop, mat, tent, road guide, awning, cabinet or stove mesh is imported or reshaped. One whole prop and zero scenes. Metres, native Z up, front -Y and centred ground footprint. Fixed bent shape only, without hinge, folding animation, stove, fuel, fire, cookware, person, text or external asset. No wind protection, ventilation performance, heat or flame resistance, combustion clearance, cooking capability, material suitability, strength, stability, installation, manufacture, outdoor safety or compatibility with any earlier stove is claimed. This is a stylized visual asset, not equipment construction or use guidance.",
+  "bounds": {
+    "x": 0.56,
+    "y": 0.44,
+    "z": 0.32,
+    "unit": "m"
+  },
+  "triangles": 140,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/camping/camping-fixed-notched-u-windscreen-01/v1.0.0/model.glb",
+      "size": 8488,
+      "sha256": "d7b32143302c4c0d26c78cffbe88c911605f52ff24823e331c6958e9a2084aaf"
+    },
+    "blend": {
+      "path": "assets/camping/camping-fixed-notched-u-windscreen-01/v1.0.0/source.blend",
+      "size": 504720,
+      "sha256": "bf0f515f19579274f58f146bfef8491abd494b74d2f03d9d80ec31888e3e85c2"
+    },
+    "generator": {
+      "path": "assets/camping/camping-fixed-notched-u-windscreen-01/v1.0.0/generate.py",
+      "size": 29227,
+      "sha256": "1ebb6c346d212211ad658d9ed0e64ea22006fbaae312fd0bc8c0f96612d90e03"
+    },
+    "render": {
+      "path": "assets/camping/camping-fixed-notched-u-windscreen-01/v1.0.0/thumbnail.png",
+      "size": 542296,
+      "sha256": "0610c098f0776c248d717a6a158741310e4be01ddf4836f77f81b915619296d6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

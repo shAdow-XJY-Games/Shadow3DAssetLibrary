@@ -1,0 +1,42 @@
+{
+  "id": "fantasy-magic-incised-rune-pedestal-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "fantasy-magic",
+  "style": "S01-clean-geometric",
+  "title": "Deeply Incised Rune Stone Pedestal",
+  "description": "One original stone rune pedestal, counted as one complete static visual prop. A broad two-tier octagonal plinth supports a continuous tapered waist shaft; its full upper octagonal face carries one thick square slab. A single invented angular hooked sigil and two detached short side glyphs are cut 60 mm down into the actual continuous slab surface, with sloping walls, blind bottoms and open upper access. Both upper and recessed faces use exactly the same stone PBR material; the relief is geometric, never a painted depression. The broad perimeter rises above a shallow sunken field; all top channels, walls, backing and chamfered border belong to one closed connected shared-vertex mesh. Three named editable closed meshes and three opaque constant PBR stone materials. Metres, native Z up, front -Y, footprint-centred full ground datum. No texture, light emission, alphabet, historical religious symbol, old model import, movable mechanism, rig or scene. Fixed fantasy visual geometry only; no real magic, ritual effect, teleportation, scientific precision, structural load, stability, manufacture, installation, physical safety or compatibility with earlier assets is claimed.",
+  "bounds": {
+    "x": 0.86,
+    "y": 0.86,
+    "z": 0.92,
+    "unit": "m"
+  },
+  "triangles": 2860,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/fantasy-magic/fantasy-magic-incised-rune-pedestal-01/v1.0.0/model.glb",
+      "size": 77560,
+      "sha256": "3a081c9b2a5bcca7cae4b6d764b8a0268f2bad6e73f12ac70258d412672ba3fd"
+    },
+    "blend": {
+      "path": "assets/fantasy-magic/fantasy-magic-incised-rune-pedestal-01/v1.0.0/source.blend",
+      "size": 661640,
+      "sha256": "08c01bb0286f4ffb2076ec98dd5e048042f226c1a2c15ebcec33b32b6e6bd1b8"
+    },
+    "generator": {
+      "path": "assets/fantasy-magic/fantasy-magic-incised-rune-pedestal-01/v1.0.0/generate.py",
+      "size": 31541,
+      "sha256": "f144db02c755ae80c99c4757291eabadc1c0fe98ca5ad75280860fbac34ee928"
+    },
+    "render": {
+      "path": "assets/fantasy-magic/fantasy-magic-incised-rune-pedestal-01/v1.0.0/thumbnail.png",
+      "size": 513621,
+      "sha256": "046b9c7424cc04432a18c9843c10d9f5573c72fa1b49243a5ca440e92e3fc0a0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

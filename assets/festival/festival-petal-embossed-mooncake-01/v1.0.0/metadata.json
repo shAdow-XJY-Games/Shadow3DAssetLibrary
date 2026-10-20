@@ -1,0 +1,42 @@
+{
+  "id": "festival-petal-embossed-mooncake-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "S01-clean-geometric",
+  "title": "Petal-Edged Embossed Mooncake",
+  "description": "One original low-poly mooncake-inspired festival gift prop, counted as one whole static model. One continuous closed thick body has a twelve-lobed scalloped outer wall, a complete flat resting sole, a raised six-petal top rosette, a small central boss, and an integral continuous raised perimeter border. The rosette and border are actual stepped relief in the same manifold surface, with genuine recessed open top spaces between them, rather than decals, text, floating patches or overlapping inserts. Three opaque constant baked-tone PBR materials share the one editable closed mesh. Metres, native Z up, front -Y and horizontally bounds-centred ground origin. Entirely new numerical geometry; no old round loaf, croissant, laminated slice, dough, gift box or imported model supplies its shape. No package, plate, character, text, texture, filling cross-section, animation or scene. A stylized static festival-food appearance only; no particular regional mooncake style, cultural or recipe accuracy, ingredients, allergens, nutrition, edible product, cooking, baking, taste, hygiene, food contact, deformation, manufacturing, compatibility or safety claim. Dimensions describe game geometry only.",
+  "bounds": {
+    "x": 0.116,
+    "y": 0.116,
+    "z": 0.04,
+    "unit": "m"
+  },
+  "triangles": 1344,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-petal-embossed-mooncake-01/v1.0.0/model.glb",
+      "size": 71464,
+      "sha256": "4fb86d018e13a27b03b71b8d98ff9b29e768fd979ec4693f7c5b192b9c54b61c"
+    },
+    "blend": {
+      "path": "assets/festival/festival-petal-embossed-mooncake-01/v1.0.0/source.blend",
+      "size": 569804,
+      "sha256": "fc2088782b96d8f4155634cc8a75fae011f140e2e737e570e1bb1a6715b60955"
+    },
+    "generator": {
+      "path": "assets/festival/festival-petal-embossed-mooncake-01/v1.0.0/generate.py",
+      "size": 29476,
+      "sha256": "62ba6429eafeaee681d147993a96c6123ec04c18f6b1e6073ab59f243c2cf302"
+    },
+    "render": {
+      "path": "assets/festival/festival-petal-embossed-mooncake-01/v1.0.0/thumbnail.png",
+      "size": 526666,
+      "sha256": "e3225755bd301aaff2a0d9d95a88b56006799fede7b5643392af20a5a31c09c8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
