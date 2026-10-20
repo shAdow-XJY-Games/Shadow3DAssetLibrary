@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-domed-tortoise-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S01-clean-geometric",
+  "title": "Static Domed Tortoise",
+  "description": "One original static stylised tortoise with a broad high faceted back shell, integral complete flat belly plate, four short thick splayed legs on full ground soles, a short distinct neck, blunt rounded polygonal head with two integral dark face-material eyes, and one short tapered tail. Eight closed connected editable components meet only at seven full finite opposed planar joints; no overlapping ellipsoids or buried floating appendages. The domed shell has integral warm olive scute-colour panels and dark narrow borders on its complete triangulated surface. Five ordinary opaque matte constant unlinked PBR materials. Metres, native Z up, front -Y, horizontal bounds-centred ground origin. One fixed static prop and zero scenes. All geometry newly authored; no old bear, bird rider, carousel horse, fossil, fish skeleton or coral geometry imported or recoloured. No base, ground scene, vegetation, enclosure, text, texture, fur, transparent surface, variant, skeleton rig or animation. Artistic model appearance only: no real species identification, biological or anatomical precision, ecological fidelity, living animal or pet behaviour, care suitability, locomotion, physics, stability, manufacture, safety or old-asset compatibility claim.",
+  "bounds": {
+    "x": 0.83,
+    "y": 1.45,
+    "z": 0.635,
+    "unit": "m"
+  },
+  "triangles": 896,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-domed-tortoise-01/v1.0.0/model.glb",
+      "size": 49200,
+      "sha256": "464fb4303faac9855066499d3c9688e8bbb3606838839ed1cd38ef591c9b299d"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-domed-tortoise-01/v1.0.0/source.blend",
+      "size": 627680,
+      "sha256": "f3b894ac9245d2fc6622d3f072bb46b1db112ec29826c899bc34a05abc2e52b6"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-domed-tortoise-01/v1.0.0/generate.py",
+      "size": 28909,
+      "sha256": "e5b82383877dfd88170ebd56dd360535a4e171659a01f3d048489cc289dadb4b"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-domed-tortoise-01/v1.0.0/thumbnail.png",
+      "size": 494994,
+      "sha256": "8bc24177297d6496a8db215387cdafe6ab7d01ad00bb505c521c3ba7a0cab8cb"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
