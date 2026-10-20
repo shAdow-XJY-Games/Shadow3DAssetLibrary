@@ -1,0 +1,42 @@
+{
+  "id": "interior-living-room-corner-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "interior",
+  "style": "S01-clean-geometric",
+  "title": "S01 Sofa and Bookcase Living-Room Corner",
+  "description": "A fixed living-room corner composed from four complete verified assets at unit scale: the original two-seat sofa, wide open bookcase turned toward the seating area, original 0.79m round table beside the sofa and unlit task lamp on that table. Every original mesh, node, solid PBR material and fixed pose is retained. One new closed scene-only support floor carries all complete sofa, bookcase and table bottom patches; the full lamp base rests on the actual finite round-table top. The original table is not a coffee table and has not been lowered. Four complete empty approach regions cover the sofa front, full-width entry passage, bookcase side approach and round-table front. One scene, zero new independent models. A living-room composition, not an entryway or dining layout rename. Static appearance only: no broad furniture compatibility, ergonomic or accessibility suitability, reading illumination, electricity, seating, moving mechanism, load, stability, manufacture, installation or safety certification.",
+  "bounds": {
+    "x": 4.25,
+    "y": 2.75,
+    "z": 1.88,
+    "unit": "m"
+  },
+  "triangles": 2540,
+  "materials": 14,
+  "files": {
+    "glb": {
+      "path": "assets/interior/interior-living-room-corner-scene-01/v1.0.0/model.glb",
+      "size": 194896,
+      "sha256": "4d4ca203878a8b856b5887b27739b7378eca450c59471f7611a59a9a3c1022ee"
+    },
+    "blend": {
+      "path": "assets/interior/interior-living-room-corner-scene-01/v1.0.0/source.blend",
+      "size": 1203696,
+      "sha256": "48b264028189d4dadd472eb54ef1a8105025fce5e43f2caf03ff1c6c17c66d03"
+    },
+    "generator": {
+      "path": "assets/interior/interior-living-room-corner-scene-01/v1.0.0/generate.py",
+      "size": 105532,
+      "sha256": "bfca9b31ad7df7380026cdd9efbfd24ee82cc30e58d428314dcca2eabe7047fe"
+    },
+    "render": {
+      "path": "assets/interior/interior-living-room-corner-scene-01/v1.0.0/thumbnail.png",
+      "size": 514861,
+      "sha256": "ba40926168e0c9e5d849863abf34d9b43784c326df9550ddd4cb4cff2ce35490"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
