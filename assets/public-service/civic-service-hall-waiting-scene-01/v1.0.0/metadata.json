@@ -1,0 +1,42 @@
+{
+  "id": "civic-service-hall-waiting-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "public-service",
+  "style": "source-preserved-S01-and-soft-low-poly",
+  "title": "Civic Service Hall and Separate Waiting Area",
+  "description": "One static civic-service-themed hall with two complete unchanged service counters in a rear service row, a separate east-side two-bench waiting pocket bounded by one complete fixed rope divider, and an offset entrance noticeboard with a distinct reading area. Four unchanged published asset IDs and six unit-scale rigid instances preserve every original mesh, hierarchy, oriented triangle and full solid PBR. One closed scene-only floor supports every complete bottom contact patch. Ten connected finite empty reference volumes distinguish the central entry, shared service front, both counter approaches, separate waiting aisle and entrance, noticeboard area, connecting passage, west side route and rear counter space. One scene and zero new independent models. Static game appearance only: no government-service software, queue logic, numbered tickets, scheduling, actual paperwork or transaction procedure, navigation controller, ergonomics, accessibility, building-code compliance, load, stability, installation or safety certification.",
+  "bounds": {
+    "x": 7.2,
+    "y": 5.6,
+    "z": 1.93,
+    "unit": "m"
+  },
+  "triangles": 3912,
+  "materials": 22,
+  "files": {
+    "glb": {
+      "path": "assets/public-service/civic-service-hall-waiting-scene-01/v1.0.0/model.glb",
+      "size": 267936,
+      "sha256": "bb6107dd2a8a5a70297d0ce946470f0966a8d92912f2b9191e88e31063b1adcd"
+    },
+    "blend": {
+      "path": "assets/public-service/civic-service-hall-waiting-scene-01/v1.0.0/source.blend",
+      "size": 1422704,
+      "sha256": "6cd6c4cb569efcabc564daf8a7c0d8018f88986394931c45ccf4b04866bba51d"
+    },
+    "generator": {
+      "path": "assets/public-service/civic-service-hall-waiting-scene-01/v1.0.0/generate.py",
+      "size": 106929,
+      "sha256": "225f2d11185fb625e7631362d301e6791da05aedd3d5a69a7614355100f9eed1"
+    },
+    "render": {
+      "path": "assets/public-service/civic-service-hall-waiting-scene-01/v1.0.0/thumbnail.png",
+      "size": 509181,
+      "sha256": "6cbf976c7f39c51b5e7a66d29667171c1d9e54f79bc693a7fc20cfdeeae8a8da"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
