@@ -1,0 +1,42 @@
+{
+  "id": "farming-mature-husked-maize-plant-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "hard-edge-faceted-nature",
+  "title": "Mature Husked Maize Plant",
+  "description": "One original static stylised mature maize plant: a visibly jointed main stem with seven alternating broad folded and drooping solid leaves, six open terminal male tassel branches and one raised lateral spindle-shaped husked ear ending in a tapered silk tuft. One continuous closed editable plant body with shared open-port leaf, tassel and ear connections and one complete finite root sole at Z=0. Five restrained constant opaque matte PBR tones, no texture or alpha cards. Metres, native Z up, front -Y, stem-root ground origin. One reusable prop, zero scenes; organs, colors and formats are not separate assets. No old plant mesh imported. Artistic visual crop form only; no cultivar, botanical science, growth, maturity measurement, yield, productivity, planting, wind, animation, collision, navigation, physics or stability claim. No soil, planter, field, water or scenery.",
+  "bounds": {
+    "x": 1.385433,
+    "y": 0.560325,
+    "z": 2.46654,
+    "unit": "m"
+  },
+  "triangles": 1588,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-mature-husked-maize-plant-01/v1.0.0/model.glb",
+      "size": 95776,
+      "sha256": "6e1e00d1c1321d9e9610e7e245e7c4fe04a55fad8ec9f870d772b55ad8681470"
+    },
+    "blend": {
+      "path": "assets/farming/farming-mature-husked-maize-plant-01/v1.0.0/source.blend",
+      "size": 629348,
+      "sha256": "e62fc485f5b8daad20b6005158c3eacb1689a4bfae9c630e9a131353ecc3d92f"
+    },
+    "generator": {
+      "path": "assets/farming/farming-mature-husked-maize-plant-01/v1.0.0/generate.py",
+      "size": 29384,
+      "sha256": "01a2fc81b4e039cb7a540115e2db78830551182381759e9ecf706d3cf189f4be"
+    },
+    "render": {
+      "path": "assets/farming/farming-mature-husked-maize-plant-01/v1.0.0/thumbnail.png",
+      "size": 475419,
+      "sha256": "8084c0ef183685fd7dc96ed21f17375dc3ec8be196b475a63f01a90283e94fba"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
