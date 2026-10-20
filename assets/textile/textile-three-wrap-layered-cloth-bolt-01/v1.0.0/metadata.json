@@ -1,0 +1,42 @@
+{
+  "id": "textile-three-wrap-layered-cloth-bolt-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "textile",
+  "style": "S01-clean-geometric",
+  "title": "Three-Wrap Layered Cloth Bolt",
+  "description": "One original broad oblong cloth bolt with a single continuous thick strip making three chamfer-cornered wraps around a separate flat rectangular core. Both end sections expose all real layers and open interlayer gaps; the same strip ends in a short flat grounded tail. A complete finite lower inner face supports the core, while the remaining core faces have positive air space. Two closed editable meshes and three constant opaque untextured PBR materials, counted together as one prop and zero scenes. Metres, native Z up, front -Y, horizontally bounds-centred ground origin. Entire strip, flat core and cross section newly authored; no circular backdrop roll, double-curled map, cylindrical yarn spool, copied geometry, texture, label, logo or animation. Static textile-storage appearance only: no actual weaving, fabric or core material properties, winding or unwinding, cutting, draping, cloth physics, usable fabric length, fit, compatibility, loading, stability, manufacture or safety certification claim.",
+  "bounds": {
+    "x": 0.96,
+    "y": 0.382,
+    "z": 0.202,
+    "unit": "m"
+  },
+  "triangles": 216,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/textile/textile-three-wrap-layered-cloth-bolt-01/v1.0.0/model.glb",
+      "size": 12896,
+      "sha256": "cbdd1cd3cbabe6d815429b0aa635af68151b2177844609d08e97066b02c8972a"
+    },
+    "blend": {
+      "path": "assets/textile/textile-three-wrap-layered-cloth-bolt-01/v1.0.0/source.blend",
+      "size": 513924,
+      "sha256": "9ca6f200a22531380ffc875b637e6cdcf2f3c83c047b8bc8ce6c151f7d8e5196"
+    },
+    "generator": {
+      "path": "assets/textile/textile-three-wrap-layered-cloth-bolt-01/v1.0.0/generate.py",
+      "size": 30788,
+      "sha256": "cb1f0ed9f24746cf131da19c9caade1703da45cd72f75b0c908462fd886e61c7"
+    },
+    "render": {
+      "path": "assets/textile/textile-three-wrap-layered-cloth-bolt-01/v1.0.0/thumbnail.png",
+      "size": 475376,
+      "sha256": "4a9ebb16f062b79890d1549a5b9c56797ed7a88d6b473c217a1ffa4909235a29"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

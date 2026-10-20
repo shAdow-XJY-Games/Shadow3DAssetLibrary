@@ -1,0 +1,42 @@
+{
+  "id": "railway-integral-side-kerb-platform-ramp-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "railway",
+  "style": "S01-clean-geometric",
+  "title": "Integral Side-Kerb Railway Platform Ramp",
+  "description": "One original static railway platform approach module: a full-grounded continuous concrete-look body carries a broad inclined central lane, a short level upper landing and two integral full-thickness raised side kerbs. The high central surface is 0.77 m above the complete ground sole; the lower entrance retains a visible 0.04 m lip. All slope, landing, kerb tops, kerb inner walls, outside faces, end sections and underside are one closed connected shared-vertex editable mesh. Three constant opaque matte PBR tones, no texture. Native metres and Z up, uphill +Y, front -Y and horizontally centred ground origin. One whole modular model, zero scenes and no separately counted kerbs. Newly authored full material geometry; no old loading ramp, launch ramp, dropped curb, railway platform or track geometry is imported, shortened, rescaled, recoloured or renamed. No handrails, treads, anti-slip strips, platform, terrain, train, text, animation or alternative state. The nominal high surface height follows the railway theme; no mating, network, railway clearance or platform installation compatibility is asserted. Static illustrative visual geometry only: no accessibility, passenger use, wheelchair suitability, traction, real design gradient, navigation, collision, load, stability, drainage, manufacture, installation, engineering or safety certification.",
+  "bounds": {
+    "x": 1.3,
+    "y": 3.6,
+    "z": 0.87,
+    "unit": "m"
+  },
+  "triangles": 44,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/railway/railway-integral-side-kerb-platform-ramp-01/v1.0.0/model.glb",
+      "size": 5300,
+      "sha256": "fbb01fd25d34002e2d6d5ba5810979a1ad9ca52182f6b44316e93e58b52a93e3"
+    },
+    "blend": {
+      "path": "assets/railway/railway-integral-side-kerb-platform-ramp-01/v1.0.0/source.blend",
+      "size": 499588,
+      "sha256": "0f68c9360c76421be5b271ec6e52902d6a1e38334dbef16425023b90ce35c521"
+    },
+    "generator": {
+      "path": "assets/railway/railway-integral-side-kerb-platform-ramp-01/v1.0.0/generate.py",
+      "size": 30114,
+      "sha256": "e424d15eabc791c9f1cc6bb4b7eaef4a103c423e1cab3db0e560e801a1f678e9"
+    },
+    "render": {
+      "path": "assets/railway/railway-integral-side-kerb-platform-ramp-01/v1.0.0/thumbnail.png",
+      "size": 479401,
+      "sha256": "ac1c2e5705b14ab4756844d97560c17a364962f26111900abeed5aa61d5a0ef4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

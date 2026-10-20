@@ -1,0 +1,42 @@
+{
+  "id": "aviation-fixed-boarding-stair-cart-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "aviation",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Four-Wheel Boarding Stair Cart",
+  "description": "One original fixed aviation ground-service boarding stair cart, counted as one complete prop. A single thick closed staircase flight has seven rising tread levels and one integral upper landing. Two independent thick full-length side frames each have a genuine six-sided through opening. Two transverse axles, four flat-ground polygonal wheels, one low front bearer and one full-height rear bearer support the complete flight. Eleven editable closed connected meshes and four constant opaque PBR materials. All geometry is newly authored, with no cargo tub, towing eye, tank, engine, copied ladder, spectator seating or old geometry imports. Metres, native Z up, front -Y, ground origin under the cart centre. One static visual pose and zero scenes. No aircraft, passengers, towing vehicle, terrain, texture, text or animation is included. No boarding access, human fit, fall protection, tread grip, railing performance, wheel or steering operation, towing, brakes, stability, loads, manufacture, installation, aviation suitability, safety certification or compatibility with existing aircraft is claimed.",
+  "bounds": {
+    "x": 1.68,
+    "y": 2.72,
+    "z": 2.4,
+    "unit": "m"
+  },
+  "triangles": 456,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/aviation/aviation-fixed-boarding-stair-cart-01/v1.0.0/model.glb",
+      "size": 28440,
+      "sha256": "8983bff574319aa6b56662a4ad1abbacdf8122f805999715ecec8f724e4a34a9"
+    },
+    "blend": {
+      "path": "assets/aviation/aviation-fixed-boarding-stair-cart-01/v1.0.0/source.blend",
+      "size": 595304,
+      "sha256": "5167c6eb90714ee1f46e8e1285b487eaaaf6137fc0567b185d4080bdeeed890d"
+    },
+    "generator": {
+      "path": "assets/aviation/aviation-fixed-boarding-stair-cart-01/v1.0.0/generate.py",
+      "size": 31440,
+      "sha256": "dc6e4570f62bdd10dc68240567eb266a672374715672c1b96597cda0496697f4"
+    },
+    "render": {
+      "path": "assets/aviation/aviation-fixed-boarding-stair-cart-01/v1.0.0/thumbnail.png",
+      "size": 562063,
+      "sha256": "959c4e4c9c174e0c70e473822e0711fa90480a1493900b202afceba0794dbe1a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

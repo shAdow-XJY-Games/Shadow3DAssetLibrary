@@ -1,0 +1,42 @@
+{
+  "id": "beekeeping-notched-uncapping-trough-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "beekeeping",
+  "style": "S01-clean-geometric",
+  "title": "Notched-End Uncapping Trough",
+  "description": "One original empty beekeeping collection-table visual prop: a continuous long tapered rectangular catch basin with a real deep open cavity, complete thick closed bottom and broad upper rim; two raised opposing end rests each have a genuine open-top U notch with a finite flat floor. Four distinct straight legs meet the complete basin underside at finite top seats and stand on full flat ground soles. Seven closed connected editable meshes and four constant opaque untextured PBR materials. One fixed assembly counts as one prop, zero scenes. Metres, native Z up, front -Y, horizontal envelope centred and ground Z=0. Newly authored basin, rests and legs; no old hive, sieve, tank, worktable, frame, cart or wash-station model is imported or modified. No frame, knife, wax, honey, liquid, outlet, sieve, wheels, lid, texture, animation or scene. The empty notches suggest a collection-workstation arrangement only: no fit for historical frames or hives, uncapping performance, liquid handling, food contact, sanitation, strength, structural load, anti-tip stability, manufacturing, equipment operation or safety certification is claimed.",
+  "bounds": {
+    "x": 1.2,
+    "y": 0.7,
+    "z": 1.18,
+    "unit": "m"
+  },
+  "triangles": 132,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/beekeeping/beekeeping-notched-uncapping-trough-01/v1.0.0/model.glb",
+      "size": 13200,
+      "sha256": "67e0130f5bd0a2a255808721e625dec991cb29be44956dc85591a3dc8937f3b8"
+    },
+    "blend": {
+      "path": "assets/beekeeping/beekeeping-notched-uncapping-trough-01/v1.0.0/source.blend",
+      "size": 557816,
+      "sha256": "27a8675d0add6dcde714aec407e50867fd6d1d7f6450df6ad72ec96887c141cf"
+    },
+    "generator": {
+      "path": "assets/beekeeping/beekeeping-notched-uncapping-trough-01/v1.0.0/generate.py",
+      "size": 29444,
+      "sha256": "156ddfd0ee9b66e6d8dea9d0b10d1efbfbac9a402561d533a1f550844dc07c70"
+    },
+    "render": {
+      "path": "assets/beekeeping/beekeeping-notched-uncapping-trough-01/v1.0.0/thumbnail.png",
+      "size": 546233,
+      "sha256": "80cb94eba4f7faf75894637627e706d21d44d7f2911bf5b4beb6f21fdb4f0a44"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

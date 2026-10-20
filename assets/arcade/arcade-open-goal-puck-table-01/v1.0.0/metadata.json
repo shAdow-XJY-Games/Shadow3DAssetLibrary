@@ -1,0 +1,42 @@
+{
+  "id": "arcade-open-goal-puck-table-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "arcade",
+  "style": "S01-clean-geometric",
+  "title": "Open-Goal Arcade Puck Table",
+  "description": "One original static open-goal arcade puck table, counted as one whole prop. A thick broad pale playing bed rests on two complete portal trestles with real through apertures and full planar ground soles. Two long side rails and two continuous inverted-U end frames surround the bed; each end frame has a genuine low central through goal. Two integral-wall open-top return troughs extend beyond the opposite table ends, with complete floors, side walls and outer lips; their empty interiors are visibly lower than the bed. All nine meshes are closed, connected, independently editable and supported by finite opposed interfaces. Four opaque constant untextured PBR materials distinguish bed, berry rails, blue structural body and dark return troughs. Newly authored complete numeric geometry; no earlier tables, arcade machines or accessories are imported, resized or recoloured. Metres are game-space coordinates, native Z up, front -Y, ground-level bounds-centred origin. One fixed visual prop, zero scenes. No air holes, blower, motor, electronics, scoreboard, puck, strikers, moving parts, text, brands or textures. No playable game, air cushion, friction/ball physics, scoring, fluid flow, moving mechanism, human fit, real table dimensions, ergonomics, load, stability, assembly, installation, equipment compatibility or safety certification is claimed.",
+  "bounds": {
+    "x": 1.300781,
+    "y": 2.560547,
+    "z": 0.900391,
+    "unit": "m"
+  },
+  "triangles": 388,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/arcade/arcade-open-goal-puck-table-01/v1.0.0/model.glb",
+      "size": 21564,
+      "sha256": "89fd829b1a65bb420b3ab791d3570584edd593e0d3a89e14b9283817742b3d3b"
+    },
+    "blend": {
+      "path": "assets/arcade/arcade-open-goal-puck-table-01/v1.0.0/source.blend",
+      "size": 581900,
+      "sha256": "a3ba300dbb1243830100032afcad29030213ba2362edbc7c6f13996d3eeedddf"
+    },
+    "generator": {
+      "path": "assets/arcade/arcade-open-goal-puck-table-01/v1.0.0/generate.py",
+      "size": 31690,
+      "sha256": "0fc84faa39eda36769d005f52ed95050af89274fb12fb9b0fc5aa6a3b4b5d5b2"
+    },
+    "render": {
+      "path": "assets/arcade/arcade-open-goal-puck-table-01/v1.0.0/thumbnail.png",
+      "size": 521003,
+      "sha256": "e5953b0ecd5385eff9e5c4b7c6d5d9e94243562a3da8dfc46a7f0ea467e26648"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

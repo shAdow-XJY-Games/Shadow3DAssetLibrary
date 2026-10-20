@@ -1,0 +1,42 @@
+{
+  "id": "baggage-flared-slotted-side-guide-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "baggage",
+  "style": "S01-clean-geometric",
+  "title": "Flared Side Guide with Slotted Stanchions",
+  "description": "One original standalone static baggage side-guide module: a single continuous thick raised guiding wall has a straight middle and two integral outward-flared terminal wings. Two continuous plate stanchions each contain a genuine tall full-thickness vertical window, and stand on two broad complete flat feet. Two separate shallow front wear strips have complete finite rear seats on the central wall. Seven closed editable meshes and three opaque constant untextured PBR materials. Count one complete prop and zero scenes. Metres, native Z up, front -Y, centred ground footprint. Entire guide-wall polygon, windowed supports, feet and strips are newly authored; no existing conveyor, roller, road barrier, cart or rope geometry is imported or modified. No luggage, conveyor bed, fasteners, moving parts, text, logos, textures or scene. Fixed illustrative geometry only: no adjustment mechanism, luggage trajectory, guidance or transport performance, pinch protection, load, strength, stability, installation, manufacture, material certification, airport standard or compatibility with earlier conveyor modules is claimed.",
+  "bounds": {
+    "x": 2.0,
+    "y": 0.5,
+    "z": 0.88,
+    "unit": "m"
+  },
+  "triangles": 140,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/baggage/baggage-flared-slotted-side-guide-01/v1.0.0/model.glb",
+      "size": 12520,
+      "sha256": "1a144d8e56aa353f9edc85cf792ce6a42df88a542b28d5ba77f8e305e47665ea"
+    },
+    "blend": {
+      "path": "assets/baggage/baggage-flared-slotted-side-guide-01/v1.0.0/source.blend",
+      "size": 535000,
+      "sha256": "36688b1bc4f65e19f5fb0c784e724f3d12d834e53344d70087fe9fb01ea02db4"
+    },
+    "generator": {
+      "path": "assets/baggage/baggage-flared-slotted-side-guide-01/v1.0.0/generate.py",
+      "size": 31158,
+      "sha256": "4d621f6a94ae99116954cba0a2dcbeaba7a51509a2a73859d1826b32e811b52d"
+    },
+    "render": {
+      "path": "assets/baggage/baggage-flared-slotted-side-guide-01/v1.0.0/thumbnail.png",
+      "size": 494549,
+      "sha256": "cbc20963150ac26a43062d62a0c8c02ea16a5c45768f707ad7d1ff9cbc01f0b2"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
