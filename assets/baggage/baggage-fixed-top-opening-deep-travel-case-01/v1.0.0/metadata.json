@@ -1,0 +1,42 @@
+{
+  "id": "baggage-fixed-top-opening-deep-travel-case-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "baggage",
+  "style": "S01-clean-geometric",
+  "title": "Top-Opening Deep Hard Travel Case",
+  "description": "One original complete static hard-shell travel case with a deep chamfered single chamber and one shallow recessed top cover held in a fixed upright open pose. The continuous body includes its entire bottom, thick inner and outer walls, eight corner transitions and an integral two-level receiving rim; the single cover includes a complete back, recessed inside face and full raised border. Two newly shaped continuous rear support cheeks connect finite body-rim seats to complete vertical lid-back seats. Two full flat skids support the body. Two front standoffs seat one continuous U-shaped grip with a genuine clear opening, accompanied by two fixed blank lower clasp plates. Eleven closed editable meshes, four opaque constant untextured PBR materials; one complete prop and zero scenes. Metres, native Z up, front -Y, full-bounds-centred horizontal ground origin. All geometry is newly authored, with no imported soft holdall, flat-open double-pan case, dual-comb tote, laundry basket, storage box or backpack mesh. No contents, wheels, working hinges, textures, logos, animation or scene. One fixed illustrative structure only: no opening/closing mechanism, closure fit, gripping or carrying safety, capacity, load, strength, stability, impact resistance, weatherproofing, airline compliance, manufacturing, material certification or compatibility claim. The original plural hard-shell family remains partial.",
+  "bounds": {
+    "x": 0.736,
+    "y": 0.645,
+    "z": 1.186,
+    "unit": "m"
+  },
+  "triangles": 300,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/baggage/baggage-fixed-top-opening-deep-travel-case-01/v1.0.0/model.glb",
+      "size": 26068,
+      "sha256": "35a26a550cbef5a267e18f3db11124b017e140b1b609bbf9a462e68b65415bcb"
+    },
+    "blend": {
+      "path": "assets/baggage/baggage-fixed-top-opening-deep-travel-case-01/v1.0.0/source.blend",
+      "size": 587480,
+      "sha256": "9ad0b53b16e3d6059706600ef83ac37de3455e0d6d6ba13b9a162ec6d7188c70"
+    },
+    "generator": {
+      "path": "assets/baggage/baggage-fixed-top-opening-deep-travel-case-01/v1.0.0/generate.py",
+      "size": 34269,
+      "sha256": "a37c017c9ba55a037dd6fedf56838a58196a09ab9db67d5c25a54df77feb822c"
+    },
+    "render": {
+      "path": "assets/baggage/baggage-fixed-top-opening-deep-travel-case-01/v1.0.0/thumbnail.png",
+      "size": 528145,
+      "sha256": "1a711cf0d1467979c23159aab4a61513c3fa27898344c53eb2e8f755c722694d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

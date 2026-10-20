@@ -1,0 +1,42 @@
+{
+  "id": "coral-reef-fractured-ribbed-hull-section-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "coral-reef",
+  "style": "S01-clean-geometric",
+  "title": "Fractured Curved-Rib Hull Section",
+  "description": "One original static shipwreck structural module: a continuous thick open U-shaped hull section with two uneven full-thickness fractured ends, an integral broad grounded keel and four complete transverse curved ribs. The hull follows a nine-facet bent transverse section; each rib follows every inside facet with a true continuous thick curved band and complete finite opposed seats. The keel is integral to the continuous hull material, not a floating beam. Both broken ends expose the thick shell, and the central hold, four between-rib bays and open end approaches remain genuinely empty. Five closed named editable meshes with three opaque constant untextured PBR materials. One complete modular asset and zero scenes; ribs, fragments, colours and formats do not increase the model count. Metres, native Z up, long X axis, front -Y and ground-centred horizontal bounds datum. All numerical geometry is newly authored; no working skiff, pier, boat shuttle, old wall, reef, plank or scene is imported, sliced, shortened or deleted to produce it. No coral, rock, seabed, water, deck, mast, occupants, loose fragments, animation or surroundings. One stylized fixed game-art appearance only: no complete vessel, seaworthiness, navigation, buoyancy, watertightness, structural load, strength, stability, installation, archaeological or historical accuracy, species, manufacture, physical simulation or safety certification claim. The wider original shipwreck family remains partial.",
+  "bounds": {
+    "x": 3.312563,
+    "y": 2.28,
+    "z": 1.100592,
+    "unit": "m"
+  },
+  "triangles": 396,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/coral-reef/coral-reef-fractured-ribbed-hull-section-01/v1.0.0/model.glb",
+      "size": 23392,
+      "sha256": "43bba80786bceb286b543bf8cfa98adc17de8b2206715abb41e8a7979722948a"
+    },
+    "blend": {
+      "path": "assets/coral-reef/coral-reef-fractured-ribbed-hull-section-01/v1.0.0/source.blend",
+      "size": 539072,
+      "sha256": "d9a72e0bc65c1e913f9d253eb2ae77e8c3aa9c53db0b80101a8d69a88cd82182"
+    },
+    "generator": {
+      "path": "assets/coral-reef/coral-reef-fractured-ribbed-hull-section-01/v1.0.0/generate.py",
+      "size": 31742,
+      "sha256": "095388f5d12d843f2c9398fc3b3f773c1fb8617e0dd3a3723b96c19c182ce712"
+    },
+    "render": {
+      "path": "assets/coral-reef/coral-reef-fractured-ribbed-hull-section-01/v1.0.0/thumbnail.png",
+      "size": 525455,
+      "sha256": "b7466326a2799bb8c3ffbec3a7c51bdb20dc13e833b176d8886bac6a4914881b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

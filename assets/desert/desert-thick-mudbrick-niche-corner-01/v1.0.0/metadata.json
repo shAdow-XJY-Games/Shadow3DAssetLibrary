@@ -1,0 +1,42 @@
+{
+  "id": "desert-thick-mudbrick-niche-corner-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "desert",
+  "style": "warm-faceted-desert",
+  "title": "Thick Mudbrick Corner with Stepped Niches",
+  "description": "One original static thick L-shaped mudbrick-look wall corner with two perpendicular blind rectangular wall niches. Each niche has a broad mouth, a real first-depth reveal, a full inward shoulder, a deeper narrower recess and a continuous solid back. Two separately editable closed thick niche walls meet over their complete vertical corner seat and stand on one continuous L-shaped plinth beneath one continuous L-shaped coping. Four closed connected editable meshes and four opaque constant matte untextured PBR face materials. The niches are integral negative geometry, not dark rectangles, floating frames or through-windows. Complete bounded inner-corner air and both stepped cavities with exterior egress, all material bodies, five finite opposed interfaces, the whole ground sole and the two full exposed stepped terminal profiles are geometrically checked. Native Z up, front -Y, origin at ground-level horizontal reference centre, metre-based game space. One reusable modular model and zero scenes; no constituent or variant counts. All geometry newly authored with no old wall, classical panel or desert scene geometry imported. Terminal planes are X=1.2 and Y=-.96; they are documented closed ends only, without a companion fit or seamless repeat claim. No timber frame, decorative objects, doors, roof, scene, texture, text or animation. Static stylized visual architecture only: no historical authenticity, brick composition, weather performance, thermal properties, loading, strength, stability, construction method, engineering dimensions, manufacture, installation, structural support, building-code compliance, navigation, collision or safety certification claim.",
+  "bounds": {
+    "x": 2.44,
+    "y": 1.96,
+    "z": 2.38,
+    "unit": "m"
+  },
+  "triangles": 128,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/desert/desert-thick-mudbrick-niche-corner-01/v1.0.0/model.glb",
+      "size": 11592,
+      "sha256": "2dbe46d65f1a261dce988bf76832765822bac5366bcd79b53492fe2f7a97844f"
+    },
+    "blend": {
+      "path": "assets/desert/desert-thick-mudbrick-niche-corner-01/v1.0.0/source.blend",
+      "size": 542508,
+      "sha256": "9b1e585e86d7427a2c30c2371f23bbfb26fbb47949f966c4a10fb4ab1b2b3bf4"
+    },
+    "generator": {
+      "path": "assets/desert/desert-thick-mudbrick-niche-corner-01/v1.0.0/generate.py",
+      "size": 32296,
+      "sha256": "3588f7853c51f1f8af0dbc9bce727879fea06c02a57e4dbb16c409569dbd9719"
+    },
+    "render": {
+      "path": "assets/desert/desert-thick-mudbrick-niche-corner-01/v1.0.0/thumbnail.png",
+      "size": 554118,
+      "sha256": "9feb172e1419ea5bf873de74c139f33934302585394f4d9264fa223eb8596dc0"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

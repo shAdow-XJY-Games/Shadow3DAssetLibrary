@@ -1,0 +1,42 @@
+{
+  "id": "tailoring-long-sleeve-lapel-sample-display-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "tailoring",
+  "style": "S01-clean-geometric",
+  "title": "Long-Sleeve Lapel Sample Display",
+  "description": "One original complete static tailoring sample display with a continuous three-dimensional hollow torso and two long down-sloping sleeve chambers that communicate with the torso and terminate in genuinely open cuffs. The body has a narrowed waist, flared open hem, full inner surfaces and a deep V-shaped front neckline. Two thick outward-returned lapels and one standing rear collar give the neckline a distinct folded form. A newly authored narrow internal twin-pad yoke supports the complete shoulder undersides on finite seats, with a slender central post and one full grounded base; no mannequin fills the garment. All seven closed editable meshes together count as one prop and zero scenes. Four opaque constant untextured PBR materials; native Z up, front -Y, metres, base-centred ground origin. No existing garment, clothesline shirt, character clothing or hanger geometry is imported, stretched or recolored. Fixed visual appearance only: no wearable or body-size fit, dressing action, cloth simulation, sewing pattern, manufacturing, removal/assembly path, material strength, load/stability, safety certification or compatibility claim. No text, logo, texture, animation, rig, floor or background exported.",
+  "bounds": {
+    "x": 1.46,
+    "y": 0.35468,
+    "z": 1.482,
+    "unit": "m"
+  },
+  "triangles": 1352,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/tailoring/tailoring-long-sleeve-lapel-sample-display-01/v1.0.0/model.glb",
+      "size": 51224,
+      "sha256": "d1088ed4addd8d3a62f3adcc3fdccc62f05a6a9bf691aabc0e9673a5205b375e"
+    },
+    "blend": {
+      "path": "assets/tailoring/tailoring-long-sleeve-lapel-sample-display-01/v1.0.0/source.blend",
+      "size": 623768,
+      "sha256": "15bffdd4a46ff6ed6bb4e537256ef81059a18c65efb5db30c4a01ab7196b1f2f"
+    },
+    "generator": {
+      "path": "assets/tailoring/tailoring-long-sleeve-lapel-sample-display-01/v1.0.0/generate.py",
+      "size": 35336,
+      "sha256": "bab7323a3330bc6821d5a95ee53d6b215b3a0c4fd6981b4cbc0b22773974cb4d"
+    },
+    "render": {
+      "path": "assets/tailoring/tailoring-long-sleeve-lapel-sample-display-01/v1.0.0/thumbnail.png",
+      "size": 490995,
+      "sha256": "2ce55030793b390015df305f56d6ba538e033672e7b5d8287ad28716455d968b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

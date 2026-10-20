@@ -1,0 +1,42 @@
+{
+  "id": "laboratory-open-frame-sink-table-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "laboratory",
+  "style": "S01-clean-geometric",
+  "title": "Open-Frame Laboratory Sink Table",
+  "description": "One original complete static laboratory sink-table visual prop: an offset deep tapered rectangular basin and a broad side deck form one continuous thick closed shell. A single raised comb-shaped drainboard has five long ribs and four genuine open surface channels. Two continuous open end-trestles, each with two full ground soles, carry the deck and join a rear lower stretcher. A single fixed high angular tap exterior and a blue rear splash panel sit on complete finite deck patches. The basin remains genuinely empty, with a complete inner floor; a small dark floor region is only a face-material drain indication, not a drain hole or separate overlapping skin. Seven independently editable closed connected meshes, four opaque constant untextured PBR materials. One original prop and zero scenes, metres, source Z up, front -Y and horizontally bounds-centred ground origin. New numeric geometry, no reused cabinet, pet wash grate, fish-market gutter, sample rack, faucet or scene. No cabinet doors, supply pipe, drain pipe, flexible hose, bottles, fluid, contents, textures, labels or animation. Static visual appearance only: no working tap, water flow, drainage, plumbing installation, chemical or biological resistance, laboratory procedure, hygiene, compatibility, measurement, manufacture, structural performance, human fit or safety certification claim. Not real equipment design or use guidance.",
+  "bounds": {
+    "x": 1.4,
+    "y": 0.8,
+    "z": 1.31,
+    "unit": "m"
+  },
+  "triangles": 248,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/laboratory/laboratory-open-frame-sink-table-01/v1.0.0/model.glb",
+      "size": 18720,
+      "sha256": "25aebde95513c6d4393e7fe13e4243c37ea5bdf46fa9be6da768069d35ce0396"
+    },
+    "blend": {
+      "path": "assets/laboratory/laboratory-open-frame-sink-table-01/v1.0.0/source.blend",
+      "size": 564308,
+      "sha256": "cff5e0152de0d7761988e8c240e269d5f795375b6429e016d5c72c7e0e93c317"
+    },
+    "generator": {
+      "path": "assets/laboratory/laboratory-open-frame-sink-table-01/v1.0.0/generate.py",
+      "size": 33907,
+      "sha256": "ee89e4a1ff1991d65061845498c56d4855fb851f17c630bbb757b9edc11dae1b"
+    },
+    "render": {
+      "path": "assets/laboratory/laboratory-open-frame-sink-table-01/v1.0.0/thumbnail.png",
+      "size": 532623,
+      "sha256": "ea5abfdf1ace6a9867df1774e2ae6da47e3a7e6f62396f601058d015300449e6"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
