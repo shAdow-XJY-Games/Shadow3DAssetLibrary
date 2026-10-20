@@ -1,0 +1,42 @@
+{
+  "id": "wetland-twin-root-inlet-observation-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "wetland",
+  "style": "hard-edge-faceted-wetland",
+  "title": "Twin Root-Inlet Dry-Bank Observation Scene",
+  "description": "One static wetland scene with two complete arched-root mangroves seated in separate shallow inset bays, divided by a continuous raised dry-bank entrance that meets a transverse terminal observation edge. A complete Y-fork fallen log creates a low rear end boundary beyond that edge; two whole articulated reed clumps frame the rear shoulders and two complete low sedges frame the entrance. Seven unit-scale rigid instances of four exact published originals preserve every mesh, oriented triangle, original hierarchy and full constant PBR, with exact signed-axis half-turns baked. Three closed scene-only environment meshes form the mud base, connected dry bank and opaque shallow water with complete root exclusion holes. Eight whole root feet meet the finite bed; complete log, reed and grass soles meet the finite bank. Both entire connected viewing footprints are supported and their complete air volumes clear. One scene and zero new standalone models. No clipped, recolored or rescaled old pieces; no imported prior scene. Fixed stylised visual composition only: no biological or ecological precision, human traversability, accessibility, navigation, load capacity, structural strength, stability, collision controller, tide, buoyancy or water simulation claim. Raised outer bank requires external placement.",
+  "bounds": {
+    "x": 9.0,
+    "y": 9.5,
+    "z": 2.545,
+    "unit": "m"
+  },
+  "triangles": 10176,
+  "materials": 23,
+  "files": {
+    "glb": {
+      "path": "assets/wetland/wetland-twin-root-inlet-observation-scene-01/v1.0.0/model.glb",
+      "size": 625660,
+      "sha256": "4fa2e118f226f3e33b94be0d954cd93d7a14a75ca636bb80055cb69053251713"
+    },
+    "blend": {
+      "path": "assets/wetland/wetland-twin-root-inlet-observation-scene-01/v1.0.0/source.blend",
+      "size": 2073992,
+      "sha256": "e770d0b93b7f210d392a17221d6859f8f92e6916bfb6bcb9abef8089edfea459"
+    },
+    "generator": {
+      "path": "assets/wetland/wetland-twin-root-inlet-observation-scene-01/v1.0.0/generate.py",
+      "size": 156486,
+      "sha256": "eb431d7841e9c2657d68cad5b88d6ec626a69acf5c6f98ffad84f1fd2571c753"
+    },
+    "render": {
+      "path": "assets/wetland/wetland-twin-root-inlet-observation-scene-01/v1.0.0/thumbnail.png",
+      "size": 535859,
+      "sha256": "1fc22beb250d35d9d358b99e09ef31ade7483d2d03994c36f5ee8364a93c7877"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

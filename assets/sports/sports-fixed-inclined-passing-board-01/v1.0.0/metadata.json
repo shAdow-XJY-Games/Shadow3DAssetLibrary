@@ -1,0 +1,42 @@
+{
+  "id": "sports-fixed-inclined-passing-board-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Fixed Inclined Passing Practice Board",
+  "description": "One original low passing-practice board visual prop. A continuous thick inclined panel has integrated solid-color centre target and edge stripes. Two complete triangular support cheeks meet the full finite inclined rear contact patches. Four separate broad pads have full flat ground soles. Seven editable closed connected meshes and four opaque constant untextured PBR materials. One whole prop and zero scenes. Metres, Z up, front -Y, ground Z=0. All geometry newly authored, without earlier ladder, high seat, bleacher, goal, sports net, ramp or ball trolley geometry. Fixed stylised display only: no real rebound performance, ball trajectory, sport regulation, training suitability, climbability, load, friction, stability, installation, manufacture or safety certification. No ball, person, court, texture, text, logo or animation.",
+  "bounds": {
+    "x": 1.8,
+    "y": 0.94,
+    "z": 0.82,
+    "unit": "m"
+  },
+  "triangles": 108,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-fixed-inclined-passing-board-01/v1.0.0/model.glb",
+      "size": 13300,
+      "sha256": "d1881f660ed90a80522bd2e2598a55070becdfae7da8e142d012d62b93113ee5"
+    },
+    "blend": {
+      "path": "assets/sports/sports-fixed-inclined-passing-board-01/v1.0.0/source.blend",
+      "size": 556508,
+      "sha256": "9ed4ccbcf0cddaa979f3f2d12af6310466cab6b28485813a557ca646e86d2627"
+    },
+    "generator": {
+      "path": "assets/sports/sports-fixed-inclined-passing-board-01/v1.0.0/generate.py",
+      "size": 30421,
+      "sha256": "0ef7b91b3f0bbecae1478316176969cca9dff1e687a80f0aec3afb20355790cb"
+    },
+    "render": {
+      "path": "assets/sports/sports-fixed-inclined-passing-board-01/v1.0.0/thumbnail.png",
+      "size": 464573,
+      "sha256": "3aca520e5803eaea410aeb5f8db8277eb6d9824935fa0c961b8bc0e85fab7473"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

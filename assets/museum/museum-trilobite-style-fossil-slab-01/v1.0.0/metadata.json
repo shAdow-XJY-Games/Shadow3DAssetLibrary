@@ -1,0 +1,42 @@
+{
+  "id": "museum-trilobite-style-fossil-slab-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "museum",
+  "style": "restrained-faceted-natural",
+  "title": "Trilobite-style Fossil Relief Slab",
+  "description": "One original stylized trilobite-like fossil impression integrated into a thick irregular stone slab. A broad head shield with central glabella and paired eye ridges leads into nine bilateral thoracic segments with an elevated axial lobe, separated pleural ribs and a tapered tail shield with radial impressions. The complete fossil, background stone, full plain back and finite side walls are one connected closed shared-vertex relief mesh, with visible real depth and grooves rather than a texture or intersecting decorative pieces. Four constant opaque matte PBR stone/fossil values, no textures, borrowed geometry, writing or replica. Metres, native Z up, front -Y; horizontal envelope-centred origin and complete finite bottom sole at Z0. One static prop, zero modular models or scenes; body segments are not separately counted. No real species identification, anatomical fidelity, geological age, excavation provenance, museum authenticity, preservation, physical stability, mounting, load, manufacture, collision or safety claim.",
+  "bounds": {
+    "x": 1.5,
+    "y": 0.428756,
+    "z": 2.1,
+    "unit": "m"
+  },
+  "triangles": 3492,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/museum/museum-trilobite-style-fossil-slab-01/v1.0.0/model.glb",
+      "size": 178568,
+      "sha256": "41b285ed42d40637979368673012dbbfb3f1c31c27344ec55f74e6b50d8b4953"
+    },
+    "blend": {
+      "path": "assets/museum/museum-trilobite-style-fossil-slab-01/v1.0.0/source.blend",
+      "size": 708964,
+      "sha256": "a97d5bb25cbb9745e42a98aa7083b1a74e2a2c0af80721f2e94546a78e8940d5"
+    },
+    "generator": {
+      "path": "assets/museum/museum-trilobite-style-fossil-slab-01/v1.0.0/generate.py",
+      "size": 28583,
+      "sha256": "c3df1bce721f43905538eedc7ddd86de9969c5e63ba0675c58b19d7c286a9c73"
+    },
+    "render": {
+      "path": "assets/museum/museum-trilobite-style-fossil-slab-01/v1.0.0/thumbnail.png",
+      "size": 534283,
+      "sha256": "7740ae6b0706595fe5497509f30bef8f73e9cb6766b45018cabb7969b33d3051"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
