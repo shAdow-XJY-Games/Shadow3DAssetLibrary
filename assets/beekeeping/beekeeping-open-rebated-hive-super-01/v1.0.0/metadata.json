@@ -1,0 +1,42 @@
+{
+  "id": "beekeeping-open-rebated-hive-super-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "modular",
+  "theme": "beekeeping",
+  "style": "S01-clean-geometric",
+  "title": "Open Rebated Hive Super",
+  "description": "One original continuous thick-walled wooden hive layer, truly open through top and bottom. Two complete integral upper inner end shoulders and two actual exterior blind recessed grips coexist with a full perimeter upper bearing ring, an inward registration lip and a complete receiving bottom mouth. One connected closed positive material shell. One module only; the second identical rigid +Z instance is a QA fixture for one fixed static interface and is neither exported nor rendered as another asset. No old hive/frame/crate geometry, base, floor, lid, frames, bees, honey, label or scene. Constant opaque unlinked PBR, no textures. Native Z up, front -Y, metres, horizontal envelope centred, full bottom annulus Z=0. No real hive standard, old-item compatibility, bee suitability, food-contact, load, stability, sealing, mechanical locking, arbitrary stack height, manufacturing, transport, continuous assembly or safety claim.",
+  "bounds": {
+    "x": 0.64,
+    "y": 0.5,
+    "z": 0.266,
+    "unit": "m"
+  },
+  "triangles": 1040,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/beekeeping/beekeeping-open-rebated-hive-super-01/v1.0.0/model.glb",
+      "size": 30636,
+      "sha256": "0ef93f3a67b0942aeb1415a1f445621401cfafa9e34054cd33e0c7d51fb0b079"
+    },
+    "blend": {
+      "path": "assets/beekeeping/beekeeping-open-rebated-hive-super-01/v1.0.0/source.blend",
+      "size": 553392,
+      "sha256": "b870711228c5d771e86018336bd6abea33d4603d80f33b2b650b6abde3a1e878"
+    },
+    "generator": {
+      "path": "assets/beekeeping/beekeeping-open-rebated-hive-super-01/v1.0.0/generate.py",
+      "size": 28640,
+      "sha256": "9e0febbdf3f200472306473a9aadb46ba22402292ff02de47afb6f9551a93f25"
+    },
+    "render": {
+      "path": "assets/beekeeping/beekeeping-open-rebated-hive-super-01/v1.0.0/thumbnail.png",
+      "size": 536284,
+      "sha256": "98956d88e2ed7473a2f9de6f31cb21fe8af6f4be62f9949cc85d1d893f75a9ce"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
