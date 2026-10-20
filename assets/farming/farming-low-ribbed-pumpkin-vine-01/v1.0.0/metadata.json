@@ -1,0 +1,42 @@
+{
+  "id": "farming-low-ribbed-pumpkin-vine-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "farming",
+  "style": "restrained-faceted-farming",
+  "title": "Low Ribbed Pumpkin Vine",
+  "description": "One original static stylised low pumpkin-like crop plant with a curved tapered eight-sided main vine, four thick broad palmately lobed leaves on bent petioles, and two unequal depressed ribbed orange fruit bodies connected by arched peduncles. Every branch, leaf and fruit connects through its complete shared uncapped boundary, all in one closed connected editable plant mesh. Finite flattened vine facets and both fruit soles meet Z=0. The basal form is a slender curved vine, not a rectangular root block, soil island, pot or display stand. Four constant opaque matte PBR tones; no texture or alpha cards. Native metres and Z up, front -Y, horizontally centred ground origin. One reusable prop and zero scenes; stems, leaves, fruits, colours and file formats are not separately counted assets. All numeric plant geometry is newly authored; no earlier maize, carrot, waterlily, harvested produce, tree or reed geometry is imported, recoloured or scaled. Artistic pumpkin-like form only: no cultivar, botanical precision, real growth stage, cultivation, yield, food, ecology, wind, animation, collision, navigation, structural stability or physical-performance claim. No tendril simulation, extra scenery or variant.",
+  "bounds": {
+    "x": 2.0,
+    "y": 1.373181,
+    "z": 0.478459,
+    "unit": "m"
+  },
+  "triangles": 2356,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-low-ribbed-pumpkin-vine-01/v1.0.0/model.glb",
+      "size": 153156,
+      "sha256": "ebb8acf3644eefffb40d4be8da55358251ce004b934e5352b3f1ecd9abd1fab8"
+    },
+    "blend": {
+      "path": "assets/farming/farming-low-ribbed-pumpkin-vine-01/v1.0.0/source.blend",
+      "size": 647648,
+      "sha256": "eae3de4dd888c1de9c5e5ac9ae1c5eeac7cb50f349c99e35fc7b41a67659014d"
+    },
+    "generator": {
+      "path": "assets/farming/farming-low-ribbed-pumpkin-vine-01/v1.0.0/generate.py",
+      "size": 32928,
+      "sha256": "a746e6c366ed5388e4a51a166a56a281925b9b1d4d970d1d964b55bfa7fff2f7"
+    },
+    "render": {
+      "path": "assets/farming/farming-low-ribbed-pumpkin-vine-01/v1.0.0/thumbnail.png",
+      "size": 503360,
+      "sha256": "2cd4ef035be991cfa90fd13bf9187c90c95d9ad409d7c4335ef3c4ec463ce6a1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "animal-static-long-neck-wading-bird-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "animal",
+  "style": "S01-clean-geometric",
+  "title": "Static Long-Neck Wading Bird",
+  "description": "One original complete static stylized long-legged wading bird with an upright gently S-curved long neck, small polygonal head with two integral dark eyes, a long tapered bill, raised tapered torso, paired full folded wings, a short tail, two slender bent-profile legs and two complete three-toed flat soles. Eleven closed connected editable meshes meet at ten finite opposed planar joints, with full actual geometry and clear-space checks. Five ordinary fully opaque matte constant PBR colors. Metres, native Z up, front -Y, horizontally bounds-centred ground origin. One prop and zero scenes. Newly authored whole animal silhouette, no imported animal geometry, pedestal, block support, perch, water, vegetation, enclosure, text, texture, variant, rig, skeleton or animation. Artistic fixed appearance only; no real species identification, anatomical or biological precision, ecological fidelity, locomotion, living animal behaviour, physical stability, manufacture, safety or old-asset compatibility claim.",
+  "bounds": {
+    "x": 0.684,
+    "y": 1.6,
+    "z": 2.37,
+    "unit": "m"
+  },
+  "triangles": 664,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/animal/animal-static-long-neck-wading-bird-01/v1.0.0/model.glb",
+      "size": 46936,
+      "sha256": "9f02f2cf8a488ec5396ff8c109320278d7fc870f6a3305355115ff17523d0f82"
+    },
+    "blend": {
+      "path": "assets/animal/animal-static-long-neck-wading-bird-01/v1.0.0/source.blend",
+      "size": 630380,
+      "sha256": "4a6fbdca8aebb9c381357327189d71e06f125293fc630bdb7d24218f4873c1ec"
+    },
+    "generator": {
+      "path": "assets/animal/animal-static-long-neck-wading-bird-01/v1.0.0/generate.py",
+      "size": 33690,
+      "sha256": "820a416a56e070b5d86125aa89c736ff5a7fc7f74fd05156a9ea3fd89ac69bab"
+    },
+    "render": {
+      "path": "assets/animal/animal-static-long-neck-wading-bird-01/v1.0.0/thumbnail.png",
+      "size": 476990,
+      "sha256": "c4a657a13e1df35e1bd398e9d74a84ed23ebcaa78040d9d764e2d8e7f3d3007d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

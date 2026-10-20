@@ -1,0 +1,42 @@
+{
+  "id": "classical-botanical-relief-panel-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "classical",
+  "style": "restrained-faceted-masonry",
+  "title": "Botanical Rosette Stone Relief Panel",
+  "description": "One original thick rectangular stone relief inset, counted as one static modular visual. An eight-petal flower with a raised centre, two inward-curling stems and four pointed leaves are carved as one continuous faceted front surface with a broad stepped border. The full stone backing, edge thickness, outer frame, floral forms and uncarved recesses are one closed connected shared-vertex mesh, not intersecting ornament pieces or a texture. Four restrained constant opaque matte PBR stone values; no texture, copyrighted crest, historical replica, writing or imported geometry. Native Z up, front -Y, horizontal envelope-centred origin with the entire bottom sole at Z0. Game-space width2.4m and height1.8m; no physical installation, masonry connection, grid interoperability, stability, strength, load, fabrication, botanical authenticity or safety claim. One modular, zero props and zero scenes; petals and leaves are not separately counted models. Back remains a complete plain stone plane. No opening, movable part, wall system, animation or unseen host is supplied.",
+  "bounds": {
+    "x": 2.4,
+    "y": 0.5,
+    "z": 1.8,
+    "unit": "m"
+  },
+  "triangles": 2820,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/classical/classical-botanical-relief-panel-01/v1.0.0/model.glb",
+      "size": 114372,
+      "sha256": "2931f3806250602a8a685e713278639845cb1c8f4bc9b997a41d4f64857549b9"
+    },
+    "blend": {
+      "path": "assets/classical/classical-botanical-relief-panel-01/v1.0.0/source.blend",
+      "size": 672628,
+      "sha256": "953142d2ec591a3a92c64a3de5cdee9694d96f15223833a3c97338af6cdebea5"
+    },
+    "generator": {
+      "path": "assets/classical/classical-botanical-relief-panel-01/v1.0.0/generate.py",
+      "size": 28554,
+      "sha256": "4dede32c0837918c098b64ac25dfc85c5c379488accc587fb0444765d7a8adcb"
+    },
+    "render": {
+      "path": "assets/classical/classical-botanical-relief-panel-01/v1.0.0/thumbnail.png",
+      "size": 525099,
+      "sha256": "94c34a01bb60801555c5001426b704addd2d6b358a0b5ef25fd7831a6346a3d4"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
