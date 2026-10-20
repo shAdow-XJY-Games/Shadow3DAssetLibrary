@@ -1,0 +1,42 @@
+{
+  "id": "astronomy-three-baffle-observation-hood-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "astronomy",
+  "style": "S01-clean-geometric",
+  "title": "Three-Baffle Observation Hood Display",
+  "description": "One original static observation light-hood module displayed on two pedestals and a grounded base, counted as one prop and zero scenes. A complete twelve-sided thick shell has a flared front mouth, three integral inward annular baffles, a rear stop lip and a genuinely open variable-radius bore. All internal chambers, baffle openings and both mouth egresses are empty. Four editable closed connected material meshes use four opaque constant PBR colors with no textures. Entirely new numeric geometry; no extracted telescope shade, scaled task lamp, straightened pipe, renamed star chart or reused scene. Metres, native Z up, front -Y and a ground-level footprint-centred origin. One fixed visual form only. No optical performance, stray-light reduction, field of view, precision, mating diameter, compatibility with telescopes, installation, adjustment, motion, engineering, material strength, stability, manufacture or safety claim. No lens, optics, telescope, fasteners, animation or scene.",
+  "bounds": {
+    "x": 0.58,
+    "y": 1.16,
+    "z": 0.6808,
+    "unit": "m"
+  },
+  "triangles": 612,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/astronomy/astronomy-three-baffle-observation-hood-01/v1.0.0/model.glb",
+      "size": 33888,
+      "sha256": "a9c4db3fc5791ae9a813a0e7ca034ca34d0413f42d51187b4a217b4515282f32"
+    },
+    "blend": {
+      "path": "assets/astronomy/astronomy-three-baffle-observation-hood-01/v1.0.0/source.blend",
+      "size": 568536,
+      "sha256": "ffaedc9cc4ef3b9d443770a9d6c6f14a3ccac4356d5051c51cbbb78633b57f4f"
+    },
+    "generator": {
+      "path": "assets/astronomy/astronomy-three-baffle-observation-hood-01/v1.0.0/generate.py",
+      "size": 30520,
+      "sha256": "eee105158b90e86c417f24aee35a4ef97ada31ff37866a6ada459db4805e2986"
+    },
+    "render": {
+      "path": "assets/astronomy/astronomy-three-baffle-observation-hood-01/v1.0.0/thumbnail.png",
+      "size": 516788,
+      "sha256": "fbd223631d81c25a41f2187768022e4d6b45d7b03224c65cda3336d1c53de0d1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

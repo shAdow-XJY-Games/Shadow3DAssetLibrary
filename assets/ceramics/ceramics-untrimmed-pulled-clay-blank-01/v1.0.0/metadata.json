@@ -1,0 +1,42 @@
+{
+  "id": "ceramics-untrimmed-pulled-clay-blank-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "ceramics",
+  "style": "S01-clean-geometric",
+  "title": "Untrimmed Pulled-Clay Cylinder Blank",
+  "description": "One original static throwing-stage clay-blank appearance: a tall open thick-walled cylinder rises from a broad integral untrimmed stock foot. Five uneven pulled wall shoulders, a visibly asymmetric wavering lip and a continuous recessed inner floor distinguish this unfinished form from finished bowls, necked amphorae and lidded jars. The thick foot, outer wall, lip, inner wall and floor are one closed connected editable material mesh, with three constant opaque untextured clay-colour PBR materials. One prop and zero scenes. Metres are game-space coordinates, native Z up, front -Y, ground-centred origin. All numeric geometry is newly authored; no existing vessel, dough, stockpot or lid is resized, recoloured or imported. The irregular upper opening and complete inner cavity are genuine geometry; the floor remains closed. No wheel, tool, vessel contents, display stand, texture, text or animation. A static stylized intermediate silhouette only: no actual throwing process, clay composition, moisture, material certification, wall or firing suitability, shrinkage, capacity, food contact, watertightness, manufacture, load, stability, kiln or turntable compatibility, or safety claim.",
+  "bounds": {
+    "x": 0.497506,
+    "y": 0.500403,
+    "z": 0.472464,
+    "unit": "m"
+  },
+  "triangles": 1248,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/ceramics/ceramics-untrimmed-pulled-clay-blank-01/v1.0.0/model.glb",
+      "size": 99180,
+      "sha256": "0ada4e3d8c53ef0914eed52326d5aab11b97b97f995549ce471e9625aeac9d1e"
+    },
+    "blend": {
+      "path": "assets/ceramics/ceramics-untrimmed-pulled-clay-blank-01/v1.0.0/source.blend",
+      "size": 564600,
+      "sha256": "336ee0934a50833f091ba74f8bd01d27f60210fa0aae7f1c05971acd0831d2b3"
+    },
+    "generator": {
+      "path": "assets/ceramics/ceramics-untrimmed-pulled-clay-blank-01/v1.0.0/generate.py",
+      "size": 29741,
+      "sha256": "6e2c0c7af76f51552d7b815739780d2ea11f718d1ec77fe6a83c859ae4d77137"
+    },
+    "render": {
+      "path": "assets/ceramics/ceramics-untrimmed-pulled-clay-blank-01/v1.0.0/thumbnail.png",
+      "size": 557629,
+      "sha256": "17ba4acdc8b1a17d11bdeb74add8befc1ec5016bb6ceb27af97e47e786ca7478"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

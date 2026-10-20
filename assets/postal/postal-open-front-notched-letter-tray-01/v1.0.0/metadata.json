@@ -1,0 +1,42 @@
+{
+  "id": "postal-open-front-notched-letter-tray-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "postal",
+  "style": "S01-clean-geometric",
+  "title": "Open-Front Notched Letter Tray",
+  "description": "One original shallow rigid postal letter tray with a genuinely open front, a wide U-shaped finger recess in its complete floor, two continuous thick side frames each pierced by a real through grip window, and a tall full-width rear stop with a blank inset-facing plaque. Two separate complete longitudinal runners support the underside. Seven closed editable meshes and three constant opaque untextured PBR materials. One complete prop, zero scenes. Metres, native Z up, front -Y, footprint-centred ground origin. All geometry is newly authored; no parcels, letters, labels, logo, texture, animation, imported geometry, cabinet, or stacked-tray count expansion. Static empty appearance only: no postal processing, sorting performance, capacity, paper-format compatibility, carrying or hand fit, insertion path, load, slip resistance, structural stability, manufacturing, installation, material or safety certification claim.",
+  "bounds": {
+    "x": 0.38,
+    "y": 0.5,
+    "z": 0.13,
+    "unit": "m"
+  },
+  "triangles": 140,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/postal/postal-open-front-notched-letter-tray-01/v1.0.0/model.glb",
+      "size": 12356,
+      "sha256": "015701222748aa1cbdbc72369b99af413a35fcdf39233e426868d93313c498c2"
+    },
+    "blend": {
+      "path": "assets/postal/postal-open-front-notched-letter-tray-01/v1.0.0/source.blend",
+      "size": 534848,
+      "sha256": "dd520a9988ce899ea316adb54cd95043bf8144541010207281df3493a3ff0d23"
+    },
+    "generator": {
+      "path": "assets/postal/postal-open-front-notched-letter-tray-01/v1.0.0/generate.py",
+      "size": 30871,
+      "sha256": "b7106b62a33273c332b8a2962b867e7f731e810e20ebd0540e8c9cc9290bdd09"
+    },
+    "render": {
+      "path": "assets/postal/postal-open-front-notched-letter-tray-01/v1.0.0/thumbnail.png",
+      "size": 526163,
+      "sha256": "066634e04eb34983ab12105522d48d4189bdab491690559700ffef2b3b37ff4b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
