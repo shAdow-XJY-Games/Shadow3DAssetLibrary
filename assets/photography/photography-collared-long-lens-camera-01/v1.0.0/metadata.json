@@ -1,0 +1,42 @@
+{
+  "id": "photography-collared-long-lens-camera-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "photography",
+  "style": "S01-clean-geometric",
+  "title": "Collared Long-Lens Camera",
+  "description": "One original fixed long-barrel camera visual prop. A continuous stepped-shoulder body includes its forward projecting right grip and complete ground sole. A finite rear mount supports one continuous multi-stage long barrel, a genuinely deep thick open hood and a full-backed recessed opaque optical-appearance disc. One continuous bored collar, narrow lower neck and broad integral foot has a real finite lower barrel bearing, complete upper/side bore clearances and its own full sole at Z=0. All numerical profiles are original, not an elongated old box camera, copied telescope or assembled earlier parts. Five constant opaque unlinked PBR materials, no textures, transmission or real optical glass. Metres, native Z up, front -Y, entire horizontal envelope centred. One fixed static form only, no tripod, rail, bag, strap, scene or text. No focal length, optical path, imaging, focus, zoom, motion, brand, interchangeable mount, compatibility, load, stability, safety, manufacturing or physical performance claim.",
+  "bounds": {
+    "x": 0.7,
+    "y": 1.195,
+    "z": 0.49,
+    "unit": "m"
+  },
+  "triangles": 1088,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/photography/photography-collared-long-lens-camera-01/v1.0.0/model.glb",
+      "size": 57184,
+      "sha256": "3213f5b8189a48daa3355a16dbb86ab12229d560dcc3bfadea0dfccb52458652"
+    },
+    "blend": {
+      "path": "assets/photography/photography-collared-long-lens-camera-01/v1.0.0/source.blend",
+      "size": 627768,
+      "sha256": "e96e4ad2a871249386b5d608882c2fce9c68e2d094dfb35012df6120ab1f068d"
+    },
+    "generator": {
+      "path": "assets/photography/photography-collared-long-lens-camera-01/v1.0.0/generate.py",
+      "size": 33419,
+      "sha256": "3d7c7301e9f8da0f9cbc0f6cdf7e27fb3e1971fd7729c42810786783cd462fd5"
+    },
+    "render": {
+      "path": "assets/photography/photography-collared-long-lens-camera-01/v1.0.0/thumbnail.png",
+      "size": 496506,
+      "sha256": "042889aa7acc2951b7719a4806e1a02e84dac93a4dba8ded4ea59a16f4b9c1ad"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
