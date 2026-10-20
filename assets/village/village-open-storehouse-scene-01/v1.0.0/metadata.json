@@ -1,0 +1,42 @@
+{
+  "id": "village-open-storehouse-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "village",
+  "style": "S03-warm-handcrafted",
+  "title": "S03 Open-Door Village Storehouse",
+  "description": "One fixed S03 storehouse scene assembled from complete unchanged existing architecture and storage assets at unit scale. A four by eight metre wall-centre grid retains all walls, gable ends, roof sections, nineteen stone foundation tiles and twelve correctly selected complete floor-kit members. A fitted door stays in one declared minus90-degree open pose. Three receiving-yard props and five stored cargo props flank a genuine finite doorway and central work aisle. Original geometry, original material values, full source provenance and named node identities are preserved. One scene, zero new independent models and zero new mesh geometry. The 80mm exterior threshold and original 6mm timber-floor seams remain. External flat ground at Z0 is required. Static visual appearance only; no cart entry, continuous handling or door motion, navigation, collision controller, load, strength, weather sealing, ergonomics, accessibility, manufacture or safety certification.",
+  "bounds": {
+    "x": 10.0,
+    "y": 10.0,
+    "z": 4.76,
+    "unit": "m"
+  },
+  "triangles": 18696,
+  "materials": 20,
+  "files": {
+    "glb": {
+      "path": "assets/village/village-open-storehouse-scene-01/v1.0.0/model.glb",
+      "size": 750780,
+      "sha256": "1d2aa8ad44c017d64357f84d9bd3981aef7886566fbcc36353cf258f1a8f8b0b"
+    },
+    "blend": {
+      "path": "assets/village/village-open-storehouse-scene-01/v1.0.0/source.blend",
+      "size": 2855104,
+      "sha256": "435fd4a1b39fd3260073c2c6a55b0eb92dbe7fe7db88f0b1504521db1d72eb8e"
+    },
+    "generator": {
+      "path": "assets/village/village-open-storehouse-scene-01/v1.0.0/generate.py",
+      "size": 163219,
+      "sha256": "07192422b47eba185a91327070489187bd95767306042d73c10f9300dd408dd9"
+    },
+    "render": {
+      "path": "assets/village/village-open-storehouse-scene-01/v1.0.0/thumbnail.png",
+      "size": 577958,
+      "sha256": "7f4279ed3a6ed2e2b36cf6a7e63a2dc41e425d506dd4525746bd3ea496c8ac84"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
