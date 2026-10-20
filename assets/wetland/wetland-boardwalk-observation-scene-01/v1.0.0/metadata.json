@@ -1,0 +1,42 @@
+{
+  "id": "wetland-boardwalk-observation-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "wetland",
+  "style": "hard-edge-faceted-wetland",
+  "title": "Shallow-Water Boardwalk Observation Corner",
+  "description": "One static wetland observation scene: two entire unchanged two-metre pier tiles form a four-metre timber deck beside one complete four-arch prop-root mangrove, three whole old reed clumps and one complete fallen log. All seven instances preserve the complete original geometry and constant PBR at unit scale. Eight pile soles and four root feet meet the finite inset pool bed; reeds and the log meet the finite dry bank. Three closed scene-only environmental meshes form the mud base, shallow inset bank and opaque water with full low-root/pile clearance holes. The full deck air volume stays empty and the original two-millimetre inter-tile seam remains. One scene, zero new standalone models; no old scene is reimported. Fixed visual composition only, with no ground-to-deck access, load, actual bearing capacity, accessibility, navigation, collision controller, buoyancy, tide, biological, ecological or water-simulation guarantee.",
+  "bounds": {
+    "x": 8.0,
+    "y": 6.8,
+    "z": 2.58,
+    "unit": "m"
+  },
+  "triangles": 4494,
+  "materials": 18,
+  "files": {
+    "glb": {
+      "path": "assets/wetland/wetland-boardwalk-observation-scene-01/v1.0.0/model.glb",
+      "size": 192100,
+      "sha256": "b13618ef5fbcdc37df4e2076ae70b8c04d8035befdff6d05596fefb3ead9ec24"
+    },
+    "blend": {
+      "path": "assets/wetland/wetland-boardwalk-observation-scene-01/v1.0.0/source.blend",
+      "size": 1173412,
+      "sha256": "48d9fda14096dd5133047ddf6e293d2228b86528dab8ce5f0dc9bed99225da51"
+    },
+    "generator": {
+      "path": "assets/wetland/wetland-boardwalk-observation-scene-01/v1.0.0/generate.py",
+      "size": 117526,
+      "sha256": "531d7df80e2038997eb540e7ecd6e69b60c577b5233e9e6f0054ecedb3f7c773"
+    },
+    "render": {
+      "path": "assets/wetland/wetland-boardwalk-observation-scene-01/v1.0.0/thumbnail.png",
+      "size": 529586,
+      "sha256": "c2cb8a70b778ae19e9c18fd3ea9a932125a94a9ee3f23c2c89ceda45e5132b6b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
