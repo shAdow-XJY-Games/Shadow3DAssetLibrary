@@ -1,0 +1,42 @@
+{
+  "id": "robotics-four-station-service-court-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "robotics",
+  "style": "source-preserved-S01-clean-geometric",
+  "title": "Robot Four-Station Service Court",
+  "description": "One static robot-service themed scene with four separately grounded unchanged assets arranged around a broad transverse central workcourt: a complete four-wheel inspection rover is parked in the southwest bay, a complete fixed open-gripper arm occupies the northeast inspection bay, an empty full worktable stands northwest, and an empty complete triangular corner shelf faces inward from the southeast. Four unit-scale rigid instances preserve every original mesh, hierarchy, oriented triangle, fixed pose and full solid PBR. One closed scene-only floor supports every complete original ground patch. Seven connected finite empty reference volumes describe the central cross-court, front entry, rear access and four inner station approaches. No robot is placed on a worktable, no object is held by the open fingers and nothing is added to either empty work surface. One scene and zero new independent models. Static game visual only; no actual maintenance, repair procedure, operation, grasping, sensing, driving, power, controls, collision interaction, continuous navigation, ergonomics, accessibility, load, stability, manufacture, installation or safety certification.",
+  "bounds": {
+    "x": 5.6,
+    "y": 5.6,
+    "z": 2.27,
+    "unit": "m"
+  },
+  "triangles": 3772,
+  "materials": 16,
+  "files": {
+    "glb": {
+      "path": "assets/robotics/robotics-four-station-service-court-scene-01/v1.0.0/model.glb",
+      "size": 236400,
+      "sha256": "3583f0a945d579a68f51686550e63926b6c163fb78d57ecc11ac5dec5d94d31e"
+    },
+    "blend": {
+      "path": "assets/robotics/robotics-four-station-service-court-scene-01/v1.0.0/source.blend",
+      "size": 1522368,
+      "sha256": "bb2dca58b89337ee2c90ab81fba3db294cc8bd29b527ef3cb1b5fa93068ad0b0"
+    },
+    "generator": {
+      "path": "assets/robotics/robotics-four-station-service-court-scene-01/v1.0.0/generate.py",
+      "size": 118336,
+      "sha256": "1c2ded1606be38a31d6ee14bdd4669aed51b24d110e2c7a173dc429667c869a8"
+    },
+    "render": {
+      "path": "assets/robotics/robotics-four-station-service-court-scene-01/v1.0.0/thumbnail.png",
+      "size": 507616,
+      "sha256": "01c2797757cc033c072d1343b04d8eb7895979349b1f54da3b9b9869e30bbd3a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
