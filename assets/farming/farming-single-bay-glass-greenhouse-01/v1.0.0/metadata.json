@@ -1,0 +1,42 @@
+{
+  "id": "farming-single-bay-glass-greenhouse-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "farming",
+  "style": "S01-clean-geometric",
+  "title": "Single-bay Glass Greenhouse",
+  "description": "One original freestanding empty 2.4 by 3 metre gabled greenhouse shell: a whole open-centre low footing, four original continuous inverted-U portal frames, finite longitudinal eave and ridge members, eighteen individually closed 6 mm true-glass panes across both side walls, both roof pitches, both end gables and one distinct fixed closed front door. The planting interior is entirely empty, including the roof volume, side recesses, end gable recesses and inner entrance approach. One static architectural model, native metres/Z up/front -Y, centred horizontal envelope and full ground datum Z=0. Constant near-clear transmission glass with alpha one, matching IOR and physical-volume thickness; no textures or linked inputs. No shelves, crops, soil contents, lights, labels, branding, animation, window operation, ventilation, climate control, door travel, practical passage, growing performance, structural/weather/glass safety, manufacturing or old-building interface claim.",
+  "bounds": {
+    "x": 2.4,
+    "y": 3.0,
+    "z": 2.55,
+    "unit": "m"
+  },
+  "triangles": 676,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/farming/farming-single-bay-glass-greenhouse-01/v1.0.0/model.glb",
+      "size": 59488,
+      "sha256": "b668f6f0e17b911f525b5000bbcc09f4e94324fb5662f78155e030d54a88e202"
+    },
+    "blend": {
+      "path": "assets/farming/farming-single-bay-glass-greenhouse-01/v1.0.0/source.blend",
+      "size": 766700,
+      "sha256": "12d6186c62da26cfe86da3ec01bf81e5a5bf37594f1a20b9d22814e68f04afe6"
+    },
+    "generator": {
+      "path": "assets/farming/farming-single-bay-glass-greenhouse-01/v1.0.0/generate.py",
+      "size": 45848,
+      "sha256": "97ee1bfbd2a8a565ae0f51e54b4ed67f0f3cfab044e0f98bfb3d80853d2492ef"
+    },
+    "render": {
+      "path": "assets/farming/farming-single-bay-glass-greenhouse-01/v1.0.0/thumbnail.png",
+      "size": 677812,
+      "sha256": "65bd9fac93c475e1dcb2160be692fe7565420fc02ae1500552ec5edab18b1537"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
