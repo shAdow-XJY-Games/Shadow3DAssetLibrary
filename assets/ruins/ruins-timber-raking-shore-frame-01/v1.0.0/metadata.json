@@ -1,0 +1,42 @@
+{
+  "id": "ruins-timber-raking-shore-frame-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "ruins",
+  "style": "S01-clean-geometric",
+  "title": "Timber Raking Shore Frame",
+  "description": "One original static wooden raking-shore frame appearance for a ruined-building visual. A complete long horizontal ground sole, a tall vertical wall plate and one continuous thick diagonal define a readable one-sided open triangle. The diagonal has a full horizontal cut heel seated on the sole and a full vertical cut head seated against the upright. Two pairs of thick fixed dark cheek limiter plates connect the lower and upper junctions through opposed finite exterior face seats; no penetrating geometry is counted as support. Seven individually editable closed connected solids and four constant opaque untextured PBR materials, including separate timber end-grain color faces. One prop and zero scenes. No wall or wall fragment is included; the complete asset boundary remains visible and independent. Newly authored numeric geometry, not an old easel, tripod, scaffold, rack or ladder renamed. Native Z up, front -Y, entire sole at ground. Coordinates in metres are game-space only. No real load-bearing, construction suitability, engineering, physical stability, installation, fastener mechanics, safety, movement or compatibility with existing wall modules is claimed. This is not a real construction guide. No texture, text, animation, working joint or scene is included.",
+  "bounds": {
+    "x": 0.72,
+    "y": 2.23,
+    "z": 2.45,
+    "unit": "m"
+  },
+  "triangles": 84,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/ruins/ruins-timber-raking-shore-frame-01/v1.0.0/model.glb",
+      "size": 12764,
+      "sha256": "b63219dbb36ebc05657806098bcb50c4dfc826d9137e0a025a7d9b3c18d7ae21"
+    },
+    "blend": {
+      "path": "assets/ruins/ruins-timber-raking-shore-frame-01/v1.0.0/source.blend",
+      "size": 555316,
+      "sha256": "a87e5292c4f021aa21c32e660a1991822f43dca886a4a4d5dc5d5328549bd5df"
+    },
+    "generator": {
+      "path": "assets/ruins/ruins-timber-raking-shore-frame-01/v1.0.0/generate.py",
+      "size": 28290,
+      "sha256": "eff8da59896ca0a1ce7a6eb70d3cbe5b8a413a5296f21ccf471e19af6b3537c2"
+    },
+    "render": {
+      "path": "assets/ruins/ruins-timber-raking-shore-frame-01/v1.0.0/thumbnail.png",
+      "size": 509579,
+      "sha256": "0f01533b7de46712b5f0f50a6cf2e2d1e8357954c819b0fff51862a60e09516a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
