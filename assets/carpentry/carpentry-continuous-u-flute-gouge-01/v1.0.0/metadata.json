@@ -1,0 +1,42 @@
+{
+  "id": "carpentry-continuous-u-flute-gouge-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "carpentry",
+  "style": "S01-clean-geometric",
+  "title": "Continuous U-Flute Gouge",
+  "description": "One original fixed U-flute gouge visual prop, with a deep transverse U channel extending longitudinally to an open front mouth, real finite blunt U lip and external bevel. The complete metal blade, rising root, narrow neck and tang form one closed connected body. One original thick grip has a genuine blind insertion cavity, complete bottom seat and radial clearance around the tang. One thick through-bored ferrule seats on the complete finite grip shoulder with nonzero bore clearance. The blade back and grip bottom each have a full finite ground sole at Z=0. Exactly three editable closed meshes form one asset. Three constant opaque unlinked PBR materials, no textures or transmission. All numerical profiles are new, not an extracted old flat chisel, loop blade, spoon, scraper or compressed shovel. Metres, native Z up, front -Y, complete horizontal envelope centred. One fixed static form only. No cutting, sharpness, strength, hardness, impact, manufacture, fit tolerance, anatomy, operation, load or safety claim. No workpiece, chips, tool rack, scene, second blade or animation. The original chisel-form family remains partial.",
+  "bounds": {
+    "x": 0.049384,
+    "y": 0.35,
+    "z": 0.049384,
+    "unit": "m"
+  },
+  "triangles": 792,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/carpentry/carpentry-continuous-u-flute-gouge-01/v1.0.0/model.glb",
+      "size": 40472,
+      "sha256": "f63e241e0ae931f40741844bb871916a1a582aeaff212813bbb49e320fef2744"
+    },
+    "blend": {
+      "path": "assets/carpentry/carpentry-continuous-u-flute-gouge-01/v1.0.0/source.blend",
+      "size": 550080,
+      "sha256": "34a9cad8728f3ee14f15686a8edbbd3be73c01129c01939eabd8f373300b3ab9"
+    },
+    "generator": {
+      "path": "assets/carpentry/carpentry-continuous-u-flute-gouge-01/v1.0.0/generate.py",
+      "size": 32279,
+      "sha256": "9946be4be233e67a932e139f8a5c6a18535ddb87bca969aa8425e224d187f131"
+    },
+    "render": {
+      "path": "assets/carpentry/carpentry-continuous-u-flute-gouge-01/v1.0.0/thumbnail.png",
+      "size": 477744,
+      "sha256": "c9e31d74ce7c9be1783900d39177a6f632e66406291e1578e415aa47a3d30796"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
