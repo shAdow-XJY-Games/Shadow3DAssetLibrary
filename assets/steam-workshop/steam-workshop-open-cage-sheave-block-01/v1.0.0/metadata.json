@@ -1,0 +1,42 @@
+{
+  "id": "steam-workshop-open-cage-sheave-block-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "steam-workshop",
+  "style": "S01-clean-geometric",
+  "title": "Open-Cage Single-Sheave Block Display",
+  "description": "One original complete static lifting-block visual: two thick circular open cheek cages with four integral radial spokes and genuine central axle bores enclose one continuous deeply grooved sheave with an integral full transverse axle. The axle is seated on both complete lower bore facets. One broad lower display base grounds both cages, while a separate upper crossbar joins their upper facets and carries one complete open polygonal connection eye. Six editable closed connected meshes, four constant opaque untextured PBR materials. The sheave groove, eight cheek windows, complete bore-minus-axle clearances, both lateral sheave gaps and upper eye aperture are genuinely empty finite domains. One prop and zero scenes. Metres are game-space coordinates, native Z up, front -Y, base-centred ground origin. Newly authored numeric whole geometry, no transformed, recoloured or renamed reel, ratchet winch, gear, crane or spinning-wheel model. Static visual display only: no rope, hook, cargo, person, lift, rotation, motion, rigging, working bearing, force transmission, mechanical advantage, structural load, stability, installation fit, real manufacture or equipment safety claim. No texture, text, animation or surrounding scene.",
+  "bounds": {
+    "x": 1.12,
+    "y": 0.74,
+    "z": 1.394628,
+    "unit": "m"
+  },
+  "triangles": 1080,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/steam-workshop/steam-workshop-open-cage-sheave-block-01/v1.0.0/model.glb",
+      "size": 51344,
+      "sha256": "55f680345c825e21d79b6c0a2250e248a7d053e47536c6f9ef17023981441583"
+    },
+    "blend": {
+      "path": "assets/steam-workshop/steam-workshop-open-cage-sheave-block-01/v1.0.0/source.blend",
+      "size": 603752,
+      "sha256": "9f0b8c15c4dffd80179104bfdfb2ffddb5b880644f20ccd3f44daa705919277c"
+    },
+    "generator": {
+      "path": "assets/steam-workshop/steam-workshop-open-cage-sheave-block-01/v1.0.0/generate.py",
+      "size": 33955,
+      "sha256": "602898795243e8b6c3200a197dd5301c2dc2c4200ce1cd3fe42b33c8a6252cf5"
+    },
+    "render": {
+      "path": "assets/steam-workshop/steam-workshop-open-cage-sheave-block-01/v1.0.0/thumbnail.png",
+      "size": 555349,
+      "sha256": "44f4b4420374a750be7df552ae2dfd9ea8172b4f20517fbea12794ad301f0a5a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

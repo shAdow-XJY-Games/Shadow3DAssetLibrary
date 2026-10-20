@@ -1,0 +1,42 @@
+{
+  "id": "spacebase-through-corridor-section-01",
+  "version": "1.0.0",
+  "category": "architecture",
+  "assetKind": "modular",
+  "theme": "spacebase",
+  "style": "S01-clean-geometric",
+  "title": "Thick-Walled Through-Corridor Section",
+  "description": "One original static spacebase corridor-section module: a continuous thick eight-corner rectangular shell joins a complete floor, side walls, clipped corner faces and ceiling along a 4.2 metre game-space length. Two integral broad protruding end collars form readable front and rear frames. Both end mouths are genuinely open, and the complete faceted interior plus both external egress volumes are empty. The inner floor is raised 0.22 metres over the whole finite grounded sole. Four opaque untextured constant PBR colours distinguish the muted blue shell, pale inner lining, amber end collars and dark floor. One connected editable closed material mesh, one modular model and zero scenes. Metres, native Z up, front -Y and ground-level footprint-centred origin. Independent visual form with no older grid, airlock, doorway or installation compatibility claim. No door, hatch, hinge, windows, control panel, lights, people, textures, rigging or animation. Static game appearance only: no airtightness, pressurization, atmosphere, navigation, accessibility, movement, structural load, stability, construction or safety capability.",
+  "bounds": {
+    "x": 3.56,
+    "y": 4.2,
+    "z": 3.28,
+    "unit": "m"
+  },
+  "triangles": 120,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/spacebase/spacebase-through-corridor-section-01/v1.0.0/model.glb",
+      "size": 9408,
+      "sha256": "45be4b2af31286f17676aab526a85e444ca7c133676edc1f781918a05587350d"
+    },
+    "blend": {
+      "path": "assets/spacebase/spacebase-through-corridor-section-01/v1.0.0/source.blend",
+      "size": 526852,
+      "sha256": "bc4e9fc1c8d51611818d38052788cdc0e30238f9052d25ec7c16aeff6983bacf"
+    },
+    "generator": {
+      "path": "assets/spacebase/spacebase-through-corridor-section-01/v1.0.0/generate.py",
+      "size": 30936,
+      "sha256": "95dd566d69d358d12efc71087e1c73d2e02ce105479b4f5c28685b90fa9e4f5e"
+    },
+    "render": {
+      "path": "assets/spacebase/spacebase-through-corridor-section-01/v1.0.0/thumbnail.png",
+      "size": 591282,
+      "sha256": "aa2f88d4f708c117c4ac2303d33a0110cc500605481dbcd6a36b434326ad1689"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "music-static-keyboard-accordion-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Static Pleated Keyboard Accordion",
+  "description": "One original complete static low-poly keyboard accordion: two deep chamfer-cornered red end cases flank one continuous nine-fold bellows body. Fourteen separate pale long keys and ten raised short dark keys form a clearly readable stylized keyboard on its own dark backing; eighteen separate pale octagonal buttons form a three-by-six field on the opposite case. Every key, button, keyboard backing and bellows end has a complete finite opposed seat, with no hidden interpenetration. The bellows has continuous folded front, back, top and underside surfaces, with defined open valley clearances. Forty-six editable closed meshes and four constant opaque untextured PBR materials. Both full case bottom facets rest at Z=0. One prop, zero scenes. Metres are game-space proportions; native Z up, front -Y, ground-centred origin. Newly authored whole geometry, no imported instrument, piano, luggage or bag geometry. Static visual only: deliberately stylized key/button counts and layout, no precise real instrument system, pitch range, sound, playable keys, working buttons, bellows movement, reed chamber, air flow, acoustic response, tuning, ergonomic fit, straps, carrying, stability, manufacture or safety certification. No player, case, stage, texture, text, animation or surrounding scene.",
+  "bounds": {
+    "x": 1.32,
+    "y": 0.487,
+    "z": 0.8,
+    "unit": "m"
+  },
+  "triangles": 1008,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-static-keyboard-accordion-01/v1.0.0/model.glb",
+      "size": 77376,
+      "sha256": "9630fb2e7e1212081cc6d68fbdcc0210ba55a6d46d583abe27dfc588de33c52a"
+    },
+    "blend": {
+      "path": "assets/music/music-static-keyboard-accordion-01/v1.0.0/source.blend",
+      "size": 801748,
+      "sha256": "1765846bf8425c91c74774330756e419d6421cf4917bd751e4e02ca6f554ac9f"
+    },
+    "generator": {
+      "path": "assets/music/music-static-keyboard-accordion-01/v1.0.0/generate.py",
+      "size": 32076,
+      "sha256": "067470b13493a681e78a22544629d31ef7041b7da98c07c6533395d23bbeb295"
+    },
+    "render": {
+      "path": "assets/music/music-static-keyboard-accordion-01/v1.0.0/thumbnail.png",
+      "size": 575485,
+      "sha256": "9171d8396789b7070620f830ade8e7e1c153641af724ab51a1b3c9458fac4589"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
