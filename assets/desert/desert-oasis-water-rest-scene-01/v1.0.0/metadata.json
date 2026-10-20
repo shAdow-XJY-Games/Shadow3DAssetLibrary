@@ -1,0 +1,42 @@
+{
+  "id": "desert-oasis-water-rest-scene-01",
+  "version": "1.0.0",
+  "category": "scenes",
+  "assetKind": "scene",
+  "theme": "desert",
+  "style": "warm-faceted-oasis",
+  "title": "Oasis Water-Drawing and Shaded Rest Corner",
+  "description": "One fixed oasis water-drawing and rest scene using four complete unchanged original models: a fan palm behind an offset stone well and a separate four-post sloping canopy over a slatted bench. Original hollow well, recessed opaque water, bucket, crank, entire palm crown, full canopy and all bench geometry/PBR remain at unit scale. Three closed scene-only sandy support meshes provide the base, low well-stone plinth and exact bedding under every complete tilted bench-foot patch. Four bounded static clear volumes distinguish the front cross-passage, well approach, canopy entrance and bench-front space. One scene, zero new independent models; no prior scene is imported. The .15m scene edge needs external placement. Static appearance only: no potable-water, water supply or circulation, pumping, fluid simulation, biological, ecological, climate, heat-comfort, ultraviolet, navigation, controller, ergonomics, accessibility, load, stability, manufacture or safety certification.",
+  "bounds": {
+    "x": 7.8,
+    "y": 6.8,
+    "z": 3.093389,
+    "unit": "m"
+  },
+  "triangles": 4572,
+  "materials": 20,
+  "files": {
+    "glb": {
+      "path": "assets/desert/desert-oasis-water-rest-scene-01/v1.0.0/model.glb",
+      "size": 345268,
+      "sha256": "b337dfc38126c9a293bc3ba944de62398cebbcd03e10919e866e043736025dd7"
+    },
+    "blend": {
+      "path": "assets/desert/desert-oasis-water-rest-scene-01/v1.0.0/source.blend",
+      "size": 1465976,
+      "sha256": "0b102ace87785a4fbef6273149abdb0c41a6e5a99f2352fd6beb94106ab56d17"
+    },
+    "generator": {
+      "path": "assets/desert/desert-oasis-water-rest-scene-01/v1.0.0/generate.py",
+      "size": 123705,
+      "sha256": "fb8865512742b0f9e564432f4cc70fe0c87d964802f5be4653401c52e82b9f9f"
+    },
+    "render": {
+      "path": "assets/desert/desert-oasis-water-rest-scene-01/v1.0.0/thumbnail.png",
+      "size": 538837,
+      "sha256": "93a163ef5766b5beea0a94724489f82448fd1643c71dad851f5fbdd26875a224"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
