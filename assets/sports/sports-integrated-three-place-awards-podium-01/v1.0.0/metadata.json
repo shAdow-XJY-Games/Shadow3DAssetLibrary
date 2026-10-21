@@ -1,0 +1,42 @@
+{
+  "id": "sports-integrated-three-place-awards-podium-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Integrated Three-Place Awards Podium",
+  "description": "One original complete static sports awards podium. A single continuous three-height shell places the highest central station between a medium left station and a lower right station. Three original chamfer-corner thick tread pads rest on complete finite top faces. The continuous shell has three genuinely open underside pockets, full partition ribs and one connected broad ground sole. Ivory geometric II, I and III rank strokes and a warm lower skirt are integral material regions of the shell, never floating labels or coplanar overlays. Four editable closed connected meshes, four constant opaque untextured PBR materials; one complete prop and zero scenes. Metres, native Z up, front -Y, horizontal bounds-centred ground origin. New numeric geometry, no old stage, stair, bleacher, pool platform, scoreboard or reused model fragments. Static illustrative geometry only: no event affiliation, competition standard, ranking logic, athlete suitability, human fit, accessibility, climbing, load, stability, anti-tip, grip performance, structural, material, manufacture, installation or safety certification. No people, medals, trophy, logos, texture, animation or separate scene.",
+  "bounds": {
+    "x": 2.16,
+    "y": 0.78,
+    "z": 0.745,
+    "unit": "m"
+  },
+  "triangles": 2144,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-integrated-three-place-awards-podium-01/v1.0.0/model.glb",
+      "size": 61884,
+      "sha256": "b9b6ad4aa2b9474b4e32902fc05578dff0baee8504665f5f27de913f34e15614"
+    },
+    "blend": {
+      "path": "assets/sports/sports-integrated-three-place-awards-podium-01/v1.0.0/source.blend",
+      "size": 651440,
+      "sha256": "70ca15fbac7ed31d7c02622ae6dd0e5b7762adca2e5a7bd5166b557389567cce"
+    },
+    "generator": {
+      "path": "assets/sports/sports-integrated-three-place-awards-podium-01/v1.0.0/generate.py",
+      "size": 31521,
+      "sha256": "985e4d90165b3d72232f476aa277eadc980f77905530b4ea9cce36713651895c"
+    },
+    "render": {
+      "path": "assets/sports/sports-integrated-three-place-awards-podium-01/v1.0.0/thumbnail.png",
+      "size": 489420,
+      "sha256": "b250ad9705725810da8b137a334b1643f8b4302fcced6973c8a0cb66be6b2513"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
