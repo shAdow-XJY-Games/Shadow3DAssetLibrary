@@ -1,0 +1,42 @@
+{
+  "id": "restaurant-bamboo-steamer-with-lid-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "restaurant",
+  "style": "S01-clean-geometric",
+  "title": "Bamboo Steamer with Display Lid",
+  "description": "One original static bamboo-steamer display prop: a single thick circular open basket body, nine finite bamboo bottom slats with eight real through-vent gaps, and one matching solid lid laid beside it with a closed U-section raised handle. One whole prop including its lid, zero scenes. Twelve closed connected editable component meshes and three opaque untextured PBR materials; metres, native Z up, front -Y. The body has a deep real open cavity, complete inner wall and integrated low rim bands. Full finite wall, slat, cavity, ventilation, lid, handle-opening, support and contact domains are checked on actual exported triangles. Every numeric shape is newly authored. No existing pan, stockpot, basket, strainer, tray or lid is imported, recoloured, scaled or renamed. Fixed display appearance only; no steaming, cooking, heat, water, steam effects, moving/removable mechanism, food-contact suitability, exact bamboo weaving, manufacture, capacity or safety claim.",
+  "bounds": {
+    "x": 0.731,
+    "y": 0.346,
+    "z": 0.145,
+    "unit": "m"
+  },
+  "triangles": 1040,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/restaurant/restaurant-bamboo-steamer-with-lid-01/v1.0.0/model.glb",
+      "size": 59924,
+      "sha256": "cdf75486edfd61c55d3a25ee036681aad3bbf209e8361b25b33caf4543140654"
+    },
+    "blend": {
+      "path": "assets/restaurant/restaurant-bamboo-steamer-with-lid-01/v1.0.0/source.blend",
+      "size": 608692,
+      "sha256": "447d361e2b656bbf39cb9051276c37b83c2666ef456f9adc8608502304a7e463"
+    },
+    "generator": {
+      "path": "assets/restaurant/restaurant-bamboo-steamer-with-lid-01/v1.0.0/generate.py",
+      "size": 31652,
+      "sha256": "c350fd35476d82935f3d5a4a120d73b52bd37fe21d91bdf4c1369c05998c2928"
+    },
+    "render": {
+      "path": "assets/restaurant/restaurant-bamboo-steamer-with-lid-01/v1.0.0/thumbnail.png",
+      "size": 494004,
+      "sha256": "703320a4334d9cd302a862c15f01ba2f5a33fc604f53e26b4c27040377fb7666"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
