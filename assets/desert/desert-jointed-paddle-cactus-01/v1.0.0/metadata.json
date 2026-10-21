@@ -1,0 +1,42 @@
+{
+  "id": "desert-jointed-paddle-cactus-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "desert",
+  "style": "S02-hard-edge-faceted",
+  "title": "Asymmetric Jointed Paddle Cactus",
+  "description": "One original static stylised desert cactus with four unequal thick flattened paddle bodies in an asymmetric rising branch silhouette. Each closed editable paddle has bevelled edges and small integral raised triangular areole marks on both broad faces. Three entire finite opposed attachment seats connect the paddles without floating or intersecting bodies, and the basal paddle has a complete flat ground sole. Four opaque constant matte untextured PBR tones define broad green faces, darker edges, pale areole marks and muted back faces. One complete prop and zero scenes; paddles and marks are not counted separately. Metres, native Z up, front -Y, horizontally envelope-centred ground origin. All numeric plant geometry newly authored without old plant, rock or scene imports. Stylised static game-art only: no species identification, botanical anatomy, ecological, cultivation, edible or medicinal, growth, animation, wind, collision, navigation, physical stability or safety claim. No fruit, flowers, soil island, pot, rocks or surrounding scene.",
+  "bounds": {
+    "x": 1.718739628791809,
+    "y": 0.16200000047683716,
+    "z": 1.5990617275238037,
+    "unit": "m"
+  },
+  "triangles": 704,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/desert/desert-jointed-paddle-cactus-01/v1.0.0/model.glb",
+      "size": 41596,
+      "sha256": "8d713d0f2a2556a11d7694254cb75c798a78663d4ab6fc5d79828479dec8e9d0"
+    },
+    "blend": {
+      "path": "assets/desert/desert-jointed-paddle-cactus-01/v1.0.0/source.blend",
+      "size": 573536,
+      "sha256": "e97ff300393ab430a9ce9655249d30dc59b6652f2791c0308a3f17667f047d2b"
+    },
+    "generator": {
+      "path": "assets/desert/desert-jointed-paddle-cactus-01/v1.0.0/generate.py",
+      "size": 30613,
+      "sha256": "b44d5e336a8fb2d920b7c753218407618aefeba0846815e50616804709566cc4"
+    },
+    "render": {
+      "path": "assets/desert/desert-jointed-paddle-cactus-01/v1.0.0/thumbnail.png",
+      "size": 473078,
+      "sha256": "f04681d3ecc0ba69df4ceef7ed2833f142211e6422468cfef753daa1a1be000b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

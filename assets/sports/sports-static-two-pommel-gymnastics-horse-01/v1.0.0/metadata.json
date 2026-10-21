@@ -1,0 +1,42 @@
+{
+  "id": "sports-static-two-pommel-gymnastics-horse-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Two-Pommel Gymnastics Horse",
+  "description": "One original complete static low-poly gymnastics pommel horse. A long chamfer-ended convex padded horse body carries two continuous thick cream-coloured transverse pommels, each with a genuine through opening. A full underbody rail, two finite support legs and two broad transverse ground feet form one connected supported assembly. Eight editable closed connected meshes, four opaque constant untextured PBR materials, one prop and zero scenes. Metres are game-space proportions; native Z up, front -Y, horizontal bounds-centred ground origin. All numeric body, pommel and stand geometry newly authored; no imported bench, rack, kettlebell or previous mesh geometry. One fixed visual pose only: no athlete, animation, adjustable height, physical simulation, working mechanism, certified competition dimensions, official event association, gymnastics instruction, ergonomic fit, load rating, real-world stability, manufacture, installation compatibility or safety certification. No texture, logo or labels.",
+  "bounds": {
+    "x": 1.600000023841858,
+    "y": 0.8600000143051147,
+    "z": 1.3600000143051147,
+    "unit": "m"
+  },
+  "triangles": 248,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-static-two-pommel-gymnastics-horse-01/v1.0.0/model.glb",
+      "size": 18552,
+      "sha256": "039507625044e26f210cd8de2f71fcacf504c4824289b2b7634c606bd28474f2"
+    },
+    "blend": {
+      "path": "assets/sports/sports-static-two-pommel-gymnastics-horse-01/v1.0.0/source.blend",
+      "size": 569060,
+      "sha256": "85d2fb50e68dfbd26f90fe51373028390856fd6ccb156ee7dad2f480be764e67"
+    },
+    "generator": {
+      "path": "assets/sports/sports-static-two-pommel-gymnastics-horse-01/v1.0.0/generate.py",
+      "size": 30824,
+      "sha256": "c644dcf76871d4e6a5b544bae21798c6389fe846faa17188f4464e3b8b14a7f2"
+    },
+    "render": {
+      "path": "assets/sports/sports-static-two-pommel-gymnastics-horse-01/v1.0.0/thumbnail.png",
+      "size": 523240,
+      "sha256": "a9e0b880893fe85f96b9daee6d948f5f8826fc50aae56f6b183606cf97eda9fe"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
