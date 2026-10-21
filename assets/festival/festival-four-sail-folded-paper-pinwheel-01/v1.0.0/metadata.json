@@ -1,0 +1,42 @@
+{
+  "id": "festival-four-sail-folded-paper-pinwheel-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "S01-clean-geometric",
+  "title": "Four-Sail Folded Paper Festival Pinwheel",
+  "description": "One original complete static Lunar New Year fair pinwheel-inspired prop. Four broad swept paper-coloured sails have actual nonplanar fold ridges, finite 6 mm game-art thickness and separate closed editable surfaces. Four flat inner root patches meet the front of one faceted backing hub; a small central button, one short square-section rear axle and one continuous narrow wooden handle complete the fixed assembly. Eight closed meshes, four opaque constant untextured PBR materials. One whole prop and zero scenes. Metres, native Z up, front -Y and ground datum at the flat handle end. All sail geometry is newly authored: no old turbine blade, palm frond, leaf, wreath or wheel mesh is imported, recoloured, rescaled or duplicated. The four sails are components of one prop and do not increase the model count. Static stylized visual appearance only: no turning mechanism, moving pivot, animation, wind response, aerodynamic or electrical function, actual paper properties, craft instructions, cultural reconstruction, handling suitability, load, stability, manufacture, installation or safety certification. No text, logo, textures, stand or surrounding scene. Dimensions describe game geometry only.",
+  "bounds": {
+    "x": 0.64,
+    "y": 0.241,
+    "z": 1.18,
+    "unit": "m"
+  },
+  "triangles": 176,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-four-sail-folded-paper-pinwheel-01/v1.0.0/model.glb",
+      "size": 17340,
+      "sha256": "54587de2cddebec52ecb794d44d1906c55aa458103ea917b27add74b738d4203"
+    },
+    "blend": {
+      "path": "assets/festival/festival-four-sail-folded-paper-pinwheel-01/v1.0.0/source.blend",
+      "size": 565364,
+      "sha256": "b957a48db9d727bd72b6a44af3fbfbaa09e321fe7de62fa16feb51ffe42bdd70"
+    },
+    "generator": {
+      "path": "assets/festival/festival-four-sail-folded-paper-pinwheel-01/v1.0.0/generate.py",
+      "size": 29697,
+      "sha256": "5a97e2b044044829d653a6ad965e20deaa37de84d1a874a8f74ec0c505eaa446"
+    },
+    "render": {
+      "path": "assets/festival/festival-four-sail-folded-paper-pinwheel-01/v1.0.0/thumbnail.png",
+      "size": 490205,
+      "sha256": "e5a300eaa9cb4b0bf5a07f6341abb81b93e7497f547cd075f85ceab4edb5b434"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "library-wide-throat-book-return-cabinet-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "library",
+  "style": "S01-clean-geometric",
+  "title": "Wide-Throat Library Book Return Cabinet",
+  "description": "One original static library book-return cabinet, counted as one complete prop. A newly authored continuous thick shell encloses one full collection chamber with a true 0.51 by 0.16 m horizontal front throat. A projecting fixed staging ledge seats below the open throat; a separate recessed rear closure panel has real perimeter relief and a broad grounded plinth supports the shell and panel. Four complete editable closed meshes, four opaque constant untextured PBR materials, metres, native Z up, front -Y and plinth-centred ground origin. No books, existing counter, book cart, old model fragments, logos, images or text are included. Distinct from the existing wheeled sorting cart, front-open bookcase, four-compartment locker and arched postal letterbox with a blind recess. Fixed visual geometry only: no book compatibility, insertion or dropping simulation, borrowing system, door movement, capacity, sealing, human suitability, accessibility, stability, load, manufacture, installation or security/safety certification.",
+  "bounds": {
+    "x": 0.74,
+    "y": 0.67,
+    "z": 1.12,
+    "unit": "m"
+  },
+  "triangles": 484,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/library/library-wide-throat-book-return-cabinet-01/v1.0.0/model.glb",
+      "size": 18508,
+      "sha256": "9f4e4290778997d0c2239181a9e979a33242496c2737d02a5d1174f7cd25eb2f"
+    },
+    "blend": {
+      "path": "assets/library/library-wide-throat-book-return-cabinet-01/v1.0.0/source.blend",
+      "size": 561692,
+      "sha256": "93a71105956281399e8d19589128ab123255ecd98f63c8465c18574812c71378"
+    },
+    "generator": {
+      "path": "assets/library/library-wide-throat-book-return-cabinet-01/v1.0.0/generate.py",
+      "size": 29674,
+      "sha256": "55c89fdb05efdfef3147b45657ac8ae94a1f3cef3441b259f0e80e7a0e93bf69"
+    },
+    "render": {
+      "path": "assets/library/library-wide-throat-book-return-cabinet-01/v1.0.0/thumbnail.png",
+      "size": 511217,
+      "sha256": "4aff6f6ab4f6b4d95b1bb86c5be4a2f96cd2e079a7b3216691ac7858aa30fd4b"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
