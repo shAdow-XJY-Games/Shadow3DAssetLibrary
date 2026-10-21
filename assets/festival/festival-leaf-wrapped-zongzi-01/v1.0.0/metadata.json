@@ -1,0 +1,42 @@
+{
+  "id": "festival-leaf-wrapped-zongzi-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "S01-clean-geometric",
+  "title": "Tetrahedral Leaf-Wrapped Zongzi",
+  "description": "One original static Dragon Boat Festival zongzi-inspired prop: a full closed tetrahedral wrapped parcel, two separately editable thick leaf lap panels with real raised fold ridges, and one continuous three-sided straw-coloured cord ring with a raised front tie. The cord has complete finite opposed contact on all three sloping parcel faces. The leaf laps have complete finite seated backs and visible thin edges. All geometry is new numerical construction, with no old food, plant, leaf, ribbon or plate imported. Four closed editable meshes and four constant opaque untextured PBR tones. One whole prop, zero scenes. Metres, native Z up, front -Y and horizontally bounds-centred flat ground origin. No plate, exposed rice, fillings, utensils, text, texture, animation or surrounding scene. A stylized wrapped festive-food appearance only; no particular regional, botanical or cultural accuracy, recipe, ingredients, allergens, nutrition, edible product, food contact, hygiene, binding mechanics, leaf deformation, manufacture, compatibility or safety certification. Dimensions describe game geometry only.",
+  "bounds": {
+    "x": 0.12,
+    "y": 0.104,
+    "z": 0.115,
+    "unit": "m"
+  },
+  "triangles": 128,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-leaf-wrapped-zongzi-01/v1.0.0/model.glb",
+      "size": 13336,
+      "sha256": "a64b49b924a3ba19c7fcda82f7d37fadf94b7d33d2dd8c74f52d95733ad7bc55"
+    },
+    "blend": {
+      "path": "assets/festival/festival-leaf-wrapped-zongzi-01/v1.0.0/source.blend",
+      "size": 542568,
+      "sha256": "61170d6030308d2bbca3b2838dca68497be044ee5cf45c07d84c63b34156da3a"
+    },
+    "generator": {
+      "path": "assets/festival/festival-leaf-wrapped-zongzi-01/v1.0.0/generate.py",
+      "size": 30217,
+      "sha256": "cae12e1c9e828fd3e4dd43b594d559f0f7e4dc19d07ec118e39dc5d274624e83"
+    },
+    "render": {
+      "path": "assets/festival/festival-leaf-wrapped-zongzi-01/v1.0.0/thumbnail.png",
+      "size": 485427,
+      "sha256": "282b9796cae0348befee8b08524d329cccb81b7efe13c4b6c2ee9ce33ed6aa4e"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

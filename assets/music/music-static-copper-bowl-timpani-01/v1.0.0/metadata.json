@@ -1,0 +1,42 @@
+{
+  "id": "music-static-copper-bowl-timpani-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "music",
+  "style": "S01-clean-geometric",
+  "title": "Copper Bowl Timpani",
+  "description": "One original complete static low-poly kettle drum. A deep faceted copper bowl has a continuous thick closed-bottom shell and genuine enclosed air chamber under a separate full finite-thickness parchment-coloured head. A raised silver annular counterhoop frames the head, with six restrained stepped fixed tuning-head shapes. Three complete splayed legs meet finite head-underhang seats outside the bowl and rest on three broad flat pads. Fifteen editable closed connected meshes, four opaque constant untextured PBR materials, one prop and zero scenes. Metres are game-space proportions; native Z up, front -Y, centre-of-drum ground origin. All numeric shape geometry is newly authored, no copied drum-kit shell, mixing bowl, stockpot or tripod, no recolour or rescaled variant. One fixed visual pose only: no sound, pitch, musical tuning, working tension mechanism, adjustable head, membrane physics, pedal, animation, playable dimensions, ergonomic fit, load capacity, stability, manufacture, installation compatibility or safety certification. The sealed bowl chamber is checked geometrically and is not visible through the head. No mallets, player, scene, labels or texture.",
+  "bounds": {
+    "x": 1.175,
+    "y": 1.179493,
+    "z": 0.958,
+    "unit": "m"
+  },
+  "triangles": 1416,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/music/music-static-copper-bowl-timpani-01/v1.0.0/model.glb",
+      "size": 76284,
+      "sha256": "19b3b544a5d7424d97b8068f8c329451dd565af155c860b085369cbfe55300ef"
+    },
+    "blend": {
+      "path": "assets/music/music-static-copper-bowl-timpani-01/v1.0.0/source.blend",
+      "size": 667604,
+      "sha256": "cbbfa60952dae5d6042b9c1a8c81d9efc9ef437abad2742a091777b25bebb241"
+    },
+    "generator": {
+      "path": "assets/music/music-static-copper-bowl-timpani-01/v1.0.0/generate.py",
+      "size": 31928,
+      "sha256": "82b42d42731430fcc5032e3615c27343bd51e99a7fd1030e624a236eeaf41516"
+    },
+    "render": {
+      "path": "assets/music/music-static-copper-bowl-timpani-01/v1.0.0/thumbnail.png",
+      "size": 532450,
+      "sha256": "afddc70f5267e30d21b957696f2f4cd1655faeef1327fb9d9866e8d2535aa0d1"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

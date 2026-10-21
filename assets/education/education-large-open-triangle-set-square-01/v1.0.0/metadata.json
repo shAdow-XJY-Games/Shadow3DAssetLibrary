@@ -1,0 +1,42 @@
+{
+  "id": "education-large-open-triangle-set-square-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "education",
+  "style": "S01-clean-geometric",
+  "title": "Large Open-Triangle Teaching Set Square",
+  "description": "One original large static classroom set-square visual prop, counted as one whole prop. An isosceles right-triangle outline encloses a genuine matching triangular through aperture. The single continuous 18 mm thick ochre ring has complete upper and lower annular faces, three outer thickness walls and three full inner aperture walls. Twenty-four separate closed dark solid ticks sit in complete opposed surface contact along the two perpendicular outer edges; alternating longer and shorter marks are editable three-dimensional geometry, never a texture or decal. The entire ring underside forms the finite grounded sole. Twenty-five closed editable meshes, three constant opaque untextured PBR materials. Metres, native Z up, front -Y, horizontal bounds-centred ground origin. All geometry newly authored, with no existing ruler, woodwork tool, matching board, alidade or scale imported, recoloured or resized. One prop, zero scenes. Static illustrative appearance only: no certified angle or dimensional accuracy, graduation units, measurement or calibration, instructional outcome, age suitability, material or manufacture, physical handling, loading, mounting compatibility or safety claim. No numerals, text, logos, texture, furniture, hand, animated mechanism or alternative state.",
+  "bounds": {
+    "x": 0.72,
+    "y": 0.72,
+    "z": 0.0204,
+    "unit": "m"
+  },
+  "triangles": 312,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/education/education-large-open-triangle-set-square-01/v1.0.0/model.glb",
+      "size": 34576,
+      "sha256": "57b07bb2b93214dce1a9b8a0ba20129d3cba21fe5762973ff838ecb76d06e827"
+    },
+    "blend": {
+      "path": "assets/education/education-large-open-triangle-set-square-01/v1.0.0/source.blend",
+      "size": 635828,
+      "sha256": "44cd53b8d8edf5145e80616acf94a95439d49c7ee5939b853b8b145cff0cab97"
+    },
+    "generator": {
+      "path": "assets/education/education-large-open-triangle-set-square-01/v1.0.0/generate.py",
+      "size": 28388,
+      "sha256": "3c8049a3f8a8fd0edce90b323ba05c18ccb90f339c094251d3923eb55acc1d48"
+    },
+    "render": {
+      "path": "assets/education/education-large-open-triangle-set-square-01/v1.0.0/thumbnail.png",
+      "size": 464936,
+      "sha256": "a4307f3e9da7c3251b9704d1c7bf9d0d8aa4fcc14870d2bde2b5190cbfe42fc9"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

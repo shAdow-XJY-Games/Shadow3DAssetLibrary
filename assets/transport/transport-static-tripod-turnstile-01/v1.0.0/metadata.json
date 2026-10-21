@@ -1,0 +1,42 @@
+{
+  "id": "transport-static-tripod-turnstile-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "transport",
+  "style": "S01-clean-geometric",
+  "title": "Station Tripod Turnstile",
+  "description": "One original complete static station tripod turnstile. A narrow waist-height stainless-look cabinet stands on one finite grounded plinth. A contrasting raised top cap carries a real raised fare-reader housing and separate turquoise scan surface. A short supported axle seat and faceted hub carry three separately editable capped octagonal tubular arms: one horizontal across the lane and two pointing down in opposite fore-and-aft directions. All three arms have complete finite opposed root contacts and genuine open surrounding clearance. Ten separately editable closed connected meshes, four opaque constant untextured PBR materials, one prop and zero scenes. Metres are stylized game-space coordinates, native Z up, front -Y and floor datum Z=0. Newly authored numeric cabinet and tripod geometry; no earlier gate, ticket booth, scanner, wheel, sheave, winch or barrier model is reused, renamed, rescaled or recoloured. The reader and hub are fixed visual forms only. No animation, rotating mechanism, access-control logic, ticket validation, payment processing, locked/unlocked state, crowd-control effectiveness, installation, accessibility, egress, engineering precision, manufacturing, structural stability or public-safety claim. No people, floor scene, gate row, external texture, branding or text.",
+  "bounds": {
+    "x": 1.17,
+    "y": 1.14,
+    "z": 1.157,
+    "unit": "m"
+  },
+  "triangles": 184,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/transport/transport-static-tripod-turnstile-01/v1.0.0/model.glb",
+      "size": 17224,
+      "sha256": "63d7383d13ca9da116b74f19a58892104e38fdb4d2603841220095d14c4f1033"
+    },
+    "blend": {
+      "path": "assets/transport/transport-static-tripod-turnstile-01/v1.0.0/source.blend",
+      "size": 575572,
+      "sha256": "c821a81d06b3a6bdff56c2ff6684d93985c3e1a652714087cca52ea80a7d4b26"
+    },
+    "generator": {
+      "path": "assets/transport/transport-static-tripod-turnstile-01/v1.0.0/generate.py",
+      "size": 31221,
+      "sha256": "6b6a05c427b10982b27177099d6e0b07b0c8cbb7d95ced5730aa78cd68a23427"
+    },
+    "render": {
+      "path": "assets/transport/transport-static-tripod-turnstile-01/v1.0.0/thumbnail.png",
+      "size": 519749,
+      "sha256": "9fa37a6511069459d7cd88ddb9736c46db6d2e5de7ee501226287d95e8733f42"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
