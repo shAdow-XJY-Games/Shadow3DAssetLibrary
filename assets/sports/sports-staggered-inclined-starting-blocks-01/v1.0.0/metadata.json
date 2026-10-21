@@ -1,0 +1,42 @@
+{
+  "id": "sports-staggered-inclined-starting-blocks-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Staggered Inclined Starting Blocks",
+  "description": "One original athletics starting-block visual prop. A continuous narrow centre rail carries two offset one-piece lateral saddles, each with a whole finite wedge support and a genuinely inclined full-thickness pedal; the left and right pedals occupy different longitudinal positions and use distinct fixed slopes. Each pedal is one connected manifold with integrated contrasting surface bands, not overlaid plates. Two end pads provide broad ground soles. Nine closed editable meshes, four opaque constant untextured PBR materials; one whole prop and zero scenes. Metres, Z up, facing -Y, ground Z=0. All model geometry newly authored; no old slant-board, hurdle, vise, clamp or rowing-machine geometry. Fixed stylised display only: no moving adjustment, release, athlete suitability, traction, force response, timing, load, installation, manufacture, competition regulation, Olympic affiliation, athletics certification or safety claim. No athlete, track, text, logo, texture or animation.",
+  "bounds": {
+    "x": 0.52,
+    "y": 1.1,
+    "z": 0.396523,
+    "unit": "m"
+  },
+  "triangles": 236,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-staggered-inclined-starting-blocks-01/v1.0.0/model.glb",
+      "size": 20656,
+      "sha256": "9b7abe62c9b7f1de48575065b52388af9ca0c26140e9539ea147c28d4dec9fbb"
+    },
+    "blend": {
+      "path": "assets/sports/sports-staggered-inclined-starting-blocks-01/v1.0.0/source.blend",
+      "size": 573712,
+      "sha256": "afeedb19d50d75d051869848ab8aee500d7261f8b44f88b158b149ced55a6d7f"
+    },
+    "generator": {
+      "path": "assets/sports/sports-staggered-inclined-starting-blocks-01/v1.0.0/generate.py",
+      "size": 31779,
+      "sha256": "d0284a38b63edb643edc557c33e09b205861efbee633e144270bcc778d6dff90"
+    },
+    "render": {
+      "path": "assets/sports/sports-staggered-inclined-starting-blocks-01/v1.0.0/thumbnail.png",
+      "size": 470760,
+      "sha256": "b01d96fc11d15ae981dd18210c10e63afe367d3478d9ffd4956174dbb5cc8bfc"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

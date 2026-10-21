@@ -1,0 +1,42 @@
+{
+  "id": "sports-inclined-pool-starting-platform-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "sports",
+  "style": "S01-clean-geometric",
+  "title": "Inclined Pool Starting Platform",
+  "description": "One original static swimming-pool starting platform visual prop: a broad forward-inclined takeoff deck with integral blue top surface, two arch-legged sculpted side support frames, an elevated rear approach tread, a front U-shaped handgrip and four broad ground pads. Nine closed connected editable meshes and four constant opaque untextured PBR materials. One complete prop, zero scenes; metres, Z up, front -Y, ground Z=0. Entirely new numeric geometry. Static stylised display only: no sporting-event certification, competition regulation, load, grip performance, wet-use suitability, safety, manufacture, installation, adjustability or functional mechanism claim. No swimmer, water, pool building, logo, texture, text or animation.",
+  "bounds": {
+    "x": 0.7,
+    "y": 1.02,
+    "z": 0.795,
+    "unit": "m"
+  },
+  "triangles": 204,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/sports/sports-inclined-pool-starting-platform-01/v1.0.0/model.glb",
+      "size": 17680,
+      "sha256": "087d9815640f262b2dedf12c2aa3a371d4f30e1b40b0a9b2f9535df7e3dce72a"
+    },
+    "blend": {
+      "path": "assets/sports/sports-inclined-pool-starting-platform-01/v1.0.0/source.blend",
+      "size": 571812,
+      "sha256": "d19660cc5da8a1361ce26196042a936765c159d77ca7dabc4570a315841a2b06"
+    },
+    "generator": {
+      "path": "assets/sports/sports-inclined-pool-starting-platform-01/v1.0.0/generate.py",
+      "size": 31427,
+      "sha256": "09fc519fd562fa871db84d62964d6d4330b09eb216cff472c4dc4ebc4b34f7e0"
+    },
+    "render": {
+      "path": "assets/sports/sports-inclined-pool-starting-platform-01/v1.0.0/thumbnail.png",
+      "size": 483563,
+      "sha256": "eaeee33a23b50403c436a5888a090e90122c1a3e85720edb603af9031042512a"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

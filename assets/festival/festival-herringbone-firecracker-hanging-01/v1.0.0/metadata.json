@@ -1,0 +1,42 @@
+{
+  "id": "festival-herringbone-firecracker-hanging-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "S01-clean-geometric",
+  "title": "Herringbone Firecracker Hanging Decoration",
+  "description": "One complete original low-poly Lunar New Year firecracker-inspired hanging decoration, counted as one static prop. Eight sealed red decorative tubes fan down in paired herringbone rows from one continuous branching crimson hanging ribbon. Each thick closed tube has integral gold-colored end bands and solid gold caps; a diamond-shaped topper with raised diamond centre and a tapering tassel complete the one connected visual assembly. Ten closed editable meshes share three opaque constant PBR materials. Metres, native Z up, front -Y, horizontal bounds-centred bottom datum. Entirely new numeric shape; no lantern, light string, food gift or imported model supplies its geometry. Static non-functional decorative representation only, with no explosive composition, fuse, ignition, fire, smoke, particles, animation, physics, sound, construction instructions, performance, cultural precision or safety certification. No real firework is represented as operational. Dimensions describe game geometry only.",
+  "bounds": {
+    "x": 0.382,
+    "y": 0.086,
+    "z": 1.26,
+    "unit": "m"
+  },
+  "triangles": 948,
+  "materials": 3,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-herringbone-firecracker-hanging-01/v1.0.0/model.glb",
+      "size": 54708,
+      "sha256": "f402a273005c7faf4f8e67f3e83cb8e3e05a6a398648a3ec89232369534e9aed"
+    },
+    "blend": {
+      "path": "assets/festival/festival-herringbone-firecracker-hanging-01/v1.0.0/source.blend",
+      "size": 594200,
+      "sha256": "f164824458a2e26fbc8b6893265b2aefb1bbdcc303b3dbd2bf798dfc70e66ace"
+    },
+    "generator": {
+      "path": "assets/festival/festival-herringbone-firecracker-hanging-01/v1.0.0/generate.py",
+      "size": 30393,
+      "sha256": "c6061b611905500c24a7bb676ea1172022764775a4532ac8d81cb9265fefefd9"
+    },
+    "render": {
+      "path": "assets/festival/festival-herringbone-firecracker-hanging-01/v1.0.0/thumbnail.png",
+      "size": 500713,
+      "sha256": "1536fd1560b0825787de96ccf4f1e69dea25fa8e8963b4a737ea9f6478298e93"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

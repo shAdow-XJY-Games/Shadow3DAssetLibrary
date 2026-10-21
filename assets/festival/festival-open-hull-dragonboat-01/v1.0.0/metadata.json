@@ -1,0 +1,42 @@
+{
+  "id": "festival-open-hull-dragonboat-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "S01-clean-geometric",
+  "title": "Open-Hull Festival Dragonboat",
+  "description": "One original complete static low-poly dragonboat-inspired festival prop. A long slender red hull has a continuous thick closed material shell, broad flat dry-display bottom, tapered full end decks, a genuinely open timber-coloured hold and an integral gold-coloured rim. Five complete transverse seat boards rest on both full finite side-rim seats. A newly authored green dragon neck and head rises from the bow end deck, with an integral forked crest, long upper snout, lower jaw and a true open mouth. Two raised octagonal eyes with separate dark pupils are seated on both full side faces. One complete upward-swept dragon tail rests on the stern end deck. Twelve closed named editable meshes with five opaque constant untextured PBR materials. One complete prop and zero scenes; head, tail, eyes, seats, colours and formats do not increase the model count. Metres, native Z up, long X axis, dragon bow +X, viewing front -Y and full-bounds-centred horizontal ground origin. All numeric model geometry is newly authored; no work skiff, launch scene, fractured hull or boat-shaped weaving shuttle is imported, sliced, recoloured, rescaled or duplicated. No oars, drum, crew, water, rig, animation, writing, logo or surroundings. A stylized fixed game-art appearance only: no historical reconstruction, ceremonial authenticity, racing dimensions, seating suitability, navigation, rowing, buoyancy, flotation, seaworthiness, watertightness, load, strength, stability, installation, manufacture, mechanism, physical simulation or safety certification claim. The wider festival and dragonboat families remain partial.",
+  "bounds": {
+    "x": 6.08,
+    "y": 0.88,
+    "z": 1.58,
+    "unit": "m"
+  },
+  "triangles": 360,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-open-hull-dragonboat-01/v1.0.0/model.glb",
+      "size": 28764,
+      "sha256": "a140d86239c666b18747a0b2196c490a61cd611b0fc9d3d25d9f98bdf11069c3"
+    },
+    "blend": {
+      "path": "assets/festival/festival-open-hull-dragonboat-01/v1.0.0/source.blend",
+      "size": 619036,
+      "sha256": "0de98f7c16402fc6494e48f28670059bce10763ae0052e82d5eaf9298b05f354"
+    },
+    "generator": {
+      "path": "assets/festival/festival-open-hull-dragonboat-01/v1.0.0/generate.py",
+      "size": 34726,
+      "sha256": "c88da7fbfd0b65ab393340ab804501419f69b8c3089941af1a6ec548df3fc92c"
+    },
+    "render": {
+      "path": "assets/festival/festival-open-hull-dragonboat-01/v1.0.0/thumbnail.png",
+      "size": 494511,
+      "sha256": "f1580b033ab97e3786391fd2e97262cffc9b15dbab9df5d9a0a3a8b2c69eba38"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "festival-holly-leaf-christmas-wreath-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "festival",
+  "style": "S01-clean-geometric",
+  "title": "Serrated Holly Christmas Wreath",
+  "description": "One original complete static Christmas wreath prop. One continuous thick leafy annulus has twelve newly drawn directional serrated holly motifs around a genuine open middle, alternating deep and soft green facets and a warm woody back. A single complete red ribbon bow with notched twin tails attaches at the upper ring, with one gold centre tie and three red octagonal berry decorations on the lower right. Six editable closed connected meshes and five opaque constant untextured PBR materials. The entire leafy ring, ribbon silhouette and berry shapes are newly authored numeric geometry; no existing leaf, vine, wheel, ornament or ring model is imported, recoloured, scaled or renamed. Repeating leaf motifs and berries are parts of one assembled prop, not new model counts. One prop and zero scenes. Native Z up, front -Y, game-space metres, origin at the lower flat wreath edge. Complete finite ring aperture and opposed decoration contacts are checked on actual exported geometry. Fixed stylised decorative display only, no animation, rig, text, textures, door, wall, scene, working hanging system, physical stability, attachment load, manufacture, installation or safety certification. The open middle remains clear through the full depth.",
+  "bounds": {
+    "x": 1.381274,
+    "y": 0.23,
+    "z": 1.42402,
+    "unit": "m"
+  },
+  "triangles": 640,
+  "materials": 5,
+  "files": {
+    "glb": {
+      "path": "assets/festival/festival-holly-leaf-christmas-wreath-01/v1.0.0/model.glb",
+      "size": 37680,
+      "sha256": "d880313a60b906fe655501ea8e7f5e7287047b96fb89fda0d25c55f78ef13f5e"
+    },
+    "blend": {
+      "path": "assets/festival/festival-holly-leaf-christmas-wreath-01/v1.0.0/source.blend",
+      "size": 603492,
+      "sha256": "4957b00c6fe3ca2d31096330e8dfa67d609f4be0ad9c7db3c9bc26efdc616427"
+    },
+    "generator": {
+      "path": "assets/festival/festival-holly-leaf-christmas-wreath-01/v1.0.0/generate.py",
+      "size": 31921,
+      "sha256": "21f1ecbaa9b080f4c8800a679e5fefb18912d17d4fbd3af33f5ef025087daa7a"
+    },
+    "render": {
+      "path": "assets/festival/festival-holly-leaf-christmas-wreath-01/v1.0.0/thumbnail.png",
+      "size": 538389,
+      "sha256": "f43ac764e37052af77119fe67e50b4500cc88de8d572396ff3d6ec48e1a9ce8d"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "office-open-throat-desktop-stapler-01",
+  "version": "1.0.0",
+  "category": "props",
+  "assetKind": "prop",
+  "theme": "office",
+  "style": "S01-clean-geometric",
+  "title": "Open-Throat Desktop Stapler",
+  "description": "One original low-poly desktop stapler visual prop for office and school scenes. A full rubber-style sole supports a low bevel-profile base, with a real grooved clincher anvil at the front and an integral raised transverse rear hinge cradle. A long tapered blue upper shell rests on that cradle; a one-piece thick U-section steel-style magazine has a genuine open front and complete interior staple channel above a wide empty throat. Six closed separately editable meshes, four opaque constant untextured PBR materials. One whole prop, zero scenes. Metres, Z up, front -Y, ground Z=0. Geometry authored specifically for this object; no previous tool or office assembly imported. Fixed visual only: no moving mechanism, stapling, paper capacity, staple fit, force, manufacture, installation, durability, school suitability or safety claim. No text, logo, paper, staple contents, textures or animation.",
+  "bounds": {
+    "x": 0.05,
+    "y": 0.179,
+    "z": 0.06,
+    "unit": "m"
+  },
+  "triangles": 180,
+  "materials": 4,
+  "files": {
+    "glb": {
+      "path": "assets/office/office-open-throat-desktop-stapler-01/v1.0.0/model.glb",
+      "size": 15180,
+      "sha256": "90b68c690d72a64bea8f04241cfd8f4d1739b157e1f91f5803e5eb0467df8447"
+    },
+    "blend": {
+      "path": "assets/office/office-open-throat-desktop-stapler-01/v1.0.0/source.blend",
+      "size": 555436,
+      "sha256": "60e7a4c749250d0a7049b624b71ec532b8c2cf0c70a28d8cf206618856492d4b"
+    },
+    "generator": {
+      "path": "assets/office/office-open-throat-desktop-stapler-01/v1.0.0/generate.py",
+      "size": 32032,
+      "sha256": "7dfcf9028028d2a25d46226959ea3583e32501a784eba6b2896fdb5cc94656a2"
+    },
+    "render": {
+      "path": "assets/office/office-open-throat-desktop-stapler-01/v1.0.0/thumbnail.png",
+      "size": 475447,
+      "sha256": "ed68df2d3dfc9896e374d34c0d5db9f685894524322b7e07bf2bef5222fa3ba8"
+    }
+  },
+  "status": "verified",
+  "license": "All rights reserved"
+}
