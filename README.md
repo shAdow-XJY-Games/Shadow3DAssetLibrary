@@ -21,6 +21,8 @@
 
 后续统一目录更新属于 Shadow3DAssetGallery，新资产属于 Shadow3DAssetLibrary02；不要继续向第一卷追加资产，或用第二卷的局部目录替换全局目录。网页开发与当前发布说明请查阅网页仓 README。保留的历史 schema 说明中涉及旧 `docs/` 网页模块或 `gallery/` 工具的段落属于当时的实现记录，不再作为本卷现行运行命令。
 
-## Rights
+## License and rights
 
-All original project source, models and artwork: All rights reserved. Public visibility and download access are not an open-source or asset reuse license. Obtain separate permission before reuse.
+Original material in this repository owned by shAdow-XJY Games is licensed under the [MIT License](LICENSE), including original project code, documentation, models and artwork where present. The license applies only to rights shAdow-XJY Games can grant. Third-party material retains its own applicable terms and notices; its presence or public availability does not establish permission to reuse it. Provenance and licensing of individual third-party materials have not been comprehensively verified; check their applicable terms before use.
+
+Historical asset metadata may state “All rights reserved”. Those immutable historical statements remain for provenance; the MIT permission in this repository now applies to qualifying original content owned by shAdow-XJY Games. Third-party material and material for which the project cannot grant rights remain subject to their own terms.
